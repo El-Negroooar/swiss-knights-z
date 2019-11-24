@@ -1,0 +1,13 @@
+main:
+  - title: "Allgemeines :eyes:"
+    url: /general/
+  - title: "Glossar :paperclips:"
+    url: /glossary/
+  - title: " :point_up: Guide"
+    url: /guide/
+  - title: " :jack_o_lantern: Sitemap"
+    url: /sitemap/
+  - title: " :question: FAQ"
+    url: /faq/
+  - title: " :chart_with_upwards_trend: Statistiken"
+    url: /stats/

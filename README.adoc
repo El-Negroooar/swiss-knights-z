@@ -1,0 +1,13 @@
+Dies ist eine Community Dokumentation der Swiss Knight Z Allianz.
+
+## Contributing
+
+Um am Guide mitzuwirken, gibt es Vielzahl an Optionen. Für alle Optionen benötigt es einen GitHub Account.
+
+### Methode 1: Repository Klon
+
+Das Repository klonen und einen Pull Request erstellen. :smile:
+
+### Methode 2: Collaborator werden
+
+Der Repository Owner kann dich als Mitwirkenden eintragen. Wir arbeiten je nach Fertigkeit direkt auf den master Branch oder auf separaten feature Branches. Es sollte einfach bleiben, da wir von ausgehen, dass nicht jeder ein hohes Know How von git, respektive GitHub hat.
