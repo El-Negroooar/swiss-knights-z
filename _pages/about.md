@@ -24,7 +24,7 @@ Swiss Knight Z ist eine Allianz für das Spiel Zero City.
 
 Die Mitglieder könnt ihr via [Allianz Raum]({{ site.el-negroooar | append:"/rooms/alliance-hall" }}) einsehen.
 
-![Alliance Members]({{ site.El-negroooar | append:"/assets/images/alliance/members.png" }})
+![Alliance Members]({{ site.el-negroooar | append:"/assets/images/alliance/members.png" }})
 
 ## Zweck
 
