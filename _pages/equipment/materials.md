@@ -24,28 +24,28 @@ Zerlegt man diese Gegenstände erhält man die Essenz die zum Schmieden und Hers
 
 Graue Essenzen sind gewöhnlich.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/production/common.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/production/common.png" }})
 
 ## Ungewöhnlich
 
 Grüne Essenzen sind ungewöhnlich.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/production/uncommon.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/production/uncommon.png" }})
 
 ## Selten
 
 Blaue Essenzen sind rar.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/production/rare.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/production/rare.png" }})
 
 ## Episch
 
 Lila Essenzen sind episch.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/production/epic.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/production/epic.png" }})
 
 ## Legendär
 
 Orange Essenzen sind Legendär.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/production/legendary.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/production/legendary.png" }})

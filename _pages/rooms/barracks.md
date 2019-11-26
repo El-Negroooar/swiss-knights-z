@@ -8,7 +8,7 @@ toc: true
 - Stationiere deine Soldaten in der Kaserne.
 - Zusammen bilden die Soldaten einen Trupp der sowohl beim Überfall als auch zur Verteidigung deiner Basis genutzt wird.
 - Die Anzahl der möglichen Soldaten ist abhängig vom Ausbau-Level deiner Kaserne.
-- Die Kaserne hat Einfluss auf die [Arena]({{ site.ht201 | append:"/pvp/arena" }}) Teilnahme.
+- Die Kaserne hat Einfluss auf die [Arena]({{ site.el-negroooar | append:"/pvp/arena" }}) Teilnahme.
 
 ## Ausbau Stufen
 

@@ -6,7 +6,7 @@ toc: true
 
 Die Kommandozentrale ist das Herzstück deiner Zuflucht. Sie bestimmt welche Räume du bauen kannst.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/rooms/command-center-zoom.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/rooms/command-center-zoom.png" }})
 
 ## Ausbau-Stufen
 
@@ -23,13 +23,13 @@ Die Kommandozentrale ist das Herzstück deiner Zuflucht. Sie bestimmt welche Rä
 |   9   | 3'600'000 | 1'500'000 |         - |  4d   |
 |  10   | 5'400'000 | 4'000'000 | 1'800'000 |  6d   |
 
-Mit einem [Premium Account]({{ site.ht201 | append:"/in-app/premium-account/" }}) verringert sich die Bauzeit um 25 %.
+Mit einem [Premium Account]({{ site.el-negroooar | append:"/in-app/premium-account/" }}) verringert sich die Bauzeit um 25 %.
 Für Level 10 wäre die Bauzeit: 4 Tage und 12 Stunden anstatt 6 Tage.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/rooms/command-center-costs.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/rooms/command-center-costs.png" }})
 
 ## Zufluchtseditor
 
 Über die Kommandozentrale bekommst du den Menüpunkt zum Zufluchtseditor. Damit kannst du Räume verbinden und wieder trennen um separate Upgrades zu erledigen.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/rooms/command-center.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/rooms/command-center.png" }})

@@ -4,4 +4,4 @@ title: "Kampagne - Story"
 toc: true
 ---
 
-![Zero City]({{ site.ht201 | append:"/assets/images/campaign.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/campaign.png" }})

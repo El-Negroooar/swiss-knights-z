@@ -25,7 +25,7 @@ Es gibt andere Zufluchtsorte. Diese kannst du ausrauben um deine eigenen Ressour
 
 Du kannst Spieler nur überfallen, wenn diese nicht eingeloggt sind. Folgende Meldung verhindert deinen Raubüberfall.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/fight/user-online.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/fight/user-online.png" }})
 
 Du kannst dich mit der Methode aber nicht permanent schützen. Bist du insgesamt länger als 6 Stunden im Spiel gewesen, bist du automatisch für die nächsten 24 Stunden Freiwild - unabhängig ob du eingeloggt bist oder nicht.
 
@@ -39,11 +39,11 @@ Hat man ein potentielles Ziel gefunden, wird mit Nahrung der Überfall bezahlt. 
 
 Mit dem erfolgreichen Überfall werden wir mit Ressourcen belohnt. Hat man einen Premium-Account bekommt man gratis noch extra Ressourcen.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/fight/raid-reward-1.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/fight/raid-reward-1.png" }})
 
 Bei Spielern mit einer Giesserei erhält man auch Stahl-Ressourcen.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/fight/raid-reward-2.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/fight/raid-reward-2.png" }})
 
 Versuche sofort die gewonnenen Ressourcen aufzubrauchen, damit du nicht selbst Opfer eines Überfalls wirst.
 

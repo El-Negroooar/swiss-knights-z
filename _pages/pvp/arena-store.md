@@ -4,19 +4,19 @@ title: "Arena Laden"
 toc: true
 ---
 
-Einer der vielen Gründe, warum viele Spieler der Arena beitreten, ist, dass der Arena-Shop legendäre Gegenstände, :package: [Mehrzweck-Waffen]({{ site.ht201 | append:"/equipment/multi-devices" }}) und Elite Truhen verkauft.
+Einer der vielen Gründe, warum viele Spieler der Arena beitreten, ist, dass der Arena-Shop legendäre Gegenstände, :package: [Mehrzweck-Waffen]({{ site.el-negroooar | append:"/equipment/multi-devices" }}) und Elite Truhen verkauft.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/arena/store.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/arena/store.png" }})
 
 Du kannst Gegenstände im Arena-Shop mit den Arena-Chips kaufen. Arena-Chips sind deine Belohnungen nach der Teilnahme an Massakern - Arena Schaukämpfen.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/arena/store-legendary.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/arena/store-legendary.png" }})
 
-Legendäre Gegenstände erscheinen im Shop, sobald dein [Traningsraum]({{ site.ht201 | append:"/rooms/gym/" }}) Level 6 erreicht hat oder wenn alle deine Kämpfer der Level 40 Turnierrunde beitreten.
+Legendäre Gegenstände erscheinen im Shop, sobald dein [Traningsraum]({{ site.el-negroooar | append:"/rooms/gym/" }}) Level 6 erreicht hat oder wenn alle deine Kämpfer der Level 40 Turnierrunde beitreten.
 
 Obwohl die Preise zu hoch sind, ist es immer noch ein guter Ort, um einige legendäre Gegenstände zu bekommen. Diese Killer Axt mit Flächenschaden in Kombination mit Teleport, macht den Hinterhalt für deine Gegner zum Alptraum. Reanimation wird nochmal gekontert, indem der Schaden verstärkt wird.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/arena/legendary-equipment.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/arena/legendary-equipment.png" }})
 
 Der Vorteil im Arena-Laden ist einfach. Du weisst was du ungefähr bekommst. Das Herstellen von legendären Gegenständen, im Gegensatz dazu, ist eher Glücksspiel.
 
@@ -24,13 +24,13 @@ Der Vorteil im Arena-Laden ist einfach. Du weisst was du ungefähr bekommst. Das
 
 Hier gibt es nur eine theoretische Chance einen legendären Gegenstand zu erhalten.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/arena/aggressor-crate.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/arena/aggressor-crate.png" }})
 
 ## Sondereinheits-Kiste
 
 Die Sondereinheitskiste ist die teuerste unter den drei genannten, da sie dir die Möglichkeit gibt, mehrere legendäre Gegenstände zu bekommen.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/arena/special-forces-crate.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/arena/special-forces-crate.png" }})
 
 - Diese Truhe garantiert Dir mindestens zwei legendäre Gegenstände.
 - Nur die Chancen, etwa 2 bis 4 legendäre Gegenstände aus der Truhe zu bekommen, sind unterschiedlich.

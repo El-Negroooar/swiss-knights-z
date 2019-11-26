@@ -25,21 +25,21 @@ Zufallsvariante nach Equipment
 
 ### Fernkampf
 
-![Zero City]({{ site.ht201 | append:"/assets/images/fight/team-77/ranger-1.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/fight/team-77/ranger-1.png" }})
 
-![Zero City]({{ site.ht201 | append:"/assets/images/fight/team-77/ranger-2.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/fight/team-77/ranger-2.png" }})
 
 ### Support
 
-![Zero City]({{ site.ht201 | append:"/assets/images/fight/team-77/chemist.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/fight/team-77/chemist.png" }})
 
 ### Nahkampf
 
-![Zero City]({{ site.ht201 | append:"/assets/images/fight/team-77/infantry-1.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/fight/team-77/infantry-1.png" }})
 
-![Zero City]({{ site.ht201 | append:"/assets/images/fight/team-77/infantry-2.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/fight/team-77/infantry-2.png" }})
 
-![Zero City]({{ site.ht201 | append:"/assets/images/fight/team-77/infantry-3.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/fight/team-77/infantry-3.png" }})
 
 ## Team-Variante 2
 
@@ -62,18 +62,18 @@ Zufallsvariante nach Equipment
 
 ### Fernkampf
 
-![Zero City]({{ site.ht201 | append:"/assets/images/fight/team-77/ranger-a.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/fight/team-77/ranger-a.png" }})
 
-![Zero City]({{ site.ht201 | append:"/assets/images/fight/team-77/ranger-b.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/fight/team-77/ranger-b.png" }})
 
-![Zero City]({{ site.ht201 | append:"/assets/images/fight/team-77/ranger-c.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/fight/team-77/ranger-c.png" }})
 
 ### Support
 
-![Zero City]({{ site.ht201 | append:"/assets/images/fight/team-77/chemist-d.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/fight/team-77/chemist-d.png" }})
 
 ### Nahkampf
 
-![Zero City]({{ site.ht201 | append:"/assets/images/fight/team-77/infantry-e.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/fight/team-77/infantry-e.png" }})
 
-![Zero City]({{ site.ht201 | append:"/assets/images/fight/team-77/infantry-f.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/fight/team-77/infantry-f.png" }})

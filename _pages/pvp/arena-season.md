@@ -6,7 +6,7 @@ toc: true
 
 Wenn Du zu den hundert besten Arenakämpfern gehörst, wirst Du mit einer Deluxe Arena Kiste belohnt. 
 
-![Zero City]({{ site.ht201 | append:"/assets/images/arena/best-arena-crate.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/arena/best-arena-crate.png" }})
 
 In der Regel haben Spieler der Level-100-Turniergruppe mehr Chancen, einen Platz in der Turnierleitung zu bekommen.
 

@@ -4,11 +4,11 @@ title: "Pimp My Gear"
 toc: true
 ---
 
-Mit der [Tech Zentrale]({{ site.ht201 | append:"/rooms/tech-center" }}) ergeben sich neue Möglichkeiten.
+Mit der [Tech Zentrale]({{ site.el-negroooar | append:"/rooms/tech-center" }}) ergeben sich neue Möglichkeiten.
 
 ## Materialien
 
-Die notwendigen Materialien bekommst aus dem [Bahnhofsraubzug]({{ site.ht201 | append:"/pvp/railway-raid/" }}) und Tages-Quests.
+Die notwendigen Materialien bekommst aus dem [Bahnhofsraubzug]({{ site.el-negroooar | append:"/pvp/railway-raid/" }}) und Tages-Quests.
 
 - Chips - Werden zur Verbesserung der Ausrüstung verwendet.
 - Komponenten - Wird zur Verbesserung von Chips verwendet.
@@ -31,7 +31,7 @@ Es gibt folgende Mikrochip Typen
 
 Mikrochips in den jeweiligen Farben haben entsprechende Werte.
 
-Das Aufwerten von Mikrochips ist sehr teuer. Mehr dazu steht in der [Tech Zentrale]({{ site.ht201 | append:"/rooms/tech-center" }}).
+Das Aufwerten von Mikrochips ist sehr teuer. Mehr dazu steht in der [Tech Zentrale]({{ site.el-negroooar | append:"/rooms/tech-center" }}).
 
 ## Komponenten
 
@@ -45,11 +45,11 @@ Es gibt folgende Komponenten.
 - Lila Komponenten
 - Orange Komponenten
 
-Komponenten können aus Essenzen hergestellt werden. Siehe dazu Recycling in der [Tech Zentrale]({{ site.ht201 | append:"/rooms/tech-center" }}).
+Komponenten können aus Essenzen hergestellt werden. Siehe dazu Recycling in der [Tech Zentrale]({{ site.el-negroooar | append:"/rooms/tech-center" }}).
 
 ## Entwürfe
 
-Entwürfe erhöhen die Wahrscheinlichkeit Mikrochips zu verschmelzen. Dies ist ein Aufwertungsvorgang (siehe auch [Tech Zentrale]({{ site.ht201 | append:"/rooms/tech-center" }})).
+Entwürfe erhöhen die Wahrscheinlichkeit Mikrochips zu verschmelzen. Dies ist ein Aufwertungsvorgang (siehe auch [Tech Zentrale]({{ site.el-negroooar | append:"/rooms/tech-center" }})).
 
 ## Ausrüstung
 

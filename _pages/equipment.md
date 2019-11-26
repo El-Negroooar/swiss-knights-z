@@ -16,12 +16,12 @@ In Arbeit :construction:
 
 Ausrüstung für folgende Berufe:
 
-- [Koch]({{ site.ht201 | append:"/profession/chef" }})
-- [Buchhalter]({{ site.ht201 | append:"/profession/accountant" }})
-- [Schreiner]({{ site.ht201 | append:"/profession/carpenter" }})
-- [Forscher]({{ site.ht201 | append:"/profession/scientist" }})
-- [Ingenieur]({{ site.ht201 | append:"/profession/engineer" }})
-- [Metallurge]({{ site.ht201 | append:"/profession/metallurgist" }})
+- [Koch]({{ site.el-negroooar | append:"/profession/chef" }})
+- [Buchhalter]({{ site.el-negroooar | append:"/profession/accountant" }})
+- [Schreiner]({{ site.el-negroooar | append:"/profession/carpenter" }})
+- [Forscher]({{ site.el-negroooar | append:"/profession/scientist" }})
+- [Ingenieur]({{ site.el-negroooar | append:"/profession/engineer" }})
+- [Metallurge]({{ site.el-negroooar | append:"/profession/metallurgist" }})
 
 ## Ausrüstung für Militär
 
@@ -30,7 +30,7 @@ Benutze die besten Waffen und die richtigen Rüstungen in jeder möglichen Situa
 - Schütze
 - Chemiker
 - Infanterist
-- :package: [Mehrzweck-Waffen]({{ site.ht201 | append:"/equipment/multi-devices" }})
+- :package: [Mehrzweck-Waffen]({{ site.el-negroooar | append:"/equipment/multi-devices" }})
 
 ## Ausrüstung verwenden
 

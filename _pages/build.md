@@ -8,7 +8,7 @@ Bauen ist ein essentieller Bestandteil des Spiels. Eine gute Basis kann der ents
 
 ## Räume
 
-Im Spiel gibt es unterschiedliche [Räume]({{ site.ht201 | append:"/rooms" }}) zu bauen. Jeder Raum erfordert aufgrund Level und Grösse eine gewisse Mengen an Ressourcen :dollar::door::wrench: und Bauzeit :clock1:.
+Im Spiel gibt es unterschiedliche [Räume]({{ site.el-negroooar | append:"/rooms" }}) zu bauen. Jeder Raum erfordert aufgrund Level und Grösse eine gewisse Mengen an Ressourcen :dollar::door::wrench: und Bauzeit :clock1:.
 
 ### Ressourcen Kosten
 
@@ -27,12 +27,12 @@ Um die Bau- und Renovierungszeit erheblich zu verkürzen, schicke während des B
 Je mehr Menschen Sie in den Raum kommen, desto schneller geht der Bau-Prozess und die eigentliche Zeit wird verkürzt.
 {: .notice--success}
 
-Die Bauzeit kann zusätzlich mit einem [Premium-Account]({{ site.ht201 | append:"/in-app/premium-account" }}) verkürzt werden. Jedoch ist dieser kostenpflichtig.
+Die Bauzeit kann zusätzlich mit einem [Premium-Account]({{ site.el-negroooar | append:"/in-app/premium-account" }}) verkürzt werden. Jedoch ist dieser kostenpflichtig.
 {: .notice--warning}
 
 Im unteren Bild sieht Ihr die Bauzeit für die Verbesserung des Wohnzimmers: 18 Stunden und 31 Minuten.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/shelter/build-time.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/shelter/build-time.png" }})
 
 Ein Raum kann mit Bezahlen von :moneybag: beschleunigt werden.
 
@@ -49,7 +49,7 @@ Je mehr Builder man hat, ist man flexibler im Bauen und kann seine eigenen Verlu
 
 ## Verbesserungen
 
-Mit jeder Verbesserung oder Upgrade der [Kommandozentrale]({{ site.ht201 | append:"/rooms/command-center" }}),
+Mit jeder Verbesserung oder Upgrade der [Kommandozentrale]({{ site.el-negroooar | append:"/rooms/command-center" }}),
 können andere Räume gebaut und **verbessert** werden.
 
 Bei den Produktionsstätten wie
@@ -67,7 +67,7 @@ Sind Räume verbunden, können Sie einfacher verwaltet werden. Für das Upgrade 
 Die Kosten sind pro Raum geringer. Dein Kontostand bleibt niedrig und du bist damit für Raubzüge und Überfällen von anderen Spielern unattraktiv.
 Sollte es zu einem erfolgreichen Überfall kommen, hast Du nicht viele Ressourcen verloren. Im unteren Bild seht ihr ein solchen Überfall. Der Ressourcen-Verlust hält sich in Grenzen :joy:.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/fight/lost-defense.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/fight/lost-defense.png" }})
 
  Würde man für den gesamten Raum die erforderlichen Ressourcen zusammen sparen, dauert dies seine Zeit und setzt sich dem Risko eines Überfall aus.
 
@@ -78,4 +78,4 @@ Den Raumeditor kann man auch aktivieren, wenn ein Raum lang genug gedrückt blei
 
 Oben hab ihr bereits getrennt Wohnzimmer gesehen. Dies ist mit Hilfe von unterschiedlichen Level möglich. Man kann andere Räume als Lückenfüller verwenden. Im unteren Bild seht ihr getrennte Räume zum Sägewerk mit der Schreinerwerkstatt als Trenner. Eine Etage tiefer seht ihr den verbundenen Chemieraum.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/shelter/merged-and-divided.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/shelter/merged-and-divided.png" }})

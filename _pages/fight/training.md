@@ -4,21 +4,21 @@ title: "Training"
 toc: true
 ---
 
-Dein Militär ist die wichtigste Komponente im diesen Spiel. Eine starke Truppe, dient sowohl zum Angriff, als auch zur Verteidigung der Basis. Soldaten können ihr Level durch Training steigern. Das Trainig ist der wichtigste Schlüsselfaktor zum Erfolg. Bilde deine Kämpfer im [Trainingsraum]({{ site.ht201 | append:"/rooms/gym" }}) aus.
+Dein Militär ist die wichtigste Komponente im diesen Spiel. Eine starke Truppe, dient sowohl zum Angriff, als auch zur Verteidigung der Basis. Soldaten können ihr Level durch Training steigern. Das Trainig ist der wichtigste Schlüsselfaktor zum Erfolg. Bilde deine Kämpfer im [Trainingsraum]({{ site.el-negroooar | append:"/rooms/gym" }}) aus.
 
 ## Ausbildung
 
-Die Ausbildung deiner Soldaten hat Einfluss auf die [Arena]({{ site.ht201 | append:"/pvp/arena" }})-Teilnahme! Beachte dabei, dass du nicht versehentlich in eine höhere Gruppe kommst.
+Die Ausbildung deiner Soldaten hat Einfluss auf die [Arena]({{ site.el-negroooar | append:"/pvp/arena" }})-Teilnahme! Beachte dabei, dass du nicht versehentlich in eine höhere Gruppe kommst.
 
 ### Soldaten
 
-Verwende immer [Bewohner]({{ site.ht201 | append:"/people" }}) mit vollem Potential (5 Sterne). Nur diese können als Soldaten das :100: Level erreichen.
+Verwende immer [Bewohner]({{ site.el-negroooar | append:"/people" }}) mit vollem Potential (5 Sterne). Nur diese können als Soldaten das :100: Level erreichen.
 
 Notfalls müssen Bewohner (3-4 Sterne) herhalten. Das Ausbilden ist ziemlich zeit intensiv. Vermeide die Zeitverschwendung und bilde gleich von Anfang an nur deine Rockstars aus. Ansonsten wird es teuer, wenn das Potential mit Münzen erweitert wird.
 
 ### Trainingszeit
 
-In früheren Level ist der [Zombie-Assistent]({{ site.ht201 | append:"/zombie-assistant" }}) hilfreich. Ab Level 71 ist er nicht mehr notwendig, da die Ausbildungsdauer sehr hoch ist und jeweils nach Tagen erst das Kampf-Training bestätigt werden muss.
+In früheren Level ist der [Zombie-Assistent]({{ site.el-negroooar | append:"/zombie-assistant" }}) hilfreich. Ab Level 71 ist er nicht mehr notwendig, da die Ausbildungsdauer sehr hoch ist und jeweils nach Tagen erst das Kampf-Training bestätigt werden muss.
 
 - Beachte und wähle den richtigen Zeitpunkt um deine Soldaten auszubilden!
 - Ein Kämpfer mit höheren Level können dazu führen, dass du in die nächste Arena Gruppierung gelangst. Da du wahrscheinlich dort erst am Anfang bist, sind alle signifikant stärker als Du.
@@ -38,7 +38,7 @@ In früheren Level ist der [Zombie-Assistent]({{ site.ht201 | append:"/zombie-as
 - Die Trainingszeiten siehst du auch in der Ausbildungsansicht.
 - Das Training kann gegen Coins beschleunigt werden.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/fight/gym-training.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/fight/gym-training.png" }})
 
 Im obigen Bild, siehst du die Ausbildungszeit von Level 71 auf Level 72 (71+1) :wink:. Insgesamt sind es 18 Stunden. Die verbleibende Zeit ist 17 Stunden und 50 Minuten bei der Momentaufnahme.
 
@@ -66,8 +66,8 @@ Zeiten ab Level 70-85 und 85-100:
 
 Achte darauf, dass du immer eine Reserve von Kämpfer im Trainingsraum lässt, auch wenn du eine volle Kaserne hast. Im Trainingsraum kannst du maximal 2 Bewohner gleichzeitig trainieren. Behalte für deine Reserve die zweite Garnitur an Ausrüstung. Ausgerüste Kämpfer die weiterhin im Traningsraum bleiben, bauen ihre Fertigkeiten und Stufen weiter auf.
 
-Eine Reserve an Kämpfer zu haben ist sehr nützlich. Wenn du deine [Kommandozentrale]({{ site.ht201 | append:"/rooms/command-center" }}) aufrüstest und Platz in deiner [Kaserne]({{ site.ht201 | append:"/rooms/barracks" }}) hast, kannst du automatisch den trainierten Kämpfer bereitstellen. Zum Anderen kannst du bereits im [Allianzkrieg]({{ site.ht201 | append:"/pvp/allywar" }}) deine Reserve verwenden. Diese Reserve kann ausschlagebend sein.
+Eine Reserve an Kämpfer zu haben ist sehr nützlich. Wenn du deine [Kommandozentrale]({{ site.el-negroooar | append:"/rooms/command-center" }}) aufrüstest und Platz in deiner [Kaserne]({{ site.el-negroooar | append:"/rooms/barracks" }}) hast, kannst du automatisch den trainierten Kämpfer bereitstellen. Zum Anderen kannst du bereits im [Allianzkrieg]({{ site.el-negroooar | append:"/pvp/allywar" }}) deine Reserve verwenden. Diese Reserve kann ausschlagebend sein.
 
-Die Kaserne unterstützt auf der höchsten Stufe (Level 6) sechs Kämpfer. Halte **mindestens** eine Reserve von 2 weiteren Kämpfern ein. Durch die weiteren zwei austrainierten Kämpfer, kannst du somit stärkere Kämpfer gegen schwache in der Kaserne austauschen. Wird der [Traningsraum]({{ site.ht201 | append:"/rooms/gym/" }}) verbessert, reduziert deine Reserve die Bauzeit.
+Die Kaserne unterstützt auf der höchsten Stufe (Level 6) sechs Kämpfer. Halte **mindestens** eine Reserve von 2 weiteren Kämpfern ein. Durch die weiteren zwei austrainierten Kämpfer, kannst du somit stärkere Kämpfer gegen schwache in der Kaserne austauschen. Wird der [Traningsraum]({{ site.el-negroooar | append:"/rooms/gym/" }}) verbessert, reduziert deine Reserve die Bauzeit.
 
 Wir haben die Erfahrung gemacht, dass jeweils die richtige Truppen-Zusammensetzung, gegen unterschiedliche Gegner und Formationen Stärken und Schwächen haben. Mit deiner Reserve kannst du etwas flexibler sein, da z.B. du jeweils deinen Trupp an den Gegner anpassen kannst.

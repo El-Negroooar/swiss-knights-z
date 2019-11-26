@@ -6,7 +6,7 @@ toc: true
 
 Zero City ist eine _Simulation_, in der das Überleben der Menschheit nach einer Zombie Apokalypse von Zufluchtsorten abhängt.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/zero-city-official-image.jpg" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/zero-city-official-image.jpg" }})
 
 Du übernimmst das Kommando über eine Zuflucht in der neuen Welt!
 
@@ -14,7 +14,7 @@ Du übernimmst das Kommando über eine Zuflucht in der neuen Welt!
 
 Wer Hustle Castle kennt, dem wird Zero City nicht fremd vorkommen.
 
-![Hustle Castle]({{ site.ht201 | append:"/assets/images/hustle-castle.jpg" }})
+![Hustle Castle]({{ site.el-negroooar | append:"/assets/images/hustle-castle.jpg" }})
 
 Zero City wurde von Hustle Castle _inspiriert_ :wink:. Es sind identische Spielprinzipien.
 
@@ -31,5 +31,5 @@ Diese Elemente erwarten dich im Spiel:
 
 ## Unsere Allianz
 
-- [Swiss Knights Z]({{ site.ht201 | append:"/about" }})
-- [Kommunikation innerhalb der Allianz]({{ site.ht201 | append:"/communication" }})
+- [Swiss Knights Z]({{ site.el-negroooar | append:"/about" }})
+- [Kommunikation innerhalb der Allianz]({{ site.el-negroooar | append:"/communication" }})

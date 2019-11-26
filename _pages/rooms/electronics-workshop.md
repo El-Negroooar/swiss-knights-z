@@ -6,7 +6,7 @@ toc: true
 
 In der Elektronikwerkstatt werden Armbänder und Geräte für Militäreinsätze hergestellt.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/rooms/electronics-workshop.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/rooms/electronics-workshop.png" }})
 
 ## Ausbau-Stufen
 

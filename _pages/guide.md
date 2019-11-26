@@ -8,9 +8,9 @@ in Arbeit :construction: ...
 
 ## Fortschritt
 
-* [Low Profile]({{ site.ht201 | append:"/guides/low-profile/" }})
+* [Low Profile]({{ site.el-negroooar | append:"/guides/low-profile/" }})
 
 ## Ausrüstung
 
-* [Legendäre Ausrüstung]({{ site.ht201 | append:"/guides/legendary-items/" }})
-* [Pimp My Gear]({{ site.ht201 | append:"/guides/pimp-my-gear/" }})
+* [Legendäre Ausrüstung]({{ site.el-negroooar | append:"/guides/legendary-items/" }})
+* [Pimp My Gear]({{ site.el-negroooar | append:"/guides/pimp-my-gear/" }})

@@ -150,7 +150,7 @@ Die Rechnung ist recht einfach:
 
 ### Beispiel 1
 
-Folgendes Beispiel erläutert den Fall von der [Kampfgruppe 62]({{ site.ht201 | append:"/fight/team-62" }}).
+Folgendes Beispiel erläutert den Fall von der [Kampfgruppe 62]({{ site.el-negroooar | append:"/fight/team-62" }}).
 
 | Soldaten  | Level |
 | --------- | ----- |
@@ -167,7 +167,7 @@ Somit wird der Trupp zur Kampfgruppe 62 zugeordnet.
 
 ### Beispiel 2
 
-Ein Beispiel für [Gruppe 77]({{ site.ht201 | append:"/fight/team-77" }})
+Ein Beispiel für [Gruppe 77]({{ site.el-negroooar | append:"/fight/team-77" }})
 
 | Soldaten  | Level |
 | --------- | ----- |
@@ -202,5 +202,5 @@ Wir wissen es nicht. Wären aber dankbar, wenn das jemand ausprobieren könnte. 
 
 ## Beispiele
 
-- [Gruppe 62]({{ site.ht201 | append:"/fight/team-62" }})
-- [Gruppe 77]({{ site.ht201 | append:"/fight/team-77" }})
+- [Gruppe 62]({{ site.el-negroooar | append:"/fight/team-62" }})
+- [Gruppe 77]({{ site.el-negroooar | append:"/fight/team-77" }})

@@ -11,8 +11,8 @@ Du kannst eine kostenlose Truhe bekommen, sobald du genügend Quests-Punkte gesa
 - Das Entsperren der obersten Stufe der besten Truhe setzt die Stufenstufe der nächsten Truhe auf die niedrigste Stufe zurück.
 - Die höchstrangige Truhe kann dir ein Stück vom legendären Gegenstand geben.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/quests/daily-quests-complete.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/quests/daily-quests-complete.png" }})
 
 Im unteren Bild siehst du die Belohnungen.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/quests/daily-quests-reward.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/quests/daily-quests-reward.png" }})

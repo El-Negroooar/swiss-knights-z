@@ -6,7 +6,7 @@ toc: true
 
 Das Tech Center ist der Ort, an dem Du alle Deine technische Arbeiten durchführst. Die Baukosten betragen nur 10'000 :dollar:.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/rooms/tech-center.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/rooms/tech-center.png" }})
 
 Der Raum verändert das gesamte Gameplay auf folgende Weise:
 
@@ -50,11 +50,11 @@ Der Raum verändert das gesamte Gameplay auf folgende Weise:
 
 Das Aufwerten des Mikrochips kostet Komponenten. Mit Max wird automatisch die notwendige Anzahl an Komponenten zum Aufwerten verwendet.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/tech/improve-common.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/tech/improve-common.png" }})
 
 Hast du zwei dieser Sorte, kannst du beide Mikrochips Verschmelzen. Du erhälst aus 2 grauen Mikrochips einen grünen Mikrochip.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/tech/merge-common.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/tech/merge-common.png" }})
 
 - Wie du im Bild erkennen kannst, ist die Erfolgschance 99%. Der Misserfolg ist damit unwahrscheinlich.
 - Der ganze Vorgang kostet dich 500'000 :dollar:.
@@ -63,18 +63,18 @@ Hast du zwei dieser Sorte, kannst du beide Mikrochips Verschmelzen. Du erhälst 
 
 Das Aufwerten von grünen Mikrochips ist identisch. Nur die erforderliche Geldsumme ist höher.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/tech/improve-uncommon.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/tech/improve-uncommon.png" }})
 
 Das Verschmelzen von grünen Mikrochips führt zu einem blauen Mikrochip.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/tech/merge-uncommon.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/tech/merge-uncommon.png" }})
 
 - Wie du im Bild erkennen kannst, ist die Erfolgschance nur 70% !
 - Der ganze Vorgang kostet dich 1'500'000 :dollar: :scream:.
 
 Mit Hilfe von Entwürfe kannst du die Erfolgschancen steigern wie z.B. bei dem Entwurf.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/tech/draft.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/tech/draft.png" }})
 
 ### Gesamt
 
@@ -92,12 +92,12 @@ Folgende Tabelle enthält die Kosten für die Aufwertung (Upgrade) und die Versc
 
 Essenzen können zu Komponenten recyclet werden. Auch orangefarbene legendäre Essenzen können dafür verwendet werden!
 
-![Zero City]({{ site.ht201 | append:"/assets/images/tech/recycle-materials.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/tech/recycle-materials.png" }})
 
 - Das Recycling muss mengenabhängig mit Geld bezahlt werden.
 - Das Recycling von Essenzen zu Komponenten braucht Zeit und kann beschleunigt werden, indem man Ingenieure in den Raum setzt.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/tech/speed-up-recycling.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/tech/speed-up-recycling.png" }})
 
 Eine Übersicht der Recycling Massnahmen.
 

@@ -8,7 +8,7 @@ Der Premium Account ist ein zeitliches Abo, der mehrere Benefits mitbringt gegen
 
 Zum Spielen von Zero City ist es nicht notwendig.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/premium-protection.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/premium-protection.png" }})
 
 ## Benefits
 

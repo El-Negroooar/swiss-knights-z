@@ -23,7 +23,7 @@ Der Raubzug ist ab Kommandozentrale Level 8 verfügbar.
   3. x Münzen abhängig vom Level der Kommandozentrale
   4. ernsthaft? Du hast noch nicht genug? :wink:
 
-![Zero City]({{ site.ht201 | append:"/assets/images/quests/railway-raid.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/quests/railway-raid.png" }})
 
 Wenn du Bahnhofsraubzug bestreitest, wirst du aufgefordert
 
@@ -33,7 +33,7 @@ Wenn du Bahnhofsraubzug bestreitest, wirst du aufgefordert
 - Dein Raubzug besteht bis zu 20 Gegnern.
 - Je mehr Gegner du bezwingst, desto besser wird deine Belohnung.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/quests/railway-raid-rules.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/quests/railway-raid-rules.png" }})
 
 ## Soldaten
 
@@ -72,19 +72,19 @@ Sobald du deine Truppe bestätigt hast, kannst du ihre Ausrüstung nicht mehr an
 
 #### Ridd
 
-![Zero City]({{ site.ht201 | append:"/assets/images/mercenaries/ridd.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/mercenaries/ridd.png" }})
 
 #### Torrence
 
-![Zero City]({{ site.ht201 | append:"/assets/images/mercenaries/torrence.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/mercenaries/torrence.png" }})
 
 #### Eric Deadwood
 
-![Zero City]({{ site.ht201 | append:"/assets/images/mercenaries/eric-deadwood.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/mercenaries/eric-deadwood.png" }})
 
 #### Jacques
 
-![Zero City]({{ site.ht201 | append:"/assets/images/mercenaries/jacques.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/mercenaries/jacques.png" }})
 
 ### Support
 
@@ -99,33 +99,33 @@ Sobald du deine Truppe bestätigt hast, kannst du ihre Ausrüstung nicht mehr an
 
 #### Finn
 
-![Zero City]({{ site.ht201 | append:"/assets/images/mercenaries/finn.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/mercenaries/finn.png" }})
 
 #### Vic Toria
 
-![Zero City]({{ site.ht201 | append:"/assets/images/mercenaries/vic-toria.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/mercenaries/vic-toria.png" }})
 
 #### Einfach Mitch
 
-![Zero City]({{ site.ht201 | append:"/assets/images/mercenaries/einfach-mitch.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/mercenaries/einfach-mitch.png" }})
 
 #### Elin
 
-![Zero City]({{ site.ht201 | append:"/assets/images/mercenaries/elin.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/mercenaries/elin.png" }})
 
 #### Mark Ransen
 
-![Zero City]({{ site.ht201 | append:"/assets/images/mercenaries/mark-ransen.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/mercenaries/mark-ransen.png" }})
 
 #### Romp
 
-![Zero City]({{ site.ht201 | append:"/assets/images/mercenaries/romp.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/mercenaries/romp.png" }})
 
 ### Ranger
 
 Hier gibt es momentan nur einen Söldner.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/mercenaries/alastor-di.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/mercenaries/alastor-di.png" }})
 
 | Name       | Level | Kosten |
 | ---------- | -----:| ------:|
@@ -136,7 +136,7 @@ Hier gibt es momentan nur einen Söldner.
 - Während deines Raubzuges kämpfst du eine Serie von 20 Schlachten mit (allgemein) zunehmender Schwierigkeit.
 - Jeder Kampf findet gegen die Truppe eines anderen Spielers statt, aber im Gegensatz zur Arena erfordern die Kämpfe nicht, dassdein Gegner das Spiel interaktiv spielt.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/quests/railway-raid-series.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/quests/railway-raid-series.png" }})
 
 ### Vorbereitung
 
@@ -163,8 +163,8 @@ Hier gibt es momentan nur einen Söldner.
 - Du kannst deinen Raubzug jederzeit beenden.
 - Nach Beendigung der Serie endet der Raubzug automatisch.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/quests/railway-raid-complete.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/quests/railway-raid-complete.png" }})
 
 Am Ende erhälst du deine Belohnung. Die Kiste hat garantierte und potentielle Belohnungen. Batterien können im Laden zum Kaufen von weiteren Gegenständen eingesetzt werden.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/quests/railway-raid-chest.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/quests/railway-raid-chest.png" }})

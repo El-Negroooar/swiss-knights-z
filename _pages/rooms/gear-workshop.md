@@ -9,7 +9,7 @@ In Arbeit :construction:
 
 In der Ausrüstungs-Werkstatt werden Rüstungen für Militäreinsätze hergestellt.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/rooms/gear-workshop.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/rooms/gear-workshop.png" }})
 
 ## Ausbau-Stufen
 

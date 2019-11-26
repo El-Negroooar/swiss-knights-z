@@ -6,7 +6,7 @@ toc: true
 
 Im Trainingsraum werden deine Soldaten ausgebildet.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/rooms/gym.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/rooms/gym.png" }})
 
 Tipps:
 
@@ -33,4 +33,4 @@ Um den Trainingsraum zu verbessern, bedarf es Ressourcen und dem richtigen Level
 
 ## Trainings-Zeiten
 
-Siehe :muscle: [Traningszeiten]({{ site.ht201 | append:"/fight/training/#trainingszeit" }})
+Siehe :muscle: [Traningszeiten]({{ site.el-negroooar | append:"/fight/training/#trainingszeit" }})

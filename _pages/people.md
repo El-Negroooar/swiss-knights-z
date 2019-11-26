@@ -4,7 +4,7 @@ title: "Bewohner"
 toc: true
 ---
 
-Diese Seite widmet sich dem Herzstück deiner Basis, die Überlebenden der Zombie Apokalypse! Abhängig von der Grösse deines Wohnzimmers hast du nur eine limitierte Bevölkerungsgrösse. Um diese zu erweitern, muss du das [Wohnzimmer]({{ site.ht201 | append:"/rooms/living-room" }}) und ggf. die [Kommandozentrale]({{ site.ht201 | append:"/rooms/command-center" }}) verbessern.
+Diese Seite widmet sich dem Herzstück deiner Basis, die Überlebenden der Zombie Apokalypse! Abhängig von der Grösse deines Wohnzimmers hast du nur eine limitierte Bevölkerungsgrösse. Um diese zu erweitern, muss du das [Wohnzimmer]({{ site.el-negroooar | append:"/rooms/living-room" }}) und ggf. die [Kommandozentrale]({{ site.el-negroooar | append:"/rooms/command-center" }}) verbessern.
 
 ## Potential
 
@@ -24,7 +24,7 @@ Es gibt die Möglichkeit, fehlendes Potential durch Zukauf zu erwerben. Wir empf
 
 1 bis 2-Sterne-Charaktere sind nicht ideal, sie sind schwach und sie bringen keinen echten Mehrwert für die Basis. Du solltest nur Bewohner mit hohen Sternen behalten. Verbanne low level Bewohner (siehe unten). Diese sind schnell am Limit.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/shelter/potential-2.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/shelter/potential-2.png" }})
 
 Am Anfang können diese auch die Bauzeit von Räumen reduzieren, sind jedoch langfristig in der Ausbildung zeitlich eine Vergeudung. Sie sind auf jeden Fall besser als Nichts.
 
@@ -34,23 +34,23 @@ Bewohner mit Potential von 1-2 taugen minimal als Metallurgen, da die maximale S
 
 Was ist eigentlich mit den Durchschnittstypen die 3 bis 4-Sterne haben? Diese sind durchaus brauchbar, in der Ressourcen Produktion (Nahrung, Geld, etc.) oder als Überbrückung, bis man die Rockstars hat. Nicht jeder Einwohner muss 5 Sterne Potential haben, daher situationsbedingt behalten.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/shelter/potential-3.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/shelter/potential-3.png" }})
 
 In-Game kommen desöfteren Angebote/Rabatte wenn diese auf Level 5 angehoben werden sollen. Unsere Meinung: Kann man sich sparen. Mit jedem höheren Level wird es teurer.
 
 Das Upgrade von 2 zu 3 ist recht moderat.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/shelter/upgrade-potential-3.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/shelter/upgrade-potential-3.png" }})
 
 Das Upgrade von 4 auf 5 ist Horror :scream:
 
-![Zero City]({{ site.ht201 | append:"/assets/images/shelter/upgrade-potential-5.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/shelter/upgrade-potential-5.png" }})
 
 ### Rockstars
 
 Nur 5-Sterne-Charaktere können das Level :100: als Kämpfer erreichen. Obwohl dies Zeit und Geduld erfordert, lohnt es sich auf jeden Fall.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/shelter/potential-5.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/shelter/potential-5.png" }})
 
 ## Neue Einwohner
 
@@ -64,15 +64,15 @@ Um Rockstar-Babies :baby: zu erhalten braucht man biologisch
 - :man: Mann mit 5 Sternen
 - :woman: Frau mit 5 Sternen
 
-Diese werden ins [Wohnzimmer]({{ site.ht201 | append:"/rooms/living-room" }}) geschickt und den Rest überlasse ich eurer Fantasie.
+Diese werden ins [Wohnzimmer]({{ site.el-negroooar | append:"/rooms/living-room" }}) geschickt und den Rest überlasse ich eurer Fantasie.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/rooms/living-room.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/rooms/living-room.png" }})
 
 ### Schwangerschaft
 
 Nach der Schwangerschaft und Geburt, erfährt man erst beim volljährigen Geburtstag :birthday: das tatsächliche Potential des neuen Einwohners.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/shelter/birthday.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/shelter/birthday.png" }})
 
 Es gibt keine Garantie, dass man 5 Sterne Bewohner bekommt, jedoch ist es im Rahmen des Möglichen und Wahrscheinlichen. Es besteht auch bei ein Paar von 5 Sternen, dass 1er und 2er Potentiale kommen. Probiere es erneut. Verbanne und tausche deine Basis Bevölkerung mit 5 Sterne Einwohner nach und nach aus. Meine beste Serie war 3 5er Bewohner nacheinander.
 
@@ -97,11 +97,11 @@ Tip:
 
 Am Anfang des Spiels ist dies einer der besseren Alternativen. Für jedes erfolgreich absolvierte Level im Tunnel erhält man Marken, die im Arenaladen eingetauscht werden können. Unter anderem auch neue Bewohner.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/tunnel/store.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/tunnel/store.png" }})
 
 Einwohner haben hier ein garantiertes Potential von 3-5. Nach zehn Versuchen sollte man mindestens zwei 5er Bewohner haben :wink:.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/tunnel/random-resident.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/tunnel/random-resident.png" }})
 
 ### Vorteile
 
@@ -119,12 +119,12 @@ Du kannst Einwohner in zivile und militärischen Funktion einsetzen.
 
 ### Basis-Produktion
 
-- [Koch]({{ site.ht201 | append:"/profession/chef" }})
-- [Buchhalter]({{ site.ht201 | append:"/profession/accountant" }})
-- [Schreiner]({{ site.ht201 | append:"/profession/carpenter" }})
-- [Forscher]({{ site.ht201 | append:"/profession/scientist" }})
-- [Ingenieur]({{ site.ht201 | append:"/profession/engineer" }})
-- [Metallurge]({{ site.ht201 | append:"/profession/metallurgist" }})
+- [Koch]({{ site.el-negroooar | append:"/profession/chef" }})
+- [Buchhalter]({{ site.el-negroooar | append:"/profession/accountant" }})
+- [Schreiner]({{ site.el-negroooar | append:"/profession/carpenter" }})
+- [Forscher]({{ site.el-negroooar | append:"/profession/scientist" }})
+- [Ingenieur]({{ site.el-negroooar | append:"/profession/engineer" }})
+- [Metallurge]({{ site.el-negroooar | append:"/profession/metallurgist" }})
 
 ### Militär
 
@@ -136,7 +136,7 @@ Du kannst Einwohner in zivile und militärischen Funktion einsetzen.
 
 Um einen Einwohner zu verbannen, klickt man auf das Menu neben den Namen.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/shelter/banish-resident.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/shelter/banish-resident.png" }})
 
 ## Zusammenfassung
 

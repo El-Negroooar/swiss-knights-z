@@ -8,27 +8,27 @@ Dies ist die Einstiegseite zur Arena. In der Arena trittst du gegen andere Spiel
 
 ## Regeln
 
-![Zero City]({{ site.ht201 | append:"/assets/images/arena/rules.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/arena/rules.png" }})
 
 ## Ablauf
 
-![Zero City]({{ site.ht201 | append:"/assets/images/arena/waiting.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/arena/waiting.png" }})
 
 ### Gruppen-Zuweisung
 
-[Gruppen]({{ site.ht201 | append:"/pvp/arena-groups" }})
+[Gruppen]({{ site.el-negroooar | append:"/pvp/arena-groups" }})
 
 ### Entscheidende Sieges-Faktoren
 
-- [Equipment]({{ site.ht201 | append:"/equipment" }})
-- [Strategie]({{ site.ht201 | append:"/pvp/arena-strategy" }})
+- [Equipment]({{ site.el-negroooar | append:"/equipment" }})
+- [Strategie]({{ site.el-negroooar | append:"/pvp/arena-strategy" }})
 
 ### Ergebnisse
 
-![Zero City]({{ site.ht201 | append:"/assets/images/arena/results.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/arena/results.png" }})
 
 ### Belohnung
 
-![Zero City]({{ site.ht201 | append:"/assets/images/arena/reward.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/arena/reward.png" }})
 
-![Zero City]({{ site.ht201 | append:"/assets/images/arena/chest.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/arena/chest.png" }})

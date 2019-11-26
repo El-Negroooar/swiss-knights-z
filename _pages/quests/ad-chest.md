@@ -14,12 +14,12 @@ Diese Art von Truhe gibt Dir die Möglichkeit, einen legendären Gegenstand zu b
 
 Folgende Kiste ist bereit zum Öffnen und du siehst mögliche Belohnungen.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/quests/ad-chest.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/quests/ad-chest.png" }})
 
 Alle 5 Anzeigen sind voll.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/quests/ad-chest-complete.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/quests/ad-chest-complete.png" }})
 
 Die Belohnungen nach dem Öffnen.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/quests/ad-chest-reward.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/quests/ad-chest-reward.png" }})

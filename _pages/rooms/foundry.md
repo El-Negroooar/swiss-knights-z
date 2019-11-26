@@ -6,7 +6,7 @@ toc: true
 
 In der Giesserei produzierst du Stahl für deinen Basis-Ausbau.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/rooms/foundry.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/rooms/foundry.png" }})
 
 Bilde Metallurgen aus in der Schmiede aus um deine Produktion zu erhöhen.
 

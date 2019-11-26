@@ -8,57 +8,57 @@ Finde was dein Herz begehrt.
 
 ## PvP
 
-* :crown: [Arena]({{ site.ht201 | append:"/pvp/arena/" }})
-  * [Massaker]({{ site.ht201 | append:"/pvp/massacre/" }}) &rArr; [Strategie]({{ site.ht201 | append:"/pvp/arena-strategy/" }})
-  * [Gruppen]({{ site.ht201 | append:"/pvp/arena-groups/" }})
-  * :house: [Arena-Laden]({{ site.ht201 | append:"/pvp/arena-store/" }})
-* :circus_tent: [Allianz-Kriege]({{ site.ht201 | append:"/pvp/allywar/" }})
+* :crown: [Arena]({{ site.el-negroooar | append:"/pvp/arena/" }})
+  * [Massaker]({{ site.el-negroooar | append:"/pvp/massacre/" }}) &rArr; [Strategie]({{ site.el-negroooar | append:"/pvp/arena-strategy/" }})
+  * [Gruppen]({{ site.el-negroooar | append:"/pvp/arena-groups/" }})
+  * :house: [Arena-Laden]({{ site.el-negroooar | append:"/pvp/arena-store/" }})
+* :circus_tent: [Allianz-Kriege]({{ site.el-negroooar | append:"/pvp/allywar/" }})
 
 ## Basis Management
 
-* :house: [Basis]({{ site.ht201 | append:"/shelter" }})
-* :construction: [Bauen]({{ site.ht201 | append:"/build" }})
-* :door: [Räume]({{ site.ht201 | append:"/rooms" }})
-* :couple: [Bewohner]({{ site.ht201 | append:"/people" }})
-* [Ressourcen]({{ site.ht201 | append:"/resources" }})
-  * :hamburger: [Essen]({{ site.ht201 | append:"/resources/food" }})
-  * :dollar: [Geld]({{ site.ht201 | append:"/resources/money" }})
-  * :door: [Holz]({{ site.ht201 | append:"/resources/wood" }})
-  * :pill: [Chemikalien]({{ site.ht201 | append:"/resources/chemicals" }})
-  * :wrench: [Stahl]({{ site.ht201 | append:"/resources/steel" }})
+* :house: [Basis]({{ site.el-negroooar | append:"/shelter" }})
+* :construction: [Bauen]({{ site.el-negroooar | append:"/build" }})
+* :door: [Räume]({{ site.el-negroooar | append:"/rooms" }})
+* :couple: [Bewohner]({{ site.el-negroooar | append:"/people" }})
+* [Ressourcen]({{ site.el-negroooar | append:"/resources" }})
+  * :hamburger: [Essen]({{ site.el-negroooar | append:"/resources/food" }})
+  * :dollar: [Geld]({{ site.el-negroooar | append:"/resources/money" }})
+  * :door: [Holz]({{ site.el-negroooar | append:"/resources/wood" }})
+  * :pill: [Chemikalien]({{ site.el-negroooar | append:"/resources/chemicals" }})
+  * :wrench: [Stahl]({{ site.el-negroooar | append:"/resources/steel" }})
 
 ## Militär
 
-* [Kommando-Zentrale]({{ site.ht201 | append:"/rooms/command-center" }})
-* [Kampf]({{ site.ht201 | append:"/fight" }})
-  * :european_castle: [Kaserne]({{ site.ht201 | append:"/rooms/barracks/" }})
-  * :muscle: [Traning]({{ site.ht201 | append:"/fight/training/" }}) &rArr; :hand: [Traningsraum]({{ site.ht201 | append:"/rooms/gym/" }})
-  * [Squad Formationen]({{ site.ht201 | append:"/fight/formation" }})
-  * :punch: [Angriff und Raubzüge]({{ site.ht201 | append:"/fight/attack" }})
-  * [Verteidigung]({{ site.ht201 | append:"/fight/defense" }}) &rArr; [Waffenkammer]({{ site.ht201 | append:"/fight/arsenal/" }})
-  * :hospital: [Krankenhaus]({{ site.ht201 | append:"/rooms/hospital" }})
-* [Ausrüstung]({{ site.ht201 | append:"/equipment" }})
-  * :gift_heart: [Qualität und Essenzen]({{ site.ht201 | append:"/equipment/materials" }})
-  * :gun: [Waffen und Tools]({{ site.ht201 | append:"/equipment/weapons" }})
-  * :shirt: [Rüstungen]({{ site.ht201 | append:"/equipment/armor" }})
-  * :ring: [Armbänder]({{ site.ht201 | append:"/equipment/bracelets" }})
-  * :iphone: [Geräte]({{ site.ht201 | append:"/equipment/devices" }})
-  * :package: [Mehrzweck-Waffen]({{ site.ht201 | append:"/equipment/multi-devices" }})
-  * :hammer: [Ausrüstung in Eigenbau]({{ site.ht201 | append:"/equipment/craft" }})
+* [Kommando-Zentrale]({{ site.el-negroooar | append:"/rooms/command-center" }})
+* [Kampf]({{ site.el-negroooar | append:"/fight" }})
+  * :european_castle: [Kaserne]({{ site.el-negroooar | append:"/rooms/barracks/" }})
+  * :muscle: [Traning]({{ site.el-negroooar | append:"/fight/training/" }}) &rArr; :hand: [Traningsraum]({{ site.el-negroooar | append:"/rooms/gym/" }})
+  * [Squad Formationen]({{ site.el-negroooar | append:"/fight/formation" }})
+  * :punch: [Angriff und Raubzüge]({{ site.el-negroooar | append:"/fight/attack" }})
+  * [Verteidigung]({{ site.el-negroooar | append:"/fight/defense" }}) &rArr; [Waffenkammer]({{ site.el-negroooar | append:"/fight/arsenal/" }})
+  * :hospital: [Krankenhaus]({{ site.el-negroooar | append:"/rooms/hospital" }})
+* [Ausrüstung]({{ site.el-negroooar | append:"/equipment" }})
+  * :gift_heart: [Qualität und Essenzen]({{ site.el-negroooar | append:"/equipment/materials" }})
+  * :gun: [Waffen und Tools]({{ site.el-negroooar | append:"/equipment/weapons" }})
+  * :shirt: [Rüstungen]({{ site.el-negroooar | append:"/equipment/armor" }})
+  * :ring: [Armbänder]({{ site.el-negroooar | append:"/equipment/bracelets" }})
+  * :iphone: [Geräte]({{ site.el-negroooar | append:"/equipment/devices" }})
+  * :package: [Mehrzweck-Waffen]({{ site.el-negroooar | append:"/equipment/multi-devices" }})
+  * :hammer: [Ausrüstung in Eigenbau]({{ site.el-negroooar | append:"/equipment/craft" }})
 
 ## Quests
 
-* [Kampagne/Story]({{ site.ht201 | append:"/campaign" }})
+* [Kampagne/Story]({{ site.el-negroooar | append:"/campaign" }})
 
 ### Tägliche Quests
 
-* [Werbe-Schatztruhe]({{ site.ht201 | append:"/quests/ad-chest" }})
-* [Missions-Schatztruhe]({{ site.ht201 | append:"/quests/mission-chest" }})
-* [Tages-Schatztruhe]({{ site.ht201 | append:"/quests/daily-chest" }})
+* [Werbe-Schatztruhe]({{ site.el-negroooar | append:"/quests/ad-chest" }})
+* [Missions-Schatztruhe]({{ site.el-negroooar | append:"/quests/mission-chest" }})
+* [Tages-Schatztruhe]({{ site.el-negroooar | append:"/quests/daily-chest" }})
 * Schlachtsucher
 * Konfrontation
 * Tausendsassa
-* [Bahnhofsraubzug]({{ site.ht201 | append:"/pvp/railway-raid/" }})
+* [Bahnhofsraubzug]({{ site.el-negroooar | append:"/pvp/railway-raid/" }})
 
 ### Story Quests
 
@@ -66,6 +66,6 @@ in Arbeit :construction:
 
 ## Helferlein
 
-* :japanese_goblin: [Zombie-Assistent]({{ site.ht201 | append:"/zombie-assistant/" }})
+* :japanese_goblin: [Zombie-Assistent]({{ site.el-negroooar | append:"/zombie-assistant/" }})
 * Bulldogge
-* [Premium Account]({{ site.ht201 | append:"/in-app/premium-account/" }})
+* [Premium Account]({{ site.el-negroooar | append:"/in-app/premium-account/" }})

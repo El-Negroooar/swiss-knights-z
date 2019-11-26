@@ -12,10 +12,8 @@ Swiss Knight Z ist eine Allianz für das Spiel Zero City.
 - Vize-Chef: :cop: El Negro
 - Warlords:
   - :punch: Sergeant Tuchi
-  - :v: El Turco
 - Offiziere:
-  - :fist: Somun
-  - :wave: ht201
+
 
 ## Mitgliedschaft
 
@@ -24,9 +22,9 @@ Swiss Knight Z ist eine Allianz für das Spiel Zero City.
 - Ein Inaktivität von mehr als 4 Wochen, hat ein Ausschluss nach mehreren Erinnerungen zur Folge.
 - Ihr dürft jederzeit die Allianz wieder verlassen. Ihr seid genauso wieder willkommen, wenn ihr Euch an die Statuen haltet.
 
-Die Mitglieder könnt ihr via [Allianz Raum]({{ site.ht201 | append:"/rooms/alliance-hall" }}) einsehen.
+Die Mitglieder könnt ihr via [Allianz Raum]({{ site.el-negroooar | append:"/rooms/alliance-hall" }}) einsehen.
 
-![Alliance Members]({{ site.ht201 | append:"/assets/images/alliance/members.png" }})
+![Alliance Members]({{ site.el-negroooar | append:"/assets/images/alliance/members.png" }})
 
 ## Zweck
 

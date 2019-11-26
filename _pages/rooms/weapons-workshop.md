@@ -8,7 +8,7 @@ In Arbeit :construction:
 
 In der Waffen-Werkstatt werden Waffen für Militäreinsätze hergestellt.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/rooms/weapons-workshop.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/rooms/weapons-workshop.png" }})
 
 ## Ausbau-Stufen
 
@@ -34,7 +34,7 @@ Zum Herstellen eines Gegenstandes braucht es 10 Essenzen und die benötigten Rea
 
 Die Produktions-Kosten sind in jedem Raum für die jeweilige Stufe einsehbar.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/production/workshop-costs.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/production/workshop-costs.png" }})
 
 ## Stufe 1
 

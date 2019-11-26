@@ -16,11 +16,11 @@ Wenn du überfallen wirst und viele Ressourcen verloren hast, ärgere dich nicht
 
 Schaue nach vorn. Dies ist eine Super-Möglichkeit, um wieder unsere Punktzahl zu verringern. Leere deine Kaserne und schicke einen beliebigen Arbeiter in die Kaserne.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/guide/vengeance.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/guide/vengeance.png" }})
 
 Vollziehe deine Rache an deinen Gegnern indem du verlierst. Somit bekommst du deine Ressourcen durch andere Opfer wieder. Diese Methode kostet dich keine Nahrung!
 
-![Zero City]({{ site.ht201 | append:"/assets/images/guide/vengeance-result.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/guide/vengeance-result.png" }})
 
 ## Angriff wider Willen
 
@@ -28,20 +28,20 @@ Dies ist eine sehr teure Methode um eure Punktzahl niedrig zu halten. Wenn ihr e
 
 Dieser Spieler ist mindestens sechs Stufen über mir. Er hat mindestens einen Soldaten mit Level 100! Mein Level ist 75 zu dem Zeitpunkt gewesen.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/guide/enemy.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/guide/enemy.png" }})
 
 Wie kommt es dass er mich überfallen kann? Seine Punktzahl beträgt nur 2856. Er müsste weit über 3000 sein.
 
 Der erste Angriff kostet ihm Nahrung und Punkte. Ich erhalte 30 Ranglisten-Punkte. Die Sau pusht damit meinen Rang.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/guide/fake-attack-1.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/guide/fake-attack-1.png" }})
 
 Der zweite Angriff kommt und ich erhalte jetzt nur 29 Punkte.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/guide/fake-attack-2.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/guide/fake-attack-2.png" }})
 
 Da er ein Spieler maximal dreimal angreifen darf kommt jetzt der richtige Angriff mit voller Truppenstärke.
 
-![Zero City]({{ site.ht201 | append:"/assets/images/guide/attack.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/guide/attack.png" }})
 
 Die verlorenen Ressourcen halten sich in Grenzen, da ich immer darauf achte nie zu viel zu haben. Das Schmerzliche ist mein Punktekonto. Gewonnen habe ich 30+29 = 59 - 13 macht netto 46 Ranglisten Punkte :scream:.

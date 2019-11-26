@@ -4,6 +4,6 @@ title: "Küche"
 toc: true
 ---
 
-Die Küche ist die Ausbildungstätte für [Köche]({{ site.ht201 | append:"/profession/chef" }}).
+Die Küche ist die Ausbildungstätte für [Köche]({{ site.el-negroooar | append:"/profession/chef" }}).
 
-![Zero City]({{ site.ht201 | append:"/assets/images/rooms/kitchen.png" }})
+![Zero City]({{ site.el-negroooar | append:"/assets/images/rooms/kitchen.png" }})

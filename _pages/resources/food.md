@@ -6,9 +6,9 @@ toc: true
 
 Nahrung ist die wichtigste Ressource im Spiel. Du brauchst Sie um Angriffe zu organisieren.
 
-- Im Spiel wird Nahrung durch den :hamburger: [Speisesaal]({{ site.ht201 | append:"/rooms/dining-hall" }}) produziert.
-- Die Nahrung wird im [Kühlschrank]({{ site.ht201 | append:"/rooms/refrigerator" }}) gelagert.
-- Deine Küchenchefs bildest du in der [Küche]({{ site.ht201 | append:"/rooms/kitchen" }}) aus.
+- Im Spiel wird Nahrung durch den :hamburger: [Speisesaal]({{ site.el-negroooar | append:"/rooms/dining-hall" }}) produziert.
+- Die Nahrung wird im [Kühlschrank]({{ site.el-negroooar | append:"/rooms/refrigerator" }}) gelagert.
+- Deine Küchenchefs bildest du in der [Küche]({{ site.el-negroooar | append:"/rooms/kitchen" }}) aus.
 
 ## Andere Bezugsquellen
 
