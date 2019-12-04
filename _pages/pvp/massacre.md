@@ -1,4 +1,3 @@
-
 ---
 permalink: /pvp/massacre/
 title: "Massaker"
