@@ -1,13 +1,13 @@
 main:
-  - title: ":busts_in_silhouette: Allianz"
-    url: /about/
   - title: ":eyes: Allgemeines"
     url: /general/
-  - title: " :jack_o_lantern: Sitemap"
+  - title: ":busts_in_silhouette: Allianz"
+    url: /about/
+  - title: ":information_source: Sitemap"
     url: /sitemap/    
   - title: " :point_up: Guide"
     url: /guide/
-  - title: ":paperclips: Glossar"
+  - title: ":green_book: Glossar"
     url: /glossary/
   - title: " :question: FAQ"
     url: /faq/
