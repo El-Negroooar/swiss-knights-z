@@ -66,6 +66,8 @@ Nach Beendiung einer Season könnt ihr das Ranking einsehen. Wenn ihr genug Einf
 
 ### Belohnung
 
-Bezugsberechtigt sind nur Mitglieder, die entsprechend der [Tabelle]({{ site.el-negroooar | append:"/pvp/allywar/#voraussetzungen" }}) ihr Minimum an Einfluss während einer Season gesammelt haben.
+Bezugsberechtigt sind nur Mitglieder, die entsprechend der [Tabelle]({{ site.el-negroooar | append:"/pvp/allywar/#voraussetzungen" }}) ihr Minimum an Einfluss während einer Season gesammelt haben. In der Verteilung berücksichtigt werden folgende Faktoren: Gesammelter Einfluss (vergangene Season), aktueller Einfluss (neue Season), bisherige erhaltene Belohnungen, Prioritätsetzung im Doodle.
+
+Denk daran, die Season dauert ganze 2 Wochen, also gibt es auch nur alle 2 Wochen eine Belohnung. Jeder hofft seinem Einsatz entsprechend auf eine bestmögliche Belohnung. Es kann aber nur verteilt werden, was da ist. Du kannst mit deinem Einsatz aber dafür sorgen, dass wir bessere Belohnungen erhalten. Geduld und Ausdauer sind der Schlüssel zum Ziel.
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/allywar/allywar.png" }})
