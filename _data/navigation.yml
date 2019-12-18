@@ -1,13 +1,13 @@
 main:
-  - title: ":eyes: Allgemeines"
+  - title: ":wave: Allgemeines"
     url: /general/
   - title: ":busts_in_silhouette: Allianz"
     url: /about/
-  - title: ":information_source: Sitemap"
+  - title: ":book: Sitemap"
     url: /sitemap/    
-  - title: " :point_up: Guide"
+  - title: ":mag: Guide"
     url: /guide/
-  - title: ":green_book: Glossar"
+  - title: ":clipboard: Glossar"
     url: /glossary/
   - title: " :question: FAQ"
     url: /faq/
