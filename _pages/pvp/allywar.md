@@ -5,10 +5,9 @@ toc: true
 type: pages
 ---
 
-## Funktionsweise
+## Spielprinzip
 
-Jeder Spieler kann an einem Wegpunkt (abhängig der Vorgaben am Wegpunkt) bis zu 6 Kämpfer platzieren (unabhängig der Anzahl Kämpfer in der Kaserne). Jeder Wegpunkt kann unterschiedliche Voraussetzungen mit sich bringen (z.B. höherer Schaden oder nur ab Kommandozentrale lvl9). Die Truppen sollten nach Angabe des leitenden Kriegsherrn platziert werden, diesbezüglich sind dessen Anweisungen zu berücksichtigen. Der Vorteil darin ist, dass der Kriegsherr die Übersicht behält und die Truppen nach Stärke der einzelnen Spieler sowie der Stärke der gegnerischen Allianzen platzieren kann. Dafür ist er aber auf die Mithilfe seiner Allianz-Mitglieder angewiesen.    
-Wird ein Wegpunkt erobert, erhält sowohl jeder der am Wegpunkt beteiligten Spieler eine persönliche Belohnung (Kiste + Einfluss Wegpunkt), als auch die Allianz welche den am Wegpunkt angegebenen Einfluss (Sterne) für die Allianzkiste erhält. Kommt eine Allianz mit allen gewonnenen Wegpunkten in die Top 3, erhält sie massiv zusätzlichen Einfluss. Der Einfluss wiederum akkumuliert sich währen der Dauer einer Season (2 Wochen). Abhängig des gesammelten Einflusses, erhält die Allianz eine kleine bis grosse Beutekiste, die vom Clanchef & Vize aufgeteilt werden kann.
+Im Allianzkrieg spielen Spieler der selben Allianz zusammen gegen andere Allianzen. Für jeden Sieg erhalten sie "Einfluss", der kummuliert nach einer Season in Form einer Allianzkiste mit Belohnungen vergütet wird.
 
 
 ## Spielzeiten
@@ -16,20 +15,17 @@ Wird ein Wegpunkt erobert, erhält sowohl jeder der am Wegpunkt beteiligten Spie
 Es können täglich bis zu 4 Allianzkriege ausgetragen werden. Die Zeiten zum Platzieren der Truppen sowie die effektiven Kriegszeiten sind abhängig der Zeitumstellung:
 
 
-| Winterzeit  |           |        Sommerzeit       |
-| Setzen   | Kriegsbeginn | Setzen   | Kriegsbeginn |
-|:--------:| ------------:| --------:| ------------:|
-|   02.00  |     04.00    |   03.00  |     05.00    |
-|   08.00  |     10.00    |   09.00  |     11.00    |
-|   14.00  |     16.00    |   15.00  |     17.00    |
-|   20.00  |     22.00    |   21.00  |     23.00    |
+| Winterzeit  |              | Sommerzeit |              |
+| Setzen      | Kriegsbeginn | Setzen     | Kriegsbeginn |
+|:-----------:| ------------:| ----------:| ------------:|
+|   02.00     |     04.00    |   03.00    |     05.00    |
+|   08.00     |     10.00    |   09.00    |     11.00    |
+|   14.00     |     16.00    |   15.00    |     17.00    |
+|   20.00     |     22.00    |   21.00    |     23.00    |
 
 
 
-
-
-
-## Voraussetzung
+## Voraussetzungen
 Die benötigte Menge Nahrung zur Teilnahme sowie die benötigte Menge an gesammeltem Einfluss für eine mögliche Belohnungen aus der Allianzkiste sind abhängig vom Level der [Kommando-Zentrale]({{ site.el-negroooar | append:"/rooms/command-center" }}) des Teilnehmers.
 
 | Level | Teilnahme :hamburger: | Einfluss :star: |
@@ -43,15 +39,26 @@ Die benötigte Menge Nahrung zur Teilnahme sowie die benötigte Menge an gesamme
 |  10   |               295'000 |          30'000 |
 
 
+
+Jeder Spieler kann an einem Wegpunkt (abhängig der Vorgaben am Wegpunkt) bis zu 6 Kämpfer platzieren (unabhängig der Anzahl Kämpfer in der Kaserne). Jeder Wegpunkt kann unterschiedliche Voraussetzungen mit sich bringen (z.B. höherer Schaden oder nur ab Kommandozentrale lvl9). Die Truppen sollten nach Angabe des leitenden Kriegsherrn platziert werden, diesbezüglich sind dessen Anweisungen zu berücksichtigen. Der Vorteil darin ist, dass der Kriegsherr die Übersicht behält und die Truppen nach Stärke der einzelnen Spieler sowie der Stärke der gegnerischen Allianzen platzieren kann. Dafür ist er aber auf die Mithilfe seiner Allianz-Mitglieder angewiesen.    
+Wird ein Wegpunkt erobert, erhält sowohl jeder der am Wegpunkt beteiligten Spieler eine persönliche Belohnung (Kiste + Einfluss Wegpunkt), als auch die Allianz welche den am Wegpunkt angegebenen Einfluss (Sterne) für die Allianzkiste erhält. Kommt eine Allianz mit allen gewonnenen Wegpunkten in die Top 3, erhält sie massiv zusätzlichen Einfluss. Der Einfluss wiederum akkumuliert sich währen der Dauer einer Season (2 Wochen). Abhängig des gesammelten Einflusses, erhält die Allianz eine kleine bis grosse Beutekiste, die vom Clanchef & Vize aufgeteilt werden kann.
+
+
+## Detailerklärung
+
+### Allianzkrieg
+
+Jeder Spieler kann an einem Wegpunkt bis zu 6 Kämpfer platzieren (unabhängig der Anzahl Kämpfer in der Kaserne). Jeder Wegpunkt kann unterschiedliche Voraussetzungen mit sich bringen (z.B. höherer Schaden oder nur ab Kommandozentrale lvl9). Die Truppen sollten nach Angabe des leitenden Kriegsherrn platziert werden, diesbezüglich sind dessen Anweisungen zu berücksichtigen. Der Vorteil darin ist, dass der Kriegsherr die Übersicht behält und die Truppen nach Stärke der einzelnen Spieler sowie der Stärke der gegnerischen Allianzen platzieren kann. Dafür ist er aber auf die Mithilfe seiner Allianz-Mitglieder angewiesen.    
+Wird ein Wegpunkt erobert, erhält sowohl jeder der am Wegpunkt beteiligten Spieler eine persönliche Belohnung (Kiste + Einfluss Wegpunkt), als auch die Allianz welche den am Wegpunkt angegebenen Einfluss (Sterne) für die Allianzkiste erhält. Kommt eine Allianz mit allen gewonnenen Wegpunkten in die Top 3, erhält sie massiv zusätzlichen Einfluss. Der Einfluss wiederum akkumuliert sich währen der Dauer einer Season (2 Wochen). Abhängig des gesammelten Einflusses, erhält die Allianz eine kleine bis grosse Beutekiste, die vom Clanchef & Vize aufgeteilt werden kann.
+
 ### Season
 
-Eine Season bezeichnet die Zeitdauer von 2 Wochen, während derer gemeinsam Einfluss für die Allianzkiste gesammelt werden kann. 
+Eine Season bezeichnet die Zeitdauer von 2 Wochen, während derer gemeinsam Einfluss für die Allianzkiste gesammelt werden kann. Sie startet und endet jeweils Dienstag Vormittags 9 Uhr (Winterzeit).
 
 ### Belohnung
 
-![Zero City]({{ site.el-negroooar | append:"/assets/images/allywar/allywar.png" }})
-
 Bezugsberechtigt sind nur Mitglieder, die entsprechend der Tabelle ihr Minimum an Einfluss während einer Season gesammelt haben.
+![Zero City]({{ site.el-negroooar | append:"/assets/images/allywar/allywar.png" }})
 
 
 ### Einfluss
