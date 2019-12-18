@@ -4,7 +4,6 @@ title: "Allianz Guide"
 toc: true
 ---
 
-in Arbeit :construction: ...
 
 ## Fortschritt
 
