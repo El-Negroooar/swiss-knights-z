@@ -7,7 +7,7 @@ type: pages
 
 ## Spielprinzip
 
-Im Allianzkrieg spielen Spieler der selben Allianz zusammen gegen andere Allianzen. Für jeden Sieg erhalten sie "Einfluss", der kummuliert nach einer Season in Form einer Allianzkiste mit Belohnungen vergütet wird.
+Kurz erklärt: Im Allianzkrieg spielen Spieler der selben Allianz zusammen gegen andere Allianzen. Für jeden Sieg erhalten sie "Einfluss", der kummuliert nach einer Season in Form einer Allianzkiste mit Belohnungen vergütet wird. Weitere Erklärungen weiter unten.
 
 
 ## Spielzeiten
@@ -26,7 +26,7 @@ Es können täglich bis zu 4 Allianzkriege ausgetragen werden. Die Zeiten zum Pl
 
 
 ## Voraussetzungen
-Die benötigte Menge Nahrung zur Teilnahme sowie die benötigte Menge an gesammeltem Einfluss für eine mögliche Belohnungen aus der Allianzkiste sind abhängig vom Level der [Kommando-Zentrale]({{ site.el-negroooar | append:"/rooms/command-center" }}) des Teilnehmers.
+Die benötigte Menge Nahrung zur Teilnahme sowie die benötigte Menge an gesammeltem Einfluss für eine mögliche Belohnungen aus der Allianzkiste sind abhängig vom Level der [Kommando-Zentrale]({{ site.el-negroooar | append:"/rooms/command-center" }}) des Teilnehmers. Beides sind Vorgaben des Spiels, wer sein Einfluss-Ziel nicht erreicht, kann von der Leitung nicht belohnt werden.
 
 | Level | Teilnahme :hamburger: | Einfluss :star: |
 |:-----:| ---------------------:| ---------------:|
@@ -44,7 +44,7 @@ Jeder Spieler kann an einem Wegpunkt (abhängig der Vorgaben am Wegpunkt) bis zu
 Wird ein Wegpunkt erobert, erhält sowohl jeder der am Wegpunkt beteiligten Spieler eine persönliche Belohnung (Kiste + Einfluss Wegpunkt), als auch die Allianz welche den am Wegpunkt angegebenen Einfluss (Sterne) für die Allianzkiste erhält. Kommt eine Allianz mit allen gewonnenen Wegpunkten in die Top 3, erhält sie massiv zusätzlichen Einfluss. Der Einfluss wiederum akkumuliert sich währen der Dauer einer Season (2 Wochen). Abhängig des gesammelten Einflusses, erhält die Allianz eine kleine bis grosse Beutekiste, die vom Clanchef & Vize aufgeteilt werden kann.
 
 
-## Detailerklärung
+## Detailerklärungen
 
 ### Allianzkrieg
 
@@ -54,12 +54,6 @@ Wird ein Wegpunkt erobert, erhält sowohl jeder der am Wegpunkt beteiligten Spie
 ### Season
 
 Eine Season bezeichnet die Zeitdauer von 2 Wochen, während derer gemeinsam Einfluss für die Allianzkiste gesammelt werden kann. Sie startet und endet jeweils Dienstag Vormittags 9 Uhr (Winterzeit).
-
-### Belohnung
-
-Bezugsberechtigt sind nur Mitglieder, die entsprechend der Tabelle ihr Minimum an Einfluss während einer Season gesammelt haben.
-![Zero City]({{ site.el-negroooar | append:"/assets/images/allywar/allywar.png" }})
-
 
 ### Einfluss
 
@@ -74,3 +68,8 @@ Nach Beendiung einer Season könnt ihr das Ranking einsehen. Wenn ihr genug Einf
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/allywar/ranking.png" }})
 
+### Belohnung
+
+Bezugsberechtigt sind nur Mitglieder, die entsprechend der Tabelle ihr Minimum an Einfluss während einer Season gesammelt haben.
+
+![Zero City]({{ site.el-negroooar | append:"/assets/images/allywar/allywar.png" }})
