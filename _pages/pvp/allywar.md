@@ -41,9 +41,10 @@ Die benötigte Menge Nahrung zur Teilnahme sowie die benötigte Menge an gesamme
 
 ## Detailerklärungen
 
-### Allianzkrieg
+### Allianzkrieg in der Praxis
 
-Jeder Spieler kann an einem Wegpunkt bis zu 6 Kämpfer platzieren (unabhängig der Anzahl Kämpfer in der Kaserne). Jeder Wegpunkt kann unterschiedliche Voraussetzungen mit sich bringen (z.B. höherer Schaden oder nur ab Kommandozentrale lvl9). Die Truppen sollten nach Angabe des leitenden Kriegsherrn platziert werden, diesbezüglich sind dessen Anweisungen zu berücksichtigen. Der Vorteil darin ist, dass der Kriegsherr die Übersicht behält und die Truppen nach Stärke der einzelnen Spieler sowie der Stärke der gegnerischen Allianzen platzieren kann. Dafür ist er aber auf die Mithilfe seiner Allianz-Mitglieder angewiesen.    
+Jeder Spieler kann an einem Wegpunkt bis zu 6 Kämpfer platzieren (unabhängig der Anzahl Kämpfer in der Kaserne). Jeder Wegpunkt kann unterschiedliche Voraussetzungen mit sich bringen (z.B. höherer Schaden oder nur ab Kommandozentrale lvl9). Die Truppen sollten nach Angabe des leitenden Kriegsherrn platziert werden, diesbezüglich sind dessen Anweisungen zu berücksichtigen. Der Vorteil darin ist, dass der Kriegsherr die Übersicht behält und die Truppen nach Stärke der einzelnen Spieler sowie der Stärke der gegnerischen Allianzen platzieren kann. Dafür ist er aber auf die Mithilfe seiner Allianz-Mitglieder angewiesen.  
+
 Wird ein Wegpunkt erobert, erhält sowohl jeder der am Wegpunkt beteiligten Spieler eine persönliche Belohnung (Kiste + Einfluss Wegpunkt), als auch die Allianz welche den am Wegpunkt angegebenen Einfluss (Sterne) für die Allianzkiste erhält. Kommt eine Allianz mit allen gewonnenen Wegpunkten in die Top 3, erhält sie massiv zusätzlichen Einfluss. Der Einfluss wiederum akkumuliert sich währen der Dauer einer Season (2 Wochen). Abhängig des gesammelten Einflusses, erhält die Allianz eine kleine bis grosse Beutekiste, die vom Clanchef & Vize aufgeteilt werden kann.
 
 ### Season

@@ -1,7 +1,7 @@
 main:
-  - title: "Allgemeines :eyes:"
+  - title: ":eyes: Allgemeines"
     url: /general/
-  - title: "Glossar :paperclips:"
+  - title: ":paperclips: Glossar"
     url: /glossary/
   - title: " :point_up: Guide"
     url: /guide/
@@ -9,5 +9,5 @@ main:
     url: /sitemap/
   - title: " :question: FAQ"
     url: /faq/
-  - title: " :chart_with_upwards_trend: Statistiken"
-    url: /stats/
+  # - title: " :chart_with_upwards_trend: Statistiken"
+    # url: /stats/

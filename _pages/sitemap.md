@@ -4,7 +4,7 @@ title: "Sitemap"
 toc: true
 ---
 
-Finde was dein Herz begehrt.
+Übersicht aller wichtigen Einstiegsseiten:
 
 ## PvP
 
