@@ -6,12 +6,17 @@ toc: true
 
 Swiss Knight Z ist eine Allianz für das Spiel Zero City.
 
+## Zweck
+
+Gemeinsam spielen und Zusammenhalt sowie Austausch fördern, sich gegenseitig unterstützen und Tipps & Tricks austauschen, als Team gemeinsam & langfristig wachsen.
+
+
 ## Organisation
 
 - Clan-Chef: :neckbeard: Mc Master
 - Vize-Chef: :cop: El Negro
 - Warlords:
-  - :punch: Sergeant Tuchi
+  - :punch: SRGT Tuchi
   - :muscle: Acchat
 - Offiziere:
   -  :loudspeaker: Khorli
@@ -28,7 +33,15 @@ Die Mitglieder könnt ihr via [Allianz Raum]({{ site.el-negroooar | append:"/roo
 
 ![Alliance Members]({{ site.el-negroooar | append:"/assets/images/alliance/members.png" }})
 
-## Zweck
+## Discord
 
-Gemeinsam spielen und Zusammenhalt sowie Austausch fördern, sich gegenseitig unterstützen und Tipps & Tricks austauschen, als Team gemeinsam & langfristig wachsen.
-
+Die Vorteile von Discord sind offensichtlich, hier aber nochmals eine Liste warum die Kommunikation darüber wesentlich angenehmer ist:
+- Teilen von Screenshots.
+- Teilen von abrufbaren Links ins Web (andere Guides etc.).
+- 1:1-Kommunikation mit einzelnen Mitgliedern.
+- Unlimitierte Zeichenzahl.
+- Keine nervige Zensur von Begriffen wie "weniger".
+- Erreichbarkeit auch bei Server-Wartung.
+- Teilen von wichtigen Infos.
+- Hilfe durch andere User, ohne dadurch den Ingame-Chat zu spamen.
+- ... etc. etc.
