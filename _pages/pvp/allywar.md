@@ -16,7 +16,7 @@ Wird ein Wegpunkt erobert, erhält sowohl jeder der am Wegpunkt beteiligten Spie
 Es können täglich bis zu 4 Allianzkriege ausgetragen werden. Die Zeiten zum Platzieren der Truppen sowie die effektiven Kriegszeiten sind abhängig der Zeitumstellung:
 
 
-|        Winterzeit       |        Sommerzeit       |
+| Winterzeit  |           |        Sommerzeit       |
 | Setzen   | Kriegsbeginn | Setzen   | Kriegsbeginn |
 |:--------:| ------------:| --------:| ------------:|
 |   02.00  |     04.00    |   03.00  |     05.00    |
