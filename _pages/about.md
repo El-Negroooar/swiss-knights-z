@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Swiss Knights Z"
+title: "Allianz-Statuten"
 toc: true
 ---
 
@@ -12,15 +12,17 @@ Swiss Knight Z ist eine Allianz für das Spiel Zero City.
 - Vize-Chef: :cop: El Negro
 - Warlords:
   - :punch: Sergeant Tuchi
+  - :muscle: Acchat
 - Offiziere:
+  -  :loudspeaker: Khorli
 
 
 ## Mitgliedschaft
 
-- Die Mitgliedschaft ist kostenfrei.
-- Wir erwarten eine aktive Beteiligung im angemessenen Rahmen.
-- Ein Inaktivität von mehr als 4 Wochen, hat ein Ausschluss nach mehreren Erinnerungen zur Folge.
-- Ihr dürft jederzeit die Allianz wieder verlassen. Ihr seid genauso wieder willkommen, wenn ihr Euch an die Statuen haltet.
+- Wir erwarten eine aktive Beteiligung im Chat & Allianzkrieg.
+- Ein Inaktivität von mehr als 2 Wochen ohne Mitteilung kann einen Rauswurf nach sich ziehen.
+- Ein guter Teil der Kommunikation findet auf der externen Kommunikationsplattform Discord statt. 
+  - Vorteile: Unlimitierte Zeichenzahl, Bildersharing, 1:1-Kommunikation, Aufruf für Allianzkrieg etc.
 
 Die Mitglieder könnt ihr via [Allianz Raum]({{ site.el-negroooar | append:"/rooms/alliance-hall" }}) einsehen.
 
@@ -28,17 +30,5 @@ Die Mitglieder könnt ihr via [Allianz Raum]({{ site.el-negroooar | append:"/roo
 
 ## Zweck
 
-Gemeinsam zocken macht mehr Spass.
+Gemeinsam spielen und Zusammenhalt sowie Austausch fördern, sich gegenseitig unterstützen und Tipps & Tricks austauschen, als Team gemeinsam & langfristig wachsen.
 
-## Inaktivität
-
-Um die Aktivität unserer Mitglieder zu verifizieren fragen wir alle 2 Wochen nach einem Lebenszeichen via Doodle.
-
-Nach 3 ausgelassenen Lebenszeichen, denken wir, dass es
-
-- nicht zu viel verlangt ist 2 Minuten für einen Doodle aufzuwenden
-- Zeit ist, den Platz für potentiell andere Interessierte zu vergeben.
-
-Bei uns gilt die Devise, ihr seit gerne wieder willkommen, wenn ihr wieder die Zeit und Lust verspürt.
-
-Für Ausnahmeregelungen, bitte die Führungsoffiziere ansprechen. Bei Weltreisen in der sibirischen Tundra könnte es doch ein wenig schwierig gsi.
