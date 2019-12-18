@@ -13,13 +13,15 @@ Gemeinsam spielen und Zusammenhalt sowie Austausch fördern, sich gegenseitig un
 
 ## Organisation
 
-- Clan-Chef: :neckbeard: Mc Master
-- Vize-Chef: :cop: El Negro
-- Warlords:
-  - :punch: SRGT Tuchi
-  - :muscle: Acchat
-- Offiziere:
-  -  :loudspeaker: Khorli
+- Clan-Chef :neckbeard: 
+  - Mc Master
+- Vize-Chef :cop: 
+  - El Negro
+- Warlords :muscle:
+  - SRGT Tuchi
+  - Acchat
+- Offiziere :loudspeaker:
+  - Khorli
 
 
 ## Mitgliedschaft
