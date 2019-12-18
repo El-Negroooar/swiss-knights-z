@@ -28,7 +28,3 @@ Diese Elemente erwarten dich im Spiel:
 - Auswahl an Ausrüstung
 - Mehrspieler-Modus, PvP
 - Kampagnen und Story Modus.
-
-## Swiss Knights Z
-
-- [Unsere Allianz]({{ site.el-negroooar | append:"/about" }})
