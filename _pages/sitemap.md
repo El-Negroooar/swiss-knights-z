@@ -21,11 +21,11 @@ toc: true
 * :door: [Räume]({{ site.el-negroooar | append:"/rooms" }})
 * :couple: [Bewohner]({{ site.el-negroooar | append:"/people" }})
 * [Ressourcen]({{ site.el-negroooar | append:"/resources" }})
-  * :hamburger: [Essen]({{ site.el-negroooar | append:"/resources/food" }})
-  * :dollar: [Geld]({{ site.el-negroooar | append:"/resources/money" }})
-  * :door: [Holz]({{ site.el-negroooar | append:"/resources/wood" }})
-  * :pill: [Chemikalien]({{ site.el-negroooar | append:"/resources/chemicals" }})
-  * :wrench: [Stahl]({{ site.el-negroooar | append:"/resources/steel" }})
+<!--  * :hamburger: [Essen]({{ site.el-negroooar | append:"/resources/food" }}) -->  
+<!--  * :dollar: [Geld]({{ site.el-negroooar | append:"/resources/money" }}) -->  
+<!--  * :door: [Holz]({{ site.el-negroooar | append:"/resources/wood" }}) -->  
+<!--  * :pill: [Chemikalien]({{ site.el-negroooar | append:"/resources/chemicals" }}) -->  
+<!--  * :wrench: [Stahl]({{ site.el-negroooar | append:"/resources/steel" }}) -->  
  
 ## Militär
 
