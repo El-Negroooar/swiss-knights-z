@@ -9,8 +9,8 @@ toc: true
 ## PvP
 
 * :crown: [Arena]({{ site.el-negroooar | append:"/pvp/arena/" }})
-  * [Massaker]({{ site.el-negroooar | append:"/pvp/massacre/" }}) &rArr; [Strategie]({{ site.el-negroooar | append:"/pvp/arena-strategy/" }})
-  * [Gruppen]({{ site.el-negroooar | append:"/pvp/arena-groups/" }})
+<!--   # * [Massaker]({{ site.el-negroooar | append:"/pvp/massacre/" }}) &rArr; [Strategie]({{ site.el-negroooar | append:"/pvp/arena-strategy/" }})
+ -->  * [Gruppen (Brackets)]({{ site.el-negroooar | append:"/pvp/arena-groups/" }})
   * :house: [Arena-Laden]({{ site.el-negroooar | append:"/pvp/arena-store/" }})
 * :circus_tent: [Allianz-Kriege]({{ site.el-negroooar | append:"/pvp/allywar/" }})
 
@@ -21,12 +21,12 @@ toc: true
 * :door: [Räume]({{ site.el-negroooar | append:"/rooms" }})
 * :couple: [Bewohner]({{ site.el-negroooar | append:"/people" }})
 * [Ressourcen]({{ site.el-negroooar | append:"/resources" }})
-  * :hamburger: [Essen]({{ site.el-negroooar | append:"/resources/food" }})
+<!--   * :hamburger: [Essen]({{ site.el-negroooar | append:"/resources/food" }})
   * :dollar: [Geld]({{ site.el-negroooar | append:"/resources/money" }})
   * :door: [Holz]({{ site.el-negroooar | append:"/resources/wood" }})
   * :pill: [Chemikalien]({{ site.el-negroooar | append:"/resources/chemicals" }})
   * :wrench: [Stahl]({{ site.el-negroooar | append:"/resources/steel" }})
-
+ -->
 ## Militär
 
 * [Kommando-Zentrale]({{ site.el-negroooar | append:"/rooms/command-center" }})

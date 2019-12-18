@@ -1,6 +1,6 @@
 ---
 permalink: /pvp/arena-groups/
-title: "Arena Gruppen"
+title: "Arena Brackets"
 toc: true
 ---
 
