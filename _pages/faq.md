@@ -12,6 +12,13 @@ toc: true
 Hast du die Voraussetzungen für eine [Belohnung]({{ site.el-negroooar | append:"/pvp/allywar/#belohnung" }}) erfüllt? Wenn ja, melde dich schnellstmöglich beim Clanchef oder Vize.
 
 
+> Wie funktioniert der Allianzkrieg?
+
+Nach aktuellem Wissensstand bringt er keine Vorteile und dient lediglich als Deko.
+
+
 > Was bringt der Hund im Spiel?
 
 Nach aktuellem Wissensstand bringt er keine Vorteile und dient lediglich als Deko.
+
+[Schau hier nach]({{ site.el-negroooar | append:"/pvp/allywar/}})
