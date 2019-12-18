@@ -1,13 +1,13 @@
 main:
-  - title: ":eyes: Allgemeines"
+  - title: " :chart_with_upwards_trend: Allianz"
+    url: /about/
+- title: ":eyes: Allgemeines"
     url: /general/
-  - title: ":paperclips: Glossar"
-    url: /glossary/
+  - title: " :jack_o_lantern: Sitemap"
+    url: /sitemap/    
   - title: " :point_up: Guide"
     url: /guide/
-  - title: " :jack_o_lantern: Sitemap"
-    url: /sitemap/
+  - title: ":paperclips: Glossar"
+    url: /glossary/
   - title: " :question: FAQ"
     url: /faq/
-  # - title: " :chart_with_upwards_trend: Statistiken"
-    # url: /stats/
