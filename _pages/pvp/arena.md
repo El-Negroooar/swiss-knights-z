@@ -1,6 +1,6 @@
 ---
 permalink: /pvp/arena/
-title: "Arena"
+title: "Arena (=Massaker)"
 toc: true
 ---
 
@@ -26,7 +26,8 @@ In der Arena trittst du gegen andere Spieler an, um Arenachips zu verdienen und 
 
 ### Belohnung
 
-Ganz wichtig zu wissen ist, dass du selbst wenn du alle Kämpfe verlierst, ein Minimum an Arenachips erhältst. Da du bereits Ausgaben in Nahrung oder Arenatickets getätigt hast und vor Ablauf der Arena-Sitzung ohnehin keine neue Runde starten kannst, lohnt es sich alle Angriffe zu tätigen, erst recht wenn du ganz neu bist und kein gutes Equipment hast.
+Ganz wichtig zu wissen ist, dass du selbst wenn du alle Kämpfe verlierst, ein Minimum an Arenachips erhältst (60). Und da du ohnehin bereits Ausgaben in Nahrung oder Arenatickets getätigt hast und vor Ablauf der Arena-Sitzung ohnehin keine neue Runde starten kannst, lohnt es sich alle Angriffe zu tätigen, erst recht wenn du ganz neu bist und kein gutes Equipment hast.
+
 Dem Bild unten ist zu entnehmen, dass du für das Austragen der letzten Runde die meisten Coins erhältst, jedoch nur wenn du alle Runden austrägst. Wenn du nur 4 spielst, erhältst du in der letzten Runde nur 15 statt 25 coins, egal wann du pausiert hast.
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/arena/results.png" }})
