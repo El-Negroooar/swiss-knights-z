@@ -33,18 +33,18 @@ toc: true
 * [Kampf]({{ site.el-negroooar | append:"/fight" }})
   * :european_castle: [Kaserne]({{ site.el-negroooar | append:"/rooms/barracks/" }})
   * :muscle: [Traning]({{ site.el-negroooar | append:"/fight/training/" }}) &rArr; :hand: [Traningsraum]({{ site.el-negroooar | append:"/rooms/gym/" }})
-  * [Squad Formationen]({{ site.el-negroooar | append:"/fight/formation" }})
+<!--  * [Squad Formationen]({{ site.el-negroooar | append:"/fight/formation" }}) -->  
   * :punch: [Angriff und Raubzüge]({{ site.el-negroooar | append:"/fight/attack" }})
-  * [Verteidigung]({{ site.el-negroooar | append:"/fight/defense" }}) &rArr; [Waffenkammer]({{ site.el-negroooar | append:"/fight/arsenal/" }})
-  * :hospital: [Krankenhaus]({{ site.el-negroooar | append:"/rooms/hospital" }})
+<!--  * [Verteidigung]({{ site.el-negroooar | append:"/fight/defense" }}) &rArr; [Waffenkammer]({{ site.el-negroooar | append:"/fight/arsenal/" }}) -->  
+<!--  * :hospital: [Krankenhaus]({{ site.el-negroooar | append:"/rooms/hospital" }}) -->  
 * [Ausrüstung]({{ site.el-negroooar | append:"/equipment" }})
   * :gift_heart: [Qualität und Essenzen]({{ site.el-negroooar | append:"/equipment/materials" }})
-  * :gun: [Waffen und Tools]({{ site.el-negroooar | append:"/equipment/weapons" }})
-  * :shirt: [Rüstungen]({{ site.el-negroooar | append:"/equipment/armor" }})
-  * :ring: [Armbänder]({{ site.el-negroooar | append:"/equipment/bracelets" }})
-  * :iphone: [Geräte]({{ site.el-negroooar | append:"/equipment/devices" }})
+<!--   * :gun: [Waffen und Tools]({{ site.el-negroooar | append:"/equipment/weapons" }})  -->  
+<!--   * :shirt: [Rüstungen]({{ site.el-negroooar | append:"/equipment/armor" }})  -->  
+<!--   * :ring: [Armbänder]({{ site.el-negroooar | append:"/equipment/bracelets" }})  -->  
+<!--   * :iphone: [Geräte]({{ site.el-negroooar | append:"/equipment/devices" }})  -->  
   * :package: [Mehrzweck-Waffen]({{ site.el-negroooar | append:"/equipment/multi-devices" }})
-  * :hammer: [Ausrüstung in Eigenbau]({{ site.el-negroooar | append:"/equipment/craft" }})
+<!--   * :hammer: [Ausrüstung in Eigenbau]({{ site.el-negroooar | append:"/equipment/craft" }})  -->  
 
 ## Quests
 
