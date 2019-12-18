@@ -65,6 +65,6 @@ Nach Beendiung einer Season könnt ihr das Ranking einsehen. Wenn ihr genug Einf
 
 ### Belohnung
 
-Bezugsberechtigt sind nur Mitglieder, die entsprechend der Tabelle ihr Minimum an Einfluss während einer Season gesammelt haben.
+Bezugsberechtigt sind nur Mitglieder, die entsprechend der [Tabelle]({{ site.el-negroooar | append:"/pvp/allywar/#Voraussetzungen" }}) ihr Minimum an Einfluss während einer Season gesammelt haben.
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/allywar/allywar.png" }})
