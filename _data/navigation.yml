@@ -3,9 +3,9 @@ main:
     url: /general/
   - title: ":busts_in_silhouette: Allianz"
     url: /about/
-  - title: ":book: Sitemap"
+  - title: ":mag: Sitemap"
     url: /sitemap/    
-  - title: ":mag: Guide"
+  - title: ":book: Guide"
     url: /guide/
   - title: ":clipboard: Glossar"
     url: /glossary/
