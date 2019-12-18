@@ -6,7 +6,7 @@ toc: true
 
 > Warum erhalte ich keine Belohnung aus dem Allianz-Krieg?
 
-Siehe [Belohnungen]({{ site.el-negroooar | append:"/pvp/allywar/#Belohnung" }})
+Siehe [Belohnungen]({{ site.el-negroooar | append:"/pvp/allywar/#Belohnungen" }})
 
 
 > Was bringt der Hund im Spiel?
