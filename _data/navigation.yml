@@ -1,7 +1,7 @@
 main:
   - title: " :chart_with_upwards_trend: Allianz"
     url: /about/
-- title: ":eyes: Allgemeines"
+  - title: ":eyes: Allgemeines"
     url: /general/
   - title: " :jack_o_lantern: Sitemap"
     url: /sitemap/    
