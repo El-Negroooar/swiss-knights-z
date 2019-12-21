@@ -72,14 +72,14 @@ Nach Beendiung einer Season könnt ihr das Ranking einsehen. Wenn ihr genug Einf
 Die Belohnung der Allianz setzt sich aus den beiden Währungen Einfluss (Sterne) & Kriegspunkten (Flaggen) zusammen. Diese können während eines Allianzkrieges wie folgt gewonnen werden:
 
 
-|            			| Einfluss (Sterne)  | Kriegspunkte (Flaggen) |
-|:---------------------:| -----------------: | ----------------------:|
-|  Teilnahme am Krieg   |  -      			 |  + 50                  |
-|  Kampf um Spot      	|  -      			 |  +  5                  |
-|  Sieg am Wegpunkt     |  +   3200      	 |  + 15                  |
-|  Platz #1      		|  + 28'000      	 |  + 50                  |
-|  Platz #2      		|  + 20'000      	 |  + 30                  |
-|  Platz #3      		|  + 12'000      	 |  + 10                  |
+| Kriterien    			| Einfluss :star:  | Kriegspunkte  :triangular_flag_on_post: |
+|:---------------------:| ---------------: | -----------------:|
+|  Teilnahme am Krieg   |  -      		   |  + 50             |
+|  Kampf um Spot      	|  -      		   |  +  5             |
+|  Sieg am Wegpunkt     |  +   3200        |  + 15             |
+|  Platz #1      		|  + 28'000        |  + 50             |
+|  Platz #2      		|  + 20'000        |  + 30             |
+|  Platz #3      		|  + 12'000        |  + 10             |
 
 
 
