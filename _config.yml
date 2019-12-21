@@ -19,8 +19,8 @@ masthead_title           : # overrides the website title displayed in the masthe
 words_per_minute         : 200
 atom_feed:
   path                   : # blank (default) uses feed.xml
-og_image                 : "/assets/images/logo.jpg"
-el-negroooar             : "https://el-negroooar.github.io/swiss-knights-z"
+og_image                 : "/assets/images/logo.png"
+el-negroooar             : # "https://el-negroooar.github.io/swiss-knights-z"
 
 # Site Author
 author:
