@@ -73,13 +73,13 @@ Die Belohnung der Allianz setzt sich aus den beiden Währungen Einfluss (Sterne)
 
 
 |            			| Einfluss (Sterne)  | Kriegspunkte (Flaggen) |
-|			  			|:-----------:		 | ------------:|
-|  Teilnahme am Krieg   |  -      			 |  + 50        |
-|  Kampf um Spot      	|  -      			 |  +  5        |
-|  Sieg am Wegpunkt     |  +   3200      	 |  + 15        |
-|  Platz #1      		|  + 28'000      	 |  + 50        |
-|  Platz #2      		|  + 20'000      	 |  + 30        |
-|  Platz #3      		|  + 12'000      	 |  + 10        |
+|:---------------------:| -----------------: | ----------------------:|
+|  Teilnahme am Krieg   |  -      			 |  + 50                  |
+|  Kampf um Spot      	|  -      			 |  +  5                  |
+|  Sieg am Wegpunkt     |  +   3200      	 |  + 15                  |
+|  Platz #1      		|  + 28'000      	 |  + 50                  |
+|  Platz #2      		|  + 20'000      	 |  + 30                  |
+|  Platz #3      		|  + 12'000      	 |  + 10                  |
 
 
 
