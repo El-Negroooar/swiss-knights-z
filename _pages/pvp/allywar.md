@@ -10,7 +10,7 @@ type: pages
 Kurz erklärt: Im Allianzkrieg spielen Spieler der selben Allianz zusammen gegen andere Allianzen. Für jeden Sieg erhalten sie "Einfluss", der kummuliert nach einer Season in Form einer Allianzkiste mit Belohnungen vergütet wird. Weitere Erklärungen weiter unten.
 
 
-## Spielzeiten
+## Spielzeit(en)
 
 Es können täglich bis zu 4 Allianzkriege ausgetragen werden. Die Zeiten zum Platzieren der Truppen sowie die effektiven Kriegszeiten sind abhängig der Zeitumstellung:
 
