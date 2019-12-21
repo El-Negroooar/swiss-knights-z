@@ -53,7 +53,7 @@ Eine Season bezeichnet die Zeitdauer von 2 Wochen, während derer gemeinsam Einf
 
 ### Einfluss
 
-Einfluss ist eine Ingame-Währung die anzeigt, wie aktiv ihr seid. Ihr könnt in der Liste der Allianzmitglieder wie auch in der Allianzhalle nachsehen, wieviel ihr bisher gesammelt habt. In der Allianzhalle seht ihr ausserdem, ob ihr euer Ziel erreicht habt.
+Einfluss ist eine Ingame-Währung die anzeigt, wie aktiv ihr seid. Ihr könnt in der Liste der Allianzmitglieder wie auch in der Allianzhalle nachsehen, wieviel ihr bisher gesammelt habt. In der Allianzhalle seht ihr ausserdem, ob ihr euer Ziel erreicht habt und berechtigt seid, eine Belohnung aus der Allianzkiste zu erhalten.
 Ihr könnt euch Einfluss verdienen, indem ihr folgende Aktivitäten meistert: Für jeden besiegten Gegner in der Arena, bei PVP-Raubzügen & im Allianzkrieg.
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/allywar/influence.png" }})
