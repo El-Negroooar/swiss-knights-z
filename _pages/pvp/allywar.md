@@ -10,9 +10,9 @@ type: pages
 Kurz erklärt: Im Allianzkrieg spielen Spieler der selben Allianz zusammen gegen andere Allianzen. Für jeden Sieg erhalten sie "Einfluss", der kummuliert nach einer Season in Form einer Allianzkiste mit Belohnungen vergütet wird. Weitere Erklärungen weiter unten.
 
 
-## Spielzeit
+## Kampfzeiten
 
-Es können täglich bis zu 4 Allianzkriege ausgetragen werden. Die Zeiten zum Platzieren der Truppen sowie die effektiven Kriegszeiten sind abhängig der Zeitumstellung:
+Es können täglich bis zu 4 Allianzkriege ausgetragen werden, die vorher vom Clanleader, Vize oder einem Kriegsherren gestartet werden müssen. Die Zeiten zum Platzieren der Truppen sowie die effektiven Kampfzeiten sind abhängig der Zeitumstellung:
 
 
 | Winterzeit  |              | Sommerzeit |              |
@@ -72,7 +72,7 @@ Nach Beendiung einer Season könnt ihr das Ranking einsehen. Wenn ihr genug Einf
 
 ### Allianz
 
-Die Belohnung der Allianz setzt sich aus den beiden Währungen Einfluss (:star:) & Kriegspunkten (:triangular_flag_on_post:) zusammen. Diese können während eines Allianzkrieges wie folgt gewonnen werden:
+Die Belohnung der Allianz setzt sich aus den beiden Währungen Einfluss (:star:) & Kriegspunkten (:triangular_flag_on_post:) zusammen, wobei der Einfluss in der Allianzkiste und die Kriegspunkte im globalen Ranking münden. Diese können während eines Allianzkrieges wie folgt gewonnen werden:
 
 | Kriterien    			| Einfluss :star: | Kriegspunkte  :triangular_flag_on_post: |
 |:---------------------:| ---------------:| -----------------:|
