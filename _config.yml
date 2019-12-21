@@ -9,10 +9,10 @@ subtitle                 : "Die gesellige Schweizer Zero City Allianz"
 name                     : "El Jefe"
 description              : "Informationen zu Zero City: Zombie Survival"
 url                      : "https://github.com/el-negroooar"
-baseurl                  : #"/swiss-knights-z"
+baseurl                  : "/swiss-knights-z"
 repository               : "el-negroooar/swiss-knights-z"
 teaser                   : "/assets/images/zero-city-official-image.jpg"
-logo                     : "/assets/images/logo.png"
+logo                     : "https://github.com/el-negroooar/swiss-knights-z/assets/images/logo.png"
 title-img                : #"/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
