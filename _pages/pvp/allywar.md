@@ -64,8 +64,26 @@ Nach Beendiung einer Season könnt ihr das Ranking einsehen. Wenn ihr genug Einf
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/allywar/ranking.png" }})
 
-### Belohnung
+## Belohnungen
 
+### Allianz
+
+Die Belohnung der Allianz setzt sich aus den beiden Währungen Einfluss (Sterne) & Kriegspunkten (Flaggen) zusammen. Diese können während eines Allianzkrieges wie folgt gewonnen werden:
+
+
+|            			| Einfluss (Sterne)  | Kriegspunkte (Flaggen) |
+|			  			|:-----------:		 | ------------:|
+|  Teilnahme am Krieg   |  -      			 |  + 50        |
+|  Kampf um Spot      	|  -      			 |  +  5        |
+|  Sieg am Wegpunkt     |  +   3200      	 |  + 15        |
+|  Platz #1      		|  + 28'000      	 |  + 50        |
+|  Platz #2      		|  + 20'000      	 |  + 30        |
+|  Platz #3      		|  + 12'000      	 |  + 10        |
+
+
+
+### Spieler
+Nebst der Möglichkeit, bei einem gewonnenen Wegpunkt auf der Karte eine persönliche Belohnung in Form einer Kiste zu erhalten, kannst du dir nach einer Season eine Belohnung aus der Allianzkiste verdienen.
 Bezugsberechtigt sind nur Mitglieder, die entsprechend der [Tabelle]({{ site.el-negroooar | append:"/pvp/allywar/#voraussetzungen" }}) ihr Minimum an Einfluss während einer Season gesammelt haben. In der Verteilung berücksichtigt werden folgende Faktoren: Gesammelter Einfluss (vergangene Season), aktueller Einfluss (neue Season), bisherige erhaltene Belohnungen, Prioritätsetzung im Doodle.
 
 Denk daran, die Season dauert ganze 2 Wochen, also gibt es auch nur alle 2 Wochen eine Belohnung. Jeder hofft seinem Einsatz entsprechend auf eine bestmögliche Belohnung. Es kann aber nur verteilt werden, was da ist. Du kannst mit deinem Einsatz aber dafür sorgen, dass wir bessere Belohnungen erhalten. Geduld und Ausdauer sind der Schlüssel zum Ziel.
