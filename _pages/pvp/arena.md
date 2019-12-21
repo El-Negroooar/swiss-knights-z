@@ -1,6 +1,6 @@
 ---
 permalink: /pvp/arena/
-title: "Arena (=Massaker)"
+title: "Arena (Massaker)"
 toc: true
 ---
 

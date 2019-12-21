@@ -9,7 +9,7 @@ toc: true
 
 > Wie funktioniert der Allianzkrieg?
 
-[Schau hier nach]({{ site.el-negroooar | append:"/pvp/allywar/}})
+[Schau hier nach]({{ site.el-negroooar | append:"/pvp/allywar/" }})
 
 
 > Warum erhalte ich keine Belohnung aus dem Allianz-Krieg?

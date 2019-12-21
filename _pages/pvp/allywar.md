@@ -26,6 +26,7 @@ Es können täglich bis zu 4 Allianzkriege ausgetragen werden. Die Zeiten zum Pl
 
 
 ## Voraussetzungen
+
 Die benötigte Menge Nahrung zur Teilnahme sowie die benötigte Menge an gesammeltem Einfluss für eine mögliche Belohnungen aus der Allianzkiste sind abhängig vom Level der [Kommando-Zentrale]({{ site.el-negroooar | append:"/rooms/command-center" }}) des Teilnehmers. Beides sind Vorgaben des Spiels, wer sein Einfluss-Ziel nicht erreicht, kann von der Leitung nicht belohnt werden.
 
 | Level | Teilnahme :hamburger: | Einfluss :star: |
@@ -77,7 +78,7 @@ Die Belohnung der Allianz setzt sich aus den beiden Währungen Einfluss (Sterne)
 |:---------------------:| ---------------:| -----------------:|
 | Teilnahme am Krieg    |        -        |              + 50 |
 | Kampf um Wegpunkt     |        -        |              +  5 |
-| Sieg am Wegpunkt      |        +   3200 |              + 15 |
+| Sieg am Wegpunkt      |        +  3'200 |              + 15 |
 | Platz #1      		|        + 28'000 |              + 50 |
 | Platz #2      		|        + 20'000 |              + 30 |
 | Platz #3      		|        + 12'000 |              + 10 |

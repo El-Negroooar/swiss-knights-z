@@ -65,7 +65,7 @@ Kaserne lvl 3
 | 20      |  20 |  20 |    20.9 |  20 |  20 |  20 | 20.8 |
 | 20s     |   1 |  20 |    19.9 |  20 |  20 |  19 | 19.8 |
 
-### Kaserne Level 4
+### Ab 4 Kämpfern
 
 Kaserne lvl 4
 
