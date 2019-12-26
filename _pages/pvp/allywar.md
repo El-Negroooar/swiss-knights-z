@@ -78,12 +78,11 @@ Die Belohnung der Allianz setzt sich aus den beiden Währungen Einfluss (:star:)
 |:---------------------:| ---------------:| -----------------:|
 | Teilnahme am Krieg    |        -        |              + 50 |
 | Kampf um Wegpunkt     |        -        |              +  5 |
-| Sieg am Wegpunkt      |        +  3'200 |              + 15 |
+| Sieg am Wegpunkt      |        +      X |              + 15 |
 | Platz #1      		|        + 28'000 |              + 50 |
 | Platz #2      		|        + 20'000 |              + 30 |
 | Platz #3      		|        + 12'000 |              + 10 |
-
-
+X = Summe aller gewonnenen Wegpunkte.
 
 ### Spieler
 
