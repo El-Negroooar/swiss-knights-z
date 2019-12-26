@@ -16,4 +16,6 @@ Für das Event wurd der neue Eventort Leuchtturm unten links auf der Karte freig
 
 ![Karte Leuchtturm]({{ site.el-negroooar | append:"/assets/images/events/lighthouse.png" }})
 
-Nebst der neuen Location gibt es für diverse Aktionen (PVP, Arena, Tägliche Missionen, Tunnel, Bahnhof, Freunde beschenken) Karten. Hat man ein Kartenset voll, bekommt man ebenfalls eine Kiste mit Goodies. Ab 100 Kartenset erhält man zudem die legendäre Mehrzweckwaffe "Thermaldrohne".
+Nebst der neuen Location gibt es für diverse Aktionen (PVP, Arena, Tägliche Missionen, Tunnel, Bahnhof, Freunde beschenken, Werbevideo) eine gewisse Anzahl Karten. Hat man ein Kartenset voll, bekommt man ebenfalls eine Kiste mit Goodies. Ab 100 Kartenset erhält man zudem die legendäre Mehrzweckwaffe "Thermaldrohne".
+
+![Kartensets]({{ site.el-negroooar | append:"/assets/images/events/cardset.png" }})

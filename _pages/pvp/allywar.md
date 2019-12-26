@@ -82,7 +82,9 @@ Die Belohnung der Allianz setzt sich aus den beiden Währungen Einfluss (:star:)
 | Platz #1      		|        + 28'000 |              + 50 |
 | Platz #2      		|        + 20'000 |              + 30 |
 | Platz #3      		|        + 12'000 |              + 10 |
+
 X = Summe aller gewonnenen Wegpunkte.
+
 
 ### Spieler
 
