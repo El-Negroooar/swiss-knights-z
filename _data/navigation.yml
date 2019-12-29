@@ -1,4 +1,5 @@
 main:
+
   - title: ":wave: Allgemeines"
     url: /general/
   - title: ":busts_in_silhouette: Allianz"
@@ -11,3 +12,4 @@ main:
     url: /glossary/
   - title: ":question: FAQ"
     url: /faq/
+
