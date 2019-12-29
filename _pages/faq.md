@@ -4,9 +4,6 @@ title: "FAQ"
 toc: true
 ---
 
-<!--- {{ page.last_modified_at | date: '%d %b %Y' }} -->
-<!--- {% last_modified_at %Y:%B:%A:%d:%S:%R %} -->
-
  :arrow_right: Schreibt eure Fragen im Discord in den guide chat.
 
 
