@@ -98,6 +98,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jemoji
+  - jekyll-last-modified-at
 
 # mimic GitHub Pages with --safe
 whitelist:

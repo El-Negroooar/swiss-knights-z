@@ -4,6 +4,8 @@ title: "FAQ"
 toc: true
 ---
 
+Letztes Update: {{ page.last_modified_at | date: '%d %b %Y' }}
+
  :arrow_right: Schreibt eure Fragen im Discord in den guide chat.
 
 
