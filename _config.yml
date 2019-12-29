@@ -1,12 +1,12 @@
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark"
+minimal_mistakes_skin    : "bright"
 
 # Site Settings
 locale                   : "ch-DE"
 title                    : "Swiss Knights Z"
 title_separator          : "-"
 subtitle                 : "Die gesellige Schweizer Zero City Allianz"
-name                     : "El Jefe"
+name                     : "Nobody"
 description              : "Informationen zu Zero City: Zombie Survival"
 url                      : "https://github.com/el-negroooar"
 baseurl                  : "/swiss-knights-z"
