@@ -12,7 +12,7 @@ toc: true
 * :construction: [Bauen]({{ site.el-negroooar | append:"/build" }})
 * :door: [Räume]({{ site.el-negroooar | append:"/rooms" }})
 * :couple: [Bewohner]({{ site.el-negroooar | append:"/people" }})
-* [Ressourcen]({{ site.el-negroooar | append:"/resources" }})
+* :bar_chart: [Ressourcen]({{ site.el-negroooar | append:"/resources" }})
  
 ## Kympfsysteme
 
