@@ -18,11 +18,11 @@ toc: true
 
 * :crown: [Arena]({{ site.el-negroooar | append:"/pvp/arena/" }}) 
   * [Gruppen (Brackets)]({{ site.el-negroooar | append:"/pvp/arena-groups/" }})
-  * :house: [Arena-Laden]({{ site.el-negroooar | append:"/pvp/arena-store/" }})
+  * [Arena-Laden]({{ site.el-negroooar | append:"/pvp/arena-store/" }})
 * :circus_tent: [Allianz-Kriege]({{ site.el-negroooar | append:"/pvp/allywar/" }}) 
 * :punch: [Raubzüge]({{ site.el-negroooar | append:"/fight/attack" }}) 
  
-## Militär
+## Kampfsysteme
 
 * [Kommando-Zentrale]({{ site.el-negroooar | append:"/rooms/command-center" }})
 * [Kampf]({{ site.el-negroooar | append:"/fight" }})
@@ -33,7 +33,7 @@ toc: true
   * :gift_heart: [Qualität und Essenzen]({{ site.el-negroooar | append:"/equipment/materials" }})
   * :package: [Mehrzweck-Waffen]({{ site.el-negroooar | append:"/equipment/multi-devices" }})
 
-## Story
+## Storyline
 
 * [Kampagne/Story]({{ site.el-negroooar | append:"/campaign" }})
 
@@ -50,5 +50,5 @@ toc: true
 ## Helferlein
 
 * :japanese_goblin: [Zombie-Assistent]({{ site.el-negroooar | append:"/zombie-assistant/" }})
-* :wolf: [Bulldogge]({{ site.el-negroooar | append:"/faq/" }})
+* :dog: [Bulldogge]({{ site.el-negroooar | append:"/faq/" }})
 * :trophy: [Premium Account]({{ site.el-negroooar | append:"/in-app/premium-account/" }})
