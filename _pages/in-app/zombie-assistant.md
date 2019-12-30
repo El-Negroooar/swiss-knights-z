@@ -1,5 +1,5 @@
 ---
-permalink: /zombie-assistant/
+permalink: /in-app/zombie-assistant/
 title: "Zombie-Assistent"
 toc: true
 ---

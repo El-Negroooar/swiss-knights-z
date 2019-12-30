@@ -96,6 +96,6 @@ Um einen Chip aus einem Gegenstand zu entfernen, benötigt man Kryptocoins. Die 
 |:---------------------:| ---------------------:|
 | Grau: Gewöhnlich      |                     1 |
 | Grün: Ungewöhnlich    |                     5 |
-| Blau: Selten          |                     ? |
-| Violett: Episch      	|                     ? |
+| Blau: Selten          |                    10 |
+| Violett: Episch      	|                    15 |
 | Orange: Legendär     	|                     ? |
