@@ -1,9 +1,11 @@
 ---
-permalink: /events/christmas
-title: "Weihnachtsevent"
+permalink: /events/
+title: "Events"
 toc: true
 ---
 
+
+## Weihnachtsevent
 
 Weihnachten ist das letzte grosse Event Ende des Jahres. Es beginnt ca. um den 14. Dezember und dauert an bis ca. 29. Dezember.
 Es können viele tolle Preise gewonnen werden, darunter Prototypen (für Waffen, 2019) sowie legendäre Mehrzweckwaffen (Thermaldrohne, 2019).

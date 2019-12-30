@@ -12,4 +12,6 @@ main:
     url: /glossary/
   - title: ":question: FAQ"
     url: /faq/
+  - title: " :performing_arts: Events"
+    url: /events/
 
