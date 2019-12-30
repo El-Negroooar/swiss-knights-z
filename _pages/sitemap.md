@@ -14,7 +14,7 @@ toc: true
 * :couple: [Bewohner]({{ site.el-negroooar | append:"/people" }})
 * :bar_chart: [Ressourcen]({{ site.el-negroooar | append:"/resources" }})
  
-## Kympfsysteme
+## Kampfsysteme
 
 * :crown: [Arena]({{ site.el-negroooar | append:"/pvp/arena/" }}) 
   * [Gruppen (Brackets)]({{ site.el-negroooar | append:"/pvp/arena-groups/" }})
