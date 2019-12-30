@@ -37,7 +37,7 @@ toc: true
 
 * [Kampagne/Story]({{ site.el-negroooar | append:"/campaign" }})
 
-### Tägliche Quests
+## Tägliche Quests
 
 * [Werbe-Schatztruhe]({{ site.el-negroooar | append:"/quests/ad-chest" }})
 * [Missions-Schatztruhe]({{ site.el-negroooar | append:"/quests/mission-chest" }})
