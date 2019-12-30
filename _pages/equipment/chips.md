@@ -24,7 +24,7 @@ Die Reihenfolge wurde so gewählt, wie sie nach eigenen Erfahrungen mengenmässi
 
 ### Stufe erhalten
 
-| Seltenheit Chip    	| Geld für max. Aufwertung |  Energie für max. Aufwertung |
+| Seltenheit Chip    	| Kosten (Bargeld) |  Energie für max. Aufwertung |
 |:---------------------:| ------------------------:|  ---------------------------:|
 | Grau: Gewöhnlich      |                          |                              |
 | Grün: Ungewöhnlich    |                          |                              |
@@ -35,7 +35,7 @@ Die Reihenfolge wurde so gewählt, wie sie nach eigenen Erfahrungen mengenmässi
 
 ### Verschmelzen
 
-| Seltenheit Chip    	| Geld für Verschmelzung|  Chance auf Erfolg |
+| Seltenheit Chip    	| Kosten (Bargeld)|  Chance auf Erfolg |
 |:---------------------:| ---------------------:|  -----------------:|
 | Grau: Gewöhnlich      |             500'000   |                99% |
 | Grün: Ungewöhnlich    |           1'500'000   |                70% |
@@ -50,7 +50,7 @@ Die Reihenfolge wurde so gewählt, wie sie nach eigenen Erfahrungen mengenmässi
 
 Wenn dir Komponenten fehlen, kannst du Material, das für die Herstellung von Equipment gebraucht wird, in Komponenten umwandeln:
 
-| Seltenheit Material   | Geld für Wiederverwertung|  Umwandlungssatz   | Dauer der Umwandlung |
+| Seltenheit Material   | Kosten (Geld) |  Umwandlungssatz   | Wartezeit|
 |:---------------------:| ------------------------:|  -----------------:| --------------------:|
 | Grau: Gewöhnlich      |                 100      |                x15 |            5 Minuten |
 | Grün: Ungewöhnlich    |              10'000      |                x25 |           30 Minuten |
@@ -62,13 +62,15 @@ Mit der Anzahl des umzuwandelnden Materials sinkt die Zeit pro Einheit, 2 Stück
 
 ### Chips wiederverwerten
 
-| Seltenheit Chips      | Kosten für Zerschlagen   |  Umwandlungssatz   | Dauer der Umwandlung |
-|:---------------------:| ------------------------:|  -----------------:| --------------------:|
-| Grau: Gewöhnlich      |                          |                    |                      |
-| Grün: Ungewöhnlich    |                          |                    |                      |
-| Blau: Selten          |                          |                    |                      |
-| Violett: Episch      	|                          |                    |                      |
-| Orange: Legendär     	|                          |                    |                      |
+Für das Widerverwerten von Chips zu Komponenten fallen weder Kosten noch Wartezeiten an:
+
+| Seltenheit Chips      | unaufgewertet    | voll aufgewertet |
+|:---------------------:|-----------------:|-----------------:|
+| Grau: Gewöhnlich      |              x50 |                ? |
+| Grün: Ungewöhnlich    |              x83 |            x2333 |
+| Blau: Selten          |              x28 |                ? |
+| Violett: Episch      	|               x9 |                ? |
+| Orange: Legendär     	|                ? |                ? |
 
 
 
@@ -76,7 +78,15 @@ Mit der Anzahl des umzuwandelnden Materials sinkt die Zeit pro Einheit, 2 Stück
 
 ### Einsetzen
 
-Um einen Chip in einen Gegenstand einzusetzen, benötigt man Spielgeld.
+Um einen Chip in einen Gegenstand einzusetzen, benötigt man Bargeld.
+
+| Seltenheit Chip    	| Kosten (Bargeld)   	|
+|:---------------------:| ---------------------:|
+| Grau: Gewöhnlich      |                15'000 |
+| Grün: Ungewöhnlich    |                50'000 |
+| Blau: Selten          |               100'000 |
+| Violett: Episch      	|             1'000'000	|
+| Orange: Legendär     	|                     ? |
 
 ### Extrahieren
 
@@ -86,6 +96,6 @@ Um einen Chip aus einem Gegenstand zu entfernen, benötigt man Kryptocoins. Die 
 |:---------------------:| ---------------------:|
 | Grau: Gewöhnlich      |                     1 |
 | Grün: Ungewöhnlich    |                     5 |
-| Blau: Selten          |                       |
-| Violett: Episch      	|                   	|
-| Orange: Legendär     	|                   	|
+| Blau: Selten          |                     ? |
+| Violett: Episch      	|                     ? |
+| Orange: Legendär     	|                     ? |
