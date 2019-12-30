@@ -1,6 +1,6 @@
 ---
 permalink: /shelter/
-title: "Deine Zuflucht: Basis-Management"
+title: "Deine Zuflucht"
 toc: true
 ---
 

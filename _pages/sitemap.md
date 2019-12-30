@@ -14,7 +14,7 @@ toc: true
 * :couple: [Bewohner]({{ site.el-negroooar | append:"/people" }})
 * [Ressourcen]({{ site.el-negroooar | append:"/resources" }})
  
-## PvP
+## Kympfsysteme
 
 * :crown: [Arena]({{ site.el-negroooar | append:"/pvp/arena/" }}) 
   * [Gruppen (Brackets)]({{ site.el-negroooar | append:"/pvp/arena-groups/" }})
@@ -22,7 +22,7 @@ toc: true
 * :circus_tent: [Allianz-Kriege]({{ site.el-negroooar | append:"/pvp/allywar/" }}) 
 * :punch: [Raubzüge]({{ site.el-negroooar | append:"/fight/attack" }}) 
  
-## Kampfsysteme
+## Militär
 
 * [Kommando-Zentrale]({{ site.el-negroooar | append:"/rooms/command-center" }})
 * [Kampf]({{ site.el-negroooar | append:"/fight" }})
@@ -49,6 +49,6 @@ toc: true
 
 ## Helferlein
 
-* :japanese_goblin: [Zombie-Assistent]({{ site.el-negroooar | append:"/zombie-assistant/" }})
+* :japanese_goblin: [Zombie-Assistent]({{ site.el-negroooar | append:"/in-app/zombie-assistant/" }})
 * :dog: [Bulldogge]({{ site.el-negroooar | append:"/faq/" }})
 * :trophy: [Premium Account]({{ site.el-negroooar | append:"/in-app/premium-account/" }})
