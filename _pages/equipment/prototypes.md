@@ -1,6 +1,6 @@
 ---
 permalink: /equipment/prototypes/
-title: "Waffen"
+title: "Prototypen"
 toc: true
 ---
 
