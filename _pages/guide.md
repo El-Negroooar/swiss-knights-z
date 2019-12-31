@@ -4,11 +4,13 @@ title: "Starter Guide"
 toc: true
 ---
 
+Nützlich für alle Neulinge zu Beginn des Spiels. Profitiere von den Erfahrungen der anderen Spieler!
+
 ## Starter-Tips
 
-1. Möglichst bald [5:star:-Bewohner]({{ site.el-negroooar | append:"/people/" }}) produzieren und als erstes die alten Kämpfer damit ersetzen.
+1. Möglichst bald [3-5:star:-Bewohner]({{ site.el-negroooar | append:"/people/" }}) produzieren und 1-2 :star:-Bewohner verbannen.
 2. Fokus auf Nahrungs- & Bargeld-Produktion.
-3. Keine Bossrüstung kaufen, lohnt sich nicht.
+3. Keine Bossrüstungen kaufen, lohnt sich nicht.
 4. [Pitbull-Wachhund]({{ site.el-negroooar | append:"/faq/" }}) nicht kaufen, ist nur zur Deko.
 5. Zu Beginn kann der [Zombie-Assistent]({{ site.el-negroooar | append:"/in-app/zombie-assistant/" }}) sehr nützlich sein.
 6. [Kryptocoins]({{ site.el-negroooar | append:"/in-app/cryptocoins" }}) für: 2 zusätzliche Baumeister, Zombietracker x2, Nahrungskisten.
