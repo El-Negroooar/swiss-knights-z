@@ -9,9 +9,9 @@ toc: true
 1. Möglichst bald [5:star:-Bewohner]({{ site.el-negroooar | append:"/people/" }}) produzieren und als erstes die alten Kämpfer damit ersetzen.
 2. Fokus auf Nahrungs- & Bargeld-Produktion.
 3. Keine Bossrüstung kaufen, lohnt sich nicht.
-4. Pitbull-Wachhund nicht kaufen, ist nur zur Deko.
-5. Zu Beginn kann der Zombie-Assistent sehr nützlich sein.
-6. Kryptocoins ausgeben für: 2 zusätzliche Arbeiter, Zombietracker x2, Nahrungskisten.
+4. [Pitbull-Wachhund]({{ site.el-negroooar | append:"/faq/" }}) nicht kaufen, ist nur zur Deko.
+5. Zu Beginn kann der [Zombie-Assistent]({{ site.el-negroooar | append:"/in-app/zombie-assistant/" }}) sehr nützlich sein.
+6. [Kryptocoins]({{ site.el-negroooar | append:"/in-app/cryptocoins" }}) für: 2 zusätzliche Arbeiter, Zombietracker x2, Nahrungskisten.
 7. Ab Kommandostufe 6 Kämpfer komplett mit legendärem Equipment ausrüsten.
 8. Auf Kommandostufe 7 möglichst viele Arenachips sammeln (>100k).
 
