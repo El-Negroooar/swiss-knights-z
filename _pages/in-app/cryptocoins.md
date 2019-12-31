@@ -14,8 +14,8 @@ Kryptocoins ist die "Premium"-Ingame Währung die mittels Echtgeldkäufen bezoge
 - Durch das Abschliessen von Erfolgen.
 - Armeeladen gegen Tunnelmarken.
 
-![Achievements]({{ site.el-negroooar | append:"/assets/images/in-app/achievements.png" }})
-![Tunnelcrypto]({{ site.el-negroooar | append:"/assets/images/in-app/tunnelcrypto.png" }})
+![Achievements]({{ site.el-negroooar | append:"/assets/images/in-app/achievements.png" }})  
+![Tunnelcrypto]({{ site.el-negroooar | append:"/assets/images/in-app/tunnelcrypto.png" }})  
 
 
 ### Kryptocoins investieren
@@ -25,7 +25,7 @@ Kryptocoins ist die "Premium"-Ingame Währung die mittels Echtgeldkäufen bezoge
 - Nahrungskisten für Events (meist an Events selbst beziehbar).
 
 
-![Bauarbeiter1]({{ site.el-negroooar | append:"/assets/images/in-app/worker1.png" }})
-![Bauarbeiter2]({{ site.el-negroooar | append:"/assets/images/in-app/worker2.png" }})
-![Trackerx2]({{ site.el-negroooar | append:"/assets/images/in-app/zombietracker.png" }})
-![Nahrungskiste]({{ site.el-negroooar | append:"/assets/images/in-app/foodchest.png" }})
+![Bauarbeiter1]({{ site.el-negroooar | append:"/assets/images/in-app/worker1.png" }})  
+![Bauarbeiter2]({{ site.el-negroooar | append:"/assets/images/in-app/worker2.png" }})  
+![Trackerx2]({{ site.el-negroooar | append:"/assets/images/in-app/zombietracker.png" }})  
+![Nahrungskiste]({{ site.el-negroooar | append:"/assets/images/in-app/foodchest.png" }})  
