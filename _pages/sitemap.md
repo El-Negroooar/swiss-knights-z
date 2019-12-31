@@ -40,11 +40,11 @@ toc: true
 
 ## Tägliche Quests
 
-* :movie_camera: [Kiste des Werbeguckers]({{ site.el-negroooar | append:"/quests/ad-chest" }})
+* :clapper: [Kiste des Werbeguckers]({{ site.el-negroooar | append:"/quests/ad-chest" }})
 * :free: [Tägliche Kiste]({{ site.el-negroooar | append:"/quests/daily-chest" }})
-* :arrows_clockwise: [Tägliche Missionen]({{ site.el-negroooar | append:"/quests/mission-chest" }})
-* :skull: [Zombie-Horde]({{ site.el-negroooar | append:"/quests/horde/" }})
-* :bullettrain_side: [Bahnhofsraubzug]({{ site.el-negroooar | append:"/pvp/railway-raid/" }})
+* :twisted_rightwards_arrows: [Tägliche Missionen]({{ site.el-negroooar | append:"/quests/mission-chest" }})
+* :japanese_ogre: [Zombie-Horde]({{ site.el-negroooar | append:"/quests/horde/" }})
+* :station: [Bahnhofsraubzug]({{ site.el-negroooar | append:"/pvp/railway-raid/" }})
 
 ## Helferlein
 
