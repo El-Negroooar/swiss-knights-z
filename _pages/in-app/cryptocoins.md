@@ -24,6 +24,7 @@ Kryptocoins ist die "Premium"-Ingame Währung die mittels Echtgeldkäufen bezoge
 - Baumeister (ermöglicht parallele Gebäude-Upgrades).
 - Zombie-Tracker x2 im Tunnel (x3 ist weniger Kosteneffizient).
 - Nahrungskisten für Events (meist an Events selbst beziehbar).
+- Ressourcen (Falls dir nur noch wenig für ein teures Upgrade fehlt).
 
 
 ![Bauarbeiter1]({{ site.el-negroooar | append:"/assets/images/in-app/worker1.png" }}) 
