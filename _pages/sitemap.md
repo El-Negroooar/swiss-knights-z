@@ -51,5 +51,5 @@ toc: true
 ## Helferlein
 
 * :japanese_goblin: [Zombie-Assistent]({{ site.el-negroooar | append:"/in-app/zombie-assistant/" }})
-* :dog: [Bulldogge]({{ site.el-negroooar | append:"/faq/" }})
+* :dog: [Pittbull-Wachhund]({{ site.el-negroooar | append:"/faq/" }})
 * :trophy: [Premium Account]({{ site.el-negroooar | append:"/in-app/premium-account/" }})
