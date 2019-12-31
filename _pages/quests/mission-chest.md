@@ -21,13 +21,13 @@ Im unteren Bild siehst du die Belohnungen.
 
 ## Mit Werbung
 
-### Anzeige-Mission
-
-* "Sieh dir eine Werbung in dieser Mission an, um eine Belohnung zu erhalten."
-
 ### Filmtheater
 
 * "Schliesse alle Missionen ab, die Werbungen beinhalten. [0/3]"
+
+### Anzeige-Mission
+
+* "Sieh dir eine Werbung in dieser Mission an, um eine Belohnung zu erhalten."
 
 
 ## Ohne Werbung
