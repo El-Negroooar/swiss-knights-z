@@ -8,23 +8,23 @@ Kryptocoins ist die "Premium"-Ingame Währung die mittels Echtgeldkäufen bezoge
 
 ### Kryptocoins erhalten
 
-- Tägliche Quests
-- Schauen von Werbevideos
-- Einsammeln von Smileys der Bewohner
-- Tunnel-Laden gegen Tunnelmarken
-- Durch das Abschliessen von Erfolgen
+- Tägliche Quests.
+- Schauen von Werbevideos.
+- Einsammeln von Smileys der Bewohner.
+- Durch das Abschliessen von Erfolgen.
+- Armeeladen gegen Tunnelmarken.
 
 ![tunnelcrypto]({{ site.el-negroooar | append:"/assets/images/in-app/tunnelcrypto.png" }})
 
 
 ### Kryptocoins investieren
 
-- Bauarbeiter (ermöglicht parallele Gebäude-Upgrades)
+- Baumeister (ermöglicht parallele Gebäude-Upgrades).
 - Zombie-Tracker x2 im Tunnel (x3 ist weniger Kosteneffizient).
 - Nahrungskisten für Events (meist an Events selbst beziehbar).
 
 
 ![Bauarbeiter1]({{ site.el-negroooar | append:"/assets/images/in-app/worker1.png" }})
 ![Bauarbeiter2]({{ site.el-negroooar | append:"/assets/images/in-app/worker2.png" }})
-![Trackerx2]({{ site.el-negroooar | append:"/assets/images/in-app/tunneltracker.png" }})
+![Trackerx2]({{ site.el-negroooar | append:"/assets/images/in-app/zombietracker.png" }})
 ![Nahrungskiste]({{ site.el-negroooar | append:"/assets/images/in-app/foodchest.png" }})
