@@ -6,6 +6,8 @@ toc: true
 
 Die Chips sind aufwertbare Verstärkungen, welche die Eigenschaften von Equipment erhöhen können. Sie sind i.d.R. nur in legendären oder epischen Gegenständen einsetzbar.
 
+![Chips]({{ site.el-negroooar | append:"/assets/images/tech/chips.png" }})  
+
 
 ## Typen
 
