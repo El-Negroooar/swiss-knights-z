@@ -14,9 +14,17 @@ Kryptocoins ist die "Premium"-Ingame Währung die mittels Echtgeldkäufen bezoge
 - Tunnel-Laden gegen Tunnelmarken
 - Durch das Abschliessen von Erfolgen
 
+![tunnelcrypto]({{ site.el-negroooar | append:"/assets/images/in-app/tunnelcrypto.png" }})
+
 
 ### Kryptocoins investieren
 
 - Bauarbeiter (ermöglicht parallele Gebäude-Upgrades)
 - Zombie-Tracker x2 im Tunnel (x3 ist weniger Kosteneffizient).
 - Nahrungskisten für Events (meist an Events selbst beziehbar).
+
+
+![Bauarbeiter1]({{ site.el-negroooar | append:"/assets/images/in-app/worker1.png" }})
+![Bauarbeiter2]({{ site.el-negroooar | append:"/assets/images/in-app/worker2.png" }})
+![Trackerx2]({{ site.el-negroooar | append:"/assets/images/in-app/tunneltracker.png" }})
+![Nahrungskiste]({{ site.el-negroooar | append:"/assets/images/in-app/foodchest.png" }})
