@@ -5,8 +5,8 @@ main:
     url: /sitemap/    
   - title: ":book: Guide"
     url: /guide/
-  - title: ":question: FAQ"
-    url: /faq/
   - title: " :performing_arts: Events"
     url: /events/
+  - title: ":question: FAQ"
+    url: /faq/
 
