@@ -6,7 +6,7 @@ toc: true
 
 ## Starter-Tips
 
-1. Möglichst bald 5:star:-Bewohner produzieren und als erstes die alten Kämpfer damit ersetzen.
+1. Möglichst bald [5:star:-Bewohner]({{ site.el-negroooar | append:"/people/" }}) produzieren und als erstes die alten Kämpfer damit ersetzen.
 2. Fokus auf Nahrungs- & Bargeld-Produktion.
 3. Keine Bossrüstung kaufen, lohnt sich nicht.
 4. Pitbull-Wachhund nicht kaufen, ist nur zur Deko.
