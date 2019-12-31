@@ -17,7 +17,7 @@ Es können täglich bis zu 4 Allianzkriege ausgetragen werden, die vorher vom Cl
 
 | Winterzeit  |              | Sommerzeit |              |
 | Setzen      | Kriegsbeginn | Setzen     | Kriegsbeginn |
-|:-----------:| ------------:| ----------:| ------------:|
+|:-----------:|:------------:|:----------:|:------------:|
 |  02.00      |  04.00       |  03.00     |  05.00       |
 |  08.00      |  10.00       |  09.00     |  11.00       |
 |  14.00      |  16.00       |  15.00     |  17.00       |
@@ -75,7 +75,7 @@ Nach Beendiung einer Season könnt ihr das Ranking einsehen. Wenn ihr genug Einf
 Die Belohnung der Allianz setzt sich aus den beiden Währungen Einfluss (:star:) & Kriegspunkten (:triangular_flag_on_post:) zusammen, wobei der Einfluss in der Allianzkiste und die Kriegspunkte im globalen Ranking münden. Diese können während eines Allianzkrieges wie folgt gewonnen werden:
 
 | Kriterien    			| Einfluss :star: | Kriegspunkte  :triangular_flag_on_post: |
-|:---------------------:| ---------------:| -----------------:|
+|:--------------------- | ---------------:| -----------------:|
 | Teilnahme am Krieg    |        -        |              + 50 |
 | Kampf um Wegpunkt     |        -        |              +  5 |
 | Sieg am Wegpunkt      |        +      X |              + 15 |
