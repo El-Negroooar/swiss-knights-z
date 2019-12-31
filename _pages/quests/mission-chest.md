@@ -1,6 +1,6 @@
 ---
 permalink: /quests/mission-chest/
-title: "Missions-Schatztruhe"
+title: "Tägliche Missionen"
 toc: true
 ---
 
@@ -22,11 +22,12 @@ Im unteren Bild siehst du die Belohnungen.
 
 ## Tausendsassa
 
->> "Schliesse tägliche Missionen ab, die keine Werbung beinhalten [0/4]"
+ "Schliesse tägliche Missionen ab, die keine Werbung beinhalten [0/4]"
+ !Extrabelohnung, wenn du 4 der folgenden täglichen Aufgaben erfüllst!
 
 ### Kampftruppe
 
->>> "Erringe beim Bahnhofsraubzug mehrere Siege in Folge [0/5]"
+-> "Erringe beim Bahnhofsraubzug mehrere Siege in Folge [0/5]"
 
 ### Schlachtsucher
 
@@ -34,8 +35,8 @@ Im unteren Bild siehst du die Belohnungen.
 
 ### Konfrontation
 
-=> "Erringe eine Reihe von Siegen in PvP-Kämpfen [0/5]"
+-> "Erringe eine Reihe von Siegen in PvP-Kämpfen [0/5]"
 
 ### Massenkontrolle!
 
-> "Erledige 10 Zombie-Mengen [0/10]"
+-> "Erledige 10 Zombie-Mengen [0/10]"
