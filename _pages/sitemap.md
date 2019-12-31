@@ -36,7 +36,7 @@ toc: true
 
 ## Storyline
 
-* [Kampagne/Story]({{ site.el-negroooar | append:"/campaign" }})
+* :boat: [Kampagne/Story]({{ site.el-negroooar | append:"/campaign" }})
 
 ## Tägliche Quests
 
