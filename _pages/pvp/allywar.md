@@ -15,7 +15,7 @@ Kurz erklärt: Im Allianzkrieg spielen Spieler der selben Allianz zusammen gegen
 Es können täglich bis zu 4 Allianzkriege ausgetragen werden, die vorher vom Clanleader, Vize oder einem Kriegsherren gestartet werden müssen. Die Zeiten zum Platzieren der Truppen sowie die effektiven Kampfzeiten sind abhängig der Zeitumstellung:
 
 
-| Winterzeit  |      1       | Sommerzeit |      2       |
+| Winterzeit  |              | Sommerzeit |              |
 | ----------- |:------------:| ---------- |:------------:|
 | Setzen      | Kriegsbeginn | Setzen     | Kriegsbeginn |
 |:-----------:|:------------:|:----------:|:------------:|
