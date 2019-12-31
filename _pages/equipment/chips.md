@@ -26,24 +26,24 @@ Die Reihenfolge wurde so gewählt, wie sie nach eigenen Erfahrungen mengenmässi
 
 ### Stufe erhalten
 
-| Seltenheit Chip    	| Kosten (Bargeld) |  Energie für max. Aufwertung |
-|:--------------------- | ------------------------:|  ---------------------------:|
-| Grau: Gewöhnlich      |                          |                              |
-| Grün: Ungewöhnlich    |                          |                              |
-| Blau: Selten          |                          |                              |
-| Violett: Episch      	|                   	   |                              |
-| Orange: Legendär     	|                   	-  |                           -  |
+| Mikrochip | Bargeld :dollar: | Energie :zap: |
+|:----------| ----------------:| -------------:|
+| Grau      |          18'750  |           375 |
+| Grün      |         300’000  |          3000 |
+| Blau      |       1’500’000  |          7500 |
+| Lila      |           	?  |             ? |
+| Orange    |           	-  |             - |
 
 
 ### Verschmelzen
 
-| Seltenheit Chip    	| Kosten (Bargeld)|  Chance auf Erfolg |
-|:--------------------- | ---------------------:|  -----------------:|
-| Grau: Gewöhnlich      |             500'000   |                99% |
-| Grün: Ungewöhnlich    |           1'500'000   |                70% |
-| Blau: Selten          |                       |                    |
-| Violett: Episch      	|                       |                    |
-| Orange: Legendär     	|                   -   |                  - |
+| Mikrochip | Kosten (Bargeld)|  Chance auf Erfolg |
+|:----------| ---------------:|  -----------------:|
+| Grau      |       500'000   |                99% |
+| Grün      |     1'500'000   |                70% |
+| Blau      |     2'500'000   |                50% |
+| Lila      |             ?   |                  ? |
+| Orange    |             -   |                  - |
 
 
 ## Wiederverwerten
@@ -52,13 +52,13 @@ Die Reihenfolge wurde so gewählt, wie sie nach eigenen Erfahrungen mengenmässi
 
 Wenn dir Komponenten fehlen, kannst du Material, das für die Herstellung von Equipment gebraucht wird, in Komponenten umwandeln:
 
-| Seltenheit Material   | Kosten (Geld) |  Umwandlungssatz   | Wartezeit|
-|:--------------------- | ------------------------:|  -----------------:| --------------------:|
-| Grau: Gewöhnlich      |                 100      |                x15 |            5 Minuten |
-| Grün: Ungewöhnlich    |              10'000      |                x25 |           30 Minuten |
-| Blau: Selten          |              40'000      |                x30 |           90 Minuten |
-| Violett: Episch      	|             150'000      |                x45 |            6 Stunden |
-| Orange: Legendär     	|                   ?      |                  ? |                    ? |
+| Material | Bargeld :dollar: | Umwandlungssatz | Wartezeit :clock1: |
+|:-------- | ----------------:| ---------------:| ------------------:|
+| Grau     |            100   |             x15 |          5 Minuten |
+| Grün     |         10'000   |             x25 |         30 Minuten |
+| Blau     |         40'000   |             x30 |         90 Minuten |
+| Lila     |        150'000   |             x45 |          6 Stunden |
+| Orange   |              ?   |               ? |         12 Stunden |
 
 Mit der Anzahl des umzuwandelnden Materials sinkt die Zeit pro Einheit, 2 Stück dauern z.B. statt 2x5 = 10 Minuten nur noch 9 Minuten 27 Sekunden.
 
@@ -66,13 +66,13 @@ Mit der Anzahl des umzuwandelnden Materials sinkt die Zeit pro Einheit, 2 Stück
 
 Für das Widerverwerten von Chips zu Komponenten fallen weder Kosten noch Wartezeiten an:
 
-| Seltenheit Chips      | unaufgewertet    | voll aufgewertet |
-|:--------------------- |-----------------:|-----------------:|
-| Grau: Gewöhnlich      |              x50 |                ? |
-| Grün: Ungewöhnlich    |              x83 |            x2333 |
-| Blau: Selten          |              x28 |                ? |
-| Violett: Episch      	|               x9 |                ? |
-| Orange: Legendär     	|                ? |                ? |
+| Mikrochip | unaufgewertet  | max. aufgewertet |
+|:--------- |---------------:|-----------------:|
+| Grau      |            x50 |                ? |
+| Grün      |            x83 |            x2333 |
+| Blau      |            x28 |                ? |
+| Lila      |             x9 |                ? |
+| Orange    |              ? |                ? |
 
 
 
@@ -82,22 +82,22 @@ Für das Widerverwerten von Chips zu Komponenten fallen weder Kosten noch Wartez
 
 Um einen Chip in einen Gegenstand einzusetzen, benötigt man Bargeld.
 
-| Seltenheit Chip    	| Kosten (Bargeld)   	|
-|:--------------------- | ---------------------:|
-| Grau: Gewöhnlich      |                15'000 |
-| Grün: Ungewöhnlich    |                50'000 |
-| Blau: Selten          |               100'000 |
-| Violett: Episch      	|             1'000'000	|
-| Orange: Legendär     	|                     ? |
+| Mikrochip | Bargeld :dollar: |
+|:----------| ---------------:|
+| Grau      |          15'000 |
+| Grün      |          50'000 |
+| Blau      |         100'000 |
+| Lila      |       1'000'000 |
+| Orange    |               ? |
 
 ### Extrahieren
 
 Um einen Chip aus einem Gegenstand zu entfernen, benötigt man Kryptocoins. Die Kosten sind abhängig von der Seltenheit des Chips, jedoch nicht von der Aufwertung (aufgeladene Energie).
 
-| Seltenheit Chip    	| Kryptocoins Kosten	|
-|:--------------------- | ---------------------:|
-| Grau: Gewöhnlich      |                     1 |
-| Grün: Ungewöhnlich    |                     5 |
-| Blau: Selten          |                    10 |
-| Violett: Episch      	|                    15 |
-| Orange: Legendär     	|                     ? |
+| Mikrochip | Kryptocoins |
+|:--------- | -----------:|
+| Grau      |           1 |
+| Grün      |           5 |
+| Blau      |          10 |
+| Lila      |          15 |
+| Orange    |           ? |
