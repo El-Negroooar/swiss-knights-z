@@ -14,7 +14,8 @@ Kryptocoins ist die "Premium"-Ingame Währung die mittels Echtgeldkäufen bezoge
 - Durch das Abschliessen von Erfolgen.
 - Armeeladen gegen Tunnelmarken.
 
-![tunnelcrypto]({{ site.el-negroooar | append:"/assets/images/in-app/tunnelcrypto.png" }})
+![Achievements]({{ site.el-negroooar | append:"/assets/images/in-app/achievements.png" }})
+![Tunnelcrypto]({{ site.el-negroooar | append:"/assets/images/in-app/tunnelcrypto.png" }})
 
 
 ### Kryptocoins investieren
