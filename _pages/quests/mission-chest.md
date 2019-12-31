@@ -22,7 +22,8 @@ Im unteren Bild siehst du die Belohnungen.
 
 ## Tausendsassa
 
- "Schliesse tägliche Missionen ab, die keine Werbung beinhalten [0/4]"
+ "Schliesse tägliche Missionen ab, die keine Werbung beinhalten [0/4]"  
+ 
  !Extrabelohnung, wenn du 4 der folgenden täglichen Aufgaben erfüllst!
 
 ### Kampftruppe
