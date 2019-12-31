@@ -20,7 +20,7 @@ Jeder Einwohner hat ein Potential. Abhängig vom Potential kann ein Bewohner nur
 
 Es gibt die Möglichkeit, fehlendes Potential durch Zukauf zu erwerben. Wir empfehlen es nicht, da es recht teuer ist. Das Potential deines Bewohners erkennst du an der Anzahl der Sterne.
 
-### Low Level
+### Low Level (1-2 :star:)
 
 1 bis 2-Sterne-Charaktere sind nicht ideal, sie sind schwach und sie bringen keinen echten Mehrwert für die Basis. Du solltest nur Bewohner mit hohen Sternen behalten. Verbanne low level Bewohner (siehe unten). Diese sind schnell am Limit.
 
@@ -30,7 +30,7 @@ Am Anfang können diese auch die Bauzeit von Räumen reduzieren, sind jedoch lan
 
 Bewohner mit Potential von 1-2 taugen minimal als Metallurgen, da die maximale Stufe 16 ist.
 
-### Average Joe
+### Average Joe (3-4 :star:)
 
 Was ist eigentlich mit den Durchschnittstypen die 3 bis 4-Sterne haben? Diese sind durchaus brauchbar, in der Ressourcen Produktion (Nahrung, Geld, etc.) oder als Überbrückung, bis man die Rockstars hat. Nicht jeder Einwohner muss 5 Sterne Potential haben, daher situationsbedingt behalten.
 
@@ -46,7 +46,7 @@ Das Upgrade von 4 auf 5 ist Horror :scream:
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/shelter/upgrade-potential-5.png" }})
 
-### Rockstars
+### Rockstars (5 :star:)
 
 Nur 5-Sterne-Charaktere können das Level :100: als Kämpfer erreichen. Obwohl dies Zeit und Geduld erfordert, lohnt es sich auf jeden Fall.
 
