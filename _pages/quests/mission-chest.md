@@ -22,19 +22,19 @@ Im unteren Bild siehst du die Belohnungen.
 
 ## Tausendsassa
 
-> "Schliesse tägliche Missionen ab, die keine Werbung beinhalten [0/4]"
+>> "Schliesse tägliche Missionen ab, die keine Werbung beinhalten [0/4]"
 
 ### Kampftruppe
 
-> "Erringe beim Bahnhofsraubzug mehrere Siege in Folge [0/5]"
+>>> "Erringe beim Bahnhofsraubzug mehrere Siege in Folge [0/5]"
 
 ### Schlachtsucher
 
-> "Nimm an Schlachten in der Arena teil. [0/7]"
+-> "Nimm an Schlachten in der Arena teil. [0/7]"
 
 ### Konfrontation
 
-> "Erringe eine Reihe von Siegen in PvP-Kämpfen [0/5]"
+=> "Erringe eine Reihe von Siegen in PvP-Kämpfen [0/5]"
 
 ### Massenkontrolle!
 

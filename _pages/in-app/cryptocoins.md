@@ -12,7 +12,7 @@ Kryptocoins ist die "Premium"-Ingame Währung die mittels Echtgeldkäufen bezoge
 - Schauen von Werbevideos
 - Einsammeln von Smileys der Bewohner
 - Tunnel-Laden gegen Tunnelmarken
-- Durch das abschliessen von Erfolgen
+- Durch das Abschliessen von Erfolgen
 
 
 ### Kryptocoins investieren
