@@ -11,7 +11,7 @@ Diese Seite widmet sich dem Herzstück deiner Basis, die Überlebenden der Zombi
 Jeder Einwohner hat ein Potential. Abhängig vom Potential kann ein Bewohner nur ein maximales Level in seiner Ausbildung erreichen.
 
 | Potential                      | Level |
-| ------------------------------ | ----- |
+| ------------------------------ | ----: |
 | :star:                         | 20    |
 | :star::star:                   | 40    |
 | :star::star::star:             | 60    |
