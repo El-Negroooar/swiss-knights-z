@@ -16,3 +16,26 @@ Du kannst eine kostenlose Truhe bekommen, sobald du genügend Quests-Punkte gesa
 Im unteren Bild siehst du die Belohnungen.
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/quests/daily-quests-reward.png" }})
+
+
+
+
+## Tausendsassa
+
+> "Schliesse tägliche Missionen ab, die keine Werbung beinhalten [0/4]"
+
+### Kampftruppe
+
+> "Erringe beim Bahnhofsraubzug mehrere Siege in Folge [0/5]"
+
+### Schlachtsucher
+
+> "Nimm an Schlachten in der Arena teil. [0/7]"
+
+### Konfrontation
+
+> "Erringe eine Reihe von Siegen in PvP-Kämpfen [0/5]"
+
+### Massenkontrolle!
+
+> "Erledige 10 Zombie-Mengen [0/10]"

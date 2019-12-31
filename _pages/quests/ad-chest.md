@@ -1,6 +1,6 @@
 ---
 permalink: /quests/ad-chest/
-title: "Werbe-Schatztruhe"
+title: "Kiste des Werbeguckers"
 toc: true
 ---
 

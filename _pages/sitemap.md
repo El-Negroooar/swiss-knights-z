@@ -40,12 +40,9 @@ toc: true
 
 ## Tägliche Quests
 
-* [Werbe-Schatztruhe]({{ site.el-negroooar | append:"/quests/ad-chest" }})
+* [Kiste des Werbeguckers]({{ site.el-negroooar | append:"/quests/ad-chest" }})
+* [Tägliche Kiste]({{ site.el-negroooar | append:"/quests/daily-chest" }})
 * [Missions-Schatztruhe]({{ site.el-negroooar | append:"/quests/mission-chest" }})
-* [Tages-Schatztruhe]({{ site.el-negroooar | append:"/quests/daily-chest" }})
-* Schlachtsucher
-* Konfrontation
-* Tausendsassa
 * [Bahnhofsraubzug]({{ site.el-negroooar | append:"/pvp/railway-raid/" }})
 
 ## Helferlein
