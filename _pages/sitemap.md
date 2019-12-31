@@ -16,11 +16,11 @@ toc: true
  
 ## Kampfsysteme
 
+* :circus_tent: [Allianz-Kriege]({{ site.el-negroooar | append:"/pvp/allywar/" }}) 
+* :punch: [Raubzüge]({{ site.el-negroooar | append:"/fight/attack" }}) 
 * :crown: [Arena]({{ site.el-negroooar | append:"/pvp/arena/" }}) 
   * [Gruppen (Brackets)]({{ site.el-negroooar | append:"/pvp/arena-groups/" }})
   * [Arena-Laden]({{ site.el-negroooar | append:"/pvp/arena-store/" }})
-* :circus_tent: [Allianz-Kriege]({{ site.el-negroooar | append:"/pvp/allywar/" }}) 
-* :punch: [Raubzüge]({{ site.el-negroooar | append:"/fight/attack" }}) 
  
 ## Militär
 

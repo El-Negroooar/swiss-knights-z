@@ -1,6 +1,6 @@
 ---
 permalink: /guide/
-title: "Allianz Guide"
+title: "Starter Guide"
 toc: true
 ---
 
