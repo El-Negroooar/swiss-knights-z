@@ -23,45 +23,45 @@ Im unteren Bild siehst du die Belohnungen.
 
 ### Anzeige-Mission
 
--> "Sieh dir eine Werbung in dieser Mission an, um eine Belohnung zu erhalten."
+* "Sieh dir eine Werbung in dieser Mission an, um eine Belohnung zu erhalten."
 
 ### Filmtheater
 
--> "Schliesse alle Missionen ab, die Werbungen beinhalten. [0/3]"
+* "Schliesse alle Missionen ab, die Werbungen beinhalten. [0/3]"
 
 
 ## Ohne Werbung
 
 ### Tausendsassa
 
- -> "Schliesse tägliche Missionen ab, die keine Werbung beinhalten [0/4]"  
+* "Schliesse tägliche Missionen ab, die keine Werbung beinhalten [0/4]"  
 
 ### Kampftruppe
 
--> "Erringe beim Bahnhofsraubzug mehrere Siege in Folge [0/5]"
+* "Erringe beim Bahnhofsraubzug mehrere Siege in Folge [0/5]"
 
 ### Schlachtsucher
 
--> "Nimm an Schlachten in der Arena teil. [0/7]"
+* "Nimm an Schlachten in der Arena teil. [0/7]"
 
 ### Ein zuverlässiger Verbündeter
 
--> "Zeige deine guten Absichten, indem du Freunden ein paar Ressourcen schickst. [0/5]"
+* "Zeige deine guten Absichten, indem du Freunden ein paar Ressourcen schickst. [0/5]"
 
 ### Seite an Seite 
 
--> "Stelle deine Truppen an einem beliebigen Wegpunkt auf dem Schlachtfeld des Allianzkrieges auf."
+* "Stelle deine Truppen an einem beliebigen Wegpunkt auf dem Schlachtfeld des Allianzkrieges auf."
 
 ### Konfrontation
 
--> "Erringe eine Reihe von Siegen in PvP-Kämpfen [0/5]"
+* "Erringe eine Reihe von Siegen in PvP-Kämpfen [0/5]"
 
 ### Massenkontrolle!
 
--> "Erledige 10 Zombie-Mengen [0/10]"
+* "Erledige 10 Zombie-Mengen [0/10]"
+
 
 ## Tägliche Belohnungen
-
 
 | Mission   					| Dokumente | Kryptocoins | Arenaticket
 |:-----------------------------:| ---------:| -----------:| -----------:|
