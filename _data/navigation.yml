@@ -1,10 +1,10 @@
 main:
   - title: ":busts_in_silhouette: Allianz"
-    url: /about/  
+    url: /about/
+  - title: ":mag: Sitemap"
+    url: /sitemap/    
   - title: ":book: Guide"
     url: /guide/
-  - title: ":clipboard: Glossar"
-    url: /glossary/
   - title: ":question: FAQ"
     url: /faq/
   - title: " :performing_arts: Events"
