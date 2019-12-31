@@ -4,7 +4,7 @@ title: "Allianz-Statuten"
 toc: true
 ---
 
-Swiss Knight Z ist eine Allianz für das Spiel Zero City.
+Swiss Knight Z ist eine deutschsprachige, schweizer Allianz im Apokalypse-Spiel Zero City.
 
 ## Zweck
 
