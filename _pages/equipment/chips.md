@@ -37,13 +37,13 @@ Die Reihenfolge wurde so gewählt, wie sie nach eigenen Erfahrungen mengenmässi
 
 ### Verschmelzen
 
-| Mikrochip | Kosten (Bargeld)|  Chance auf Erfolg |
-|:----------| ---------------:|  -----------------:|
-| Grau      |       500'000   |                99% |
-| Grün      |     1'500'000   |                70% |
-| Blau      |     2'500'000   |                50% |
-| Lila      |             ?   |                  ? |
-| Orange    |             -   |                  - |
+| Mikrochip | Bargeld :dollar: | Chance auf Erfolg |
+|:----------| ----------------:| -----------------:|
+| Grau      |       500'000    |               99% |
+| Grün      |     1'500'000    |               70% |
+| Blau      |     2'500'000    |               50% |
+| Lila      |             ?    |                 ? |
+| Orange    |             -    |                 - |
 
 
 ## Wiederverwerten
