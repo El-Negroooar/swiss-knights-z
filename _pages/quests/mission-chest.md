@@ -24,7 +24,6 @@ Im unteren Bild siehst du die Belohnungen.
 ### Anzeige-Mission
 
 -> "Sieh dir eine Werbung in dieser Mission an, um eine Belohnung zu erhalten."
--> Belohnung: 5 Kryptomünzen, 2 Dokumente.
 
 ### Filmtheater
 
