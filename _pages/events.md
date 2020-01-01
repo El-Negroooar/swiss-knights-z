@@ -17,9 +17,9 @@ Mit dem Weihnachtsevent kommt der Zombie-Weihnachtsmann als Endboss ins Spiel, a
 Für das Event wurd der neue Eventort Leuchtturm unten rechts auf der Karte freigeschaltet. 
 
 3 Wege führen zum Leuchtturm, die alle erledigt werden müssen, um Santa gegenüber zu treten:  
-*1 Weg besteht aus Zombies-Horden.  
-*1 Weg besteht aus den Endbossen der Storyline.  
-*1 Weg besteht aus anderen Spielern.   
+* 1 Weg besteht aus Zombies-Horden.  
+* 1 Weg besteht aus den Endbossen der Storyline.  
+* 1 Weg besteht aus anderen Spielern.   
 
 Jeder gewonnene Wegpunkt gibt als Belohnung eine Kiste mit Goodies, eine besondere Kiste für den Endboss.
 
