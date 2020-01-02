@@ -33,6 +33,7 @@ toc: true
   * :gift_heart: [Qualität und Essenzen]({{ site.el-negroooar | append:"/equipment/materials" }})
   * :package: [Mehrzweck-Waffen]({{ site.el-negroooar | append:"/equipment/multi-devices" }})
   * :name_badge: [Chips]({{ site.el-negroooar | append:"/equipment/chips" }})
+  * :beginner: [Prototypen]({{ site.el-negroooar | append:"/equipment/prototypes" }})
 
 ## Storyline
 
