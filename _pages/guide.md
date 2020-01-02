@@ -8,7 +8,7 @@ Nützlich für alle Neulinge zu Beginn des Spiels. Profitiere von den Erfahrunge
 
 ## Starter-Tips
 
-1. Möglichst bald [3-5:star:-Bewohner]({{ site.el-negroooar | append:"/people/" }}) produzieren und 1-2 :star:-Bewohner verbannen.
+1. Möglichst bald 3-5:star:[-Bewohner]({{ site.el-negroooar | append:"/people/" }}) produzieren und 1-2 :star:-Bewohner verbannen.
 2. So schnell wie möglich min. 6 Kämpfer ab 3´*´+ hochleveln (Allianzkrieg).
 3. Fokus auf Nahrungs- & Bargeld-Produktion.
 4. Keine Bossrüstungen kaufen, lohnt sich nicht.
