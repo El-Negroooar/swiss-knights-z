@@ -18,10 +18,14 @@ Gemeinsam spielen und Zusammenhalt sowie Austausch fördern, sich gegenseitig un
 - Vize-Chef :cop: 
   - El Negro
 - Warlords :muscle:
-  - SRGT Tuchi
-  - Acchat
-- Offiziere :loudspeaker:
+  - Acchat (leitend)
+  - Kimi
+  - Rees
   - Khorli
+  - CTMMLKRMS
+  - Eddy
+- Offiziere :loudspeaker:
+  - zur Zeit keine
 
 
 ## Mitgliedschaft
