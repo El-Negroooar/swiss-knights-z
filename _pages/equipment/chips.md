@@ -1,6 +1,6 @@
 ---
-permalink: /equipment/chips/
-title: "Chips"
+permalink: /equipment/tech-center/
+title: "Tech-Zentrale"
 toc: true
 ---
 
@@ -9,7 +9,7 @@ Die Chips sind aufwertbare Verstärkungen, welche die Eigenschaften von Equipmen
 ![Chips]({{ site.el-negroooar | append:"/assets/images/tech/chips.png" }})  
 
 
-## Typen
+## Chips Typen
 
 - [23] Ausweichen
 - [14] Kritischer Schaden
