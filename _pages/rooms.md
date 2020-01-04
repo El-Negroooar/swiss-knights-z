@@ -21,6 +21,9 @@ Hier sind alle Räume aufgelistet die Ressourcen produzieren. Die jeweils dazuge
 | :door: [Sägewerk]({{ site.el-negroooar | append:"/rooms/lumber-hill" }})    | [Holz Lagerhaus]({{ site.el-negroooar | append:"/rooms/wood-warehouse" }}) | [Tischerwerkstatt]({{ site.el-negroooar | append:"/rooms/carpentry-workshop" }}) |
 | :pill: [Chemie Labor]({{ site.el-negroooar | append:"/rooms/chemical-laboratory" }})    | [Reagenzien Lagerhaus]({{ site.el-negroooar | append:"/rooms/reagent-warehouse" }}) | [Experimentelles Labor]({{ site.el-negroooar | append:"/rooms/forge" }}) |
 | :wrench: [Giesserei]({{ site.el-negroooar | append:"/rooms/foundry" }})     | [Stahl Lagerhaus]({{ site.el-negroooar | append:"/rooms/steel-warehouse" }})      | [Schmiede]({{ site.el-negroooar | append:"/rooms/experimental-lab" }}) |
+
+| Heilung         | Kampfbasis              | Training                |
+| ------------------------ | ---------------------- | ----------------------- |
 | :hospital: [Krankenhaus]({{ site.el-negroooar | append:"/rooms/hospital" }})  | :trollface: [Arsenal]({{ site.el-negroooar | append:"/rooms/arsenal" }})   | :fist: [Trainigsraum]({{ site.el-negroooar | append:"/rooms/gym" }}) |
 
 ## Support
