@@ -14,9 +14,10 @@ Nützlich für alle Neulinge zu Beginn des Spiels. Profitiere von den Erfahrunge
 4. Keine Bossrüstungen kaufen, lohnt sich nicht.
 5. [Pitbull-Wachhund]({{ site.el-negroooar | append:"/faq/" }}) nicht kaufen, ist nur zur Deko.
 6. Zu Beginn kann der [Zombie-Assistent]({{ site.el-negroooar | append:"/in-app/zombie-assistant/" }}) sehr nützlich sein.
-7. [Kryptocoins]({{ site.el-negroooar | append:"/in-app/cryptocoins" }}) für: 2 zusätzliche Baumeister, Zombietracker x2, Nahrungskisten.
-8. Ab Kommandostufe 6 Kämpfer komplett mit legendärem Equipment ausrüsten.
-9. Auf Kommandostufe 7 möglichst viele Arenachips (>100k) für folgende Kommandostufe(n) sammeln.
+7. Wenn du deinen [Facebook-Account]({{ site.el-negroooar | append:"/in-app/facebook/" }}) verknüpfst, erhälst du täglich tolle Kisten & Ressourcen.
+8. [Kryptocoins]({{ site.el-negroooar | append:"/in-app/cryptocoins" }}) für: 2 zusätzliche Baumeister, Zombietracker x2, Nahrungskisten.
+9. Ab Kommandostufe 6 Kämpfer komplett mit legendärem Equipment ausrüsten.
+10. Auf Kommandostufe 7 möglichst viele Arenachips (>100k) für folgende Kommandostufe(n) sammeln.
 
 
 

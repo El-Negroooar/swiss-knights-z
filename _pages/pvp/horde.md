@@ -4,8 +4,10 @@ title: "Zombie-Horde"
 toc: true
 ---
 
-Die Zombie-Horde taucht täglich 1x. Für die Beseitigung jeder Horde erhältst du eine gewisse Belohnung. Erledigst du alle 10 Horden, erhälst du eine zusätzliche Belohnungskiste.
+Die Zombie-Horde taucht täglich 1x. Für die Beseitigung jeder Horde erhältst du eine gewisse Belohnung. Erledigst du alle 10 Horden, erhälst du eine zusätzliche Belohnungskiste. Die "Quest" dauer einige Stunden, startet meist Vor- oder Nachmittags. Nach Ablauf des Timers verschwindet die Quest wieder.
 
 ![Zombie-Horden]({{ site.el-negroooar | append:"/assets/images/quests/horde.png" }})
+
+![Horde Timer]({{ site.el-negroooar | append:"/assets/images/quests/horde-timer.png" }})
 
 ![Belohnung Horden]({{ site.el-negroooar | append:"/assets/images/quests/horde-reward.png" }})

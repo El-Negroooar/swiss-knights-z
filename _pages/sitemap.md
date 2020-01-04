@@ -50,5 +50,6 @@ toc: true
 ## Helferlein
 
 * :japanese_goblin: [Zombie-Assistent]({{ site.el-negroooar | append:"/in-app/zombie-assistant/" }})
+* :blue_book: [Facebook-Account]({{ site.el-negroooar | append:"/in-app/facebook/" }})
+* :trophy: [Premium-Account]({{ site.el-negroooar | append:"/in-app/premium-account/" }})
 * :dog: [Pitbull-Wachhund]({{ site.el-negroooar | append:"/faq/" }})
-* :trophy: [Premium Account]({{ site.el-negroooar | append:"/in-app/premium-account/" }})
