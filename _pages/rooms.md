@@ -26,15 +26,15 @@ Hier sind alle Räume aufgelistet die Ressourcen produzieren. Die jeweils dazuge
 
 Diese Räume unterstützen dich im Basis-Management und Kampf.
 
-* [Wohnzimmer]({{ site.el-negroooar | append:"/rooms/living-room" }})
-* [Krankenhaus]({{ site.el-negroooar | append:"/rooms/hospital" }})
-* [Waffen-Werkstatt]({{ site.el-negroooar | append:"/rooms/weapons-workshop" }})
-* [Ausrüstungs-Werkstatt]({{ site.el-negroooar | append:"/rooms/gear-workshop" }})
+* :couple:[Wohnzimmer]({{ site.el-negroooar | append:"/rooms/living-room" }})
+* :hearts:[Krankenhaus]({{ site.el-negroooar | append:"/rooms/hospital" }})
+* :gun:[Waffen-Werkstatt]({{ site.el-negroooar | append:"/rooms/weapons-workshop" }})
+* :shirt:  :tshirt:[Ausrüstungs-Werkstatt]({{ site.el-negroooar | append:"/rooms/gear-workshop" }})
 * :syringe: [Chemie-Werkstatt]({{ site.el-negroooar | append:"/rooms/chemical-workshop" }})
-* [Forschungslabor]({{ site.el-negroooar | append:"/rooms/research-lab" }})
-* [Elektronik-Werkstatt]({{ site.el-negroooar | append:"/rooms/electronics-workshop" }})
-* [Allianzhalle]({{ site.el-negroooar | append:"/rooms/alliance-hall" }})
-* [Tech Zentrale]({{ site.el-negroooar | append:"/equipment/chips" }})
+* :microscope:[Forschungslabor]({{ site.el-negroooar | append:"/rooms/research-lab" }})
+* :watch:[Elektronik-Werkstatt]({{ site.el-negroooar | append:"/rooms/electronics-workshop" }})
+* :triangular_flag_on_post:[Allianzhalle]({{ site.el-negroooar | append:"/rooms/alliance-hall" }})
+* :name_badge:[Tech Zentrale]({{ site.el-negroooar | append:"/equipment/chips" }})
 
 ## Sonstiges
 
