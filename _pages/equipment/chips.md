@@ -1,5 +1,5 @@
 ---
-permalink: /equipment/tech-center/
+permalink: /equipment/chips/
 title: "Tech-Zentrale"
 toc: true
 ---

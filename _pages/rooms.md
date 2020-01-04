@@ -34,7 +34,7 @@ Diese Räume unterstützen dich im Basis-Management und Kampf.
 * [Forschungslabor]({{ site.el-negroooar | append:"/rooms/research-lab" }})
 * [Elektronik-Werkstatt]({{ site.el-negroooar | append:"/rooms/electronics-workshop" }})
 * [Allianzhalle]({{ site.el-negroooar | append:"/rooms/alliance-hall" }})
-* [Tech Zentrale]({{ site.el-negroooar | append:"/equipment/tech-center" }})
+* [Tech Zentrale]({{ site.el-negroooar | append:"/equipment/chips" }})
 
 ## Sonstiges
 
