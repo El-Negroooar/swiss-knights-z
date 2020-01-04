@@ -19,7 +19,7 @@ Mittels Facebook Verknüpfung kannst du täglich Kisten & Ressourcen gewinnen. W
 ### Hinweise
 * Dir werden beim Spenden *keine* Ressourcen abgezogen, die werden vom Spiel generiert.
 * Auf CC8 erhälst du z.B. täglich 40k Bargeld, 30k Nahrung & 15k Holz aus Mitgliederspenden.
-* Auf CC8 erhälst du zusätzlich die gleichen Mengen Ressourcen für deine 20 Spenden in je 2 Kisten und die Chance, Gegenstände (gewöhnlich, ungewöhnlich, selten) zu erhalten.
+* Auf CC8 erhälst du zusätzlich die gleichen Mengen Ressourcen für deine 20 Spenden in je 2 Kisten und die Chance, Gegenstände (gewöhnlich, ungewöhnlich, selten) zu erhalten.  
 => Gesamt sind das täglich also bis zu 120k Bargeld, 90k Nahrung und 45k Holz!!
 
 ### Bilder
