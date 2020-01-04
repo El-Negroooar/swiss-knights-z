@@ -13,6 +13,15 @@ Die Waffenkammer ist die Verteidigung deiner Basis und erlaubt verschiedene Abwe
 *  :european_castle: [Kommando-Zentrale]({{ site.el-negroooar | append:"/rooms/command-center" }})
 *  :bomb: [Waffenkammer]({{ site.el-negroooar | append:"/rooms/arsenal" }})
 
+
+## Bewohner & Allianz
+
+Alles zu deinen Bewohnern sowie der Allianzhalle, die auch Ausgangspunkt für Allianzkriege ist.
+
+* :couple: [Wohnzimmer]({{ site.el-negroooar | append:"/rooms/living-room" }})
+* :triangular_flag_on_post: [Allianzhalle]({{ site.el-negroooar | append:"/rooms/alliance-hall" }})
+
+
 ## Ressourcenproduktion
 
 Folgende Räume sind notwendig zur Produktion & Lagerung sowie zur Ausbildung der jeweiligen Bewohner-Klasse.
@@ -31,14 +40,6 @@ Folgende Räume sind notwendig zur Produktion & Lagerung sowie zur Ausbildung de
 | Heilung                   | Kampfbasis             | Training                |
 | ------------------------- | ---------------------- | ----------------------- |
 | :hospital: [Krankenhaus]({{ site.el-negroooar | append:"/rooms/hospital" }})  | :trollface: [Kaserne]({{ site.el-negroooar | append:"/rooms/barracks" }})  | :fist: [Trainigsraum]({{ site.el-negroooar | append:"/rooms/gym" }}) |
-
-
-## Bewohner & Allianz
-
-Alles zu deinen Bewohnern sowie der Allianzhalle, die auch Ausgangspunkt für Allianzkriege ist.
-
-* :couple: [Wohnzimmer]({{ site.el-negroooar | append:"/rooms/living-room" }})
-* :triangular_flag_on_post: [Allianzhalle]({{ site.el-negroooar | append:"/rooms/alliance-hall" }})
 
 
 ## Waffe, Kleidung, Armband & Chip
