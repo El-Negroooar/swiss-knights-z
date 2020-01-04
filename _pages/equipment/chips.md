@@ -26,24 +26,24 @@ Die Reihenfolge wurde so gewählt, wie sie nach eigenen Erfahrungen mengenmässi
 
 ### Stufe erhalten
 
-| Mikrochip :name_badge | Bargeld :dollar: | Energie :zap: | Level  |
-|:----------------------| ----------------:| -------------:| ------:|
-| Grau                  |          18'750  |           375 |      5 |
-| Grün                  |         300’000  |          3000 |     10 |
-| Blau                  |       1’500’000  |          7500 |     20 |
-| Lila                  |           	?  |             ? |      ? |
-| Orange                |           	-  |             - |      - |
+| Mikrochip :name_badge: | Bargeld :dollar: | Energie :zap: | Level  |
+|:-----------------------| ----------------:| -------------:| ------:|
+| Grau                   |          18'750  |           375 |      5 |
+| Grün                   |         300’000  |          3000 |     10 |
+| Blau                   |       1’500’000  |          7500 |     20 |
+| Lila                   |           	?  |             ? |      ? |
+| Orange                 |           	-  |             - |      - |
 
 
 ### Verschmelzen
 
-| Mikrochip :name_badge | Bargeld :dollar: | Chance auf Erfolg |
-|:----------------------| ----------------:| -----------------:|
-| Grau                  |       500'000    |               99% |
-| Grün                  |     1'500'000    |               70% |
-| Blau                  |     2'500'000    |               50% |
-| Lila                  |             ?    |                 ? |
-| Orange                |             -    |                 - |
+| Mikrochip :name_badge: | Bargeld :dollar: | Chance auf Erfolg |
+|:-----------------------| ----------------:| -----------------:|
+| Grau                   |       500'000    |               99% |
+| Grün                   |     1'500'000    |               70% |
+| Blau                   |     2'500'000    |               50% |
+| Lila                   |             ?    |                 ? |
+| Orange                 |             -    |                 - |
 
 
 ## Wiederverwerten
@@ -52,13 +52,13 @@ Die Reihenfolge wurde so gewählt, wie sie nach eigenen Erfahrungen mengenmässi
 
 Wenn dir Komponenten fehlen, kannst du Material, das für die Herstellung von Equipment gebraucht wird, in Komponenten umwandeln:
 
-| Material :name_badge | Bargeld :dollar: | Komponenten :package | Wartezeit :clock1: |
-|:---------------------| ----------------:| --------------------:| ------------------:|
-| Grau                 |            100   |                  x15 |          5 Minuten |
-| Grün                 |         10'000   |                  x25 |         30 Minuten |
-| Blau                 |         40'000   |                  x30 |         90 Minuten |
-| Lila                 |        150'000   |                  x45 |          6 Stunden |
-| Orange               |              ?   |                  x65 |         12 Stunden |
+| Material :name_badge: | Bargeld :dollar: | Komponenten :package | Wartezeit :clock1: |
+|:----------------------| ----------------:| --------------------:| ------------------:|
+| Grau                  |            100   |                  x15 |          5 Minuten |
+| Grün                  |         10'000   |                  x25 |         30 Minuten |
+| Blau                  |         40'000   |                  x30 |         90 Minuten |
+| Lila                  |        150'000   |                  x45 |          6 Stunden |
+| Orange                |              ?   |                  x65 |         12 Stunden |
 
 Mit der Anzahl des umzuwandelnden Materials sinkt die Zeit pro Einheit, 2 Stück dauern z.B. statt 2x5 = 10 Minuten nur noch 9 Minuten 27 Sekunden.
 
@@ -66,13 +66,13 @@ Mit der Anzahl des umzuwandelnden Materials sinkt die Zeit pro Einheit, 2 Stück
 
 Für das Widerverwerten von Chips zu Komponenten fallen weder Kosten noch Wartezeiten an:
 
-| Mikrochip :name_badge | unaufgewertet  | max. aufgewertet |
-|:----------------------|---------------:|-----------------:|
-| Grau                  |            x50 |                ? |
-| Grün                  |            x83 |            x2333 |
-| Blau                  |            x28 |                ? |
-| Lila                  |             x9 |                ? |
-| Orange                |              ? |                ? |
+| Mikrochip :name_badge: | unaufgewertet  | max. aufgewertet |
+|:-----------------------|---------------:|-----------------:|
+| Grau                   |            x50 |                ? |
+| Grün                   |            x83 |            x2333 |
+| Blau                   |            x28 |                ? |
+| Lila                   |             x9 |                ? |
+| Orange                 |              ? |                ? |
 
 
 
@@ -82,22 +82,22 @@ Für das Widerverwerten von Chips zu Komponenten fallen weder Kosten noch Wartez
 
 Um einen Chip in einen Gegenstand einzusetzen, benötigt man Bargeld.
 
-| Mikrochip :name_badge | Bargeld :dollar: |
-|:----------------------| ---------------:|
-| Grau                  |          15'000 |
-| Grün                  |          50'000 |
-| Blau                  |         100'000 |
-| Lila                  |       1'000'000 |
-| Orange                |               ? |
+| Mikrochip :name_badge: | Bargeld :dollar: |
+|:-----------------------| ---------------:|
+| Grau                   |          15'000 |
+| Grün                   |          50'000 |
+| Blau                   |         100'000 |
+| Lila                   |       1'000'000 |
+| Orange                 |               ? |
 
 ### Extrahieren
 
 Um einen Chip aus einem Gegenstand zu entfernen, benötigt man Kryptocoins. Die Kosten sind abhängig von der Seltenheit des Chips, jedoch nicht von der Aufwertung (aufgeladene Energie).
 
-| Mikrochip :name_badge | Kryptocoins |
-|:----------------------| -----------:|
-| Grau                  |           1 |
-| Grün                  |           5 |
-| Blau                  |          10 |
-| Lila                  |          15 |
-| Orange                |           ? |
+| Mikrochip :name_badge: | Kryptocoins |
+|:-----------------------| -----------:|
+| Grau                   |           1 |
+| Grün                   |           5 |
+| Blau                   |          10 |
+| Lila                   |          15 |
+| Orange                 |           ? |
