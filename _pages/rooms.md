@@ -6,8 +6,8 @@ toc: true
 
 ## Basis & Verteidigung
 
-*  :european_castle: :anchor: [Kommando-Zentrale]({{ site.el-negroooar | append:"/rooms/command-center" }})
-*  :anger:  :umbrella:[Waffenkammer]({{ site.el-negroooar | append:"/rooms/arsenal" }})
+*  :european_castle: [Kommando-Zentrale]({{ site.el-negroooar | append:"/rooms/command-center" }})
+*  :bomb: [Waffenkammer]({{ site.el-negroooar | append:"/rooms/arsenal" }})
 
 ## Ressourcenproduktion
 
@@ -17,7 +17,7 @@ Hier sind alle Räume aufgelistet die Ressourcen produzieren. Die jeweils dazuge
 | ------------------------- | ---------------------- | ----------------------- |
 | :hamburger: [Speisesaal]({{ site.el-negroooar | append:"/rooms/dining-hall" }}) | [Kühlschrank]({{ site.el-negroooar | append:"/rooms/refrigerator" }})          | [Küche]({{ site.el-negroooar | append:"/rooms/kitchen" }}) |
 | :dollar: [Druckerei]({{ site.el-negroooar | append:"/rooms/print-shop" }})  | [Safe]({{ site.el-negroooar | append:"/rooms/vault" }}) | [Buchhaltungsbüro]({{ site.el-negroooar | append:"/rooms/accounting-office" }}) |
-| :door: [Sägewerk]({{ site.el-negroooar | append:"/rooms/lumber-hill" }})    | [Holz Lagerhaus]({{ site.el-negroooar | append:"/rooms/wood-warehouse" }}) | [Tischerwerkstatt]({{ site.el-negroooar | append:"/rooms/carpentry-workshop" }}) |
+| :door: [Sägewerk]({{ site.el-negroooar | append:"/rooms/lumber-hill" }})    | [Holz Lagerhaus]({{ site.el-negroooar | append:"/rooms/wood-warehouse" }}) | [Tischlerwerkstatt]({{ site.el-negroooar | append:"/rooms/carpentry-workshop" }}) |
 | :pill: [Chemie Labor]({{ site.el-negroooar | append:"/rooms/chemical-laboratory" }})    | [Reagenzien Lagerhaus]({{ site.el-negroooar | append:"/rooms/reagent-warehouse" }}) | [Experimentelles Labor]({{ site.el-negroooar | append:"/rooms/forge" }}) |
 | :wrench: [Giesserei]({{ site.el-negroooar | append:"/rooms/foundry" }})     | [Stahl Lagerhaus]({{ site.el-negroooar | append:"/rooms/steel-warehouse" }})      | [Schmiede]({{ site.el-negroooar | append:"/rooms/experimental-lab" }}) |
 
