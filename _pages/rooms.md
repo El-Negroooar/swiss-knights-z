@@ -21,20 +21,28 @@ Hier sind alle Räume aufgelistet die Ressourcen produzieren. Die jeweils dazuge
 | :door: [Sägewerk]({{ site.el-negroooar | append:"/rooms/lumber-hill" }})    | [Holz Lagerhaus]({{ site.el-negroooar | append:"/rooms/wood-warehouse" }}) | [Tischerwerkstatt]({{ site.el-negroooar | append:"/rooms/carpentry-workshop" }}) |
 | :pill: [Chemie Labor]({{ site.el-negroooar | append:"/rooms/chemical-laboratory" }})    | [Reagenzien Lagerhaus]({{ site.el-negroooar | append:"/rooms/reagent-warehouse" }}) | [Experimentelles Labor]({{ site.el-negroooar | append:"/rooms/forge" }}) |
 | :wrench: [Giesserei]({{ site.el-negroooar | append:"/rooms/foundry" }})     | [Stahl Lagerhaus]({{ site.el-negroooar | append:"/rooms/steel-warehouse" }})      | [Schmiede]({{ site.el-negroooar | append:"/rooms/experimental-lab" }}) |
+| :hospital: [Krankenhaus]({{ site.el-negroooar | append:"/rooms/hospital" }})  | :trollface: [Arsenal]({{ site.el-negroooar | append:"/rooms/arsenal" }})   | :fist: [Trainigsraum]({{ site.el-negroooar | append:"/rooms/gym" }}) |
 
 ## Support
 
 Diese Räume unterstützen dich im Basis-Management und Kampf.
 
-* :couple:[Wohnzimmer]({{ site.el-negroooar | append:"/rooms/living-room" }})
-* :hearts:[Krankenhaus]({{ site.el-negroooar | append:"/rooms/hospital" }})
-* :gun:[Waffen-Werkstatt]({{ site.el-negroooar | append:"/rooms/weapons-workshop" }})
-* :shirt:  :tshirt:[Ausrüstungs-Werkstatt]({{ site.el-negroooar | append:"/rooms/gear-workshop" }})
+Bewohner, Allianz & Heilung:
+* :couple: [Wohnzimmer]({{ site.el-negroooar | append:"/rooms/living-room" }})
+* :triangular_flag_on_post: [Allianzhalle]({{ site.el-negroooar | append:"/rooms/alliance-hall" }})
+* :hospital: [Krankenhaus]({{ site.el-negroooar | append:"/rooms/hospital" }})
+
+Waffe, Kleidung, Armband & Chip:
+* :gun: [Waffen-Werkstatt]({{ site.el-negroooar | append:"/rooms/weapons-workshop" }})
+* :shirt: [Ausrüstungs-Werkstatt]({{ site.el-negroooar | append:"/rooms/gear-workshop" }})
+* :watch: [Elektronik-Werkstatt]({{ site.el-negroooar | append:"/rooms/electronics-workshop" }})
+* :name_badge: [Tech Zentrale]({{ site.el-negroooar | append:"/equipment/chips" }})
+
+Vorräte erforschen & produzieren:
+* :microscope: [Forschungslabor]({{ site.el-negroooar | append:"/rooms/research-lab" }})
 * :syringe: [Chemie-Werkstatt]({{ site.el-negroooar | append:"/rooms/chemical-workshop" }})
-* :microscope:[Forschungslabor]({{ site.el-negroooar | append:"/rooms/research-lab" }})
-* :watch:[Elektronik-Werkstatt]({{ site.el-negroooar | append:"/rooms/electronics-workshop" }})
-* :triangular_flag_on_post:[Allianzhalle]({{ site.el-negroooar | append:"/rooms/alliance-hall" }})
-* :name_badge:[Tech Zentrale]({{ site.el-negroooar | append:"/equipment/chips" }})
+
+
 
 ## Sonstiges
 
