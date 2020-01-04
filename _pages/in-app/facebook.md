@@ -22,7 +22,7 @@ Mittels Facebook Verknüpfung kannst du täglich Kisten & Ressourcen gewinnen. W
 * Auf CC8 erhälst du zusätzlich die gleichen Mengen Ressourcen für deine 20 Spenden in je 2 Kisten und die Chance, Gegenstände (gewöhnlich, ungewöhnlich, selten) zu erhalten.
 => Gesamt sind das täglich also bis zu 120k Bargeld, 90k Nahrung und 45k Holz!!
 
-###Bilder
+### Bilder
 
 ![Facebook Achievement]({{ site.el-negroooar | append:"/assets/images/in-app/facebook-reward.png" }})  
 
