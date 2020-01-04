@@ -52,13 +52,13 @@ Die Reihenfolge wurde so gewählt, wie sie nach eigenen Erfahrungen mengenmässi
 
 Wenn dir Komponenten fehlen, kannst du Material, das für die Herstellung von Equipment gebraucht wird, in Komponenten umwandeln:
 
-| Material :name_badge: | Bargeld :dollar: | Komponenten :package | Wartezeit :clock1: |
-|:----------------------| ----------------:| --------------------:| ------------------:|
-| Grau                  |            100   |                  x15 |          5 Minuten |
-| Grün                  |         10'000   |                  x25 |         30 Minuten |
-| Blau                  |         40'000   |                  x30 |         90 Minuten |
-| Lila                  |        150'000   |                  x45 |          6 Stunden |
-| Orange                |              ?   |                  x65 |         12 Stunden |
+| Material :name_badge: | Bargeld :dollar: | Komponenten :package: | Wartezeit :clock1: |
+|:----------------------| ----------------:| ---------------------:| ------------------:|
+| Grau                  |            100   |                   x15 |          5 Minuten |
+| Grün                  |         10'000   |                   x25 |         30 Minuten |
+| Blau                  |         40'000   |                   x30 |         90 Minuten |
+| Lila                  |        150'000   |                   x45 |          6 Stunden |
+| Orange                |              ?   |                   x65 |         12 Stunden |
 
 Mit der Anzahl des umzuwandelnden Materials sinkt die Zeit pro Einheit, 2 Stück dauern z.B. statt 2x5 = 10 Minuten nur noch 9 Minuten 27 Sekunden.
 
