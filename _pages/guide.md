@@ -8,8 +8,8 @@ Nützlich für alle Neulinge zu Beginn des Spiels. Profitiere von den Erfahrunge
 
 ## Starter-Tips
 
-1. Möglichst bald 3-5:star:[-Bewohner]({{ site.el-negroooar | append:"/people/" }}) produzieren und 1-2 :star:-Bewohner verbannen.
-2. So schnell wie möglich min. 6 Kämpfer ab 3´*´+ hochleveln (Allianzkrieg).
+1. Möglichst bald 3-5:star:[-Bewohner]({{ site.el-negroooar | append:"/people/" }}) produzieren und 1-2 :star:-Bewohner verbannen. (Kämpfer 5 :star:, Arbeiter min. 3 :star:).
+2. So schnell wie möglich min. 6 Kämpfer ab 3:star: hochleveln. (Im Allianzkrieg kannst du unabhängig deiner Kasernse 6 Kämpfer setzen)
 3. Fokus auf Nahrungs- & Bargeld-Produktion.
 4. Keine Bossrüstungen kaufen, lohnt sich nicht.
 5. [Pitbull-Wachhund]({{ site.el-negroooar | append:"/faq/" }}) nicht kaufen, ist nur zur Deko.
