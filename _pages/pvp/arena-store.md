@@ -43,7 +43,7 @@ Das Sparen lohnt sich. Hat man überhaupt keine Ausrüstung, empfehlen wir auf d
 ## Legendäre Items für alle Kommandolevels
 
 | Typ | CC7 | CC8 | CC9 | CC10 |
-|-----|-----|-----|-----|------|
+|-----|----:|----:|----:|-----:|
 |Legendäres Item		|	   -|  6'000| 10'000| 15'000|
 |Legendäre MZW 1		|	   -| 10'000| 10'000| 15'000|
 |Legendäre MZW 2		|	   -|	   -| 15'000| 25'000|
