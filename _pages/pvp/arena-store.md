@@ -42,6 +42,8 @@ Das Sparen lohnt sich. Hat man überhaupt keine Ausrüstung, empfehlen wir auf d
 
 ## Legendäre Items für alle Kommandolevels
 
+Die Kosten für die Gegenstände werden in Form von Arenachips bezahlt. Die Items wechseln alle 7 Tage.
+
 | Typ | CC7 | CC8 | CC9 | CC10 |
 |-----|----:|----:|----:|-----:|
 |Legendäres Item		|	   -|  6'000| 10'000| 15'000|
