@@ -39,3 +39,12 @@ Die Sondereinheitskiste ist die teuerste unter den drei genannten, da sie dir di
 - Der Vorrat im Arena-Shop wird jedoch alle 7 Tage aktualisiert, so dass Du warten müssen, bis Du weitere legendäre Gegenstände kaufen kannst.
 
 Das Sparen lohnt sich. Hat man überhaupt keine Ausrüstung, empfehlen wir auf diese Kiste zu sparen bzw. genug Chips zu sammeln um im nächsten Bracket die Kiste zu erwerben.
+
+## Kisten für alle Kommandolevels
+
+| Typ | CC7 | CC8 | CC9 | CC10 |
+|-----|-----|-----|-----|------|
+|Legendäres Item		|	   -|  6'000| 10'000| 15'000|
+|Legendäre MZW 1		|	   -| 10'000| 10'000| 15'000|
+|Legendäre MZW 2		|	   -|	   -| 15'000| 25'000|
+|Sondereinheitskiste	|  8'350| 18'100| 25'100| 39'600|
