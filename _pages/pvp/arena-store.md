@@ -40,7 +40,7 @@ Die Sondereinheitskiste ist die teuerste unter den drei genannten, da sie dir di
 
 Das Sparen lohnt sich. Hat man überhaupt keine Ausrüstung, empfehlen wir auf diese Kiste zu sparen bzw. genug Chips zu sammeln um im nächsten Bracket die Kiste zu erwerben.
 
-## Kisten für alle Kommandolevels
+## Legendäre Items für alle Kommandolevels
 
 | Typ | CC7 | CC8 | CC9 | CC10 |
 |-----|-----|-----|-----|------|
