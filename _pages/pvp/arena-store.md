@@ -46,7 +46,7 @@ Die Kosten für die Gegenstände werden in Form von Arenachips bezahlt. Die Item
 
 | Typ | CC7 | CC8 | CC9 | CC10 |
 |-----|----:|----:|----:|-----:|
-|Legendäres Item		|	   -|  6'000| 10'000| 15'000|
+|Legendäres Item		|	   -|  6'000|  9'000| 15'000|
 |Legendäre MZW 1		|	   -| 10'000| 10'000| 15'000|
 |Legendäre MZW 2		|	   -|	   -| 15'000| 25'000|
 |Sondereinheitskiste	|  8'350| 18'100| 25'100| 39'600|
