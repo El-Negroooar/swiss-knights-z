@@ -1,10 +1,10 @@
 ---
 permalink: /guides/low-profile/
-title: "Niedriges Profil"
+title: "Trophäen tief halten"
 toc: true
 ---
 
-Im Spiel gibt es Ranglisten-Punkte die vergeben werden, bei entsprechendem Fortschritt. Manchmal ist es besser nicht aufzufallen. Viele Spieler verlieren extra absichtlich um unter dem Radar von anderen Spielern zu bleiben. Absichtlich verlieren, hat gewisse Vorteile. Für Raubzüge kommen leichtere Opfer zur Auswahl. Wir beschreiben hier Strategien, wie man seine Punktzahl niedrig halten kann.
+Im Spiel gibt es Ranglisten-Punkte (Trophäen) die vergeben werden, bei entsprechendem Fortschritt. Manchmal ist es besser nicht aufzufallen. Viele Spieler verlieren extra absichtlich um unter dem Radar von anderen Spielern zu bleiben. Absichtlich verlieren, hat gewisse Vorteile. Für Raubzüge kommen leichtere Opfer zur Auswahl. Wir beschreiben hier Strategien, wie man seine Punktzahl niedrig halten kann.
 
 ## Leere Kaserne
 
