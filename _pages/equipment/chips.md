@@ -88,7 +88,7 @@ Um einen Chip in einen Gegenstand einzusetzen, benötigt man Bargeld.
 | Grün                   |          50'000 |
 | Blau                   |         100'000 |
 | Lila                   |       1'000'000 |
-| Orange                 |               ? |
+| Orange                 |       3'000'000 |
 
 ### Extrahieren
 
