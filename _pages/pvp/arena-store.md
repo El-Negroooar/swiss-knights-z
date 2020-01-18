@@ -40,7 +40,7 @@ Die Sondereinheitskiste ist die teuerste unter den drei genannten, da sie dir di
 
 Das Sparen lohnt sich. Hat man überhaupt keine Ausrüstung, empfehlen wir auf diese Kiste zu sparen bzw. genug Chips zu sammeln um im nächsten Bracket die Kiste zu erwerben.
 
-## Legendäre Items für alle Kommandolevels
+## Kostentabelle Legendäre
 
 Die Kosten für die Gegenstände werden in Form von Arenachips bezahlt. Die Items wechseln alle 7 Tage.
 
