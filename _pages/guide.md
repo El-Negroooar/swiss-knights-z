@@ -8,7 +8,8 @@ Nützlich für alle Neulinge zu Beginn des Spiels. Profitiere von den Erfahrunge
 
 ## Starter-Tips
 
- :round_pushpin: Folgend 10 sehr nützliche und wichtige (!) Beginner-Tips:
+:round_pushpin: Folgend 10 sehr nützliche und wichtige Beginner-Tips:
+{: .notice--success}
 
 1. Möglichst bald 3-5:star:[-Bewohner]({{ site.el-negroooar | append:"/people/" }}) produzieren und 1-2 :star:-Bewohner verbannen. (Kämpfer 5 :star:, Arbeiter min. 3 :star:).
 2. So schnell wie möglich min. 6 Kämpfer ab 3:star: hochleveln.   (Im [Allianzkrieg]({{ site.el-negroooar | append:"/pvp/allywar" }}) kannst du unabhängig deine Kasernenlevel bis 6 Kämpfer setzen)
@@ -21,7 +22,8 @@ Nützlich für alle Neulinge zu Beginn des Spiels. Profitiere von den Erfahrunge
 9. Ab Kommandostufe 6 Kämpfer komplett mit [legendärem Equipment]({{ site.el-negroooar | append:"/guides/legendary-items" }}) ausrüsten.
 10. Ab Kommandostufe 7 möglichst viele [Arenachips]({{ site.el-negroooar | append:"/pvp/arena-store#kostentabelle-legendäre" }}) (>100k) für folgende Kommandostufe(n) sammeln.
 
- :warning: Dein Erfolg hängt mitunter davon ab, gegen welche Gegner du spielen musst. Darum ist es absolut wesentlich, die sogenannten ["Brackets"]({{ site.el-negroooar | append:"/pvp/arena-groups" }}) von Grundauf zu verstehen.
+:warning: Dein Erfolg hängt mitunter davon ab, gegen welche Gegner du spielen musst. Darum ist es absolut wesentlich, die sogenannten ["Brackets"]({{ site.el-negroooar | append:"/pvp/arena-groups" }}) von Grundauf zu verstehen.
+{: .notice--warning}
 
 ## Allgemeine Tips
 
