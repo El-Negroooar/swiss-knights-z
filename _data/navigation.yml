@@ -3,7 +3,7 @@ main:
     url: /about/
   - title: ":mag: Sitemap"
     url: /sitemap/    
-  - title: ":book: Guide"
+  - title: ":book: Beginners"
     url: /guide/
   - title: " :performing_arts: Events"
     url: /events/
