@@ -8,9 +8,12 @@ toc: true
 
 Durch abschliessen diverser Aufgaben erhältst du Schwarzpulver, das du auf dem Weg der Pyrotechnik einlösen und damit von Goodies profitieren kannst.
 
+Empfehlung: Sammelt bis zum Schluss und beurteilt erst dann, welche Wege / Teile für euch möglich & interessant sind.
+{: .notice--warning}
+
 ![Bild Pyro-Event]({{ site.el-negroooar | append:"/assets/images/events/pyro.png" }})
 
-Kostentabelle:
+### Kostenplanung:
 
 | Weg 1| Weg 2 | Weg 3 | Alle 3 Wege |
 |---------------------:| ----------------:| ---------------------:| ------------------:|
@@ -20,7 +23,7 @@ Kostentabelle:
 Anfangskryptomünzen, "Funke" & die 3 Chips nicht mit einberechnet.
 {: .notice--warning}
 
-Einnahmen-Tabelle:
+### Einnahmequellen:
 
 | Aufgabe| Schwarzpulver | Zahlungsmittel | Kommentar |
 |:----------------------| ----------------:| ---------------------:| ------------------:|
@@ -29,9 +32,8 @@ Einnahmen-Tabelle:
 | Bahnhof pro Durchgang         |            260?   |                   Gratis / Nahrung |          bis 4x täglich, zeitintensiv |
 | Arena pro Sieg         |            20   |                   Nahrung |          nur für Sieger, zeitintensiv |
 | Tunnel (Stufe 50)         |            14   |                   Nahrung |          Eher wenig, nur am Wochenende |
-| Zombie-Horde 1x         |            300   |                   Nahrung |          Täglich 3'000 bei 10 Horden |
+| Zombie-Horde 1x         |            300   |                   Nahrung |          Täglich 3'000 für alle 10 Horden |
 | Allianzkrieg Sieg Wegpunkt        |            150   |                   Nahrung |          Chance 4x täglich |
-
 
 
 ## Weihnachtsevent
