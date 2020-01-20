@@ -29,13 +29,13 @@ Zusätzlich: "Funke" +16'000 & die 3 Chips je +50'000.
 
 | Aufgabe| Schiesspulver | Zahlungsmittel | Kommentar |
 |:----------------------| ----------------:| ---------------------:| ------------------:|
-| Pyro-Werbevideo         |            150   |                   "Gratis" |          Ergiebig, alle 2h |
-| PvP pro Kampf         |            40-50   |                   Nahrung |          Ergiebig, Pokale tief halten |
+| Pyro-Werbevideo         |            150   |                   "Gratis" |          Alle 2h |
+| Zombie-Horde 1x         |            300   |                   Nahrung |          Täglich 3'000 für alle 10 Horden |
 | Bahnhof (12/20)         |            260   |                   Gratis / Nahrung |          bis 4x täglich, zeitintensiv |
+| Allianzkrieg Sieg am Wegpunkt        |            150   |                   Nahrung |          Chance 4x täglich |
+| PvP pro Kampf         |            40-50   |                   Nahrung |          Ergiebig, Pokale tief halten |
 | Arena pro Sieg         |            20   |                   Ticket / Nahrung |          nur für Arena-Cracks, zeitintensiv |
 | Tunnel (Stufe 50)         |            14   |                   Nahrung |          Eher wenig, nur am Wochenende |
-| Zombie-Horde 1x         |            300   |                   Nahrung |          Täglich 3'000 für alle 10 Horden |
-| Allianzkrieg Sieg am Wegpunkt        |            150   |                   Nahrung |          Chance 4x täglich |
 
 
 ## Weihnachtsevent
