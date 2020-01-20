@@ -8,7 +8,7 @@ toc: true
 
 Durch abschliessen diverser Aufgaben erhältst du Schiesspulver, das du auf dem Weg der Pyrotechnik einlösen und damit von Goodies profitieren kannst.
 
-Empfehlung: Sammelt bis zum Schluss und beurteilt erst dann, welche Wege / Teile für euch möglich & interessant sind.
+Empfehlung: Sammelt bis zum Schluss und beurteilt erst dann, welche Wege / Teile für euch möglich & interessant sind. Folgende Aufstellung nach CC8:
 {: .notice--success}
 
 ![Bild Pyro-Event]({{ site.el-negroooar | append:"/assets/images/events/pyro.png" }})
@@ -29,7 +29,7 @@ Zusätzlich: "Funke" +16'000 & die 3 Chips je +50'000.
 |:----------------------| ----------------:| ---------------------:| ------------------:|
 | Werbevideo         |            150   |                   "Gratis" |          Ergiebig, alle 2h |
 | PvP pro Kampf         |            40-50   |                   Nahrung |          Ergiebig, Pokale tief halten |
-| Bahnhof 12/20         |            260?   |                   Gratis / Nahrung |          bis 4x täglich, zeitintensiv |
+| Bahnhof 12/20         |            260   |                   Gratis / Nahrung |          bis 4x täglich, zeitintensiv |
 | Arena pro Sieg         |            20   |                   Nahrung |          nur für Sieger, zeitintensiv |
 | Tunnel (Stufe 50)         |            14   |                   Nahrung |          Eher wenig, nur am Wochenende |
 | Zombie-Horde 1x         |            300   |                   Nahrung |          Täglich 3'000 für alle 10 Horden |
