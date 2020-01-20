@@ -6,14 +6,14 @@ toc: true
 
 ## Der Weg der Pyrotechnik
 
-Durch abschliessen diverser Aufgaben erhältst du Schwarzpulver, das du auf dem Weg der Pyrotechnik einlösen und damit von Goodies profitieren kannst.
+Durch abschliessen diverser Aufgaben erhältst du Schiesspulver, das du auf dem Weg der Pyrotechnik einlösen und damit von Goodies profitieren kannst.
 
 Empfehlung: Sammelt bis zum Schluss und beurteilt erst dann, welche Wege / Teile für euch möglich & interessant sind.
 {: .notice--success}
 
 ![Bild Pyro-Event]({{ site.el-negroooar | append:"/assets/images/events/pyro.png" }})
 
-#### Kostenplanung
+### Kostenplanung
 
 | Weg 1| Weg 2 | Weg 3 | Alle 3 Wege |
 |---------------------:| ----------------:| ---------------------:| ------------------:|
@@ -23,9 +23,9 @@ Empfehlung: Sammelt bis zum Schluss und beurteilt erst dann, welche Wege / Teile
 Zusätzlich: "Funke" +16'000 & die 3 Chips je +50'000.
 {: .notice--warning}
 
-#### Einnahmequellen
+### Einnahmequellen
 
-| Aufgabe| Schwarzpulver | Zahlungsmittel | Kommentar |
+| Aufgabe| Schiesspulver | Zahlungsmittel | Kommentar |
 |:----------------------| ----------------:| ---------------------:| ------------------:|
 | Werbevideo         |            150   |                   "Gratis" |          Ergiebig, alle 2h |
 | PvP pro Kampf         |            40-50   |                   Nahrung |          Ergiebig, Pokale tief halten |
