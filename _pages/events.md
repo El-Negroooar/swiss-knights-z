@@ -32,7 +32,7 @@ Zusätzlich: "Funke" +16'000 & die 3 Chips je +50'000.
 | Zombie-Horde 1x         |            300   |                   Nahrung |          Täglich 3'000 für alle 10 Horden |
 | Bahnhof (12/20)         |            260   |                   Gratis / Nahrung |          bis 4x täglich, zeitintensiv |
 | Allianzkrieg Sieg am Wegpunkt        |            150   |                   Nahrung |          Chance 4x täglich |
-| PvP pro Kampf         |            40-50   |                   Nahrung |          Ergiebig, Pokale tief halten |
+| PvP pro Kampf         |            40-60   |                   Nahrung |          Ergiebig, Pokale tief halten |
 | Arena pro Sieg         |            20   |                   Ticket / Nahrung |          nur für Arena-Cracks, zeitintensiv |
 | Tunnel (Stufe 50)         |            14   |                   Nahrung |          Eher wenig, nur am Wochenende |
 
