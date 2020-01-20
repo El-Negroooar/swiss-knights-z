@@ -3,7 +3,6 @@ permalink: /events/
 title: "Events"
 toc: true
 ---
-
 ## Der Weg der Pyrotechnik
 
 ![Bild Pyro-Event]({{ site.el-negroooar | append:"/assets/images/events/pyro.png" }})
