@@ -4,6 +4,35 @@ title: "Events"
 toc: true
 ---
 
+## Der Weg der Pyrotechnik
+
+Durch abschliessen diverser Aufgaben erhältst du Schwarzpulver, das du auf dem Weg der Pyrotechnik einlösen und damit von Goodies profitieren kannst.
+
+![Bild Pyro-Event]({{ site.el-negroooar | append:"/assets/images/events/pyro.png" }})
+
+Kostentabelle:
+
+| Weg 1| Weg 2 | Weg 3 | Alle 3 Wege |
+|---------------------:| ----------------:| ---------------------:| ------------------:|
+| 22'750                 |            17'360   |                   21'715 |          61'825 |
+| 2'528 pro Tag                 |            1'929 pro Tag   |                   2'413 pro Tag |          6'870 pro Tag |
+
+Anfangskryptomünzen, "Funke" & die 3 Chips nicht mit einberechnet.
+{: .notice--warning}
+
+Einnahmen-Tabelle:
+
+| Aufgabe| Schwarzpulver | Zahlungsmittel | Kommentar |
+|:----------------------| ----------------:| ---------------------:| ------------------:|
+| Werbevideo         |            150   |                   "Gratis" |          Ergiebig, alle 2h |
+| PvP pro Kampf         |            40-50   |                   Nahrung |          Ergiebig, Pokale tief halten |
+| Bahnhof pro Durchgang         |            260?   |                   Gratis / Nahrung |          bis 4x täglich, zeitintensiv |
+| Arena pro Sieg         |            20   |                   Nahrung |          nur für Sieger, zeitintensiv |
+| Tunnel (Stufe 50)         |            14   |                   Nahrung |          Eher wenig, nur am Wochenende |
+| Zombie-Horde 1x         |            300   |                   Nahrung |          Täglich 3'000 bei 10 Horden |
+| Allianzkrieg Sieg Wegpunkt        |            150   |                   Nahrung |          Chance 4x täglich |
+
+
 
 ## Weihnachtsevent
 
