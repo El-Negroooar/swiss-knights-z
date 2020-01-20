@@ -6,12 +6,14 @@ toc: true
 
 ## Der Weg der Pyrotechnik
 
-Durch abschliessen diverser Aufgaben erhältst du Schiesspulver, das du auf dem Weg der Pyrotechnik einlösen und damit von Goodies profitieren kannst.
+![Bild Pyro-Event]({{ site.el-negroooar | append:"/assets/images/events/pyro.png" }})
+
+Durch abschliessen diverser Aufgaben erhältst du Schiesspulver, das du auf dem Weg der Pyrotechnik einlösen und damit von Goodies profitieren kannst. (Neues Update 20.01.2020)
 
 Empfehlung: Sammelt bis zum Schluss und beurteilt erst dann, welche Wege / Teile für euch möglich & interessant sind. Folgende Aufstellung nach CC8:
 {: .notice--success}
 
-![Bild Pyro-Event]({{ site.el-negroooar | append:"/assets/images/events/pyro.png" }})
+![Bild Pyro-Event]({{ site.el-negroooar | append:"/assets/images/events/schiesspulver.png" }})
 
 ### Kostenplanung
 
