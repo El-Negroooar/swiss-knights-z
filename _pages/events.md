@@ -13,7 +13,7 @@ Empfehlung: Sammelt bis zum Schluss und beurteilt erst dann, welche Wege / Teile
 
 ![Bild Pyro-Event]({{ site.el-negroooar | append:"/assets/images/events/pyro.png" }})
 
-### Kostenplanung
+#### Kostenplanung
 
 | Weg 1| Weg 2 | Weg 3 | Alle 3 Wege |
 |---------------------:| ----------------:| ---------------------:| ------------------:|
@@ -23,7 +23,7 @@ Empfehlung: Sammelt bis zum Schluss und beurteilt erst dann, welche Wege / Teile
 Zusätzlich: "Funke" +16'000 & die 3 Chips je +50'000.
 {: .notice--warning}
 
-### Einnahmequellen
+#### Einnahmequellen
 
 | Aufgabe| Schwarzpulver | Zahlungsmittel | Kommentar |
 |:----------------------| ----------------:| ---------------------:| ------------------:|
