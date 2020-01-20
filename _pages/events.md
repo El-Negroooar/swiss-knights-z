@@ -9,21 +9,21 @@ toc: true
 Durch abschliessen diverser Aufgaben erhältst du Schwarzpulver, das du auf dem Weg der Pyrotechnik einlösen und damit von Goodies profitieren kannst.
 
 Empfehlung: Sammelt bis zum Schluss und beurteilt erst dann, welche Wege / Teile für euch möglich & interessant sind.
-{: .notice--warning}
+{: .notice--success}
 
 ![Bild Pyro-Event]({{ site.el-negroooar | append:"/assets/images/events/pyro.png" }})
 
-### Kostenplanung:
+### Kostenplanung
 
 | Weg 1| Weg 2 | Weg 3 | Alle 3 Wege |
 |---------------------:| ----------------:| ---------------------:| ------------------:|
 | 22'750                 |            17'360   |                   21'715 |          61'825 |
 | 2'528 pro Tag                 |            1'929 pro Tag   |                   2'413 pro Tag |          6'870 pro Tag |
 
-Anfangskryptomünzen, "Funke" & die 3 Chips nicht mit einberechnet.
+Zusätzlich: "Funke" +16'000 & die 3 Chips je +50'000.
 {: .notice--warning}
 
-### Einnahmequellen:
+### Einnahmequellen
 
 | Aufgabe| Schwarzpulver | Zahlungsmittel | Kommentar |
 |:----------------------| ----------------:| ---------------------:| ------------------:|
