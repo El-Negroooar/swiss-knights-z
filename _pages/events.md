@@ -29,7 +29,7 @@ Zusätzlich: "Funke" +16'000 & die 3 Chips je +50'000.
 | Aufgabe| Schiesspulver | Zahlungsmittel | Kommentar |
 |:----------------------| ----------------:| ---------------------:| ------------------:|
 | Pyro-Werbevideo         |            150   |                   "Gratis" |          Alle 2h |
-| Zombie-Horde 1x         |            300   |                   Nahrung |          Täglich 3'000 für alle 10 Horden |
+| Zombie-Horde x10         |            300   |                   Nahrung |          Täglich 300 für alle 10 Horden |
 | Bahnhof (12/20)         |            260   |                   Gratis / Nahrung |          bis 4x täglich, zeitintensiv |
 | Allianzkrieg Sieg am Wegpunkt        |            150   |                   Nahrung |          Chance 4x täglich |
 | PvP pro Kampf         |            40-60   |                   Nahrung |          Ergiebig, Pokale tief halten |
