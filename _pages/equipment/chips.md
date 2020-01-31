@@ -31,8 +31,8 @@ Die Reihenfolge wurde so gewählt, wie sie nach eigenen Erfahrungen mengenmässi
 | Grau                   |          18'750  |           375 |      5 |
 | Grün                   |         300’000  |          3000 |     10 |
 | Blau                   |       1’500’000  |          7500 |     20 |
-| Lila                   |           	?  |             ? |      ? |
-| Orange                 |           	-  |             - |      - |
+| Lila                   |             	 ?  |             ? |      ? |
+| Orange                 |             	 -  |             - |      - |
 
 
 ### Verschmelzen
@@ -72,7 +72,7 @@ Für das Widerverwerten von Chips zu Komponenten fallen weder Kosten noch Wartez
 | Grün                   |            x83 |            x2333 |
 | Blau                   |            x28 |                ? |
 | Lila                   |             x9 |                ? |
-| Orange                 |              ? |                ? |
+| Orange                 |              ? |             x282 |
 
 
 
@@ -100,4 +100,4 @@ Um einen Chip aus einem Gegenstand zu entfernen, benötigt man Kryptocoins. Die 
 | Grün                   |           5 |
 | Blau                   |          10 |
 | Lila                   |          15 |
-| Orange                 |           ? |
+| Orange                 |          25 |
