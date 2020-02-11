@@ -14,18 +14,17 @@ Gemeinsam spielen und Zusammenhalt sowie Austausch fördern, sich gegenseitig un
 ## Organisation
 
 - Clan-Chef :neckbeard: 
-  - Mc Master
-- Vize-Chef :cop: 
   - El Negro
+- Vize-Chef :cop: 
+  - vakant
 - Warlords :muscle:
   - Acchat (leitend)
   - Kimi
   - Rees
   - Khorli
-  - CTMMLKRMS
   - Eddy
 - Offiziere :loudspeaker:
-  - zur Zeit keine
+  - vakant
 
 
 ## Mitgliedschaft
