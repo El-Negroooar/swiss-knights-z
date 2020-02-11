@@ -18,7 +18,7 @@ Gemeinsam spielen und Zusammenhalt sowie Austausch fördern, sich gegenseitig un
 - Vize-Chef :cop: 
   - vakant
 - Warlords :muscle:
-  - Acchat (leitend)
+  - Acchat
   - Kimi
   - Rees
   - Khorli
@@ -30,7 +30,7 @@ Gemeinsam spielen und Zusammenhalt sowie Austausch fördern, sich gegenseitig un
 ## Mitgliedschaft
 
 - Wir erwarten eine aktive Beteiligung im Chat & Allianzkrieg.
-- Ein Inaktivität von mehr als ´2´ Wochen ohne Mitteilung kann einen Rauswurf nach sich ziehen.
+- Eine Inaktivität von mehr als ´2´ Wochen ohne Mitteilung kann einen Rauswurf nach sich ziehen.
 - Ein guter Teil der Kommunikation findet auf der externen Kommunikationsplattform Discord statt (Gründe siehe unten).
 
 Die Mitglieder könnt ihr via [Allianz Raum]({{ site.el-negroooar | append:"/rooms/alliance-hall" }}) einsehen.
