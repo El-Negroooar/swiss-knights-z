@@ -19,5 +19,5 @@ Hast du die Voraussetzungen für eine [Belohnung]({{ site.el-negroooar | append:
 
 > Was bringt der Hund im Spiel?
 
-Nach aktuellem Wissensstand bringt er keine Vorteile und dient lediglich als Deko.
+Nach aktuellem Wissensstand bringt er keine Vorteile und dient lediglich als Deko. Der in der Beschreibung angedeutete Nutzen, er würde die Bewohner happy machen, ist rein theoretisch, es wurde mehrfach widerlegt, dass er die "Smileys" einsammelt.
 
