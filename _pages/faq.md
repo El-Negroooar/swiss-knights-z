@@ -9,7 +9,7 @@ toc: true
 
 > Wie funktioniert der Allianzkrieg?
 
-[Schau hier nach]({{ site.el-negroooar | append:"/pvp/allywar/" }})
+Frühestens 24h nach deinem Beitritt zur Allianz kannst du am [Allianzkrieg]({{ site.el-negroooar | append:"/pvp/allywar/" }}) teilnehmen.
 
 
 > Warum bin ich so schlecht in der Arena?
