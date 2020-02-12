@@ -12,7 +12,7 @@ Du kannst Gegenstände im Arena-Shop mit den Arena-Chips kaufen. Arena-Chips sin
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/arena/store-legendary.png" }})
 
-Legendäre Gegenstände erscheinen im Shop, sobald dein [Traningsraum]({{ site.el-negroooar | append:"/rooms/gym/" }}) Level 6 erreicht hat oder wenn alle deine Kämpfer der Level 40 Turnierrunde beitreten.
+Legendäre Gegenstände erscheinen im Shop, sobald dein [Traningsraum]({{ site.el-negroooar | append:"/rooms/gym/" }}) Level 6 erreicht hat.
 
 Obwohl die Preise zu hoch sind, ist es immer noch ein guter Ort, um einige legendäre Gegenstände zu bekommen. Diese Killer Axt mit Flächenschaden in Kombination mit Teleport, macht den Hinterhalt für deine Gegner zum Alptraum. Reanimation wird nochmal gekontert, indem der Schaden verstärkt wird.
 

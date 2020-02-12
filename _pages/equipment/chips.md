@@ -32,7 +32,7 @@ Die Reihenfolge wurde so gewählt, wie sie nach eigenen Erfahrungen mengenmässi
 | Grün                   |         300'000  |         3'000 |     10 |
 | Blau                   |       1'500'000  |         7'500 |     20 |
 | Lila                   |       5'800'000  |        20'000 |     30 |
-| Orange                 |      23'400'100  |             ? |     40 |
+| Orange                 |      23'400'100  |        60'010 |     40 |
 
 
 ### Verschmelzen
@@ -60,7 +60,7 @@ Wenn dir Komponenten fehlen, kannst du Material, das für die Herstellung von Eq
 | Lila                  |        150'000   |                   x45 |          6 Stunden |
 | Orange                |        300'000   |                   x65 |         12 Stunden |
 
-Mit der Anzahl des umzuwandelnden Materials sinkt die Zeit pro Einheit, 2 Stück dauern z.B. statt 2x5 = 10 Minuten nur noch 9 Minuten 27 Sekunden.
+Mit der Anzahl des umzuwandelnden Materials sinkt die Zeit pro Einheit, 2 graue Materialien dauern z.B. statt 10 Minuten nur noch 9 Minuten 27 Sekunden.
 
 ### Chips wiederverwerten
 
