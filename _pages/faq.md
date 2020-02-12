@@ -4,8 +4,8 @@ title: "FAQ"
 toc: true
 ---
 
- :arrow_right: Schreibt eure Fragen im Discord in den guide chat.
-
+:arrow_right: Schreibt eure Fragen im Discord in den guide chat.
+{: .notice--success}
 
 > Wie funktioniert der Allianzkrieg?
 
