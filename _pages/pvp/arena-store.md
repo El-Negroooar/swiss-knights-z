@@ -22,7 +22,7 @@ Der Vorteil im Arena-Laden ist einfach. Du weisst was du ungefähr bekommst. Das
 
 ## Angreifer-Kiste
 
-Hier gibt es nur eine theoretische Chance einen legendären Gegenstand zu erhalten.
+Hier gibt es nur eine theoretische Chance einen legendären Gegenstand zu erhalten. Empfehlen wir nicht.
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/arena/aggressor-crate.png" }})
 
