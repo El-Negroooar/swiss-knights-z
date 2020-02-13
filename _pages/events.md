@@ -93,6 +93,6 @@ Hat man ein Kartenset voll, bekommt man ebenfalls eine Kiste mit Goodies. Ab 100
 
 ## Der Weg des Jägers
 
-![Bild Valentinstag]({{ site.el-negroooar | append:"/assets/images/events/hunter.png" }})
+![Bild Weg des Jägers]({{ site.el-negroooar | append:"/assets/images/events/hunter.png" }})
 
 Der Weg des Jägers ist ein im September stattfindendes Event des "Fahrenden Händlers", welcher es ermöglicht, sich der Feuer-Drohne zu erfreuen. (Neues Update 11.09.2019)
