@@ -45,6 +45,7 @@ Der erste Termin im Jahr für den "Fahrenden Händler" ist gekommen. Es ist Vale
 
 ![Bild Valentinstag]({{ site.el-negroooar | append:"/assets/images/events/valentines_seller.png" }})
 
+### Sortiment
 Schau sein Angebot gründlich durch, einige Dinge kriegst du ohne Kryptocoins, vergiss nicht die Werbevideos und hol dir die Kiste!
 
 ![Bild Valentinstag]({{ site.el-negroooar | append:"/assets/images/events/valentines_sortiment.png" }})
