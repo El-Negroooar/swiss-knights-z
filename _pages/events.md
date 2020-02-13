@@ -4,7 +4,7 @@ title: "Events"
 toc: true
 ---
 
-## Valentinstag 02 / 2020
+## Valentinstag
 
 ![Bild Valentinstag]({{ site.el-negroooar | append:"/assets/images/events/valentines_day.png" }})
 
@@ -22,7 +22,7 @@ Schau sein Angebot gründlich durch, einige Dinge kriegst du ohne Kryptocoins, v
 ---
 
 
-## Der Weg der Pyrotechnik 01 / 2020
+## Der Weg der Pyrotechnik
 
 ![Bild Pyro-Event]({{ site.el-negroooar | append:"/assets/images/events/pyro.png" }})
 
@@ -59,7 +59,7 @@ Zusätzlich: "Funke" +16'000 & die 3 Chips je +50'000.
 ---
 
 
-## Weihnachtsevent 12 / 2019
+## Weihnachtsevent
 
 Weihnachten ist das letzte grosse Event Ende des Jahres. (Neues Update 12.12.2019)
 Es können viele tolle Preise gewonnen werden, darunter Prototypen (für Waffen, 2019) sowie legendäre Mehrzweckwaffen (Thermaldrohne, 2019).
@@ -91,7 +91,7 @@ Hat man ein Kartenset voll, bekommt man ebenfalls eine Kiste mit Goodies. Ab 100
 --
 
 
-## Der Weg des Jägers 09 / 2019
+## Der Weg des Jägers
 
 ![Bild Valentinstag]({{ site.el-negroooar | append:"/assets/images/events/hunter.png" }})
 
