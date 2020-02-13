@@ -3,7 +3,26 @@ permalink: /events/
 title: "Events"
 toc: true
 ---
-## Der Weg der Pyrotechnik
+
+## Valentinstag 02 / 2020
+
+![Bild Valentinstag]({{ site.el-negroooar | append:"/assets/images/events/valentines_day.png" }})
+
+Der erste Termin im Jahr für den "Fahrenden Händler" ist gekommen. Es ist Valentinstag und der Fahrende Händler bringt einige Tauschgeschäfte mit sich. (Neues Update 13.02.2020)
+
+![Bild Valentinstag]({{ site.el-negroooar | append:"/assets/images/events/valentines_seller.png" }})
+
+### Sortiment
+
+Schau sein Angebot gründlich durch, einige Dinge kriegst du ohne Kryptocoins, vergiss nicht die Werbevideos und hol dir die Kiste! (Sortiment CC8)
+
+![Bild Valentinstag]({{ site.el-negroooar | append:"/assets/images/events/valentines_sortiment.png" }})
+
+
+---
+
+
+## Der Weg der Pyrotechnik 01 / 2020
 
 ![Bild Pyro-Event]({{ site.el-negroooar | append:"/assets/images/events/pyro.png" }})
 
@@ -37,23 +56,12 @@ Zusätzlich: "Funke" +16'000 & die 3 Chips je +50'000.
 | Tunnel (Stufe 50)         |            14   |                   Nahrung |          Eher wenig, nur am Wochenende |
 
 
-## Valentinstag
-
-![Bild Valentinstag]({{ site.el-negroooar | append:"/assets/images/events/valentines_day.png" }})
-
-Der erste Termin im Jahr für den "Fahrenden Händler" ist gekommen. Es ist Valentinstag und der Fahrende Händler bringt einige Tauschgeschäfte mit sich. (Neues Update 13.02.2020)
-
-![Bild Valentinstag]({{ site.el-negroooar | append:"/assets/images/events/valentines_seller.png" }})
-
-### Sortiment
-Schau sein Angebot gründlich durch, einige Dinge kriegst du ohne Kryptocoins, vergiss nicht die Werbevideos und hol dir die Kiste! (Sortiment CC8)
-
-![Bild Valentinstag]({{ site.el-negroooar | append:"/assets/images/events/valentines_sortiment.png" }})
+---
 
 
-## Weihnachtsevent
+## Weihnachtsevent 12 / 2019
 
-Weihnachten ist das letzte grosse Event Ende des Jahres. Es beginnt ca. um den 14. Dezember und dauert an bis ca. 29. Dezember.
+Weihnachten ist das letzte grosse Event Ende des Jahres. (Neues Update 12.12.2019)
 Es können viele tolle Preise gewonnen werden, darunter Prototypen (für Waffen, 2019) sowie legendäre Mehrzweckwaffen (Thermaldrohne, 2019).
 
 Mit dem Weihnachtsevent kommt der Zombie-Weihnachtsmann als Endboss ins Spiel, auch via Wartescreen angedeutet.
@@ -78,3 +86,13 @@ Nebst der neuen Location gibt es für diverse Aktionen (PVP, Arena, Tägliche Mi
 Hat man ein Kartenset voll, bekommt man ebenfalls eine Kiste mit Goodies. Ab 100 Kartenset erhält man zudem die legendäre Mehrzweckwaffe "Thermaldrohne".
 
 ![Kartenset]({{ site.el-negroooar | append:"/assets/images/events/cardset.png" }})
+
+
+--
+
+
+## Der Weg des Jägers 09 / 2019
+
+![Bild Valentinstag]({{ site.el-negroooar | append:"/assets/images/events/hunter.png" }})
+
+Der Weg des Jägers ist ein im September stattfindendes Event des "Fahrenden Händlers", welcher es ermöglicht, sich der Feuer-Drohne zu erfreuen. (Neues Update 11.09.2019)
