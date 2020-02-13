@@ -41,12 +41,12 @@ Zusätzlich: "Funke" +16'000 & die 3 Chips je +50'000.
 
 ![Bild Valentinstag]({{ site.el-negroooar | append:"/assets/images/events/valentines_day.png" }})
 
-Der erste Termin im Jahr für den "Fahrenden Händler" ist gekommen. Es ist Valentinstag und der Fahrende Händler bringt einige Tauschgeschäfte mit sich.
+Der erste Termin im Jahr für den "Fahrenden Händler" ist gekommen. Es ist Valentinstag und der Fahrende Händler bringt einige Tauschgeschäfte mit sich. (Neues Update 13.02.2020)
 
 ![Bild Valentinstag]({{ site.el-negroooar | append:"/assets/images/events/valentines_seller.png" }})
 
 ### Sortiment
-Schau sein Angebot gründlich durch, einige Dinge kriegst du ohne Kryptocoins, vergiss nicht die Werbevideos und hol dir die Kiste!
+Schau sein Angebot gründlich durch, einige Dinge kriegst du ohne Kryptocoins, vergiss nicht die Werbevideos und hol dir die Kiste! (Sortiment CC8)
 
 ![Bild Valentinstag]({{ site.el-negroooar | append:"/assets/images/events/valentines_sortiment.png" }})
 
