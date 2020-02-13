@@ -12,14 +12,14 @@ url                      : "https://github.com/el-negroooar"
 baseurl                  : "/swiss-knights-z"
 repository               : "el-negroooar/swiss-knights-z"
 teaser                   : "/assets/images/zero-city-official-image.jpg"
-logo                     : "https://el-negroooar.github.io/swiss-knights-z/assets/images/logo_pyro.png"
+logo                     : "https://el-negroooar.github.io/swiss-knights-z/assets/images/mr_valentines.png"
 title-img                : #"/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 atom_feed:
   path                   : # blank (default) uses feed.xml
-og_image                 : "/assets/images/logo_pyro.png"
+og_image                 : "/assets/images/mr_valentines.png"
 el-negroooar             : "https://el-negroooar.github.io/swiss-knights-z"
 
 # Site Author
