@@ -88,7 +88,7 @@ Hat man ein Kartenset voll, bekommt man ebenfalls eine Kiste mit Goodies. Ab 100
 ![Kartenset]({{ site.el-negroooar | append:"/assets/images/events/cardset.png" }})
 
 
---
+---
 
 
 ## Der Weg des Jägers
