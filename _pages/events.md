@@ -37,6 +37,19 @@ Zusätzlich: "Funke" +16'000 & die 3 Chips je +50'000.
 | Tunnel (Stufe 50)         |            14   |                   Nahrung |          Eher wenig, nur am Wochenende |
 
 
+## Valentinstag
+
+![Bild Valentinstag]({{ site.el-negroooar | append:"/assets/images/events/valentines_day.png" }})
+
+Der erste Termin im Jahr für den "Fahrenden Händler" ist gekommen. Es ist Valentinstag und der Fahrende Händler bringt einige Tauschgeschäfte mit sich.
+
+![Bild Valentinstag]({{ site.el-negroooar | append:"/assets/images/events/valentines_seller.png" }})
+
+Schau sein Angebot gründlich durch, einige Dinge kriegst du ohne Kryptocoins, vergiss nicht die Werbevideos und hol dir die Kiste!
+
+![Bild Valentinstag]({{ site.el-negroooar | append:"/assets/images/events/valentines_sortiment.png" }})
+
+
 ## Weihnachtsevent
 
 Weihnachten ist das letzte grosse Event Ende des Jahres. Es beginnt ca. um den 14. Dezember und dauert an bis ca. 29. Dezember.
