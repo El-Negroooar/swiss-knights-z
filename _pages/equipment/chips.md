@@ -42,7 +42,7 @@ Die Reihenfolge wurde so gewählt, wie sie nach eigenen Erfahrungen mengenmässi
 | Grau                   |       500'000    |               99% |
 | Grün                   |     1'500'000    |               70% |
 | Blau                   |     2'500'000    |               50% |
-| Lila                   |     4'000'000    |                 ? |
+| Lila                   |     4'000'000    |               30% |
 | Orange                 |             -    |                 - |
 
 
@@ -71,7 +71,7 @@ Für das Widerverwerten von Chips zu Komponenten fallen weder Kosten noch Wartez
 | Grau                   |            x50 |             x800 |
 | Grün                   |            x83 |            x2333 |
 | Blau                   |            x28 |                ? |
-| Lila                   |             x9 |                ? |
+| Lila                   |             x9 |             x536 |
 | Orange                 |              ? |             x282 |
 
 
