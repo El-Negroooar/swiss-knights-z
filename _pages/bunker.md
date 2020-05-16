@@ -12,7 +12,7 @@ Voraussetzung: Kommandostufe 9 (CC9)
 Mit Freischaltung des Bunkers und Offiziers auf CC9 öffnet sich dem Spieler ein komplett neuer Spielmodus. Im Koop-Modus kannst du mit 1 anderen Spieler - einem Freund, Allianzmitglied oder zufälliger Spieler - in den Bunker eindringen und dir Daten sowie Bewaffnungsteile holen, um die Bewaffnungen und Talente deines Offiziers aufzuleveln.
 
 
-#### Schlüsselkarte
+### Schlüsselkarte
 
 Die Schlüsselkarte kann benutzt werden, um eine Runde im Bunker zu starten. Du kannst sie aus Kisten bei Bosskämpfen im Bunker erhalten oder gegen Kryptocoins im Bunker erhalten. Alternativ kannst du eine Runde im Bunker mittels Nahrung finanzieren.
 
@@ -23,7 +23,7 @@ Dein Offizier ist dein neuer Truppenführer, du findest ihn ab Kommandostufe 9 i
 * Er hat eine eigene Stärkeanzeige, kann 5 Bewaffnungen tragen und du kannst ihm einen eigenen Namen geben.
 
 
-#### Bewaffnungen
+### Bewaffnungen
 
 Die Bewaffnungen sind weitere Modifikationen, die du mit dem Offizier verwenden kannst. Für Upgrades brauchst du die entsprechende Menge an Bewaffnungsteilen sowie Spezialwissen. Das Spezialwissen erhälst du im Laden des Bunkers, wenn du Daten von einem Bunkerraubzug eintauschst. Die Bewaffnungsteile erhälst du aus den Kisten eines Bosses im Bunker.
 
@@ -95,6 +95,11 @@ Strahlungswirkungen:
 * Du kannst den "Entscheidungsweg" (Strahlungswirkungen) auch später einsetzen, wenn gewisse Truppen nicht mehr vorhanden sind und der Debuff (Nachteil) ins leere trifft, denn die Entscheidung greifft für den Rest des Weges. 
 * Gewisse Buffs / Debuffs kannst du gegeneinander einsetzen, um keine Nachteile zu erhalten. z.B. +50% Verteidigung & -45% Verteidigung auf Infanterie. Dann habt ihr letztlich noch +5% Verteidigung auf die Infanterie, ohne Nachteil zu erhalten.
 
+### Truppen-Auswahl
+
+* Bestenfalls viele Infanteristen mitnehmen.
+* Ranger mit Infanterie-Rüstung einkleiden.
+
 
 ## Bosse
 
@@ -109,7 +114,7 @@ Schwerer Gegner, du hast 3x X Sekunden Zeit ihn zu töten, bevor er im Bunker ve
 ### x
 
 
-### Boss-Kiste
+### High-Tech-Kiste
 
 Die Boss-Kiste kann folgendes enthalten:
 * Bewaffnungsteile
