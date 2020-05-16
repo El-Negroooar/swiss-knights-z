@@ -17,7 +17,7 @@ Mit Freischaltung des Bunkers und Offiziers auf CC9 öffnet sich dem Spieler ein
 ## Offizier
 
 Dein Offizier ist dein neuer Truppenführer, du findest ihn ab Kommandostufe 9 in der Kommandozentrale. Er wird dich in alle Kämpfe begleiten und kann selbst Bewaffnungen sowie Talente ausüben und damit auch deine Truppen boosten. In manchen Kämpfen musst du die Bewaffnung selbst aktivieren, in anderen passiert dies automatisch.
-Er hat eine eigene Stärkeanzeige, kann 5 Bewaffnungen tragen und du kannst ihm einen eigenen Namen geben.
+* Er hat eine eigene Stärkeanzeige, kann 5 Bewaffnungen tragen und du kannst ihm einen eigenen Namen geben.
 
 
 ## Bewaffnung
@@ -64,7 +64,7 @@ Die Wahl des Weges kann ausschlaggebend sein für den Erfolg. Manche Wege bergen
 Manchmal trifft man auf einen Punkt, wo man einen Debuff / Buff - also einen Vorteil und einen Nachteil für die eigenen Truppen - auswählen kann. Auch sie geben Prozente im Fortschrittsbalken. Vergiss nicht, die Belohnungen im Fortschritssbalken manuell einzusammeln.
 
 Tipp: 
-*Du kannst den "Entscheidungsweg" auch später einsetzen, wenn gewisse Truppen nicht mehr vorhanden sind und der Debuff (Nachteil) ins leere trifft, denn die Entscheidung greifft für den Rest des Weges. 
+* Du kannst den "Entscheidungsweg" auch später einsetzen, wenn gewisse Truppen nicht mehr vorhanden sind und der Debuff (Nachteil) ins leere trifft, denn die Entscheidung greifft für den Rest des Weges. 
 * Gewisse Buffs / Debuffs kannst du gegeneinander einsetzen, um keine Nachteile zu erhalten. z.B. +50% Verteidigung & -45% Verteidigung auf Infanterie. Dann habt ihr letztlich noch +5% Verteidigung auf die Infanterie, ohne Nachteil zu erhalten.
 
 
