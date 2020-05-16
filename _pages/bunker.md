@@ -62,6 +62,8 @@ Im Bunkerladen kannst du folgende Einkäufe tätigen:
 * Kryptocoins gegen Sanitätskasten (Wiederbelebung) eintauschen. 
 * Kryptocoins gegen Daten eintauschen.
 
+Hinweis: Du kannst während du im Bunker bist, nicht auf den Bunker-Laden zugreifen. Hol dir vorher ein paar Sanitätskästen oder den Verdoppler.
+
 
 ### Daten
 
@@ -73,7 +75,7 @@ Im Bunkerladen kannst du folgende Einkäufe tätigen:
 Mit dieser Währung, die du durch Eintauschen von Daten im Laden bekommst, kannst du deine Talente und Bewaffnungen des jeweiligen Fähigkeiten-Baumes upgraden.
 
 
-## Taktik Koop
+## Taktik Bunker
 
 ### Spieler-Auswahl
 Da sich die Stärke des Gegners am stärkeren Spieler orientiert, macht es Sinn, dass beide Spieler etwa gleich stark sind.
@@ -101,15 +103,15 @@ Strahlungswirkungen:
 * Ranger mit Infanterie-Rüstung einkleiden.
 
 
-## Bosse
+## Bunker Bosse
 
 ### Raum des Sicherheitschefs
 
 Schwerer Gegner, du hast 3x X Sekunden Zeit ihn zu töten, bevor er im Bunker verschwindet. Dazwischen heilt er sich stark auf.
 
-### 42
+### Zelle des Testsubjekts 42
 
-
+Gut machbarer Gegner, Infanteristen können den Gegner nicht treffen, da er an der Decke hängt. Nur Ranger und Chemiker 
 
 ### x
 
