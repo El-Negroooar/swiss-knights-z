@@ -12,6 +12,11 @@ Voraussetzung: Kommandostufe 9 (CC9)
 Mit Freischaltung des Bunkers und Offiziers auf CC9 öffnet sich dem Spieler ein komplett neuer Spielmodus. Im Koop-Modus kannst du mit 1 anderen Spieler - einem Freund, Allianzmitglied oder zufälliger Spieler - in den Bunker eindringen und dir Daten sowie Bewaffnungsteile holen, um die Bewaffnungen und Talente deines Offiziers aufzuleveln.
 
 
+### Schlüsselkarte
+
+Die Schlüsselkarte kann benutzt werden, um eine Runde im Bunker zu starten. Du kannst sie aus Kisten bei Bosskämpfen im Bunker erhalten oder gegen Kryptocoins im Bunker erhalten. Alternativ kannst du eine Runde im Bunker mittels Nahrung finanzieren.
+
+
 ## Offizier
 
 Dein Offizier ist dein neuer Truppenführer, du findest ihn ab Kommandostufe 9 in der Kommandozentrale. Er wird dich in alle Kämpfe begleiten und kann selbst Bewaffnungen sowie Talente ausüben und damit auch deine Truppen boosten. In manchen Kämpfen musst du die Bewaffnung selbst aktivieren, in anderen passiert dies automatisch. Der Offizier wiederum stärkst deine Truppen und ist bei allen Kampfmodi mit dabei.
@@ -28,6 +33,12 @@ Die Bewaffnungen sind weitere Modifikationen, die du mit dem Offizier verwenden 
 Die Talente sind Fähigkeiten, die sich auf deine Truppen ausüben. Sie werden direkt aktiv, sobald du sie erlernt hast. Sie sind abhängig von der Freischaltung der jeweiligen Bewaffnung, an die sie gebunden sind.
 
 
+### Spezialwissen
+
+Mit dieser Währung, die du durch Eintauschen von Daten im Laden bekommst, kannst du deine Talente und Bewaffnungen des jeweiligen Fähigkeiten-Baumes upgraden.
+
+
+
 ## Bunkerladen
 
 Im Bunkerladen kannst du folgende Einkäufe tätigen:
@@ -40,10 +51,9 @@ Im Bunkerladen kannst du folgende Einkäufe tätigen:
 * Kryptocoins gegen Daten eintauschen.
 
 
-### Spezialwissen
+### Daten
 
 "Daten" ist die neue Standardwährung im Bunker. Du kannst sie im Bunker-Laden gegen typenspezifisches Spezialwissen für Infanterie, Ranger oder Chemiker eintauschen. Anschliessend kannst du im jeweiligen
-
 
 
 ## Taktik
@@ -62,16 +72,16 @@ Der Vorteil eines Allianzmitgliedes liegt auf der Hand, du kannst dich gut abspr
 ### Weg-Auswahl
 
 Die Wahl des Weges kann ausschlaggebend sein für den Erfolg. Manche Wege bergen bis 3 Wellen an Gegnern, andere nur 1 Welle, dafür vlt. etwas stärker. Da man ab 25%, 50%, 75% und 100% zusätzlich Daten bekommt, macht es Sinn soviele Wege wie möglich zu beschreiten. Wenn es realistisch ist einen Boss zu schlagen, kann sich dieser wegen der Bewaffnungsteile sehr lohnen. 
-Manchmal trifft man auf einen Punkt, wo man einen Debuff / Buff - also einen Vorteil und einen Nachteil für die eigenen Truppen - auswählen kann. Auch sie geben Prozente im Fortschrittsbalken. Vergiss nicht, die Belohnungen im Fortschritssbalken manuell einzusammeln.
+Manchmal trifft man auf einen Punkt, wo man einen Debuff / Buff - also einen Vorteil und einen Nachteil für die eigenen Truppen - auswählen kann. Auch sie geben Prozente im Abschlussfortschritts. Vergiss nicht, die Belohnungen im Fortschritssbalken manuell einzusammeln.
 
-Tipp: 
-* Du kannst den "Entscheidungsweg" auch später einsetzen, wenn gewisse Truppen nicht mehr vorhanden sind und der Debuff (Nachteil) ins leere trifft, denn die Entscheidung greifft für den Rest des Weges. 
+Strahlungswirkungen: 
+* Du kannst den "Entscheidungsweg" (Strahlungswirkungen) auch später einsetzen, wenn gewisse Truppen nicht mehr vorhanden sind und der Debuff (Nachteil) ins leere trifft, denn die Entscheidung greifft für den Rest des Weges. 
 * Gewisse Buffs / Debuffs kannst du gegeneinander einsetzen, um keine Nachteile zu erhalten. z.B. +50% Verteidigung & -45% Verteidigung auf Infanterie. Dann habt ihr letztlich noch +5% Verteidigung auf die Infanterie, ohne Nachteil zu erhalten.
 
 
 ## Bosse
 
-### Boss 1
+### Raum des Sicherheitschefs
 
 
 
