@@ -20,19 +20,14 @@ Dein Offizier ist dein neuer Truppenführer, du findest ihn ab Kommandostufe 9 i
 * Er hat eine eigene Stärkeanzeige, kann 5 Bewaffnungen tragen und du kannst ihm einen eigenen Namen geben.
 
 
-## Bewaffnung
+### Bewaffnung
 
 Die Bewaffnungen sind weitere Modifikationen, die du mit dem Offizier verwenden kannst. Für Upgrades brauchst du die entsprechende Menge an Bewaffnungsteilen sowie Spezialwissen. Das Spezialwissen erhälst du im Laden des Bunkers, wenn du Daten von einem Bunkerraubzug eintauschst. Die Bewaffnungsteile erhälst du aus den Kisten eines Bosses im Bunker.
 
 
-## Talente
+### Talente
 
 Die Talente sind Fähigkeiten, die sich auf deine Truppen ausüben. Sie werden direkt aktiv, sobald du sie erlernt hast. Sie sind abhängig von der Freischaltung der jeweiligen Bewaffnung, an die sie gebunden sind.
-
-
-## Spezialwissen
-
-"Daten" ist die neue Standardwährung im Bunker. Du kannst sie im Bunker-Laden gegen typenspezifisches Spezialwissen für Infanterie, Ranger oder Chemiker eintauschen. Anschliessend kannst du im jeweiligen
 
 
 ## Bunkerladen
@@ -47,6 +42,12 @@ Im Bunkerladen kannst du folgende Einkäufe tätigen:
 * Kryptocoins gegen Daten eintauschen.
 
 
+### Spezialwissen
+
+"Daten" ist die neue Standardwährung im Bunker. Du kannst sie im Bunker-Laden gegen typenspezifisches Spezialwissen für Infanterie, Ranger oder Chemiker eintauschen. Anschliessend kannst du im jeweiligen
+
+
+
 ## Taktik
 
 ### Spielerauswahl
@@ -57,6 +58,8 @@ Du kannst 3 Arten von Spieler (ab CC9) für eine Koop-Runde einladen:
 * Einen zufälligen Spieler.
 
 Der Vorteil eines zufälligen Spieler ist, dass er ziemlich sicher ähnlich stark ist. Der Nachteil ist, dass ein Fremder eher mal einfach aussteigt, dann ist die Runde automatisch beendet.
+Der Vorteil eines Freundes kann der sein, dass du eine grosse Auswahl gleichstarker Spieler hast und jederzeit einen Spielpartner hast.
+Der Vorteil eines Allianzmitgliedes liegt auf der Hand, du kannst dich gut absprechen und musst keinen Absprung befürchten. Such dir ein gleichstarkes Allianzmitglied.
 
 ### Weg-Auswahl
 
