@@ -12,7 +12,7 @@ Voraussetzung: Kommandostufe 9 (CC9)
 Mit Freischaltung des Bunkers und Offiziers auf CC9 öffnet sich dem Spieler ein komplett neuer Spielmodus. Im Koop-Modus kannst du mit 1 anderen Spieler - einem Freund, Allianzmitglied oder zufälliger Spieler - in den Bunker eindringen und dir Daten sowie Bewaffnungsteile holen, um die Bewaffnungen und Talente deines Offiziers aufzuleveln.
 
 
-### Schlüsselkarte
+#### Schlüsselkarte
 
 Die Schlüsselkarte kann benutzt werden, um eine Runde im Bunker zu starten. Du kannst sie aus Kisten bei Bosskämpfen im Bunker erhalten oder gegen Kryptocoins im Bunker erhalten. Alternativ kannst du eine Runde im Bunker mittels Nahrung finanzieren.
 
@@ -23,7 +23,7 @@ Dein Offizier ist dein neuer Truppenführer, du findest ihn ab Kommandostufe 9 i
 * Er hat eine eigene Stärkeanzeige, kann 5 Bewaffnungen tragen und du kannst ihm einen eigenen Namen geben.
 
 
-### Bewaffnungen
+#### Bewaffnungen
 
 Die Bewaffnungen sind weitere Modifikationen, die du mit dem Offizier verwenden kannst. Für Upgrades brauchst du die entsprechende Menge an Bewaffnungsteilen sowie Spezialwissen. Das Spezialwissen erhälst du im Laden des Bunkers, wenn du Daten von einem Bunkerraubzug eintauschst. Die Bewaffnungsteile erhälst du aus den Kisten eines Bosses im Bunker.
 
@@ -51,12 +51,6 @@ Ranger-Bewaffnung:
 Die Talente sind Fähigkeiten, die sich auf deine Truppen ausüben. Sie werden direkt aktiv, sobald du sie erlernt hast. Sie sind abhängig von der Freischaltung der jeweiligen Bewaffnung, an die sie gebunden sind.
 
 
-### Spezialwissen
-
-Mit dieser Währung, die du durch Eintauschen von Daten im Laden bekommst, kannst du deine Talente und Bewaffnungen des jeweiligen Fähigkeiten-Baumes upgraden.
-
-
-
 ## Bunkerladen
 
 Im Bunkerladen kannst du folgende Einkäufe tätigen:
@@ -74,9 +68,14 @@ Im Bunkerladen kannst du folgende Einkäufe tätigen:
 "Daten" ist die neue Standardwährung im Bunker. Du kannst sie im Bunker-Laden gegen typenspezifisches Spezialwissen für Infanterie, Ranger oder Chemiker eintauschen. Anschliessend kannst du im jeweiligen
 
 
-## Taktik
+### Spezialwissen
 
-### Spielerauswahl
+Mit dieser Währung, die du durch Eintauschen von Daten im Laden bekommst, kannst du deine Talente und Bewaffnungen des jeweiligen Fähigkeiten-Baumes upgraden.
+
+
+## Taktik Koop
+
+### Spieler-Auswahl
 Da sich die Stärke des Gegners am stärkeren Spieler orientiert, macht es Sinn, dass beide Spieler etwa gleich stark sind.
 Du kannst 3 Arten von Spieler (ab CC9) für eine Koop-Runde einladen:
 * Einen Freund den du via Facebook hinzugefügt hast.
