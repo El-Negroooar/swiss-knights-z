@@ -27,6 +27,24 @@ Dein Offizier ist dein neuer Truppenführer, du findest ihn ab Kommandostufe 9 i
 
 Die Bewaffnungen sind weitere Modifikationen, die du mit dem Offizier verwenden kannst. Für Upgrades brauchst du die entsprechende Menge an Bewaffnungsteilen sowie Spezialwissen. Das Spezialwissen erhälst du im Laden des Bunkers, wenn du Daten von einem Bunkerraubzug eintauschst. Die Bewaffnungsteile erhälst du aus den Kisten eines Bosses im Bunker.
 
+Infanterie-Bewaffnung:
+* Hydraulischer Schlagring
+* Feldbeleber
+* Champion der Arena
+* Schocker
+
+Chemiker-Bewaffnung:
+* Nitroglyzerin
+* Eine Klebebombe
+* Detektor
+* Unidentifiziertes Gel
+
+Ranger-Bewaffnung:
+* Rauchbombe
+* Unterlauf-Granatwerfer
+* Megafon
+* Thermalbildsensor
+
 
 ### Talente
 
@@ -83,16 +101,22 @@ Strahlungswirkungen:
 
 ### Raum des Sicherheitschefs
 
+Schwerer Gegner, du hast 3x X Sekunden Zeit ihn zu töten, bevor er im Bunker verschwindet. Dazwischen heilt er sich stark auf.
+
+### 42
 
 
-### Boss 2
+
+### x
 
 
+### Boss-Kiste
 
-### Boss 3
-
-
-### Boss-Kisten
+Die Boss-Kiste kann folgendes enthalten:
+* Bewaffnungsteile
+* Spezialwissen (alle 3)
+* Daten
+* legendäres & episches Equipment
 
 
 
