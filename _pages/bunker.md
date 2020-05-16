@@ -14,11 +14,11 @@ Mit Freischaltung des Bunkers und Offiziers auf CC9 öffnet sich dem Spieler ein
 
 ## Offizier
 
-Dein Offizier ist dein neuer Truppenführer, du findest ihn ab Kommandostufe 9 in der Kommandozentrale. Er wird dich in alle Kämpfe begleiten und kann selbst Bewaffnungen sowie Talente ausüben und damit auch deine Truppen boosten. In manchen Kämpfen musst du die Bewaffnung selbst aktivieren, in anderen passiert dies automatisch.
+Dein Offizier ist dein neuer Truppenführer, du findest ihn ab Kommandostufe 9 in der Kommandozentrale. Er wird dich in alle Kämpfe begleiten und kann selbst Bewaffnungen sowie Talente ausüben und damit auch deine Truppen boosten. In manchen Kämpfen musst du die Bewaffnung selbst aktivieren, in anderen passiert dies automatisch. Der Offizier wiederum stärkst deine Truppen und ist bei allen Kampfmodi mit dabei.
 * Er hat eine eigene Stärkeanzeige, kann 5 Bewaffnungen tragen und du kannst ihm einen eigenen Namen geben.
 
 
-### Bewaffnung
+### Bewaffnungen
 
 Die Bewaffnungen sind weitere Modifikationen, die du mit dem Offizier verwenden kannst. Für Upgrades brauchst du die entsprechende Menge an Bewaffnungsteilen sowie Spezialwissen. Das Spezialwissen erhälst du im Laden des Bunkers, wenn du Daten von einem Bunkerraubzug eintauschst. Die Bewaffnungsteile erhälst du aus den Kisten eines Bosses im Bunker.
 
@@ -82,6 +82,7 @@ Tipp:
 ### Boss 3
 
 
+### Boss-Kisten
 
 
 
