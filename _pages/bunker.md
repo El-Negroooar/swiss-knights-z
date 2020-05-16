@@ -102,6 +102,10 @@ Strahlungswirkungen:
 * Bestenfalls viele Infanteristen mitnehmen.
 * Ranger mit Infanterie-Rüstung einkleiden.
 
+### Hilfsmittel
+
+* Im Bunker-Laden kannst du dir Sanitätskasten für Kryptocoins kaufen. Wenn beide Spieler diese zusammen einsetzen, maximiert da eure Chance, den ganzen Bunker zu leeren.
+
 
 ## Bunker Bosse
 
@@ -109,14 +113,30 @@ Strahlungswirkungen:
 
 Schwerer Gegner, du hast 3x X Sekunden Zeit ihn zu töten, bevor er im Bunker verschwindet. Dazwischen heilt er sich stark auf.
 
+
 ### Zelle des Testsubjekts 42
 
 Gut machbarer Gegner, Infanteristen können den Gegner nicht treffen, da er an der Decke hängt. Nur Ranger und Chemiker 
 
-### x
+
+### Chemielabor
+
+Gut machbarer Gegner. Wiederbelebung unwirksam. Mit Infanterie und einem Heiler gut zu bewältigen.
+
+
+## Kisten
+
+### Bunker-Kiste
+
+Die Bunker-Kiste erhälst du nach Abschluss des Bunkers zu 100%. 
 
 
 ### High-Tech-Kiste
+
+Die High-Tech-Kiste erhälst du bei der Verwendung von Schlüsselkarten.
+
+
+### Boss-Kiste
 
 Die Boss-Kiste kann folgendes enthalten:
 * Bewaffnungsteile
