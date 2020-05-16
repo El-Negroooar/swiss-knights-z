@@ -46,7 +46,7 @@ toc: true
 * :twisted_rightwards_arrows: [Tägliche Missionen]({{ site.el-negroooar | append:"/quests/mission-chest" }})
 * :japanese_ogre: [Zombie-Horde]({{ site.el-negroooar | append:"/quests/horde/" }})
 * :station: [Bahnhofsraubzug]({{ site.el-negroooar | append:"/pvp/railway-raid/" }})
-* :bunker: [Bunker]({{ site.el-negroooar | append:"/bunker/" }})
+* :japanese_castle: [Bunker]({{ site.el-negroooar | append:"/bunker/" }})
 
 ## Helferlein
 
