@@ -4,8 +4,6 @@ title: "Bunker"
 toc: true
 ---
 
-## Angreifer-Kiste
-
 Voraussetzung: Kommandostufe 9 (CC9)
 
 
