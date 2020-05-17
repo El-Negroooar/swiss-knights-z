@@ -5,6 +5,7 @@ toc: true
 ---
 
 Spiel-Update: 14.05.2020
+
 Voraussetzung: Kommandostufe 9 (CC9)
 
 
@@ -83,7 +84,7 @@ Hinweis: Du kannst während du im Bunker bist, nicht auf den Bunker-Laden zugrei
 
 ### Spezialwissen
 
-![Spezialwissen]({{ site.el-negroooar | append:"/assets/images/bunker/bunker_spezalwissen.png" }})
+![Spezialwissen]({{ site.el-negroooar | append:"/assets/images/bunker/bunker_spezialwissen.png" }})
 
 Mit dieser Währung, die du durch Eintauschen von Daten im Laden bekommst, kannst du deine Talente und Bewaffnungen des jeweiligen Fähigkeiten-Baumes upgraden.
 
@@ -92,28 +93,37 @@ Mit dieser Währung, die du durch Eintauschen von Daten im Laden bekommst, kanns
 
 ### Spieler-Auswahl
 Da sich die Stärke des Gegners am stärkeren Spieler orientiert, macht es Sinn, dass beide Spieler etwa gleich stark sind.
+
 Du kannst 3 Arten von Spieler (ab CC9) für eine Koop-Runde einladen:
-* Einen Freund den du via Facebook hinzugefügt hast.
-* Ein Allianzmitglied.
-* Einen zufälligen Spieler.
+
+#### Freund
+
+Der Vorteil eines Freundes kann der sein, dass du eine grosse Auswahl gleichstarker Spieler hast und jederzeit einen Spielpartner hast.
+
+
+#### Allianzmitglied
+
+Der Vorteil eines Allianzmitgliedes liegt auf der Hand, du kannst dich gut absprechen und musst keinen Absprung befürchten. Such dir ein gleichstarkes Allianzmitglied.
+
+
+#### Zufällig
 
 Der Vorteil eines zufälligen Spieler ist, dass er ziemlich sicher ähnlich stark ist. Der Nachteil ist, dass ein Fremder eher mal einfach aussteigt, dann ist die Runde automatisch beendet.
-Der Vorteil eines Freundes kann der sein, dass du eine grosse Auswahl gleichstarker Spieler hast und jederzeit einen Spielpartner hast.
-Der Vorteil eines Allianzmitgliedes liegt auf der Hand, du kannst dich gut absprechen und musst keinen Absprung befürchten. Such dir ein gleichstarkes Allianzmitglied.
+
 
 ### Weg-Auswahl
 
-Die Wahl des Weges kann ausschlaggebend sein für den Erfolg. Manche Wege bergen bis 3 Wellen an Gegnern, andere nur 1 Welle, dafür vlt. etwas stärker. Da man ab 25%, 50%, 75% und 100% zusätzlich Daten bekommt, macht es Sinn soviele Wege wie möglich zu beschreiten. Wenn es realistisch ist einen Boss zu schlagen, kann sich dieser wegen der Bewaffnungsteile sehr lohnen. 
+Die Wahl des Weges kann ausschlaggebend sein für den Erfolg. Manche Wege bergen bis 3 Wellen an Gegnern, andere nur 1 Welle, dafür vlt. etwas stärker. Da man ab 20%, 40%, 75% und 100% zusätzlich Daten bekommt, macht es Sinn soviele Wege wie möglich zu beschreiten. Wenn es realistisch ist einen Boss zu schlagen, kann sich dieser wegen der Bewaffnungsteile sehr lohnen. 
 Manchmal trifft man auf einen Punkt, wo man einen Effekt - also einen Vorteil und einen Nachteil (Debuff / Buff) - für die eigenen Truppen auswählen kann. Auch sie geben Prozente im Abschlussfortschritts. Vergiss nicht, die Belohnungen im Fortschritssbalken manuell einzusammeln.
 
-Strahlungswirkungen: 
+#### Strahlungswirkungen
 * Du kannst die Effekt-Auswahl (Strahlungswirkungen) auch später einsetzen, wenn gewisse Truppen nicht mehr vorhanden sind und der Debuff (Nachteil) ins leere trifft, denn die Entscheidung greifft für den Rest des Weges. 
 * Gewisse Buffs / Debuffs kannst du gegeneinander einsetzen, um keine Nachteile zu erhalten. z.B. +50% Verteidigung & -45% Verteidigung auf Infanterie. Dann habt ihr letztlich noch +5% Verteidigung auf die Infanterie, ohne Nachteil zu erhalten.
 
 ### Truppen-Auswahl
 
 * Bestenfalls viele Infanteristen mitnehmen.
-* Ranger mit Infanterie-Rüstung einkleiden.
+* Ranger & Chemiker mit Infanterie-Rüstung einkleiden.
 * Gegner gut studieren und enstprechend setzen.
 
 
