@@ -95,24 +95,27 @@ Da sich die Stärke des Gegners am stärkeren Spieler orientiert, macht es Sinn,
 
 Du kannst 3 Arten von Spieler (ab CC9) für eine Koop-Runde einladen:
 
-* Freund
+__Freund__
 
 Vorteil: Sehr grosse Auswahl via Facebook-Gruppe. Allianzmitglieder können auch als Freund geaddet werden. Nachteil: "Freund" ist nicht unbedingt gleich "Freund" ;)
 
 
-* Allianzmitglied
+__Allianzmitglied__
 
 Vorteil: Ihr kennt euch, könnt euch absprechen und Zeiten abmachen. Nachteil: Einladung steht im Allianzchat, kann jeder annehmen ;)
 
 
-* Zufällig
+__Zufälliger_Spielpartner__
 
 Vorteil: Ähnlichstarke Spieler, jederzeit verfügbar. Nachteil: Fremder steigt eher mal einfach aus, erschwerte Kommunikation wegen unterschiedlicher Sprachen.
 
 
 ### Weg-Auswahl
 
-Die Wahl des Weges kann ausschlaggebend sein für den Erfolg. Manche Wege bergen bis 3 Wellen an Gegnern, andere nur 1 Welle, dafür vlt. etwas stärker. Da man ab 20%, 40%, 75% und 100% zusätzlich Daten bekommt, macht es Sinn soviele Wege wie möglich zu beschreiten. Wenn es realistisch ist einen Boss zu schlagen, kann sich dieser wegen der Bewaffnungsteile sehr lohnen. 
+Die Wahl des Weges kann ausschlaggebend sein für den Erfolg. Manche Wege bergen bis 3 Wellen an Gegnern, andere nur 1 Welle, dafür vlt. etwas stärker. Da man ab 20%, 40%, 75% und 100% zusätzlich Daten bekommt, macht es Sinn soviele Wege wie möglich zu beschreiten. 
+
+Wenn es realistisch ist einen Boss zu schlagen, kann sich dieser wegen der Bewaffnungsteile sehr lohnen. 
+
 Manchmal trifft man auf einen Punkt, wo man einen Effekt - also einen Vorteil und einen Nachteil (Debuff / Buff) - für die eigenen Truppen auswählen kann. Auch sie geben Prozente im Abschlussfortschritts. Vergiss nicht, die Belohnungen im Fortschritssbalken manuell einzusammeln.
 
 #### Strahlungswirkungen
@@ -128,8 +131,8 @@ Manchmal trifft man auf einen Punkt, wo man einen Effekt - also einen Vorteil un
 
 ### Hilfsmittel
 
-* Im Bunker-Laden kannst du dir Sanitätskasten für Kryptocoins kaufen. Wenn beide Spieler diese zusammen einsetzen, maximiert da eure Chance, den ganzen Bunker zu leeren.
-* Für mehr Daten, kauf dir den Verdoppler im Laden.
+* Sanitätskasten um deine Spieler (optimalerweise gemeinsam) wiederzubeleben.
+* Für doppelte Daten pro Bunker-Lauf, kauf dir den Verdoppler im Laden.
 
 
 ## Bunker Bosse
