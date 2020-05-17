@@ -175,16 +175,10 @@ Schwerer Gegner, du hast nur eine begrenzte Zeit zur Verfügung, ihn zu töten, 
 
 ## Kisten
 
-### Boss-Kiste
-
-Die Boss-Kiste erhälst du beim Besiegen eines Bosses:
-
-![Boss-Kiste]({{ site.el-negroooar | append:"/assets/images/bunker/boss-kiste.png" }})
-
 
 ### Bunker-Kiste
 
-Die Bunker-Kiste erhälst du nach Abschluss des Bunkers zu 100%:
+Die Bunker-Kiste erhälst du für jeden Boss den du besiegst sowie nach Abschluss des Bunkers zu 100%:
 
 ![Bunker-kiste]({{ site.el-negroooar | append:"/assets/images/bunker/bunker-kiste.png" }})
 
