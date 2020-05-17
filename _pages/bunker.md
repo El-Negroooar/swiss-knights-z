@@ -79,35 +79,35 @@ Die Talente sind Fähigkeiten, die sich auf deine Truppen ausüben. Sie werden d
 
 Im Bunkerladen kannst du folgende Einkäufe tätigen:
 
-* Daten gegen Spezialwissen eintauschen.
-* Kryptocoins gegen Bewaffnungsteile eintauschen.
-* Kryptocoins gegen Verdoppler für Spezialwissen im Bunker eintauschen.
-* Kryptocoins gegen Schlüsselkarten eintauschen.
-* Kryptocoins gegen Sanitätskasten (Wiederbelebung) eintauschen. 
-* Kryptocoins gegen Daten eintauschen.
+* Daten --> Spezialwissen.
+* Kryptocoins --> Bewaffnungsteile.
+* Kryptocoins --> Verdoppler für Spezialwissen.
+* Kryptocoins --> Schlüsselkarten.
+* Kryptocoins --> Sanitätskasten. 
+* Kryptocoins --> Daten.
 
 Hinweis: Du kannst während du im Bunker bist, nicht auf den Bunker-Laden zugreifen. Hol dir vorher ein paar Sanitätskästen oder den Verdoppler.
 
 ## Taktik Bunker
 
-### Spieler-Auswahl
+### Partner-Auswahl
 Da sich die Stärke des Gegners am stärkeren Spieler orientiert, macht es Sinn, dass beide Spieler etwa gleich stark sind.
 
 Du kannst 3 Arten von Spieler (ab CC9) für eine Koop-Runde einladen:
 
-#### Freund
+* Freund
 
-Der Vorteil eines Freundes kann der sein, dass du eine grosse Auswahl gleichstarker Spieler hast und jederzeit einen Spielpartner hast.
-
-
-#### Allianzmitglied
-
-Der Vorteil eines Allianzmitgliedes liegt auf der Hand, du kannst dich gut absprechen und musst keinen Absprung befürchten. Such dir ein gleichstarkes Allianzmitglied.
+Vorteil: Sehr grosse Auswahl via Facebook-Gruppe. Allianzmitglieder können auch als Freund geaddet werden. Nachteil: "Freund" ist nicht unbedingt gleich "Freund" ;)
 
 
-#### Zufällig
+* Allianzmitglied
 
-Der Vorteil eines zufälligen Spieler ist, dass er ziemlich sicher ähnlich stark ist. Der Nachteil ist, dass ein Fremder eher mal einfach aussteigt, dann ist die Runde automatisch beendet.
+Vorteil: Ihr kennt euch, könnt euch absprechen und Zeiten abmachen. Nachteil: Einladung steht im Allianzchat, kann jeder annehmen ;)
+
+
+* Zufällig
+
+Vorteil: Ähnlichstarke Spieler, jederzeit verfügbar. Nachteil: Fremder steigt eher mal einfach aus, erschwerte Kommunikation wegen unterschiedlicher Sprachen.
 
 
 ### Weg-Auswahl
