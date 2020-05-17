@@ -23,6 +23,21 @@ Mit Freischaltung des Bunkers und Offiziers auf CC9 öffnet sich dem Spieler ein
 Die Schlüsselkarte kann benutzt werden, um eine Runde im Bunker zu starten. Du kannst sie aus Kisten bei Bosskämpfen im Bunker erhalten oder gegen Kryptocoins im Bunker erhalten. Alternativ kannst du eine Runde im Bunker mittels Nahrung finanzieren.
 
 
+### Daten
+
+![Daten]({{ site.el-negroooar | append:"/assets/images/bunker/bunker_daten.png" }})
+
+"Daten" ist die neue Standardwährung im Bunker. Du kannst sie im Bunker-Laden gegen typenspezifisches Spezialwissen für Infanterie, Ranger oder Chemiker eintauschen. Anschliessend kannst du im jeweiligen
+
+
+### Spezialwissen
+
+![Spezialwissen]({{ site.el-negroooar | append:"/assets/images/bunker/bunker_spezialwissen.png" }})
+
+Mit dieser Währung, die du durch Eintauschen von Daten im Laden bekommst, kannst du deine Talente und Bewaffnungen des jeweiligen Fähigkeiten-Baumes upgraden.
+
+
+
 ## Offizier
 
 Dein Offizier ist dein neuer Truppenführer, du findest ihn ab Kommandostufe 9 in der Kommandozentrale. Er wird dich in alle Kämpfe begleiten und kann selbst Bewaffnungen sowie Talente ausüben und damit auch deine Truppen boosten. In manchen Kämpfen musst du die Bewaffnung selbst aktivieren, in anderen passiert dies automatisch. Der Offizier wiederum stärkst deine Truppen und ist bei allen Kampfmodi mit dabei.
@@ -74,21 +89,6 @@ Im Bunkerladen kannst du folgende Einkäufe tätigen:
 
 Hinweis: Du kannst während du im Bunker bist, nicht auf den Bunker-Laden zugreifen. Hol dir vorher ein paar Sanitätskästen oder den Verdoppler.
 
-
-### Daten
-
-![Daten]({{ site.el-negroooar | append:"/assets/images/bunker/bunker_daten.png" }})
-
-"Daten" ist die neue Standardwährung im Bunker. Du kannst sie im Bunker-Laden gegen typenspezifisches Spezialwissen für Infanterie, Ranger oder Chemiker eintauschen. Anschliessend kannst du im jeweiligen
-
-
-### Spezialwissen
-
-![Spezialwissen]({{ site.el-negroooar | append:"/assets/images/bunker/bunker_spezialwissen.png" }})
-
-Mit dieser Währung, die du durch Eintauschen von Daten im Laden bekommst, kannst du deine Talente und Bewaffnungen des jeweiligen Fähigkeiten-Baumes upgraden.
-
-
 ## Taktik Bunker
 
 ### Spieler-Auswahl
@@ -135,18 +135,11 @@ Manchmal trifft man auf einen Punkt, wo man einen Effekt - also einen Vorteil un
 
 ## Bunker Bosse
 
-### Raum des Sicherheitschefs
+### Lagerplatz
 
-Schwerer Gegner, du hast nur eine begrenzte Zeit zur Verfügung, ihn zu töten, bevor er im Bunker verschwindet. Dazwischen heilt er sich stark auf.
+Starker Gegner, kann vereinzelt Kämpfer direkt töten.
 
-![Sicherheitschef]({{ site.el-negroooar | append:"/assets/images/bunker/boss_safety.png" }})
-
-
-### Zelle des Testsubjekts 42
-
-Gut machbarer Gegner, Infanteristen können den Gegner nicht treffen, da er an der Decke hängt. Nur Ranger und Chemiker.
-
-![Testsubjekt]({{ site.el-negroooar | append:"/assets/images/bunker/boss_42.png" }})
+![Unbekannt]({{ site.el-negroooar | append:"/assets/images/bunker/boss_lagerplatz.png" }})
 
 
 ### Chemielabor
@@ -156,11 +149,19 @@ Gut machbarer Gegner. Wiederbelebung unwirksam. Mit Infanterie und einem Heiler 
 ![Chemielabor]({{ site.el-negroooar | append:"/assets/images/bunker/boss_lab.png" }})
 
 
-### Lagerplatz
+### Zelle des Testsubjekts 42
 
-Starker Gegner, kann vereinzelt Kämpfer direkt töten.
+Gut machbarer Gegner, Infanteristen können den Gegner nicht treffen, da er an der Decke hängt. Nur Ranger und Chemiker.
 
-![Unbekannt]({{ site.el-negroooar | append:"/assets/images/bunker/boss_lagerplatz.png" }})
+![Testsubjekt]({{ site.el-negroooar | append:"/assets/images/bunker/boss_42.png" }})
+
+
+### Raum des Sicherheitschefs
+
+Schwerer Gegner, du hast nur eine begrenzte Zeit zur Verfügung, ihn zu töten, bevor er im Bunker verschwindet. Dazwischen heilt er sich stark auf.
+
+![Sicherheitschef]({{ site.el-negroooar | append:"/assets/images/bunker/boss_safety.png" }})
+
 
 
 ## Kisten
