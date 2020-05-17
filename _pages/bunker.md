@@ -4,12 +4,11 @@ title: "Bunker"
 toc: true
 ---
 
+Spiel-Update: 14.05.2020
 Voraussetzung: Kommandostufe 9 (CC9)
 
 
 ## Beschreibung
-
-klkl
 
 ![Update]({{ site.el-negroooar | append:"/assets/images/bunker/bunker_advert.jpg" }})
 
@@ -17,6 +16,8 @@ Mit Freischaltung des Bunkers und Offiziers auf CC9 öffnet sich dem Spieler ein
 
 
 ### Schlüsselkarte
+
+![Schlüsselkarte]({{ site.el-negroooar | append:"/assets/images/bunker/bunker_schluesselkarte.png" }})
 
 Die Schlüsselkarte kann benutzt werden, um eine Runde im Bunker zu starten. Du kannst sie aus Kisten bei Bosskämpfen im Bunker erhalten oder gegen Kryptocoins im Bunker erhalten. Alternativ kannst du eine Runde im Bunker mittels Nahrung finanzieren.
 
@@ -75,10 +76,14 @@ Hinweis: Du kannst während du im Bunker bist, nicht auf den Bunker-Laden zugrei
 
 ### Daten
 
+![Daten]({{ site.el-negroooar | append:"/assets/images/bunker/bunker_daten.png" }})
+
 "Daten" ist die neue Standardwährung im Bunker. Du kannst sie im Bunker-Laden gegen typenspezifisches Spezialwissen für Infanterie, Ranger oder Chemiker eintauschen. Anschliessend kannst du im jeweiligen
 
 
 ### Spezialwissen
+
+![Spezialwissen]({{ site.el-negroooar | append:"/assets/images/bunker/bunker_spezalwissen.png" }})
 
 Mit dieser Währung, die du durch Eintauschen von Daten im Laden bekommst, kannst du deine Talente und Bewaffnungen des jeweiligen Fähigkeiten-Baumes upgraden.
 
