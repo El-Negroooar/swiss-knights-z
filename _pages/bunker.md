@@ -11,7 +11,7 @@ Voraussetzung: Kommandostufe 9 (CC9)
 
 klkl
 
-![Update]({{ site.el-negroooar | append:"/assets/images/bunker/bunker_advert.png" }})
+![Update]({{ site.el-negroooar | append:"/assets/images/bunker/bunker_advert.jpg" }})
 
 Mit Freischaltung des Bunkers und Offiziers auf CC9 öffnet sich dem Spieler ein komplett neuer Spielmodus. Im Koop-Modus kannst du mit 1 anderen Spieler - einem Freund, Allianzmitglied oder zufälliger Spieler - in den Bunker eindringen und dir Daten sowie Bewaffnungsteile holen, um die Bewaffnungen und Talente deines Offiziers aufzuleveln.
 
