@@ -151,6 +151,13 @@ Gut machbarer Gegner. Wiederbelebung unwirksam. Mit Infanterie und einem Heiler 
 ![Chemielabor]({{ site.el-negroooar | append:"/assets/images/bunker/boss_lab.png" }})
 
 
+### Kryogenlabor
+
+?unknown?
+
+![Kryogenlabor]({{ site.el-negroooar | append:"/assets/images/bunker/boss_kryogen.png" }})
+
+
 ### Zelle des Testsubjekts 42
 
 Gut machbarer Gegner, Infanteristen können den Gegner nicht treffen, da er an der Decke hängt. Nur Ranger und Chemiker.

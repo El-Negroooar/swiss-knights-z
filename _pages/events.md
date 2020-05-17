@@ -4,6 +4,18 @@ title: "Events"
 toc: true
 ---
 
+Etwa alle 1-2 Monate findet ein kleines bis grosses Event statt, dabei wechseln sich Inselevent, Weg-Event und Fahrender Händler im Turnus ab.
+
+
+## St. Patricksday
+
+![Update St. Patricksday]({{ site.el-negroooar | append:"/assets/images/events/stpatricksday.png" }})
+
+St. Patricksday war wieder ein Inselevent sondergleichen. Erneut kamen die Prototypen zum Zug, diesmal im Doppelpack für Waffen & Rüstungen.
+
+Das
+
+
 ## Valentinstag
 
 ![Bild Valentinstag]({{ site.el-negroooar | append:"/assets/images/events/valentines_day.png" }})
