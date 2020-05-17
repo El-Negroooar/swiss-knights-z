@@ -57,6 +57,8 @@ Die Talente sind Fähigkeiten, die sich auf deine Truppen ausüben. Sie werden d
 
 ## Bunkerladen
 
+### Tauschhandel
+
 Im Bunkerladen kannst du folgende Einkäufe tätigen:
 
 * Daten gegen Spezialwissen eintauschen.
@@ -146,6 +148,13 @@ Gut machbarer Gegner. Wiederbelebung unwirksam. Mit Infanterie und einem Heiler 
 
 ## Kisten
 
+### Boss-Kiste
+
+Die Boss-Kiste erhälst du beim Besiegen eines Bosses:
+
+![Boss-Kiste]({{ site.el-negroooar | append:"/assets/images/bunker/boss-kiste.png" }})
+
+
 ### Bunker-Kiste
 
 Die Bunker-Kiste erhälst du nach Abschluss des Bunkers zu 100%:
@@ -160,11 +169,6 @@ Die High-Tech-Kiste erhälst du bei der Verwendung von Schlüsselkarten:
 ![High-Tech-Kiste]({{ site.el-negroooar | append:"/assets/images/bunker/high-tech-kiste.png" }})
 
 
-### Boss-Kiste
-
-Die Boss-Kiste erhälst du beim Besiegen eines Bosses:
-
-![Boss-Kiste]({{ site.el-negroooar | append:"/assets/images/bunker/boss-kiste.png" }})
 
 
 
