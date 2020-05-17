@@ -10,30 +10,30 @@ Voraussetzung: Kommandostufe 9 (CC9)
 
 ## Spielprinzip
 
-![Update]({{ site.el-negroooar | append:"/assets/images/bunker/bunker_advert.jpg" }})
-
 Mit Freischaltung des Bunkers und Offiziers auf CC9 öffnet sich dem Spieler ein komplett neuer Spielmodus. Im Koop-Modus kannst du mit 1 anderen Spieler - einem Freund, Allianzmitglied oder zufälliger Spieler - in den Bunker eindringen und dir Daten sowie Bewaffnungsteile holen, um die Bewaffnungen und Talente deines Offiziers aufzuleveln.
+
+![Update]({{ site.el-negroooar | append:"/assets/images/bunker/bunker_advert.jpg" }})
 
 
 ### Schlüsselkarte
 
-![Schlüsselkarte]({{ site.el-negroooar | append:"/assets/images/bunker/bunker_schluesselkarte.png" }})
-
 Die Schlüsselkarte kann benutzt werden, um eine Runde im Bunker zu starten. Du kannst sie aus Kisten bei Bosskämpfen im Bunker erhalten oder gegen Kryptocoins im Bunker erhalten. Alternativ kannst du eine Runde im Bunker mittels Nahrung finanzieren.
+
+![Schlüsselkarte]({{ site.el-negroooar | append:"/assets/images/bunker/bunker_schluesselkarte.png" }})
 
 
 ### Daten
 
-![Daten]({{ site.el-negroooar | append:"/assets/images/bunker/bunker_daten.png" }})
-
 "Daten" ist die neue Standardwährung im Bunker. Du kannst sie im Bunker-Laden gegen typenspezifisches Spezialwissen für Infanterie, Ranger oder Chemiker eintauschen. Anschliessend kannst du im jeweiligen
+
+![Daten]({{ site.el-negroooar | append:"/assets/images/bunker/bunker_daten.png" }})
 
 
 ### Spezialwissen
 
-![Spezialwissen]({{ site.el-negroooar | append:"/assets/images/bunker/bunker_spezialwissen.png" }})
+Mit Spezialwissen, welches du durch Eintauschen von Daten im Laden bekommst, kannst du deine Talente und Bewaffnungen des jeweiligen Fähigkeiten-Baumes deines Offiziers upgraden.
 
-Mit dieser Währung, die du durch Eintauschen von Daten im Laden bekommst, kannst du deine Talente und Bewaffnungen des jeweiligen Fähigkeiten-Baumes upgraden.
+![Spezialwissen]({{ site.el-negroooar | append:"/assets/images/bunker/bunker_spezialwissen.png" }})
 
 
 
