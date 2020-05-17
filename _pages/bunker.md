@@ -91,58 +91,77 @@ Der Vorteil eines Allianzmitgliedes liegt auf der Hand, du kannst dich gut abspr
 ### Weg-Auswahl
 
 Die Wahl des Weges kann ausschlaggebend sein für den Erfolg. Manche Wege bergen bis 3 Wellen an Gegnern, andere nur 1 Welle, dafür vlt. etwas stärker. Da man ab 25%, 50%, 75% und 100% zusätzlich Daten bekommt, macht es Sinn soviele Wege wie möglich zu beschreiten. Wenn es realistisch ist einen Boss zu schlagen, kann sich dieser wegen der Bewaffnungsteile sehr lohnen. 
-Manchmal trifft man auf einen Punkt, wo man einen Debuff / Buff - also einen Vorteil und einen Nachteil für die eigenen Truppen - auswählen kann. Auch sie geben Prozente im Abschlussfortschritts. Vergiss nicht, die Belohnungen im Fortschritssbalken manuell einzusammeln.
+Manchmal trifft man auf einen Punkt, wo man einen Effekt - also einen Vorteil und einen Nachteil (Debuff / Buff) - für die eigenen Truppen auswählen kann. Auch sie geben Prozente im Abschlussfortschritts. Vergiss nicht, die Belohnungen im Fortschritssbalken manuell einzusammeln.
 
 Strahlungswirkungen: 
-* Du kannst den "Entscheidungsweg" (Strahlungswirkungen) auch später einsetzen, wenn gewisse Truppen nicht mehr vorhanden sind und der Debuff (Nachteil) ins leere trifft, denn die Entscheidung greifft für den Rest des Weges. 
+* Du kannst die Effekt-Auswahl (Strahlungswirkungen) auch später einsetzen, wenn gewisse Truppen nicht mehr vorhanden sind und der Debuff (Nachteil) ins leere trifft, denn die Entscheidung greifft für den Rest des Weges. 
 * Gewisse Buffs / Debuffs kannst du gegeneinander einsetzen, um keine Nachteile zu erhalten. z.B. +50% Verteidigung & -45% Verteidigung auf Infanterie. Dann habt ihr letztlich noch +5% Verteidigung auf die Infanterie, ohne Nachteil zu erhalten.
 
 ### Truppen-Auswahl
 
 * Bestenfalls viele Infanteristen mitnehmen.
 * Ranger mit Infanterie-Rüstung einkleiden.
+* Gegner gut studieren und enstprechend setzen.
+
 
 ### Hilfsmittel
 
 * Im Bunker-Laden kannst du dir Sanitätskasten für Kryptocoins kaufen. Wenn beide Spieler diese zusammen einsetzen, maximiert da eure Chance, den ganzen Bunker zu leeren.
+* Für mehr Daten, kauf dir den Verdoppler im Laden.
 
 
 ## Bunker Bosse
 
 ### Raum des Sicherheitschefs
 
-Schwerer Gegner, du hast 3x X Sekunden Zeit ihn zu töten, bevor er im Bunker verschwindet. Dazwischen heilt er sich stark auf.
+Schwerer Gegner, du hast nur eine begrenzte Zeit zur Verfügung, ihn zu töten, bevor er im Bunker verschwindet. Dazwischen heilt er sich stark auf.
+
+![Sicherheitschef]({{ site.el-negroooar | append:"/assets/images/bunker/boss_safety.png" }})
 
 
 ### Zelle des Testsubjekts 42
 
-Gut machbarer Gegner, Infanteristen können den Gegner nicht treffen, da er an der Decke hängt. Nur Ranger und Chemiker 
+Gut machbarer Gegner, Infanteristen können den Gegner nicht treffen, da er an der Decke hängt. Nur Ranger und Chemiker.
+
+![Testsubjekt]({{ site.el-negroooar | append:"/assets/images/bunker/boss_42.png" }})
 
 
 ### Chemielabor
 
 Gut machbarer Gegner. Wiederbelebung unwirksam. Mit Infanterie und einem Heiler gut zu bewältigen.
 
+![Chemielabor]({{ site.el-negroooar | append:"/assets/images/bunker/boss_lab.png" }})
+
+
+### ?unknown?
+
+?unknown?
+
+![Unbekannt]({{ site.el-negroooar | append:"/assets/images/bunker/boss_x.png" }})
+
 
 ## Kisten
 
 ### Bunker-Kiste
 
-Die Bunker-Kiste erhälst du nach Abschluss des Bunkers zu 100%. 
+Die Bunker-Kiste erhälst du nach Abschluss des Bunkers zu 100%:
+
+![Bunker-kiste]({{ site.el-negroooar | append:"/assets/images/bunker/bunker-kiste.png" }})
 
 
 ### High-Tech-Kiste
 
-Die High-Tech-Kiste erhälst du bei der Verwendung von Schlüsselkarten.
+Die High-Tech-Kiste erhälst du bei der Verwendung von Schlüsselkarten:
+
+![High-Tech-Kiste]({{ site.el-negroooar | append:"/assets/images/bunker/high-tech-kiste.png" }})
 
 
 ### Boss-Kiste
 
-Die Boss-Kiste kann folgendes enthalten:
-* Bewaffnungsteile
-* Spezialwissen (alle 3)
-* Daten
-* legendäres & episches Equipment
+Die Boss-Kiste erhälst du beim Besiegen eines Bosses:
+
+![Boss-Kiste]({{ site.el-negroooar | append:"/assets/images/bunker/boss-kiste.png" }})
+
 
 
 
