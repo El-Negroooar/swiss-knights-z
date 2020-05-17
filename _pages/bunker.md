@@ -139,11 +139,11 @@ Gut machbarer Gegner. Wiederbelebung unwirksam. Mit Infanterie und einem Heiler 
 ![Chemielabor]({{ site.el-negroooar | append:"/assets/images/bunker/boss_lab.png" }})
 
 
-### ?unknown?
+### Lagerplatz
 
-?unknown?
+Starker Gegner, kann vereinzelt Kämpfer direkt töten.
 
-![Unbekannt]({{ site.el-negroooar | append:"/assets/images/bunker/boss_x.png" }})
+![Unbekannt]({{ site.el-negroooar | append:"/assets/images/bunker/boss_lagerplatz.png" }})
 
 
 ## Kisten
