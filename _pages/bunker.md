@@ -9,6 +9,8 @@ Voraussetzung: Kommandostufe 9 (CC9)
 
 ## Beschreibung
 
+![Update]({{ site.el-negroooar | append:"/assets/images/bunker/bunker_advert.png" }})
+
 Mit Freischaltung des Bunkers und Offiziers auf CC9 öffnet sich dem Spieler ein komplett neuer Spielmodus. Im Koop-Modus kannst du mit 1 anderen Spieler - einem Freund, Allianzmitglied oder zufälliger Spieler - in den Bunker eindringen und dir Daten sowie Bewaffnungsteile holen, um die Bewaffnungen und Talente deines Offiziers aufzuleveln.
 
 
@@ -21,6 +23,8 @@ Die Schlüsselkarte kann benutzt werden, um eine Runde im Bunker zu starten. Du 
 
 Dein Offizier ist dein neuer Truppenführer, du findest ihn ab Kommandostufe 9 in der Kommandozentrale. Er wird dich in alle Kämpfe begleiten und kann selbst Bewaffnungen sowie Talente ausüben und damit auch deine Truppen boosten. In manchen Kämpfen musst du die Bewaffnung selbst aktivieren, in anderen passiert dies automatisch. Der Offizier wiederum stärkst deine Truppen und ist bei allen Kampfmodi mit dabei.
 * Er hat eine eigene Stärkeanzeige, kann 5 Bewaffnungen tragen und du kannst ihm einen eigenen Namen geben.
+
+![Bewaffnungen & Talente]({{ site.el-negroooar | append:"/assets/images/bunker/bewaff_talent.png" }})
 
 
 ### Bewaffnungen
