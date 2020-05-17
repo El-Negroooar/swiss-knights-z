@@ -9,7 +9,7 @@ Spiel-Update: 14.05.2020
 Voraussetzung: Kommandostufe 9 (CC9)
 
 
-## Beschreibung
+### Spielprinzip
 
 ![Update]({{ site.el-negroooar | append:"/assets/images/bunker/bunker_advert.jpg" }})
 
