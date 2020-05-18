@@ -62,17 +62,22 @@ Im unteren Bild siehst du die Belohnungen.
 
 * "Erledige 10 Zombie-Mengen [0/10]"
 
+### Steige in den Untergrund hinab
+
+* Besiege die Bosse im Bunker [0/5]
+
 
 ## Tägliche Belohnungen
 
-| Mission   					 | Dokumente | Kryptocoins | Arenaticket
-|:------------------------------ | ---------:| -----------:| -----------:|
-| Anzeige-Mission     			 |         2 |           5 |           - |
-| Filmtheater          			 |         5 |           - |           1 |
-| Tausendsassa          		 |       100 |           - |           - |
-| Kampftruppe      				 |        15 |        	 - |           - |
-| Schlachtsucher     			 |        15 |        	 - |           - |
-| Ein zuverlässiger Verbündeter  |         5 |           - |           - |
-| Seite an Seite                 |        15 |           - |           - |
-| Konfrontation                  |        15 |           - |           - |
-| Massenkontrolle!               |        10 |        	 - |           - |
+| Mission   					 | Dokumente | Kryptocoins | Arenaticket   Schlüsselkarte
+|:------------------------------ | ---------:| -----------:| -----------:| --------------:|
+| Anzeige-Mission     			 |         2 |           5 |           - |              - |
+| Filmtheater          			 |         5 |           - |           1 |              - |
+| Tausendsassa          		 |       100 |           - |           - |              - |
+| Kampftruppe      				 |        15 |        	 - |           - |              - |
+| Schlachtsucher     			 |        15 |        	 - |           - |              - |
+| Ein zuverlässiger Verbündeter  |         5 |           - |           - |              - |
+| Seite an Seite                 |        15 |           - |           - |              - |
+| Konfrontation                  |        15 |           - |           - |              - |
+| Massenkontrolle!               |        10 |        	 - |           - |              - |
+| Steige in den Untergrund hinab |        15 |        	 - |           - |              1 |
