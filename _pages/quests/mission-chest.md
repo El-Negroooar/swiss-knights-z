@@ -67,7 +67,7 @@ Im unteren Bild siehst du die Belohnungen.
 * Besiege die Bosse im Bunker [0/5]
 
 
-## Tägliche Belohnungen
+## Tägliche Belohnungen 
 
 | Mission   					 | Dokumente | Kryptocoins | Arenaticket   Schlüsselkarte
 |:------------------------------ | ---------:| -----------:| -----------:| --------------:|
