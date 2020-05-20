@@ -13,18 +13,18 @@ Gemeinsam spielen und Zusammenhalt sowie Austausch fördern, sich gegenseitig un
 
 ## Organisation
 
-- Clan-Chef :neckbeard: 
-  - El Negro
-- Vize-Chef :cop: 
-  - vakant
+- Clan-Leader :crown:
+  - Verteilt die Beute aus der Allianzkiste an die Spieler.
+  - Organisiert den Discord-Channel und die Einladungen.
+  - Bearbeitet den Webguide.
+- Vize-Chef :cop:
+  - Nach Absprache selbige Aufgaben wie Clan-Leader.
 - Warlords :muscle:
-  - Acchat
-  - Kimi
-  - Rees
-  - Khorli
-  - Eddy
+  - Starten die Allianzkriege.
+  - Kümmern sich um die Aufstellung & Strategie auf dem Schlachtfeld.
 - Offiziere :loudspeaker:
-  - vakant
+  - Werben neue Mitglieder an.
+  - Stehen den Neulingen mit Rat & Wort zur Seite.
 
 
 ## Mitgliedschaft
