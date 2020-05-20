@@ -4,7 +4,15 @@ title: "Events"
 toc: true
 ---
 
+
+## Beschreibung
 Etwa alle 1-2 Monate findet ein kleines bis grosses Event statt, dabei wechseln sich Inselevent, Weg-Event und Fahrender Händler im Turnus ab.
+
+* Die Inselevents sind die lukrativsten, du kannst sehr viele Kisten mit vielen Elementen sammeln, erhälst Skins für deine Truppen, viele neue Rüstungen & Waffen.
+* Bei den Weg-Events kannst du einmalige Spezial-Waffen, eine Spezial-Mehrzweckwaffe sowie Kryptocoins, Chips & Co. erbeuten.
+* Der Fahrende Händler bietet diverse Gegenstände an, die du mit Kryptocoins oder Ressourcen kaufen kannst.
+
+Achtung: Bei allen Events die Werbevideos anbieten gilt: Du kannst die Videos auf einem 2. Gerät erneut schauen. Sie sind täglich auf 8-10x beschränkt, da aber manche einen Timer von 2h haben, musst du dich weniger oft damit angeben. Du kannst hierfür auch einen Emulator wie Bluestacks oder Nox am PC verwenden.
 
 
 ## St. Patricksday
@@ -13,7 +21,6 @@ Etwa alle 1-2 Monate findet ein kleines bis grosses Event statt, dabei wechseln 
 
 St. Patricksday war wieder ein Inselevent sondergleichen. Erneut kamen die Prototypen zum Zug, diesmal im Doppelpack für Waffen & Rüstungen.
 
-Das
 
 
 ## Valentinstag

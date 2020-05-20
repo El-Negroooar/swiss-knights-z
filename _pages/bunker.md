@@ -40,7 +40,8 @@ Mit Spezialwissen, welches du durch Eintauschen von Daten im Laden bekommst, kan
 ## Offizier
 
 Dein Offizier ist dein neuer Truppenführer, du findest ihn ab Kommandostufe 9 in der Kommandozentrale. Er wird dich in alle Kämpfe begleiten und kann selbst Bewaffnungen sowie Talente ausüben und damit auch deine Truppen boosten. In manchen Kämpfen musst du die Bewaffnung selbst aktivieren, in anderen passiert dies automatisch. Der Offizier wiederum stärkst deine Truppen und ist bei allen Kampfmodi mit dabei.
-* Er hat eine eigene Stärkeanzeige, kann 5 Bewaffnungen tragen und du kannst ihm einen eigenen Namen geben.
+
+Er hat eine eigene Stärkeanzeige, kann 5 Bewaffnungen tragen und du kannst ihm einen eigenen Namen geben.
 
 ![Bewaffnungen & Talente]({{ site.el-negroooar | append:"/assets/images/bunker/bewaff_talent.png" }})
 
@@ -49,19 +50,19 @@ Dein Offizier ist dein neuer Truppenführer, du findest ihn ab Kommandostufe 9 i
 
 Die Bewaffnungen sind weitere Modifikationen, die du mit dem Offizier verwenden kannst. Für Upgrades brauchst du die entsprechende Menge an Bewaffnungsteilen sowie Spezialwissen. Das Spezialwissen erhälst du im Laden des Bunkers, wenn du Daten von einem Bunkerraubzug eintauschst. Die Bewaffnungsteile erhälst du aus den Kisten eines Bosses im Bunker.
 
-Infanterie-Bewaffnung:
+**Infanterie-Bewaffnung:**
 * Hydraulischer Schlagring
 * Feldbeleber
 * Champion der Arena
 * Schocker
 
-Chemiker-Bewaffnung:
+**Chemiker-Bewaffnung:**
 * Nitroglyzerin
 * Eine Klebebombe
 * Detektor
 * Unidentifiziertes Gel
 
-Ranger-Bewaffnung:
+**Ranger-Bewaffnung:**
 * Rauchbombe
 * Unterlauf-Granatwerfer
 * Megafon
@@ -97,35 +98,38 @@ Du kannst 3 Arten von Spieler (ab CC9) für eine Koop-Runde einladen:
 
 **Freund**
 
-Vorteil: Sehr grosse Auswahl via Facebook-Gruppe. Allianzmitglieder können auch als Freund geaddet werden. Nachteil: "Freund" ist nicht unbedingt gleich "Freund" ;)
+* Vorteil: Sehr grosse Auswahl via Facebook-Gruppe. Allianzmitglieder können auch als Freund geaddet werden. Nachteil: "Freund" ist nicht unbedingt gleich "Freund" ;)
 
 
 **Allianzmitglied**
 
-Vorteil: Ihr kennt euch, könnt euch absprechen und Zeiten abmachen. Nachteil: Einladung steht im Allianzchat, kann jeder annehmen ;)
+* Vorteil: Ihr kennt euch, könnt euch absprechen und Zeiten abmachen. Nachteil: Einladung steht im Allianzchat, kann jeder annehmen ;)
 
 
 **Zufälliger** **Spielpartner**
 
-Vorteil: Ähnlichstarke Spieler, jederzeit verfügbar. Nachteil: Fremder steigt eher mal einfach aus, erschwerte Kommunikation wegen unterschiedlicher Sprachen.
+* Vorteil: Ähnlichstarke Spieler, jederzeit verfügbar. Nachteil: Fremder steigt eher mal einfach aus, erschwerte Kommunikation wegen unterschiedlicher Sprachen.
 
 
 ### Weg-Auswahl
 
-Die Wahl des Weges kann ausschlaggebend sein für den Erfolg. Manche Wege bergen bis 3 Wellen an Gegnern, andere nur 1 Welle, dafür vlt. etwas stärker. Da man ab 20%, 40%, 75% und 100% zusätzlich Daten bekommt, macht es Sinn soviele Wege wie möglich zu beschreiten. 
+Die Wahl des Weges kann ausschlaggebend sein für den Erfolg. Manche Wege bergen bis 3 Wellen an Gegnern, andere nur 1 Welle, dafür vlt. etwas stärker. Da man ab 20%, 40%, 75% und 100% zusätzlich Daten, Waffenteile bzw. Kisten bekommt, macht es Sinn soviele Wege wie möglich zu beschreiten. 
 
 Wenn es realistisch ist einen Boss zu schlagen, kann sich dieser wegen der Bewaffnungsteile sehr lohnen. 
 
 Manchmal trifft man auf einen Punkt, wo man einen Effekt - also einen Vorteil und einen Nachteil (Debuff / Buff) - für die eigenen Truppen auswählen kann. Auch sie geben Prozente im Abschlussfortschritts. Vergiss nicht, die Belohnungen im Fortschritssbalken manuell einzusammeln.
 
 #### Strahlungswirkungen
-* Du kannst die Effekt-Auswahl (Strahlungswirkungen) auch später einsetzen, wenn gewisse Truppen nicht mehr vorhanden sind und der Debuff (Nachteil) ins leere trifft, denn die Entscheidung greifft für den Rest des Weges. 
+* Du kannst die Effekt-Auswahl (Strahlungswirkungen) auch später einsetzen, wenn gewisse Truppen nicht mehr vorhanden sind und der Debuff (Nachteil) ins leere trifft, denn die Entscheidung wirkt sich auf den Rest des Bunkergangs aus.
 * Gewisse Buffs / Debuffs kannst du gegeneinander einsetzen, um keine Nachteile zu erhalten. z.B. +50% Verteidigung & -45% Verteidigung auf Infanterie. Dann habt ihr letztlich noch +5% Verteidigung auf die Infanterie, ohne Nachteil zu erhalten.
 
 ### Truppen-Auswahl
 
-* Bestenfalls viele Infanteristen mitnehmen.
-* Ranger & Chemiker mit Infanterie-Rüstung einkleiden.
+* Vorteilhafte Aufstellung: 4 Chemiker, 3 Infanteristen, 1 Ranger.
+* Die Ranger spielen eine untergeordnetere Rolle, da oft Ziel von Gegnern.
+* Die Infanteristen mit Selbstheilung sind sehr starke "Tanks" und gut als Schutzschild.
+* Die Chemiker sind hauptsächlich im Verbund von 3-4 Heilern extrem stark.
+* Ranger & Chemiker allenfalls mit Infanterie-Rüstung einkleiden, einzelne Chemiker gehen schnell down.
 * Gegner gut studieren und enstprechend setzen.
 
 
@@ -194,10 +198,9 @@ Die High-Tech-Kiste erhälst du bei der Verwendung von Schlüsselkarten:
 
 Die Geheime Kiste erhälst du zufällig im Anschluss an einen Wegpunkt im Bunker. Sie ist einiges ergiebiger als die anderen Kisten, dafür umso seltener.
 
-![Geheime Kiste]({{ site.el-negroooar | append:"/assets/images/bunker/geheime-kiste-1.png" }})
-
 ![Geheime Kiste Inhalt]({{ site.el-negroooar | append:"/assets/images/bunker/geheime-kiste-2.png" }})
 
+![Geheime Kiste]({{ site.el-negroooar | append:"/assets/images/bunker/geheime-kiste-1.png" }})
 
 
 
