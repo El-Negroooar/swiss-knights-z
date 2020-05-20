@@ -17,9 +17,9 @@ Gemeinsam spielen und Zusammenhalt sowie Austausch fördern, sich gegenseitig un
   - Verteilt die Beute aus der Allianzkiste an die Spieler.
   - Organisiert den Discord-Channel und die Einladungen.
   - Bearbeitet den Webguide.
-- Vize-Chef :cop:
+- Vize-Chef :briefcase:
   - Nach Absprache selbige Aufgaben wie Clan-Leader.
-- Warlords :muscle:
+- Warlords :dart:
   - Starten die Allianzkriege.
   - Kümmern sich um die Aufstellung & Strategie auf dem Schlachtfeld.
 - Offiziere :loudspeaker:

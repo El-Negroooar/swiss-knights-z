@@ -12,7 +12,8 @@ Etwa alle 1-2 Monate findet ein kleines bis grosses Event statt, dabei wechseln 
 * Bei den Weg-Events kannst du einmalige Spezial-Waffen, eine Spezial-Mehrzweckwaffe sowie Kryptocoins, Chips & Co. erbeuten.
 * Der Fahrende Händler bietet diverse Gegenstände an, die du mit Kryptocoins oder Ressourcen kaufen kannst.
 
-Achtung: Bei allen Events die Werbevideos anbieten gilt: Du kannst die Videos auf einem 2. Gerät erneut schauen. Sie sind täglich auf 8-10x beschränkt, da aber manche einen Timer von 2h haben, musst du dich weniger oft damit angeben. Du kannst hierfür auch einen Emulator wie Bluestacks oder Nox am PC verwenden.
+:round_pushpin: Bei allen Events die Werbevideos anbieten gilt: Du kannst die Videos auf einem 2. Gerät erneut schauen. Sie sind täglich auf 8-10x beschränkt, da aber manche einen Timer von 2h haben, musst du dich weniger oft damit angeben. Du kannst hierfür auch einen Emulator wie Bluestacks oder Nox am PC verwenden.
+{: .notice--success}
 
 
 ## St. Patricksday
