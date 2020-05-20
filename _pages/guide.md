@@ -30,4 +30,7 @@ Nützlich für alle Neulinge zu Beginn des Spiels. Profitiere von den Erfahrunge
 
 * [Ressourcen-Handling]({{ site.el-negroooar | append:"/guides/low-profile/" }})
 * [Legendäre Ausrüstung]({{ site.el-negroooar | append:"/guides/legendary-items/" }})
-* [Chips Guide]({{ site.el-negroooar | append:"/rooms/tech-center/" }})
+* [Chips Guide]({{ site.el-negroooar | append:"/rooms/tech-center/" }})  
+
+
+
