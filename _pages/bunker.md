@@ -153,7 +153,7 @@ Gut machbarer Gegner. Wiederbelebung unwirksam. Mit Infanterie und einem Heiler 
 
 ### Kryogenlabor
 
-?unknown?
+Spawn alle paar Sekunden neue Vasallen. Gutes Management von Chemikern und selbstheilenden Infanteristen nützlich.
 
 ![Kryogenlabor]({{ site.el-negroooar | append:"/assets/images/bunker/boss_kryogen.png" }})
 
@@ -190,7 +190,7 @@ Die High-Tech-Kiste erhälst du bei der Verwendung von Schlüsselkarten:
 ![High-Tech-Kiste]({{ site.el-negroooar | append:"/assets/images/bunker/high-tech-kiste.png" }})
 
 
-### Geheime Kiste
+### Geheime-Kiste
 
 Die Geheime Kiste erhälst du zufällig im Anschluss an einen Wegpunkt im Bunker. Sie ist einiges ergiebiger als die anderen Kisten, dafür umso seltener.
 
