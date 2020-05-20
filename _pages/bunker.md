@@ -192,7 +192,7 @@ Die High-Tech-Kiste erhälst du bei der Verwendung von Schlüsselkarten:
 
 ### Geheime Kiste
 
-Die Geheime Kiste erhälst du zufällig im Anschluss an einen Wegpunkt im Bunker. Sie ist einiges ergiebiger als die anderen Kisten.
+Die Geheime Kiste erhälst du zufällig im Anschluss an einen Wegpunkt im Bunker. Sie ist einiges ergiebiger als die anderen Kisten, dafür umso seltener.
 
 ![Geheime Kiste]({{ site.el-negroooar | append:"/assets/images/bunker/geheime-kiste-1.png" }})
 
