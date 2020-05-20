@@ -33,3 +33,8 @@ Für Level 10 wäre die Bauzeit: 4 Tage und 12 Stunden anstatt 6 Tage.
 Über die Kommandozentrale bekommst du den Menüpunkt zum Zufluchtseditor. Damit kannst du Räume verbinden und wieder trennen um separate Upgrades zu erledigen.
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/rooms/command-center.png" }})
+
+## Offizier
+
+Dein Offizier befindet sich ab Kommando-Stufe 9 ebenfalls in deiner Kommando-Zentrale.
+Mehr dazu findest du auf der Seite ![Bunker]({{ site.el-negroooar | append:"/bunker/" }}). Der Bunker wurde zeitgleich mit dem Offizier eingeführt und bietet dir Möglichkeiten, deinen Offizier zu verbessern.
