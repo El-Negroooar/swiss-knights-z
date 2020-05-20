@@ -26,11 +26,8 @@ Nützlich für alle Neulinge zu Beginn des Spiels. Profitiere von den Erfahrunge
 :warning: Dein Erfolg hängt mitunter davon ab, gegen welche Gegner du spielen musst. Darum ist es absolut wesentlich, die sogenannten ["Brackets"]({{ site.el-negroooar | append:"/pvp/arena-groups" }}) von Grundauf zu verstehen.
 {: .notice--warning}
 
-## Allgemeine Tips
+## Weitere Tips
 
 * [Ressourcen-Handling]({{ site.el-negroooar | append:"/guides/low-profile/" }})
-
-## Ausrüstung
-
 * [Legendäre Ausrüstung]({{ site.el-negroooar | append:"/guides/legendary-items/" }})
-* [Pimp My Gear]({{ site.el-negroooar | append:"/guides/pimp-my-gear/" }})
+* [Chips Guide]({{ site.el-negroooar | append:"/rooms/tech-center/" }})

@@ -33,4 +33,4 @@ Mit der Einführung von Spezialwaffen, den Prototypen, den Chips und dem Offizie
 
 > Was bringt der Hund im Spiel?
 
-Nach aktuellem Wissensstand bringt er keine Vorteile und dient lediglich als Deko. Der in der Beschreibung angedeutete Nutzen, er würde die Bewohner happy machen, ist rein theoretisch, es wurde mehrfach widerlegt, dass er keine "Smileys" einsammelt. Diese [nützlichen Tools]({{ site.el-negroooar | append:"/sitemap/#helferlein" }}) helfen dir mehr.
+Nach aktuellem Wissensstand bringt er keine Vorteile und dient lediglich als Deko. Der in der Beschreibung angedeutete Nutzen, er könnte die Bewohner happy machen (mehr Smileys bzw. höhere Glücklichkeitsrate), wurde mehrfach bestritten. Diese [nützlichen Tools]({{ site.el-negroooar | append:"/sitemap/#helferlein" }}) helfen dir mehr.
