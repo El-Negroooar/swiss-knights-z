@@ -37,4 +37,4 @@ Für Level 10 wäre die Bauzeit: 4 Tage und 12 Stunden anstatt 6 Tage.
 ## Offizier
 
 Dein Offizier befindet sich ab Kommando-Stufe 9 ebenfalls in deiner Kommando-Zentrale.
-Mehr dazu findest du auf der Seite ![Bunker]({{ site.el-negroooar | append:"/bunker/" }}). Der Bunker wurde zeitgleich mit dem Offizier eingeführt und bietet dir Möglichkeiten, deinen Offizier zu verbessern.
+Mehr dazu findest du auf der Seite des [Bunkers]({{ site.el-negroooar | append:"/bunker/" }}). Der Bunker wurde zeitgleich mit dem Offizier eingeführt und bietet dir Möglichkeiten, deinen Offizier zu verbessern.
