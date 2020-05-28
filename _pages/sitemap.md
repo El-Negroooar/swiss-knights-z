@@ -17,9 +17,10 @@ toc: true
 ## Kampfsysteme
 
 * :circus_tent: [Allianz-Kriege]({{ site.el-negroooar | append:"/pvp/allywar/" }}) 
-* :punch: [Raubzüge]({{ site.el-negroooar | append:"/fight/attack" }}) 
-* :station: [Bahnhofsraubzug]({{ site.el-negroooar | append:"/pvp/railway-raid/" }})
-* :japanese_castle: [Bunker]({{ site.el-negroooar | append:"/bunker/" }})
+* :punch: [PvP-Raubzug]({{ site.el-negroooar | append:"/fight/attack" }}) 
+* Tunnel-Raubzug (In Arbeit)
+* :station: [Bahnhof-Raubzug]({{ site.el-negroooar | append:"/pvp/railway-raid/" }})
+* :japanese_castle: [Bunker-Raubzug]({{ site.el-negroooar | append:"/bunker/" }})
 * :crown: [Arena]({{ site.el-negroooar | append:"/pvp/arena/" }}) 
   * [Arena-Brackets]({{ site.el-negroooar | append:"/pvp/arena-groups/" }})
   * [Arena-Laden]({{ site.el-negroooar | append:"/pvp/arena-store/" }})
@@ -39,10 +40,6 @@ toc: true
   * :name_badge: [Chips]({{ site.el-negroooar | append:"/equipment/chips" }})
   * :beginner: [Prototypen]({{ site.el-negroooar | append:"/equipment/prototypes" }})
   * Vorräte (In Arbeit)
-
-## Storyline
-
-* :boat: [Kampagne/Story]({{ site.el-negroooar | append:"/campaign" }})
 
 ## Tägliche Quests
 
