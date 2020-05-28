@@ -30,7 +30,7 @@ toc: true
   * :muscle: [Traning]({{ site.el-negroooar | append:"/rooms/gym/" }})
 
 * [Ausrüstung]({{ site.el-negroooar | append:"/equipment" }})
-  * :gift_heart: [Qualität und Essenzen]({{ site.el-negroooar | append:"/equipment/materials" }})
+  * :gift_heart: [Material & Seltenheit]({{ site.el-negroooar | append:"/equipment/materials" }})
   * :package: [Mehrzweck-Waffen]({{ site.el-negroooar | append:"/equipment/multi-devices" }})
   * :name_badge: [Chips]({{ site.el-negroooar | append:"/equipment/chips" }})
   * :beginner: [Prototypen]({{ site.el-negroooar | append:"/equipment/prototypes" }})
