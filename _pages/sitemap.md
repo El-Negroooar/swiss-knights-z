@@ -21,7 +21,7 @@ toc: true
 * :station: [Bahnhofsraubzug]({{ site.el-negroooar | append:"/pvp/railway-raid/" }})
 * :japanese_castle: [Bunker]({{ site.el-negroooar | append:"/bunker/" }})
 * :crown: [Arena]({{ site.el-negroooar | append:"/pvp/arena/" }}) 
-  * [Gruppen (Brackets)]({{ site.el-negroooar | append:"/pvp/arena-groups/" }})
+  * [Arena-Brackets]({{ site.el-negroooar | append:"/pvp/arena-groups/" }})
   * [Arena-Laden]({{ site.el-negroooar | append:"/pvp/arena-store/" }})
  
 ## Militär
