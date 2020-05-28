@@ -8,7 +8,7 @@ toc: true
 
 ## Basis Management
 
-* :house: [Basis]({{ site.el-negroooar | append:"/shelter" }})
+* :house: [Basis (In Arbeit)]({{ site.el-negroooar | append:"/shelter" }})
 * :construction: [Bauen]({{ site.el-negroooar | append:"/build" }})
 * :door: [Räume]({{ site.el-negroooar | append:"/rooms" }})
 * :couple: [Bewohner]({{ site.el-negroooar | append:"/people" }})
@@ -39,7 +39,7 @@ toc: true
   * :package: [Mehrzweck-Waffen]({{ site.el-negroooar | append:"/equipment/multi-devices" }})
   * :name_badge: [Chips]({{ site.el-negroooar | append:"/equipment/chips" }})
   * :beginner: [Prototypen]({{ site.el-negroooar | append:"/equipment/prototypes" }})
-  * :syringe: [Vorräte]({{ site.el-negroooar | append:"/rooms/chemical-workshop" }})
+  * :syringe: [Vorräte (In Arbeit)]({{ site.el-negroooar | append:"/rooms/chemical-workshop" }})
 
 ## Tägliche Quests
 
