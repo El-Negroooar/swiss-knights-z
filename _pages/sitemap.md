@@ -18,10 +18,10 @@ toc: true
 
 * :circus_tent: [Allianz-Kriege]({{ site.el-negroooar | append:"/pvp/allywar/" }}) 
 * :punch: [PvP-Raubzug]({{ site.el-negroooar | append:"/fight/attack" }}) 
-* Tunnel-Raubzug (In Arbeit)
+* :flower_playing_cards: [Tunnel-Raubzug (In Arbeit)]
 * :station: [Bahnhof-Raubzug]({{ site.el-negroooar | append:"/pvp/railway-raid/" }})
 * :japanese_castle: [Bunker-Raubzug]({{ site.el-negroooar | append:"/bunker/" }})
-* :crown: [Arena]({{ site.el-negroooar | append:"/pvp/arena/" }}) 
+* :crown: [Arena-Massaker]({{ site.el-negroooar | append:"/pvp/arena/" }}) 
   * [Arena-Brackets]({{ site.el-negroooar | append:"/pvp/arena-groups/" }})
   * [Arena-Laden]({{ site.el-negroooar | append:"/pvp/arena-store/" }})
  
