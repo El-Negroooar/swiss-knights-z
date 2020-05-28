@@ -18,6 +18,8 @@ toc: true
 
 * :circus_tent: [Allianz-Kriege]({{ site.el-negroooar | append:"/pvp/allywar/" }}) 
 * :punch: [Raubzüge]({{ site.el-negroooar | append:"/fight/attack" }}) 
+* :station: [Bahnhofsraubzug]({{ site.el-negroooar | append:"/pvp/railway-raid/" }})
+* :japanese_castle: [Bunker]({{ site.el-negroooar | append:"/bunker/" }})
 * :crown: [Arena]({{ site.el-negroooar | append:"/pvp/arena/" }}) 
   * [Gruppen (Brackets)]({{ site.el-negroooar | append:"/pvp/arena-groups/" }})
   * [Arena-Laden]({{ site.el-negroooar | append:"/pvp/arena-store/" }})
@@ -45,8 +47,6 @@ toc: true
 * :free: [Tägliche Kiste]({{ site.el-negroooar | append:"/quests/daily-chest" }})
 * :twisted_rightwards_arrows: [Tägliche Missionen]({{ site.el-negroooar | append:"/quests/mission-chest" }})
 * :japanese_ogre: [Zombie-Horde]({{ site.el-negroooar | append:"/quests/horde/" }})
-* :station: [Bahnhofsraubzug]({{ site.el-negroooar | append:"/pvp/railway-raid/" }})
-* :japanese_castle: [Bunker]({{ site.el-negroooar | append:"/bunker/" }})
 
 ## Helferlein
 
