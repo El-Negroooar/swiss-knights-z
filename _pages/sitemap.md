@@ -27,7 +27,7 @@ toc: true
 * [Kommando-Zentrale]({{ site.el-negroooar | append:"/rooms/command-center" }})
 * [Kampf]({{ site.el-negroooar | append:"/fight" }})
   * :european_castle: [Kaserne]({{ site.el-negroooar | append:"/rooms/barracks/" }})
-  * :muscle: [Traning]({{ site.el-negroooar | append:"/rooms/gym/" }})
+  * :muscle: [Training]({{ site.el-negroooar | append:"/rooms/gym/" }})
 
 * [Ausrüstung]({{ site.el-negroooar | append:"/equipment" }})
   * :gift_heart: [Material & Seltenheit]({{ site.el-negroooar | append:"/equipment/materials" }})
