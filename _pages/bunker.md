@@ -141,30 +141,41 @@ Manchmal trifft man auf einen Punkt, wo man einen Effekt - also einen Vorteil un
 
 ## Bunker Bosse
 
+Allgemein kann gesagt sein, dass die Verwendung von 4 oder mehr Chemikern mit Heilung / Wiederbelebung bei allen Bossen nützlich ist.
+
+Weiter sind zusätzlich beschworene Kämpfer (Infanterist, Hunde, Köder etc.). nützlich zur Ablenkung und Schadensminderung.
+
+Ebenso soll erwähnt werden, dass ihr JEDEN Boss auch mehrmals angreiffen könnt, Wenn eure Chemiker also zu langsam sind, dafür überleben, macht das mehr Sinn als eure Infanteristen in den Tod zu schicken.
+
+
 ### Lagerplatz
 
-Starker Gegner, kann vereinzelt Kämpfer direkt töten.
+Starker Gegner, kann vereinzelt Kämpfer direkt töten. Hat 100M Leben, ist unbesiegbar, muss nur überlebt werden.
+Squad-Vorschlag: 6 Chemiker (4 Heiler, 2 Beleber).
 
 ![Unbekannt]({{ site.el-negroooar | append:"/assets/images/bunker/boss_lagerplatz.png" }})
 
 
 ### Chemielabor
 
-Gut machbarer Gegner. Wiederbelebung unwirksam. Mit Infanterie und einem Heiler gut zu bewältigen.
+Gut machbarer Gegner. Wiederbelebung unwirksam, heilt sich mit Chemieschaden. Mit Infanterie und einem Heiler gut zu bewältigen.  
+Squad-Vorschlag: 4 Chemiker (Heiler / Beleber), 2-3 Ranger, 1-2 Infanteristen.
 
 ![Chemielabor]({{ site.el-negroooar | append:"/assets/images/bunker/boss_lab.png" }})
 
 
 ### Kryogenlabor
 
-Spawn alle paar Sekunden neue Vasallen. Gutes Management von Chemikern und selbstheilenden Infanteristen nützlich.
+Spawnt alle paar Sekunden neue Vasallen. Gutes Management von Chemikern und selbstheilenden Infanteristen nützlich.
+Squad-Vorschlag: 4 Chemiker (2 Heiler, 2 Beleber), 2 Infanteristen, 2 Ranger.
 
 ![Kryogenlabor]({{ site.el-negroooar | append:"/assets/images/bunker/boss_kryogen.png" }})
 
 
 ### Zelle des Testsubjekts 42
 
-Gut machbarer Gegner, Infanteristen können den Gegner nicht treffen, da er an der Decke hängt. Nur Ranger und Chemiker.
+Gut machbarer Gegner, Infanteristen können den Gegner nicht treffen, da er an der Decke hängt. Nur Ranger und Chemiker.  
+Squad-Vorschlag: 4-6 Chemiker, 2-4 Ranger.
 
 ![Testsubjekt]({{ site.el-negroooar | append:"/assets/images/bunker/boss_42.png" }})
 
@@ -172,6 +183,7 @@ Gut machbarer Gegner, Infanteristen können den Gegner nicht treffen, da er an d
 ### Raum des Sicherheitschefs
 
 Schwerer Gegner, du hast nur eine begrenzte Zeit zur Verfügung, ihn zu töten, bevor er im Bunker verschwindet. Dazwischen heilt er sich stark auf.
+Squad-Vorschlag: 6 Chemiker (4 Heiler & 2 Beleber), 2 Infanteristen.
 
 ![Sicherheitschef]({{ site.el-negroooar | append:"/assets/images/bunker/boss_safety.png" }})
 
@@ -189,7 +201,7 @@ Die Bunker-Kiste erhälst du für jeden Boss den du besiegst sowie nach Abschlus
 
 ### High-Tech-Kiste
 
-Die High-Tech-Kiste erhälst du bei der Verwendung von Schlüsselkarten:
+Die High-Tech-Kiste erhälst du bei der Verwendung von Schlüsselkarten pro Boss, also maximal 2 pro Durchlauf.
 
 ![High-Tech-Kiste]({{ site.el-negroooar | append:"/assets/images/bunker/high-tech-kiste.png" }})
 
