@@ -68,15 +68,15 @@ Im unteren Bild siehst du die Belohnungen.
 
 
 ## Tägliche Belohnungen 
-| Mission   					 | Dokumente | Kryptocoins | Ticket      | Schlüsselkarte |
-|:------------------------------ | ---------:| -----------:| -----------:| --------------:|
-| Anzeige-Mission     			 |         2 |           5 |           - |              - |
-| Filmtheater          			 |         5 |           - |           1 |              - |
-| Tausendsassa          		 |       100 |           - |           - |              - |
-| Kampftruppe      				 |        15 |        	 - |           - |              - |
-| Schlachtsucher     			 |        15 |        	 - |           - |              - |
-| Ein zuverlässiger Verbündeter  |         5 |           - |           - |              - |
-| Seite an Seite                 |        15 |           - |           - |              - |
-| Konfrontation                  |        15 |           - |           - |              - |
-| Massenkontrolle!               |        10 |        	 - |           - |              - |
-| Steige in den Untergrund hinab |        15 |        	 - |           - |              1 |
+| Mission   					 | Dokumente | Kryptocoins | Ticket | Schlüsselkarte |
+|:------------------------------ | ---------:| -----------:| ------:| --------------:|
+| Anzeige-Mission     			 |         2 |           5 |      - |              - |
+| Filmtheater          			 |         5 |           - |      1 |              - |
+| Tausendsassa          		 |       100 |           - |      - |              - |
+| Kampftruppe      				 |        15 |        	 - |      - |              - |
+| Schlachtsucher     			 |        15 |        	 - |      - |              - |
+| Ein zuverlässiger Verbündeter  |         5 |           - |      - |              - |
+| Seite an Seite                 |        15 |           - |      - |              - |
+| Konfrontation                  |        15 |           - |      - |              - |
+| Massenkontrolle!               |        10 |        	 - |      - |              - |
+| Steige in den Untergrund hinab |        15 |        	 - |      - |              1 |

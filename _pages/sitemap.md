@@ -39,7 +39,7 @@ toc: true
   * :package: [Mehrzweck-Waffen]({{ site.el-negroooar | append:"/equipment/multi-devices" }})
   * :name_badge: [Chips]({{ site.el-negroooar | append:"/equipment/chips" }})
   * :beginner: [Prototypen]({{ site.el-negroooar | append:"/equipment/prototypes" }})
-  * Vorräte (In Arbeit)
+  * :syringe: [Vorräte]({{ site.el-negroooar | append:"/rooms/chemical-workshop" }})
 
 ## Tägliche Quests
 
