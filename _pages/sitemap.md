@@ -24,18 +24,21 @@ toc: true
   * [Arena-Brackets]({{ site.el-negroooar | append:"/pvp/arena-groups/" }})
   * [Arena-Laden]({{ site.el-negroooar | append:"/pvp/arena-store/" }})
  
-## Militär
+## Leveling / Upgrading
 
-* [Kommando-Zentrale]({{ site.el-negroooar | append:"/rooms/command-center" }})
-* [Kampf]({{ site.el-negroooar | append:"/fight" }})
-  * :european_castle: [Kaserne]({{ site.el-negroooar | append:"/rooms/barracks/" }})
-  * :muscle: [Training]({{ site.el-negroooar | append:"/rooms/gym/" }})
+* :european_castle: [Kommando-Zentrale]({{ site.el-negroooar | append:"/rooms/command-center" }})
+* :raised_hands: [Kaserne]({{ site.el-negroooar | append:"/rooms/barracks/" }})
+* :muscle: [Training]({{ site.el-negroooar | append:"/rooms/gym/" }})
+* :hourglass: [Trainingszeiten]({{ site.el-negroooar | append:"/fight/training/" }})
+
+## Ausrüstungsgegenstände
 
 * [Ausrüstung]({{ site.el-negroooar | append:"/equipment" }})
   * :gift_heart: [Material & Seltenheit]({{ site.el-negroooar | append:"/equipment/materials" }})
   * :package: [Mehrzweck-Waffen]({{ site.el-negroooar | append:"/equipment/multi-devices" }})
   * :name_badge: [Chips]({{ site.el-negroooar | append:"/equipment/chips" }})
   * :beginner: [Prototypen]({{ site.el-negroooar | append:"/equipment/prototypes" }})
+  * Vorräte (In Arbeit)
 
 ## Storyline
 
