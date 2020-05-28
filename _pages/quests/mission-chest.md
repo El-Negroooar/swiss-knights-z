@@ -68,6 +68,7 @@ Im unteren Bild siehst du die Belohnungen.
 
 
 ## Tägliche Belohnungen 
+
 | Mission   					 | Dokumente | Kryptocoins | Ticket | Schlüsselkarte |
 |:------------------------------ | ---------:| -----------:| ------:| --------------:|
 | Anzeige-Mission     			 |         2 |           5 |      - |              - |
