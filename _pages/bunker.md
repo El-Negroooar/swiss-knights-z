@@ -141,11 +141,13 @@ Manchmal trifft man auf einen Punkt, wo man einen Effekt - also einen Vorteil un
 
 ## Bunker Bosse
 
-Allgemein kann gesagt sein, dass die Verwendung von 4 oder mehr Chemikern mit Heilung / Wiederbelebung bei allen Bossen nützlich ist.
+Pro Bunker kannst du 2 Bosse schlagen, es gibt insgesamt 5 Bosse, die hier vorgestellt werden:
 
-Weiter sind zusätzlich beschworene Kämpfer (Infanterist, Hunde, Köder etc.). nützlich zur Ablenkung und Schadensminderung.
+* Allgemein kann gesagt sein, dass die Verwendung von 4 oder mehr Chemikern mit Heilung / Wiederbelebung bei allen Bossen nützlich ist.  
 
-Ebenso soll erwähnt werden, dass ihr JEDEN Boss auch mehrmals angreiffen könnt, Wenn eure Chemiker also zu langsam sind, dafür überleben, macht das mehr Sinn als eure Infanteristen in den Tod zu schicken.
+* Weiter sind zusätzlich beschworene Kämpfer (Infanterist, Hunde, Köder etc.). nützlich zur Ablenkung und Schadensminderung.  
+
+* Ebenso soll erwähnt werden, dass ihr JEDEN Boss auch mehrmals angreiffen könnt, Wenn eure Chemiker also zu langsam sind, dafür überleben, macht das mehr Sinn als eure Infanteristen in den Tod zu schicken.  
 
 
 ### Lagerplatz
