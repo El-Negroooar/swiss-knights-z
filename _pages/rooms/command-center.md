@@ -35,6 +35,7 @@ Was du über das Upgraden der Kommandozentrale wissen solltest:
 
 ***Nachteile:***
 
+* Jede neue Kommando-Stufe ist an die Upgrades anderer Räume gebunden. Wenn deine Truppen nicht maximal gelevelt sind, wirst du gegen immer stärkere Gegner spielen.
 * Jede neue Kommando-Stufe verteuert alle kaufbaren Gegenstände im Arena-Shop, Tunnel-Shop.
 * Jede neue Kommando-Stufe erhöht deinen Mindestbeitrag an Einfluss, um dich für eine Beute aus der Allianztruhe zu qualifizieren.
 
@@ -42,6 +43,7 @@ Was du über das Upgraden der Kommandozentrale wissen solltest:
 
 * Jede neue Kommando-Stufe schaltet weitere Raum-Upgrades frei.
 * Jede neue Kommando-Stufe bringt bei Events höherlevelige Ausrüstung (Achtung: Wenn deine Truppen nicht auf dem Level sind, kannst du sie nicht ausrüsten!!)
+* Jede neue Kommando-Stufe bringt dir bei Siegen mehr Einfluss und 
 
 ***Freischaltungen:***
 
