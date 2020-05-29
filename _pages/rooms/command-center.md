@@ -8,26 +8,6 @@ Die Kommandozentrale ist das Herzstück deiner Zuflucht. Sie bestimmt welche Rä
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/rooms/command-center-zoom.png" }})
 
-## Vor- & Nachteile
-Was du über das Upgraden der Kommandozentrale wissen solltest:
-
-*** Nachteile:
-
-* Jede neue Kommando-Stufe verteuert alle kaufbaren Gegenstände im Arena-Shop, Tunnel-Shop.
-* Jede neue Kommando-Stufe erhöht deinen Mindestbeitrag an Einfluss, um dich für eine Beute aus der Allianztruhe zu qualifizieren.
-
-*** Vorteile:
-
-* Jede neue Kommando-Stufe schaltet weitere Raum-Upgrades frei.
-* Jede neue Kommando-Stufe bringt bei Events höherlevelige Ausrüstung (Achtung: Wenn deine Truppen nicht auf dem Level sind, kannst du sie nicht ausrüsten!!)
-
-*** Freischaltungen:
-
-* Ab CC6 wird die Arena freigeschaltet.
-* Ab CC8 wird der Bahnhof freigeschaltet.
-* Ab CC9 wird der Bunker und Offizier freigeschaltet.
-* Ab CC10 werden weitere Upgrades für den Offizier freigeschaltet.
-
 
 ## Ausbaustufen
 
@@ -49,9 +29,31 @@ Für Level 10 wäre die Bauzeit: 4 Tage und 12 Stunden anstatt 6 Tage.
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/rooms/command-center-costs.png" }})
 
+
+## Vor- & Nachteile
+Was du über das Upgraden der Kommandozentrale wissen solltest:
+
+***Nachteile:***
+
+* Jede neue Kommando-Stufe verteuert alle kaufbaren Gegenstände im Arena-Shop, Tunnel-Shop.
+* Jede neue Kommando-Stufe erhöht deinen Mindestbeitrag an Einfluss, um dich für eine Beute aus der Allianztruhe zu qualifizieren.
+
+***Vorteile:***
+
+* Jede neue Kommando-Stufe schaltet weitere Raum-Upgrades frei.
+* Jede neue Kommando-Stufe bringt bei Events höherlevelige Ausrüstung (Achtung: Wenn deine Truppen nicht auf dem Level sind, kannst du sie nicht ausrüsten!!)
+
+***Freischaltungen:***
+
+* Ab CC6 wird die Arena freigeschaltet.
+* Ab CC8 wird der Bahnhof freigeschaltet.
+* Ab CC9 wird der Bunker und Offizier freigeschaltet.
+* Ab CC10 werden weitere Upgrades für den Offizier freigeschaltet.
+
+
 ## Zufluchtseditor
 
-Über die Kommandozentrale bekommst du den Menüpunkt zum Zufluchtseditor. Damit kannst du Räume verbinden und wieder trennen um separate Upgrades zu erledigen.
+Über die Kommandozentrale bekommst du den Menüpunkt zum Zufluchtseditor. Damit kannst du [Räume]({{ site.el-negroooar | append:"/rooms/" }}) verbinden und wieder trennen um separate Upgrades zu erledigen. Wenn du einen Raum länger gedrückt hälst, kommst du ebenfalls in den Zufluchtseditor.
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/rooms/command-center.png" }})
 
