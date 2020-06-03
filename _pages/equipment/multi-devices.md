@@ -6,8 +6,8 @@ toc: true
 
 Die Mehrzweckwaffen (abgek. MZW oder en. MPW) sind dazu da, deinem Spieler weitere nützliche Eigenschaften zu verleihen. Das kann z.B. Reanimation, Heilung, ein zusätzlicher Zombie-Sniper, eine Drohne und vieles mehr sein. Du findest sie entweder in Events oder findest sie in der Arena im Shop, du kannst keine selbst craften. Sie nimmt den anfangs noch leeren Platz bei deinem Spieler unten rechts ein.
 
-Wichtig: Mehrzweckwaffen haben einen beschränken Gültigkeitsbereich, auch nach oben. Schau gut, wie weit du deine Kämpfer trainieren kannst, gehst du darüber, kannst du die Mehrzweckwaffe nicht mehr verwenden und musst eine höherlevelige ersteigern, was das Upgraden deiner Kommando-Zentrale voraussetzt.
-
+:warning: Mehrzweckwaffen haben einen beschränken Gültigkeitsbereich, auch nach oben. Schau gut, wie weit du deine Kämpfer trainieren kannst, gehst du darüber, kannst du die Mehrzweckwaffe nicht mehr verwenden und musst eine höherlevelige ersteigern, was das Upgraden deiner Kommando-Zentrale voraussetzt.
+{: .notice--warning}
 ## Galerie
 
 ### Schlechter Sanitäter
