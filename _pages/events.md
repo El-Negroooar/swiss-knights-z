@@ -12,7 +12,7 @@ Etwa alle 1-2 Monate findet ein kleines bis grosses Event statt, dabei wechseln 
 * Bei den Weg-Events kannst du einmalige Spezial-Waffen, eine Spezial-Mehrzweckwaffe sowie Kryptocoins, Chips & Co. erbeuten.
 * Der Fahrende Händler bietet diverse Gegenstände an, die du mit Kryptocoins oder Ressourcen kaufen kannst.
 
-:round_pushpin: Bei allen Events die Werbevideos anbieten gilt: Du kannst die Videos weiteren Geräten erneut schauen. Sie sind täglich auf 8-10x beschränkt, da aber manche einen Timer von 2h haben, musst du dich weniger oft damit abgeben. Du kannst anstelle von weiteren Smartphones auch einen Emulator wie Bluestacks oder Nox am PC verwenden.
+:round_pushpin: Bei allen Events die Werbevideos mit Cooldown-Timer anbieten gilt: Du kannst die Videos auf weiteren Geräten erneut schauen. Sie sind täglich auf 8-10x beschränkt, da aber manche einen Timer von 2h haben, musst du dich weniger oft einloggen um alle täglichen Videos einzukassieren. Du kannst anstelle von weiteren Smartphones auch einen Emulator wie Bluestacks oder Nox am PC verwenden.
 {: .notice--success}
 
 
@@ -24,7 +24,8 @@ Erneut eine Möglichkeit, Spezialwaffen und -mehrzweckwaffe zu erhalten. Für De
 
 ![Update St. Patricksday]({{ site.el-negroooar | append:"/assets/images/events/stpatricksday.png" }})
 
-St. Patricksday war wieder ein Inselevent sondergleichen. Erneut kamen die Prototypen zum Zug, diesmal im Doppelpack für Waffen & Rüstungen.
+St. Patricksday war wieder ein Inselevent sondergleichen. (Neues Update 16.03.2020)
+Erneut kamen die Prototypen zum Zug, diesmal im Doppelpack für Waffen & Rüstungen.
 Für Details zum Ablauf, siehe "Weihnachtsevent".
 
 
