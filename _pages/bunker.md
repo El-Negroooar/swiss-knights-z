@@ -17,7 +17,7 @@ Mit Freischaltung des Bunkers und Offiziers auf CC9 öffnet sich dem Spieler ein
 
 ### Schlüsselkarte
 
-Die Schlüsselkarte kann benutzt werden, um eine Runde im Bunker zu starten. Du kannst sie aus Kisten bei Bosskämpfen im Bunker erhalten oder gegen Kryptocoins im Bunker erhalten. Alternativ kannst du eine Runde im Bunker mittels Nahrung finanzieren.
+Die Schlüsselkarte kann benutzt werden, um eine Runde im Bunker zu starten. Du kannst sie aus Kisten bei Bosskämpfen im Bunker erhalten oder gegen Kryptocoins im Bunkerladen erhalten. Alternativ kannst du eine Runde im Bunker mittels Nahrung finanzieren.
 
 ![Schlüsselkarte]({{ site.el-negroooar | append:"/assets/images/bunker/bunker_schluesselkarte.png" }})
 

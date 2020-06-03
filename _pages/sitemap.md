@@ -34,12 +34,12 @@ toc: true
 
 ## Ausrüstungsgegenstände
 
-* [Ausrüstung]({{ site.el-negroooar | append:"/equipment" }})
-  * :gift_heart: [Material & Seltenheit]({{ site.el-negroooar | append:"/equipment/materials" }})
-  * :package: [Mehrzweck-Waffen]({{ site.el-negroooar | append:"/equipment/multi-devices" }})
-  * :name_badge: [Chips]({{ site.el-negroooar | append:"/equipment/chips" }})
-  * :beginner: [Prototypen]({{ site.el-negroooar | append:"/equipment/prototypes" }})
-  * :syringe: [Vorräte (In Arbeit)]({{ site.el-negroooar | append:"/rooms/chemical-workshop" }})
+* :kimono: [Ausrüstung]({{ site.el-negroooar | append:"/equipment" }})
+* :gift_heart: [Material & Seltenheit]({{ site.el-negroooar | append:"/equipment/materials" }})
+* :package: [Mehrzweck-Waffen]({{ site.el-negroooar | append:"/equipment/multi-devices" }})
+* :name_badge: [Chips]({{ site.el-negroooar | append:"/equipment/chips" }})
+* :beginner: [Prototypen]({{ site.el-negroooar | append:"/equipment/prototypes" }})
+* :syringe: [Vorräte (In Arbeit)]({{ site.el-negroooar | append:"/rooms/chemical-workshop" }})
 
 ## Tägliche Quests
 

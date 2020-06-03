@@ -4,7 +4,7 @@ title: "Allianz-Statuten"
 toc: true
 ---
 
-Swiss Knight Z ist eine deutschsprachige, schweizer Allianz im Apokalypse-Spiel Zero City.
+Swiss Knights Z ist eine deutschsprachige, schweizer Allianz im Apokalypse-Spiel Zero City.
 
 ## Zweck
 
@@ -26,6 +26,7 @@ Gemeinsam spielen und Zusammenhalt sowie Austausch fördern, sich gegenseitig un
   - Werben neue Mitglieder an.
   - Stehen den Neulingen mit Rat & Wort zur Seite.
 
+- Beförderungen: Da es nur wenige Ränge gibt und diese Gebunden sind an gewisse "Rechte" werden Beförderungen hauptsächlich strategisch genutzt und sind nicht mit einer Hierarchie gleichzusetzen. Es Bedarf aber trotzdem eines Spielers Einsatz, um eine Beförderung zu erhaltne.
 
 ## Mitgliedschaft
 
