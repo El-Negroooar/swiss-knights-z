@@ -11,9 +11,9 @@ Nützlich für alle Neulinge zu Beginn des Spiels. Profitiere von den Erfahrunge
 :round_pushpin: Folgend 10 sehr nützliche und wichtige Beginner-Tips:
 {: .notice--success}
 
-1. Möglichst bald 3-5:star:[-Bewohner]({{ site.el-negroooar | append:"/people/" }}) produzieren und 1-2 :star:-Bewohner verbannen. (Kämpfer 5 :star:, Arbeiter min. 3 :star:).
-2. So schnell wie möglich min. 6 Kämpfer ab 3:star: hochleveln.
+1. So schnell wie möglich min. 6 Kämpfer ab 3:star: hochleveln.
 ( -> Im [Allianzkrieg]({{ site.el-negroooar | append:"/pvp/allywar" }}) kannst du unabhängig deines Kasernenlevels bis zu 6 Kämpfer platzieren.)
+2. Möglichst bald 3-5:star:[-Bewohner]({{ site.el-negroooar | append:"/people/" }}) produzieren und 1-2 :star:-Bewohner verbannen. (Kämpfer 5 :star:, Arbeiter min. 3 :star:).
 3. Fokus auf Nahrungs- & Bargeld-Produktion.
 4. Keine Bossrüstungen kaufen, lohnt sich nicht.
 5. [Pitbull-Wachhund]({{ site.el-negroooar | append:"/faq/" }}) nicht kaufen, ist nur zur Deko.
