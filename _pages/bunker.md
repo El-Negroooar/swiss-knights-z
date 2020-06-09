@@ -10,7 +10,7 @@ Voraussetzung: Kommandostufe 9 (CC9)
 
 ## Spielprinzip
 
-Mit Freischaltung des Bunkers und Offiziers auf CC9 öffnet sich dem Spieler ein komplett neuer Spielmodus. Im Koop-Modus kannst du mit 1 anderen Spieler - einem Freund, Allianzmitglied oder zufälliger Spieler - in den Bunker eindringen und dir Daten sowie Bewaffnungsteile holen, um die Bewaffnungen und Talente deines Offiziers aufzuleveln.
+Mit Freischaltung des Bunkers und Offiziers auf CC9 öffnet sich dem Spieler ein komplett neuer Spielmodus. Im Koop-Modus kannst du mit 1 anderen Spieler - einem Freund, Allianzmitglied oder zufälliger Spieler - in den Bunker eindringen und dir Daten sowie Bewaffnungsteile holen, um die Bewaffnungen und Talente deines Offiziers aufzuleveln. Die Stärke der Gegner ist abhängig von der Stärke des besseren Spielers.
 
 ![Update]({{ site.el-negroooar | append:"/assets/images/bunker/bunker_advert.jpg" }})
 
@@ -71,7 +71,10 @@ Die Bewaffnungen sind weitere Modifikationen, die du mit dem Offizier verwenden 
 
 ### Talente
 
-Die Talente sind Fähigkeiten, die sich auf deine Truppen ausüben. Sie werden direkt aktiv, sobald du sie erlernt hast. Sie sind abhängig von der Freischaltung der jeweiligen Bewaffnung, an die sie gebunden sind.
+* Die Talente sind Fähigkeiten, die sich auf deine Truppen ausüben. 
+* Sie werden direkt aktiv, sobald du sie erlernt hast, unabhängig der eingesetzten Bewaffnung des Offiziers. 
+* Ihre Freischaltung ist abhängig von der Freischaltung der jeweiligen Bewaffnung, an die sie gebunden sind. 
+* Auf Kommandostufe 9 können die Talente nur bis zur Hälfte aufgelevelt werden, danach wird Kommandostufe 10 vorausgesetzt.
 
 
 ## Bunkerladen

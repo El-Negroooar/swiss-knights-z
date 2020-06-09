@@ -26,11 +26,21 @@ Nützlich für alle Neulinge zu Beginn des Spiels. Profitiere von den Erfahrunge
 :warning: Dein Erfolg hängt mitunter davon ab, gegen welche Gegner du spielen musst. Darum ist es absolut wesentlich, die sogenannten ["Brackets"]({{ site.el-negroooar | append:"/pvp/arena-groups" }}) von Grundauf zu verstehen.
 {: .notice--warning}
 
+## Upgrade-Tips
+
+1. 5 :star:-Kämpfer immer maximal trainiert haben (["Brackets"]({{ site.el-negroooar | append:"/pvp/arena-groups/#brackets-tabellen" }})), Trainingsraum nie leer lassen.
+2. [Kommando-Zentrale]({{ site.el-negroooar | append:"/roons/command-center" }}) mit Bedacht leveln.
+3. Wenn du die Werkstätte schneller als deine Kämpfer upgradest, kannst du keine Rüstung mehr für deine Kämpfer produzieren.
+4. Lagerräume nur leveln, wenn du es für ein Upgrade brauchst, vorher ["Produktionsräume"]({{ site.el-negroooar | append:"/rooms/#ressourcenproduktion" }}) leveln.
+5. Je mehr Kämpfer du in der ["Kaserne"]({{ site.el-negroooar | append:"/rooms/barracks/" }}) hast, umso mehr gute Ausrüstung brauchst du. Keep it LOW!
+6. Upgrade den Speisesaal nie während einem Event oder komplett. Nimm ihn vorher mittels ["Zufluchtseditor"]({{ site.el-negroooar | append:"/rooms/command-center/#zufluchtseditor" }}) auseinander und upgrade ihn stückweise, damit du immer Nahrung erhälst.
+
 ## Weitere Tips
 
 * [Ressourcen-Handling]({{ site.el-negroooar | append:"/guides/low-profile/" }})
 * [Legendäre Ausrüstung]({{ site.el-negroooar | append:"/guides/legendary-items/" }})
 * [Chips Guide]({{ site.el-negroooar | append:"/rooms/tech-center/" }})  
+
 
 
 
