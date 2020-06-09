@@ -28,12 +28,12 @@ Nützlich für alle Neulinge zu Beginn des Spiels. Profitiere von den Erfahrunge
 
 ## Upgrade-Tips
 
-1. 5 :star:-Kämpfer immer maximal trainiert haben (["Brackets"]({{ site.el-negroooar | append:"/pvp/arena-groups/#brackets-tabellen" }})), Trainingsraum nie leer lassen.
-2. [Kommando-Zentrale]({{ site.el-negroooar | append:"/roons/command-center" }}) mit Bedacht leveln.
-3. Wenn du die Werkstätte schneller als deine Kämpfer upgradest, kannst du keine Rüstung mehr für deine Kämpfer produzieren.
-4. Lagerräume nur leveln, wenn du es für ein Upgrade brauchst, vorher ["Produktionsräume"]({{ site.el-negroooar | append:"/rooms/#ressourcenproduktion" }}) leveln.
-5. Je mehr Kämpfer du in der ["Kaserne"]({{ site.el-negroooar | append:"/rooms/barracks/" }}) hast, umso mehr gute Ausrüstung brauchst du. Keep it LOW!
-6. Upgrade den Speisesaal nie während einem Event oder komplett. Nimm ihn vorher mittels ["Zufluchtseditor"]({{ site.el-negroooar | append:"/rooms/command-center/#zufluchtseditor" }}) auseinander und upgrade ihn stückweise, damit du immer Nahrung erhälst.
+1. 5 :star:-Kämpfer immer maximal trainiert halten ([Brackets]({{ site.el-negroooar | append:"/pvp/arena-groups/#brackets-tabellen" }})), Trainingsraum nie leer lassen.
+2. [Kommando-Zentrale]({{ site.el-negroooar | append:"/rooms/command-center" }}) bewusst & mit Bedacht leveln.
+3. Wenn du die [Werkstätte]({{ site.el-negroooar | append:"/rooms/#waffe-kleidung-armband--chip" }}) schneller als deine Kämpfer upgradest, kannst du keine Rüstung mehr für deine Kämpfer produzieren.
+4. Lagerräume nur leveln, wenn du es für ein Upgrade brauchst, vorher [Produktionsräume]({{ site.el-negroooar | append:"/rooms/#ressourcenproduktion" }}) leveln.
+5. Je mehr Kämpfer du in der [Kaserne]({{ site.el-negroooar | append:"/rooms/barracks/" }}) hast, umso mehr gute Ausrüstung brauchst du. Keep it LOW solange du kannst!
+6. Upgrade den Speisesaal nie während einem Event oder im Verbund. Nimm ihn vorher mittels [Zufluchtseditor]({{ site.el-negroooar | append:"/rooms/command-center/#zufluchtseditor" }}) auseinander und upgrade ihn stückweise, damit du immer Nahrung erhälst.
 
 ## Weitere Tips
 
