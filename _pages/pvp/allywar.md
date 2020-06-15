@@ -85,6 +85,8 @@ Die Belohnung der Allianz setzt sich aus den beiden Währungen Einfluss (:star:)
 
 X = Summe aller gewonnenen Wegpunkte.
 
+Erreichen 2 Allianzen die gleiche Menge Einfluss, wird nach folgenden Kriterien in die Rangliste eingegliedert: Anzahl Flaggen, mehr Siege, mehr umkämpfte Wegpunkte, Allianzstärke.
+
 
 ### Spieler
 
