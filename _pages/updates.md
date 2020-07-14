@@ -7,8 +7,8 @@ toc: true
 # Guide-Updates
 
 14.07.2020
-* Updates-Seite
-* Events - "Weg des Wilden"
+* Neu: Updates-Seite
+* Events - "Weg des Wilden" - "Champion Wettbewerb" - "Weg des Folterer"
 
 # Spiel-Updates
 
