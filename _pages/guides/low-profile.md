@@ -32,7 +32,7 @@ Dieser Spieler ist mindestens sechs Stufen über mir. Er hat mindestens einen So
 
 Wie kommt es dass er mich überfallen kann? Seine Punktzahl beträgt nur 2856. Er müsste weit über 3000 sein.
 
-Der erste Angriff kostet ihm Nahrung und Punkte. Ich erhalte 30 Ranglisten-Punkte. Die Sau pusht damit meinen Rang.
+Der erste Angriff kostet ihn Nahrung und Punkte. Ich erhalte 30 Ranglisten-Punkte. Damit pusht er meinen Rang nach oben.
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/guide/fake-attack-1.png" }})
 
