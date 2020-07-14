@@ -13,6 +13,7 @@ toc: true
 * :door: [Räume]({{ site.el-negroooar | append:"/rooms" }})
 * :couple: [Bewohner]({{ site.el-negroooar | append:"/people" }})
 * :bar_chart: [Ressourcen]({{ site.el-negroooar | append:"/resources" }})
+* :gem: [Währungen]({{ site.el-negroooar | append:"/currency" }})
  
 ## Kampfsysteme
 
@@ -40,11 +41,6 @@ toc: true
 * :name_badge: [Chips]({{ site.el-negroooar | append:"/equipment/chips" }})
 * :beginner: [Prototypen]({{ site.el-negroooar | append:"/equipment/prototypes" }})
 * :syringe: [Vorräte (In Arbeit)]({{ site.el-negroooar | append:"/rooms/chemical-workshop" }})
-
-## Währungen
-
-* In Arbeit :construction: ...
-
 
 ## Tägliche Quests
 

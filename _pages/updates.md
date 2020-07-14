@@ -8,7 +8,8 @@ toc: true
 
 14.07.2020
 * Neu: Updates-Seite
-* Events - "Weg des Wilden" - "Champion Wettbewerb" - "Weg des Folterer"
+* Neu: [Tunnel-Raubzug]({{ site.el-negroooar | append:"/pvp/tunnel/" }}) 
+* Neu: Events - "Weg des Wilden" - "Champion Wettbewerb" - "Weg des Folterer"
 
 # Spiel-Updates
 
