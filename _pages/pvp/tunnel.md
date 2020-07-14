@@ -1,5 +1,5 @@
 ---
-permalink: /tunnel/
+permalink: /pvp/tunnel/
 title: "Tunnel"
 toc: true
 ---
