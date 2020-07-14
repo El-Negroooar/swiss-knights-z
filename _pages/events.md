@@ -56,6 +56,8 @@ Erneut eine Möglichkeit, Spezial- und Mehrzweckwaffen zu erhalten. Für Details
 * Dexter-Axt (Infanterist)
 * Eevee-Granate (Chemiker)
 
+![Bild Folterer Beute]({{ site.el-negroooar | append:"/assets/images/events/folterer_rewards.png" }})
+
 ## St. Patricksday
 
 ![Update St. Patricksday]({{ site.el-negroooar | append:"/assets/images/events/stpatricksday.png" }})
