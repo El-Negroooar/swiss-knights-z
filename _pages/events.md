@@ -29,9 +29,12 @@ Erneut eine Möglichkeit, Spezial- und Mehrzweckwaffen zu erhalten. Für Details
 
 ## Champion-Wettbewerb
 
-Ein neuartiges Event hat die Spieler von Zero-City erreicht, der Champion-Wettbewerb. Durch das Abschliessen von täglichen sowie wöchentlichen Quests wie auch daily Tasks wie man sie von den "Weg-Events" kennt, konnte man Embleme (Masken-Symbol) sammeln. Je nach Kommandostufe benötigt man unterschiedlich viele Embleme, um ein Level aufzusteigen. Die Levels waren nach obenhin unbegrenzt, alle freischaltbaren Gegenstände waren bis Stufe 100 erhältlich, spezielle Rüstungsteile gab es nur in Spezialkisten, die ca. alle 5 Levels ab Stufe 100 erhältlich waren. Der Spezialpass für CHF 10 erlaubte nicht nur das Zukaufen von Stufen, sondern ergab zusätzliche Belohnungen sowie weitere tägliche Quests, um schneller voranzukommen.
+Ein neuartiges Event hat die Spieler von Zero-City erreicht, der Champion-Wettbewerb.   
 
-(Neues Update 26.05.2020) Dauer: 21 Tage. Währung: Embleme. 
+(Neues Update 26.05.2020) Dauer: 21 Tage. Währung: Embleme.   
+
+Durch das Abschliessen von täglichen sowie wöchentlichen Quests wie auch daily Tasks wie man sie von den "Weg-Events" kennt, konnte man Embleme (Masken-Symbol) sammeln. Je nach Kommandostufe benötigt man unterschiedlich viele Embleme, um ein Level aufzusteigen. Die Levels waren nach obenhin unbegrenzt, alle freischaltbaren Gegenstände waren bis Stufe 100 erhältlich, spezielle Rüstungsteile gab es nur in Spezialkisten, die ca. alle 5 Levels ab Stufe 100 erhältlich waren. Der Spezialpass für CHF 10 erlaubte nicht nur das Zukaufen von Stufen, sondern ergab zusätzliche Belohnungen sowie weitere tägliche Quests, um schneller voranzukommen.
+
 
 ## Der Weg des Folterers
 
@@ -49,9 +52,9 @@ Erneut eine Möglichkeit, Spezial- und Mehrzweckwaffen zu erhalten. Für Details
 
 ![Update St. Patricksday]({{ site.el-negroooar | append:"/assets/images/events/stpatricksday.png" }})
 
-St. Patricksday war wieder ein Inselevent sondergleichen. (Neues Update 16.03.2020)
+St. Patricksday war wieder ein Inselevent sondergleichen.
 Erneut kamen die Prototypen zum Zug, diesmal im Doppelpack für Waffen & Rüstungen.
-Für Details zum Ablauf, siehe "Weihnachtsevent".
+Für Details zum Ablauf, siehe "Weihnachtsevent". (Neues Update 16.03.2020)
 
 
 
