@@ -8,17 +8,42 @@ toc: true
 ## Beschreibung
 Etwa alle 1-2 Monate findet ein kleines bis grosses Event statt, dabei wechseln sich Inselevent, Weg-Event und Fahrender Händler im Turnus ab.
 
-* Die Inselevents sind die lukrativsten, du kannst sehr viele Kisten mit vielen Elementen sammeln, erhälst Skins für deine Truppen, viele neue Rüstungen & Waffen.
-* Bei den Weg-Events kannst du einmalige Spezial-Waffen, eine Spezial-Mehrzweckwaffe sowie Kryptocoins, Chips & Co. erbeuten.
-* Der Fahrende Händler bietet diverse Gegenstände an, die du mit Kryptocoins oder Ressourcen kaufen kannst.
+* "Inselevents" sind die lukrativsten, du kannst sehr viele Kisten mit vielen Elementen sammeln, erhälst Skins für deine Truppen, viele neue Rüstungen & Waffen. Dabei wird die Insel mit dem Leuchtturm auf der Karte unten rechts freigeschaltet.
+* "Weg-Events" bieten die Chance, einmalige Spezial-Waffen, eine Spezial-Mehrzweckwaffe sowie Kryptocoins, Chips & Co. zu erbeuten.
+* "Der Fahrende Händler" bietet diverse Gegenstände an, die du mit Kryptocoins oder Ressourcen kaufen kannst.
 
 :round_pushpin: Bei allen Events die Werbevideos mit Cooldown-Timer anbieten gilt: Du kannst die Videos auf weiteren Geräten erneut schauen. Sie sind täglich auf 8-10x beschränkt, da aber manche einen Timer von 2h haben, musst du dich weniger oft einloggen um alle täglichen Videos einzukassieren. Du kannst anstelle von weiteren Smartphones auch einen Emulator wie Bluestacks oder Nox am PC verwenden.
 {: .notice--success}
 
+## Der Weg des Wilden
+
+Erneut eine Möglichkeit, Spezial- und Mehrzweckwaffen zu erhalten. Für Details zum Ablauf, siehe "Der Weg der Pyrotechnik".
+
+(Neues Update ?.07.2020) Dauer: ? Tage. Währung: ?. 
+
+4 Einzigartige Waffen:
+* 
+* 
+* 
+* 
+
+## Champion-Wettbewerb
+
+Ein neuartiges Event hat die Spieler von Zero-City erreicht, der Champion-Wettbewerb. Durch das Abschliessen von täglichen sowie wöchentlichen Quests wie auch daily Tasks wie man sie von den "Weg-Events" kennt, konnte man Embleme (Masken-Symbol) sammeln. Je nach Kommandostufe benötigt man unterschiedlich viele Embleme, um ein Level aufzusteigen. Die Levels waren nach obenhin unbegrenzt, alle freischaltbaren Gegenstände waren bis Stufe 100 erhältlich, spezielle Rüstungsteile gab es nur in Spezialkisten, die ca. alle 5 Levels ab Stufe 100 erhältlich waren. Der Spezialpass für CHF 10 erlaubte nicht nur das Zukaufen von Stufen, sondern ergab zusätzliche Belohnungen sowie weitere tägliche Quests, um schneller voranzukommen.
+
+(Neues Update 26.05.2020) Dauer: 21 Tage. Währung: Embleme. 
 
 ## Der Weg des Folterers
 
-Erneut eine Möglichkeit, Spezialwaffen und -mehrzweckwaffe zu erhalten. Für Details zum Ablauf, siehe "Der Weg der Pyrotechnik".
+Erneut eine Möglichkeit, Spezial- und Mehrzweckwaffen zu erhalten. Für Details zum Ablauf, siehe "Der Weg der Pyrotechnik".
+
+(Neues Update 14.04.2020) Dauer: 10 Tage. Währung: Munition. 
+
+4 Einzigartige Waffen:
+* Ultra-Lockvogel (Mehrzweckwaffe)
+* Robby-Sturmgewehr (Ranger)
+* Dexter-Axt (Infanterist)
+* Eevee-Granate (Chemiker)
 
 ## St. Patricksday
 
