@@ -9,6 +9,7 @@ toc: true
 14.07.2020
 * Neu: Updates-Seite
 * Neu: [Tunnel-Raubzug]({{ site.el-negroooar | append:"/pvp/tunnel/" }}) 
+* Neu: [Vorräte]({{ site.el-negroooar | append:"/rooms/chemical-workshop/" }}) 
 * Neu: Events - "Weg des Wilden" - "Champion Wettbewerb" - "Weg des Folterer"
 * Update: [Guide: Upgrade-Tips]({{ site.el-negroooar | append:"/guide/#upgrade-tips" }})
 

@@ -101,17 +101,17 @@ Du kannst 3 Arten von Spieler (ab CC9) für eine Koop-Runde einladen:
 
 **Freund**
 
-* Vorteil: Sehr grosse Auswahl via Facebook-Gruppe. Allianzmitglieder können auch als Freund geaddet werden. Nachteil: "Freund" ist nicht unbedingt gleich "Freund" ;)
+* Sehr grosse Auswahl via Facebook-Gruppe. Allianzmitglieder können auch als Freund geaddet werden.
 
 
 **Allianzmitglied**
 
-* Vorteil: Ihr kennt euch, könnt euch absprechen und Zeiten abmachen. Nachteil: Einladung steht im Allianzchat, kann jeder annehmen ;)
+* Vorteil: Ihr kennt euch, könnt euch absprechen und Zeiten abmachen. Die Einladung ist für jedermann zugänglich im Allianzchat.
 
 
 **Zufälliger** **Spielpartner**
 
-* Vorteil: Ähnlichstarke Spieler, jederzeit verfügbar. Nachteil: Fremder steigt eher mal einfach aus, erschwerte Kommunikation wegen unterschiedlicher Sprachen.
+* Ähnlichstarke Spieler, jederzeit verfügbar. Fremder steigt eher mal einfach aus, erschwerte Kommunikation wegen unterschiedlicher Sprachen möglich.
 
 
 ### Weg-Auswahl
