@@ -10,6 +10,7 @@ toc: true
 * Neu: Updates-Seite
 * Neu: [Tunnel-Raubzug]({{ site.el-negroooar | append:"/pvp/tunnel/" }}) 
 * Neu: Events - "Weg des Wilden" - "Champion Wettbewerb" - "Weg des Folterer"
+* Update: [Guide: Upgrade-Tips]({{ site.el-negroooar | append:"/guide/#upgrade-tips/" }})
 
 # Spiel-Updates
 
