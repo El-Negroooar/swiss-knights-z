@@ -10,6 +10,8 @@ toc: true
 
 Im Tunnel kämpfst du gegen alle Gegner aus der Story. Es gibt die 80 Stufen und die Gegner werden immer stärker. Mit jeder Stufe gewinnst du mehr Tunnel-Marken, die du im Shop ausgeben kannst. Die Effizienz (Marken / Nahrung) steigt mit jedem Level.
 
+Die Tunnels öffnen jeweils am Freitag um 11 Uhr bis ca. Montag (abhängig der übrigen Marken).
+
 # Strategien
 
 * Manche Stufen sind schwerer als die nächste (je nach Truppenzusammenstellung). D.h. es kann nützlich sein, am Schluss noch ein paar Vorräte einzusetzen um zu prüfen, ob noch ein paar Stufen drinliegen, die du sogar ohne schaffst.
@@ -18,10 +20,10 @@ Im Tunnel kämpfst du gegen alle Gegner aus der Story. Es gibt die 80 Stufen und
 
 # Hilfsmittel
 
-* Nahrungskisten aus Events oder vom Händler können hilfreich sein, wenn du vor hast, tüchtig Marken zu sammeln.
+* Nahrungskisten aus Events oder vom Fahrenden Händler können hilfreich sein, wenn du vor hast, tüchtig Marken zu sammeln.
 * Der 2x und 3x Booster sind sehr nützlich um viele Marken zu sammeln. Der 3x Booster ist verhältnismässig zwar teurer, lohnt sich aber gerade dann, wenn du ohnehin Nahrungskisten verballerst.
 
 # Belohnungen
 
 * Stufen: Manche Stufen haben eine spezielle Kiste zur Belohnung, die sich auch lohnt, wenn du die Levels überspringst.
-* Laden: Zu Beginn sind Bewohner sinvoll, da 3*-5* Bewohner garantiert sind. Später dann sind legendäre Gegenstände oder episches Material die beste Wahl.
+* Tunnel-Shop: Zu Beginn sind Bewohner sinvoll, da 3-5:star: Bewohner garantiert sind. Später dann sind legendäre Gegenstände oder episches Material die beste Wahl.
