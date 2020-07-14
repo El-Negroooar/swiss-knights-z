@@ -9,4 +9,5 @@ main:
     url: /events/
   - title: ":question: FAQ"
     url: /faq/
-
+  - title: ":new: Updates"
+    url: /updates/
