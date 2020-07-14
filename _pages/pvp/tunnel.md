@@ -12,8 +12,8 @@ Im Tunnel kämpfst du gegen alle Gegner aus der Story. Es gibt die 80 Stufen und
 
 # Strategien
 
-* Manche Stufen sind schwerer als die nächste (je nach Truppenzusammenstellung). D.h. es kann nützlich sein, am Schluss noch ein paar Vorräte einzusetzen um zu prüfen, ob noch ein paar Stufen drinliegen.
-* Bei höheren Stufen kriegst du Spezialvorräte geschenkt. Wenn du alle bis 10 sammelst und danach nur z.B. den Wiederbeleber benutzt, wird auch immer nur dieser wieder aufgefüllt ;)
+* Manche Stufen sind schwerer als die nächste (je nach Truppenzusammenstellung). D.h. es kann nützlich sein, am Schluss noch ein paar Vorräte einzusetzen um zu prüfen, ob noch ein paar Stufen drinliegen, die du sogar ohne schaffst.
+* Während dem Spielen kriegst du manchmal Spezialvorräte gedroppt. Wenn du von allen 10 sammelst und danach nur z.B. den Wiederbeleber benutzt, wird auch immer nur dieser wieder aufgefüllt ;)
 * Seit dem Update vom 27.06.2020 kannst du Level überspringen, wenn du zu Beginn ein Video schaust. Das spart dir Zeit dich raufzuackern. 
 
 # Hilfsmittel
