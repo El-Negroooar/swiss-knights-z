@@ -4,14 +4,80 @@ title: "Chemiewerkstatt"
 toc: true
 ---
 
-# Beschreibung
+## Beschreibung
 
-Sinn und Zweck der Chemie-Werkstatt ist die Erforschung und die Produktion von Vorräten. Vorräte kannst du während diverser Aktionen einsetzen und dir einen Vorteil im Kampf verschaffen.
+* Sinn und Zweck der Chemie-Werkstatt ist die Erforschung und die Produktion von Vorräten. 
+* Vorräte kannst du während diverser Aktionen einsetzen und dir einen Vorteil im Kampf verschaffen.
+* Du kannst bis zu 9 Vorräte in Produktion geben, mit Premium sind es 18 (exkl. ausgerüstete).
 
-# Vorräte
+## Vorräte
 
-* Zombie
-* Verteidigung
-* Angriff
-* kleines Medikit
-* Grosses Medikit
+### Antipersonenmine
+
+* Max. Level: 6
+* Wirkung: "Antipersonenmine trifft einen der Feinde und fügt ihm 16'000 Schaden zu."
+
+### Adrenalin-Stimulans
+
+* Max. Level: 5
+* Wirkung: "Erhöht den von Kämpfern verursachten Schaden 20 Sekunden lang um 50%."
+
+### Schmerzmittel
+
+* Max. Level: 5
+* Wirkung: "Reduziert den von Kämpfern erlittelen Schaden 10 Sekunden lang um 30%."
+
+### Kleiner Erste-Hilfe-Kasten
+
+* Max. Level: 5
+* Wirkung: "Kleiner Erste-Hilfe-Kasten heilt einen der Kämpfer und stellt 16'000 Gesundheit wieder her."
+
+### Lockvogel
+
+* Max. Level: 5
+* Wirkung: "Hungriger Zombie wird auf dem Schlachtfeld beschworen und steht dir eine Zeit lang im Kampf zur Seite."
+* Der Zombie-Typ ändert mit der Forschung (Ranger, Chemiker, Infanterist).
+* Er unterstützt dich im Kampf, gut als Ablenkung oder wenn ein Infanterist down geht bis zur Wiederbelebung.
+
+### Nervengas
+
+* Max. Level: 3
+* Wirkung: "Nervengas trifft alle Feinde und macht sie 3 Sekunden lang kampfunfähig."
+
+### Mörsergranate
+
+* Max. Level: 3
+* Wirkung: "Mörsergranate greifft Feinde an und fügt allen in der Explosionszone 6'000 Schaden zu."
+
+### Grosser Erste-Hilfe-Kasten
+
+* Max. Level: 2
+* Wirkung: "Grosser Erste-Hilfe-Kasten heilt alle Verbündeten und stellt 8 Sekunden lang 8'000 Gesundheit wieder her."
+
+
+## Upgrading-Kosten
+
+| Vorrat					 | Lvl 2     | Lvl 3     | Lvl 4     | Lvl 5     | Lvl 6     | Lvl 7     |
+|:--------------------------:| ---------:| ---------:| ---------:| ---------:| ---------:| ---------:|
+| Antipersonenmine           |           |           |           |           |           |   800'000 |
+| Adrenalin-Stimulans        |           |           |           |           |         - |         - |
+| Schmerzmittel              |           |           |           |           |         - |         - |
+| Kleiner Erste-Hilfe-Kasten |           |           |           |           |   800'000 |           |
+| Lockvogel                  |           |           |           |  630'000  |           |           |
+| Nervengas                  |           |           |  550'000  |           |           |           |
+| Mörsergranate              |           |           |  550'000  |           |           |           |
+| Grosser Erste-Hilfe-Kasten |           |   500'000 |           |           |           |           |
+
+
+## Upgrading-Werte
+
+| Vorrat					 | Lvl 2     | Lvl 3     | Lvl 4     | Lvl 5     | Lvl 6     | Lvl 7     |
+|:--------------------------:| ---------:| ---------:| ---------:| ---------:| ---------:| ---------:|
+| Antipersonenmine           |           |           |           |           |    16'000 |    22'000 |
+| Adrenalin-Stimulans        |           |           |           |   20s 50% |         - |         - |
+| Schmerzmittel              |           |           |           |   10s 30% |         - |         - |
+| Kleiner Erste-Hilfe-Kasten |           |           |           |    16'000 |    22'000 |           |
+| Lockvogel                  |           |           | Hungriger |Verrückter |           |           |
+| Nervengas                  |           |        3s |      3.5s |           |           |           |
+| Mörsergranate              |           |           |   550'000 |           |           |           |
+| Grosser Erste-Hilfe-Kasten |           |     6'000 |     8'000 |           |           |           |

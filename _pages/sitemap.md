@@ -30,7 +30,7 @@ toc: true
 
 * :european_castle: [Kommando-Zentrale]({{ site.el-negroooar | append:"/rooms/command-center" }})
 * :raised_hands: [Kaserne]({{ site.el-negroooar | append:"/rooms/barracks/" }})
-* :muscle: [Training]({{ site.el-negroooar | append:"/rooms/gym/" }})
+* :muscle: [Kämpfer-Training]({{ site.el-negroooar | append:"/rooms/gym/" }})
 * :hourglass: [Trainingszeiten]({{ site.el-negroooar | append:"/fight/training/" }})
 * :suspect: [Offizier]({{ site.el-negroooar | append:"/bunker/#offizier" }}) 
 
