@@ -8,12 +8,12 @@ toc: true
 
 ## Basis Management
 
-* :house: [Basis (In Arbeit)]({{ site.el-negroooar | append:"/shelter" }})
-* :construction: [Bauen]({{ site.el-negroooar | append:"/build" }})
-* :door: [Räume]({{ site.el-negroooar | append:"/rooms" }})
-* :couple: [Bewohner]({{ site.el-negroooar | append:"/people" }})
+* :house: [Basis (In Arbeit)]({{ site.el-negroooar | append:"/shelter/" }})
+* :construction: [Bauen]({{ site.el-negroooar | append:"/build/" }})
+* :door: [Räume]({{ site.el-negroooar | append:"/rooms/" }})
+* :couple: [Bewohner]({{ site.el-negroooar | append:"/people/" }})
 * :bar_chart: [Ressourcen]({{ site.el-negroooar | append:"/resources" }})
-* :gem: [Währungen]({{ site.el-negroooar | append:"/currency" }})
+* :gem: [Kryptocoins]({{ site.el-negroooar | append:"/in-app/cryptocoins/" }})
  
 ## Kampfsysteme
 
