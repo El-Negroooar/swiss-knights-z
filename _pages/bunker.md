@@ -114,15 +114,18 @@ Du kannst 3 Arten von Spieler (ab CC9) für eine Koop-Runde einladen:
 * Ähnlichstarke Spieler, jederzeit verfügbar. Fremder steigt eher mal einfach aus, erschwerte Kommunikation wegen unterschiedlicher Sprachen möglich.
 
 
-### Weg-Auswahl
+### Wegpunkt-Typen
 
 Die Wahl des Weges kann ausschlaggebend sein für den Erfolg. Manche Wege bergen bis 3 Wellen an Gegnern, andere nur 1 Welle, dafür vlt. etwas stärker. Da man ab 20%, 40%, 75% und 100% zusätzlich Daten, Waffenteile bzw. Kisten bekommt, macht es Sinn soviele Wege wie möglich zu beschreiten. 
 
-Wenn es realistisch ist einen Boss zu schlagen, kann sich dieser wegen der Bewaffnungsteile sehr lohnen. 
+#### Boss 
+
+Wenn es realistisch ist einen Boss zu schlagen, kann sich dieser wegen der Bewaffnungsteile sehr lohnen. Umso fürher, desto besser, weil ihr weniger angeschlagen seid und euch anschliessend bei leichteren Wegpunkten wieder regenerieren könnt.
+
+#### Strahlungswirkungen
 
 Manchmal trifft man auf einen Punkt, wo man einen Effekt - also einen Vorteil und einen Nachteil (Debuff / Buff) - für die eigenen Truppen auswählen kann. Auch sie geben Prozente im Abschlussfortschritts. Vergiss nicht, die Belohnungen im Fortschritssbalken manuell einzusammeln.
 
-#### Strahlungswirkungen
 * Du kannst die Effekt-Auswahl (Strahlungswirkungen) auch später einsetzen, wenn gewisse Truppen nicht mehr vorhanden sind und der Debuff (Nachteil) ins leere trifft, denn die Entscheidung wirkt sich auf den Rest des Bunkergangs aus.
 * Gewisse Buffs / Debuffs kannst du gegeneinander einsetzen, um keine Nachteile zu erhalten. z.B. +50% Verteidigung & -45% Verteidigung auf Infanterie. Dann habt ihr letztlich noch +5% Verteidigung auf die Infanterie, ohne Nachteil zu erhalten.
 
@@ -192,7 +195,9 @@ Squad-Vorschlag: 6 Chemiker (4 Heiler & 2 Beleber), 2 Infanteristen.
 
 ![Sicherheitschef]({{ site.el-negroooar | append:"/assets/images/bunker/boss_safety.png" }})
 
+### Neue Bunkerbosse 
 
+Kommen mit dem Update vom "Weg des Barbaren" Mitte Juli 2020.
 
 ## Kisten
 

@@ -55,9 +55,13 @@ Was du über das Upgraden der Kommandozentrale wissen solltest:
 
 ## Zufluchtseditor
 
-Über die Kommandozentrale bekommst du den Menüpunkt zum Zufluchtseditor. Damit kannst du [Räume]({{ site.el-negroooar | append:"/rooms/" }}) verbinden und wieder trennen um separate Upgrades zu erledigen. Wenn du einen Raum länger gedrückt hälst, kommst du ebenfalls in den Zufluchtseditor.
+Über die Kommandozentrale gelangst du via Menüpunkt zum Zufluchtseditor. Damit kannst du [Räume]({{ site.el-negroooar | append:"/rooms/" }}) verbinden und wieder trennen um separate Upgrades zu erledigen. Wenn du einen Raum länger gedrückt hälst, kommst du ebenfalls in den Zufluchtseditor.
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/rooms/command-center.png" }})
+
+## Aussehen der Zuflucht
+
+Seit dem Update vom 05.03.2020 erhälst du ab Kommandostufe 3 (CC3) die Möglichkeit, das Aussehen deiner Zuflucht anzupassen. Du kannst die Umgebung, den Hof, das Wetter, die Flaggen, Zäune, Wände & Fenster gegen Kryptocoins nach deinen Wünschen anpassen. Markierte Anpassungen sind nur via Events erhältlich.
 
 ## Offizier
 

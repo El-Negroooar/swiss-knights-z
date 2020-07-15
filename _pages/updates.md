@@ -6,6 +6,11 @@ toc: true
 
 # Guide-Updates
 
+15.07.2020
+* Überarbeitung: [Bahnhof-Raubzug]({{ site.el-negroooar | append:"/pvp/railway-raid/" }}) 
+* Ergänzungen: [Kommando-Zentrale]({{ site.el-negroooar | append:"/rooms/command-center/" }}) 
+* Ergänzungen: [Bunker Update]({{ site.el-negroooar | append:"/bunker/" }}) 
+
 14.07.2020
 * Neu: Updates-Seite
 * Neu: [Tunnel-Raubzug]({{ site.el-negroooar | append:"/pvp/tunnel/" }}) 

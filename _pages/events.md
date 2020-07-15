@@ -15,13 +15,13 @@ Etwa alle 1-2 Monate findet ein kleines bis grosses Event statt, dabei wechseln 
 :round_pushpin: Bei allen Events die Werbevideos mit Cooldown-Timer anbieten gilt: Du kannst die Videos auf weiteren Geräten erneut schauen. Sie sind täglich auf 8-10x beschränkt, da aber manche einen Timer von 2h haben, musst du dich weniger oft einloggen um alle täglichen Videos einzukassieren. Du kannst anstelle von weiteren Smartphones auch einen Emulator wie Bluestacks oder Nox am PC verwenden.
 {: .notice--success}
 
-## Der Weg des Wilden
+## Der Weg des Barbaren
 
-![Bild Wilder]({{ site.el-negroooar | append:"/assets/images/events/wilder.png" }})
+![Bild Barbar]({{ site.el-negroooar | append:"/assets/images/events/barbar.png" }})
 
 Erneut eine Möglichkeit, Spezial- und Mehrzweckwaffen zu erhalten. Für Details zum Ablauf, siehe "Der Weg der Pyrotechnik".
 
-(Neues Update ?.07.2020) Dauer: ? Tage. Währung: ?. 
+(Neues Update ?.07.2020) Dauer: 10 Tage. Währung: Treibstoff. 
 
 4 Einzigartige Waffen:
 * 
