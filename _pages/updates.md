@@ -4,7 +4,7 @@ title: "Updates"
 toc: true
 ---
 
-# Guide-Updates
+## Guide-Updates
 
 15.07.2020
 * Neu: [Kryptocoins]({{ site.el-negroooar | append:"/in-app/cryptocoins/" }}) 
@@ -19,7 +19,7 @@ toc: true
 * Neu: [Events]({{ site.el-negroooar | append:"/events/" }}) - "Weg des Wilden" - "Champion Wettbewerb" - "Weg des Folterer"
 * Update: [Guide: Upgrade-Tips]({{ site.el-negroooar | append:"/guide/#upgrade-tips" }})
 
-# Spiel-Updates
+## Spiel-Updates
 
 27.06.2020
 * Interne Freundesliste
