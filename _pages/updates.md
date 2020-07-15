@@ -7,6 +7,7 @@ toc: true
 # Guide-Updates
 
 15.07.2020
+* Neu: [Kryptocoins]({{ site.el-negroooar | append:"/in-app/cryptocoins/" }}) 
 * Überarbeitung: [Bahnhof-Raubzug]({{ site.el-negroooar | append:"/pvp/railway-raid/" }}) 
 * Ergänzungen: [Kommando-Zentrale]({{ site.el-negroooar | append:"/rooms/command-center/" }}) 
 * Ergänzungen: [Bunker Update]({{ site.el-negroooar | append:"/bunker/" }}) 

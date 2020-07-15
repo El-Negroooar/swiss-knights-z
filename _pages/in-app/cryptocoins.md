@@ -4,28 +4,37 @@ title: "Kryptocoins"
 toc: true
 ---
 
-Kryptocoins ist die "Premium"-Ingame Währung die mittels Echtgeldkäufen bezogen, aber auch Ingame über verschiedene Wege gewonnen werden können.
+Kryptocoins ist die "Premium"-Ingame Währung die mittels Echtgeldkäufen bezogen, aber auch Ingame über verschiedene Wege gewonnen werden können. Du kannst sie massenweise zukaufen und verballern oder dir strategisch ansammeln und gezielt ausgeben.
 
-### Kryptocoins erhalten
+### Einnahmequellen
 
 - Tägliche Quests.
-- Schauen von Werbevideos.
-- Einsammeln von Smileys der Bewohner.
-- Durch das Abschliessen von Erfolgen.
-- Armeeladen gegen Tunnelmarken.
+- Tägliche Kiste mit Premium (Chance auf 10).
+- Kiste des Werbeguckers nach 5 Videos (25).
+- Die Smileys der Bewohner droppen manchmal Kryptocoins (3-5).
+- Durch das abschliessen von Erfolgen (3-300).
+- Gegen Tunnelmarken im Tunnel-Shop.
+- Aus verschiedenen Kisten.
 
 ![Achievements]({{ site.el-negroooar | append:"/assets/images/in-app/achievements.png" }})  
 
 ![Tunnelcrypto]({{ site.el-negroooar | append:"/assets/images/in-app/tunnelcrypto.png" }})  
 
 
-### Kryptocoins investieren
+### Investitionen
 
-- Baumeister (ermöglicht parallele Gebäude-Upgrades).
-- Zombie-Tracker x2 im Tunnel (x3 ist weniger Kosteneffizient).
+Sinnvoll:
+
+- 1-2 zusätzliche Baumeister (ermöglicht parallele Gebäude-Upgrades).
+- Zombie-Tracker x2 oder x3 im Tunnel.
 - Nahrungskisten für Events (meist an Events selbst beziehbar).
-- Ressourcen (Falls dir nur noch wenig für ein teures Upgrade fehlt).
+- Zukauf von Ressourcen für ein grosses Update (Schutz vor Diebstahl).
 
+Individuell:
+
+- Kämpfer-Level upgraden.
+- Bau-Updates beschleunigen (bsp. wenn Ressourcen voll, aber kein Bauarbeiter mehr frei).
+- Event-Embleme zukaufen (z.B. kurz vor Ablauf des Events um Ziel zu erreichen).
 
 ![Bauarbeiter1]({{ site.el-negroooar | append:"/assets/images/in-app/worker1.png" }}) 
  
