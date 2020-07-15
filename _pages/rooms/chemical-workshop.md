@@ -14,7 +14,7 @@ toc: true
 
 ### Antipersonenmine
 
-* Max. Level: 6
+* Max. Level: ?
 * Wirkung: "Antipersonenmine trifft einen der Feinde und fügt ihm 16'000 Schaden zu."
 
 ### Adrenalin-Stimulans
@@ -29,36 +29,36 @@ toc: true
 
 ### Kleiner Erste-Hilfe-Kasten
 
-* Max. Level: 5
+* Max. Level: ?
 * Wirkung: "Kleiner Erste-Hilfe-Kasten heilt einen der Kämpfer und stellt 16'000 Gesundheit wieder her."
 
 ### Lockvogel
 
-* Max. Level: 5
+* Max. Level: ?
 * Wirkung: "Hungriger Zombie wird auf dem Schlachtfeld beschworen und steht dir eine Zeit lang im Kampf zur Seite."
 * Der Zombie-Typ ändert mit der Forschung (Ranger, Chemiker, Infanterist).
 * Er unterstützt dich im Kampf, gut als Ablenkung oder wenn ein Infanterist down geht bis zur Wiederbelebung.
 
 ### Nervengas
 
-* Max. Level: 3
+* Max. Level: ?
 * Wirkung: "Nervengas trifft alle Feinde und macht sie 3 Sekunden lang kampfunfähig."
 
 ### Mörsergranate
 
-* Max. Level: 3
+* Max. Level: ?
 * Wirkung: "Mörsergranate greifft Feinde an und fügt allen in der Explosionszone 6'000 Schaden zu."
 
 ### Grosser Erste-Hilfe-Kasten
 
-* Max. Level: 2
+* Max. Level: ?
 * Wirkung: "Grosser Erste-Hilfe-Kasten heilt alle Verbündeten und stellt 8 Sekunden lang 8'000 Gesundheit wieder her."
 
 
 ## Upgrading-Kosten
 
 | Vorrat					 | Lvl 2     | Lvl 3     | Lvl 4     | Lvl 5     | Lvl 6     | Lvl 7     |
-|:--------------------------:| ---------:| ---------:| ---------:| ---------:| ---------:| ---------:|
+|:-------------------------- | ---------:| ---------:| ---------:| ---------:| ---------:| ---------:|
 | Antipersonenmine           |           |           |           |           |           |   800'000 |
 | Adrenalin-Stimulans        |           |           |           |           |         - |         - |
 | Schmerzmittel              |           |           |           |           |         - |         - |
@@ -72,7 +72,7 @@ toc: true
 ## Upgrading-Werte
 
 | Vorrat					 | Lvl 2     | Lvl 3     | Lvl 4     | Lvl 5     | Lvl 6     | Lvl 7     |
-|:--------------------------:| ---------:| ---------:| ---------:| ---------:| ---------:| ---------:|
+|:-------------------------- | ---------:| ---------:| ---------:| ---------:| ---------:| ---------:|
 | Antipersonenmine           |           |           |           |           |    16'000 |    22'000 |
 | Adrenalin-Stimulans        |           |           |           |   20s 50% |         - |         - |
 | Schmerzmittel              |           |           |           |   10s 30% |         - |         - |
