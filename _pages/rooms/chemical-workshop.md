@@ -55,7 +55,7 @@ toc: true
 * Wirkung: "Grosser Erste-Hilfe-Kasten heilt alle Verbündeten und stellt 8 Sekunden lang 8'000 Gesundheit wieder her."
 
 
-## Upgrading-Kosten
+## Upgrading-Kosten :pill:
 
 | Vorrat					 | Lvl 2     | Lvl 3     | Lvl 4     | Lvl 5     | Lvl 6     | Lvl 7     |
 |:-------------------------- | ---------:| ---------:| ---------:| ---------:| ---------:| ---------:|
@@ -69,7 +69,7 @@ toc: true
 | Grosser Erste-Hilfe-Kasten |           |   500'000 |           |           |           |           |
 
 
-## Upgrading-Werte
+## Upgrading-Werte :arrow_up:
 
 | Vorrat					 | Lvl 2     | Lvl 3     | Lvl 4     | Lvl 5     | Lvl 6     | Lvl 7     |
 |:-------------------------- | ---------:| ---------:| ---------:| ---------:| ---------:| ---------:|
