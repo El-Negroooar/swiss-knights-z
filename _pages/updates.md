@@ -22,11 +22,12 @@ toc: true
 ## Spiel-Updates
 
 27.06.2020
-* Interne Freundesliste
-* Zerlegen mehrerer Gegenstände
-* Tunnel: Level überspringen (Video)
-* Bahnhof: Kämpfer wiederbeleben (Video)
+* Interne (Facebook unabhängige) Freundesliste.
+* Zerlegen mehrerer Gegenstände.
+* Tunnel: Level überspringen (Video).
+* Bahnhof: Kämpfer wiederbeleben (Video).
 * Bunker: Button -> Offizier.
+* Horde: Button "Nächster Kampf".
 
 Frühere Updates:
 * Allianzhalle: Einfluss, Spenden, Kriegsteilnahmen.

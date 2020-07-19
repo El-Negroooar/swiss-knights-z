@@ -15,16 +15,27 @@ Die Chips sind aufwertbare Verstärkungen, welche die Eigenschaften von Equipmen
 
 ## Chips Typen
 
-- [23] Ausweichen
-- [14] Kritischer Schaden
-- [12] Schaden
--  [8] Gesundheit
--  [8] Chemiewissen
--  [7] Chemischer Schaden
--  [6] Chemische Verteidigung
--  [5] Verteidigung 
 
-Die Reihenfolge wurde so gewählt, wie sie nach eigenen Erfahrungen mengenmässig in einer Truppe in etwa vorkommt.
+| Chips-Typ max. Stärke 		  | grau | grün | blau | violett | orange |
+|:--------------------------------| ----:| ----:| ----:| -------:| ------:|
+| Ausweichen                      |      |      |      |         |        |
+| Schaden              			  |      |      |      |         |        |
+| Kritischer Schaden           	  |      |      |      |         |        |
+| Gesundheit                      |      |      |      |         |        |
+| Chemiewissen                    |      |      |      |         |        |
+| Chemischer Schaden              |      |      |      |         |        |
+| Chemische Verteidigung          |      |      |      |         |        |
+| Verteidigung                    |      |      |      |         |        |
+
+## Strategien & Tipps
+- Das herauslösen der Chips kostet Kryptocoins, wähle bedacht, vlt. erst ab 70er Rüstung.
+- Plane, wann du die alten Chips herauslösen und in neue Rüstung setzen willst, was hast du schon, was brauchst du noch?
+- Wenn du mit grünen Chips anfängst in Waffen zu integrieren, kostet es dich weit weniger Bargeld. Verschmelzen kannst du auch integrierte Chips.
+- Setze nur sinnvolle Chips ein, Chemiewissen-Chips haben auf Ranger und Infanterist NICHTS zu suchen, auch wenn ein Slot da ist ;)
+- Integriere und upgrade gleichmässig. Ein oranger Chip kostet unglaublich viele Komponenten und Cash. Erst sinnvoll, wenn alle Slots bechipt.
+- Beim Bahnhof kannst du fürs Spielen im Shop epische Chips kaufen, lohnt sich.
+- Wenn das Verschmelzen nicht funktioniert, verlieren beide Chips Komponenten und du dein Bargeld. Entwürfe können sich lohnen, auch für Kryptocoins.
+- Bisheriger Rekord gescheiterter Verschmelzungen: 5 am Stück xD
 
 ## Verbessern
 
