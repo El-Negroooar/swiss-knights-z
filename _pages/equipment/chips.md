@@ -16,18 +16,18 @@ Die Chips sind aufwertbare Verstärkungen, welche die Eigenschaften von Equipmen
 ## Chips Typen
 
 
-| Chips-Typ max. Stärke 		  | grau | grün | blau | violett | orange |
-|:--------------------------------| ----:| ----:| ----:| -------:| ------:|
-| Ausweichen                      |      |      |      |         |        |
-| Schaden              			  |      |      |      |         |        |
-| Kritischer Schaden           	  |      |      |      |         |        |
-| Gesundheit                      |      |      |      |         |        |
-| Chemiewissen                    |      |      |      |         |        |
-| Chemischer Schaden              |      |      |      |         |        |
-| Chemische Verteidigung          |      |      |      |         |        |
-| Verteidigung                    |      |      |      |         |        |
-
-## Strategien & Tipps
+| Chips-Typ max. Stärke 		  | Grau | Grün | Blau | Lila | Orange |
+|:--------------------------------| ----:| ----:| ----:| ----:| ------:|
+| Ausweichen                      |    ? |  177 |  499 |    ? |      ? |
+| Schaden              			  |    ? |   48 |    ? |    ? |      ? |
+| Kritischer Schaden           	  |    ? |  177 |  499 |    ? |      ? |
+| Gesundheit                      |    ? |    ? |    ? |    ? |      ? |
+| Chemiewissen                    |    ? |    ? |  536 |    ? |      ? |
+| Chemischer Schaden              |    ? |    ? |  106 |    ? |      ? |
+| Chemische Verteidigung          |    ? |    ? |    ? |    ? |      ? |
+| Verteidigung                    |    ? |    ? |    ? |    ? |      ? |
+                                                                     
+## Strategien & Tipps                                                
 - Das herauslösen der Chips kostet Kryptocoins, wähle bedacht, vlt. erst ab 70er Rüstung.
 - Plane, wann du die alten Chips herauslösen und in neue Rüstung setzen willst, was hast du schon, was brauchst du noch?
 - Wenn du mit grünen Chips anfängst in Waffen zu integrieren, kostet es dich weit weniger Bargeld. Verschmelzen kannst du auch integrierte Chips.
