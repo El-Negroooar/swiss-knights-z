@@ -12,7 +12,7 @@ Etwa alle 1-2 Monate findet ein kleines bis grosses Event statt, dabei wechseln 
 * "Weg-Events" bieten die Chance, einmalige Spezial-Waffen, eine Spezial-Mehrzweckwaffe sowie Kryptocoins, Chips & Co. zu erbeuten.
 * "Der Fahrende Händler" bietet diverse Gegenstände an, die du mit Kryptocoins oder Ressourcen kaufen kannst.
 
-:round_pushpin: Bei allen Events die Werbevideos mit Cooldown-Timer anbieten gilt: Du kannst die Videos auf weiteren Geräten erneut schauen. Sie sind täglich auf 8-10x beschränkt, da aber manche einen Timer von 2h haben, musst du dich weniger oft einloggen um alle täglichen Videos einzukassieren. Du kannst anstelle von weiteren Smartphones auch einen Emulator wie Bluestacks oder Nox am PC verwenden.
+:round_pushpin: Bei allen Events die Werbevideos mit Cooldown-Timer anbieten gilt: Du kannst die Videos auf weiteren Geräten erneut schauen. Sie sind täglich auf 8-10x beschränkt, da aber manche einen Timer von 2h haben, musst du dich weniger oft einloggen um alle täglichen Videos einzukassieren. Du kannst anstelle von weiteren Smartphones auch einen Emulator wie [Bluestacks]({{ https://www.bluestacks.com/de/index.html }}) oder [Nox]({{ https://www.bignox.com/ }}) am PC verwenden.
 {: .notice--success}
 
 ## Der Weg des Barbaren
@@ -21,13 +21,14 @@ Etwa alle 1-2 Monate findet ein kleines bis grosses Event statt, dabei wechseln 
 
 Erneut eine Möglichkeit, Spezial- und Mehrzweckwaffen zu erhalten. Für Details zum Ablauf, siehe "Der Weg der Pyrotechnik".
 
-(Neues Update ?.07.2020) Dauer: 10 Tage. Währung: Treibstoff. 
+(Neues Update 17.07.2020) Dauer: 10 Tage. Währung: Treibstoff. 
 
-4 Einzigartige Waffen:
-* 
-* 
-* 
-* 
+
+7 einzigartiges Equipment:
+* Infanterie: gehörnte Blitzaxt & Metallelch-Rüstung
+* Chemiker: Gorgonenflasche & Wütender-Büffel-Rüstung
+* Ranger: Aasfresser-Sturmgewehr & Furchtfalkenausrüstung
+* Mehrzweckwaffe: Raubtierhafte Kiefer
 
 ## Champion-Wettbewerb
 
