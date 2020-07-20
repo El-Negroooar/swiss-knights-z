@@ -17,7 +17,7 @@ Etwa alle 1-2 Monate findet ein kleines bis grosses Event statt, dabei wechseln 
 
 ## Der Weg des Barbaren
 
-![Bild Barbar]({{ site.el-negroooar | append:"/assets/images/events/barbar.png" }})
+![Bild Barbar]({{ site.el-negroooar | append:"/assets/images/events/barbare.png" }})
 
 Erneut eine Möglichkeit, Spezial- und Mehrzweckwaffen zu erhalten. Für Details zum Ablauf, siehe "Der Weg der Pyrotechnik".
 
