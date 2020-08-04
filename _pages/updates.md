@@ -5,6 +5,9 @@ toc: true
 ---
 
 ## Guide-Updates
+04.08.2020
+* Ergänzung: Neue [Bosse & Wege]({{ site.el-negroooar | append:"/bunker/" }}) 
+
 
 15.07.2020
 * Neu: [Kryptocoins]({{ site.el-negroooar | append:"/in-app/cryptocoins/" }}) 

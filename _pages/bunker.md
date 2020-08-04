@@ -129,6 +129,16 @@ Manchmal trifft man auf einen Punkt, wo man einen Effekt - also einen Vorteil un
 * Du kannst die Effekt-Auswahl (Strahlungswirkungen) auch später einsetzen, wenn gewisse Truppen nicht mehr vorhanden sind und der Debuff (Nachteil) ins leere trifft, denn die Entscheidung wirkt sich auf den Rest des Bunkergangs aus.
 * Gewisse Buffs / Debuffs kannst du gegeneinander einsetzen, um keine Nachteile zu erhalten. z.B. +50% Verteidigung & -45% Verteidigung auf Infanterie. Dann habt ihr letztlich noch +5% Verteidigung auf die Infanterie, ohne Nachteil zu erhalten.
 
+#### Die Falle
+
+Du und dein Partner müssen sich beide von je 1 Kämpfer trennen. Trenn dich von einem bereits geschwächten Kämpfer, auf den du verzichten kannst oder geh zuerst einen anderen Weg und entscheide dich dann. Empfehlung: Ranger, schwächster Infant, Chemiker ohne Heilung/Belebung.
+
+#### Spiegelbild?
+
+Du kämpfst gegen einen Trupp der aus einer zufälligen Auswahl deiner sowie der Kämpfer deines Partners besteht. Gleiche Kämpfer können mehrfach vorkommen.
+Defensive Strategie mit Belebern und starken Infanteristen gelingt gut.
+
+
 ### Truppen-Auswahl
 
 * Vorteilhafte Aufstellung: 4 Chemiker, 3 Infanteristen, 1 Ranger.
@@ -194,6 +204,15 @@ Schwerer Gegner, du hast nur eine begrenzte Zeit zur Verfügung, ihn zu töten, 
 Squad-Vorschlag: 6 Chemiker (4 Heiler & 2 Beleber), 2 Infanteristen.
 
 ![Sicherheitschef]({{ site.el-negroooar | append:"/assets/images/bunker/boss_safety.png" }})
+
+
+### Den Jäger treffen
+
+Noch keine Beurteilung. Schickt regelmässig Frost- & Feuerdrohne über deine Truppen.
+Squad-Vorschlag: ?
+
+![Den Jäger treffen]({{ site.el-negroooar | append:"/assets/images/bunker/boss_hunter.png" }})
+
 
 ### Neue Bunkerbosse 
 

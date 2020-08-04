@@ -34,7 +34,7 @@ toc: true
 
 ### Lockvogel
 
-* Max. Level: ?
+* Max. Level: 5
 * Wirkung: "Hungriger Zombie wird auf dem Schlachtfeld beschworen und steht dir eine Zeit lang im Kampf zur Seite."
 * Der Zombie-Typ ändert mit der Forschung (Ranger, Chemiker, Infanterist).
 * Er unterstützt dich im Kampf, gut als Ablenkung oder wenn ein Infanterist down geht bis zur Wiederbelebung.
@@ -63,8 +63,8 @@ toc: true
 | Adrenalin-Stimulans        |           |           |           |           |         - |         - |
 | Schmerzmittel              |           |           |           |           |         - |         - |
 | Kleiner Erste-Hilfe-Kasten |           |           |           |           |   800'000 |           |
-| Lockvogel                  |           |           |           |  630'000  |           |           |
-| Nervengas                  |           |           |  550'000  |           |           |           |
+| Lockvogel                  |           |           |           |  630'000  |         - |           |
+| Nervengas                  |           |           |  550'000  |           |         - |           |
 | Mörsergranate              |           |           |  550'000  |           |           |           |
 | Grosser Erste-Hilfe-Kasten |           |   500'000 |           |           |           |           |
 
@@ -80,4 +80,4 @@ toc: true
 | Lockvogel                  |           |           | Hungriger |Verrückter |           |           |
 | Nervengas                  |           |        3s |      3.5s |           |           |           |
 | Mörsergranate              |           |           |   550'000 |           |           |           |
-| Grosser Erste-Hilfe-Kasten |           |     6'000 |     8'000 |           |           |           |
+| Grosser Erste-Hilfe-Kasten |     8'000 |    10'000 |           |           |           |           |
