@@ -26,4 +26,4 @@ Die Tunnels öffnen jeweils am Freitag um 11 Uhr bis ca. Montag (abhängig der �
 # Belohnungen
 
 * Stufen: Manche Stufen haben eine spezielle Kiste zur Belohnung, die sich auch lohnt, wenn du die Levels überspringst.
-* Tunnel-Shop: Zu Beginn sind Bewohner sinvoll, da 3-5:star: Bewohner garantiert sind. Später dann sind legendäre Gegenstände oder episches Material die beste Wahl.
+* Tunnel-Shop: Zu Beginn sind Bewohner sinvoll, da 3-5:star: Bewohner garantiert sind. Später dann sind legendäre Gegenstände, episches Material oder Kryptocoins die beste Wahl.

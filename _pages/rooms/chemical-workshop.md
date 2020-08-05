@@ -29,7 +29,7 @@ toc: true
 
 ### Kleiner Erste-Hilfe-Kasten
 
-* Max. Level: ?
+* Max. Level: 6
 * Wirkung: "Kleiner Erste-Hilfe-Kasten heilt einen der Kämpfer und stellt 16'000 Gesundheit wieder her."
 
 ### Lockvogel
@@ -41,17 +41,17 @@ toc: true
 
 ### Nervengas
 
-* Max. Level: ?
+* Max. Level: 5
 * Wirkung: "Nervengas trifft alle Feinde und macht sie 3 Sekunden lang kampfunfähig."
 
 ### Mörsergranate
 
-* Max. Level: ?
+* Max. Level: 5
 * Wirkung: "Mörsergranate greifft Feinde an und fügt allen in der Explosionszone 6'000 Schaden zu."
 
 ### Grosser Erste-Hilfe-Kasten
 
-* Max. Level: ?
+* Max. Level: 3
 * Wirkung: "Grosser Erste-Hilfe-Kasten heilt alle Verbündeten und stellt 8 Sekunden lang 8'000 Gesundheit wieder her."
 
 
@@ -59,25 +59,25 @@ toc: true
 
 | Vorrat					 | Lvl 2     | Lvl 3     | Lvl 4     | Lvl 5     | Lvl 6     | Lvl 7     |
 |:-------------------------- | ---------:| ---------:| ---------:| ---------:| ---------:| ---------:|
-| Antipersonenmine           |           |           |           |           |           |   800'000 |
-| Adrenalin-Stimulans        |           |           |           |           |         - |         - |
-| Schmerzmittel              |           |           |           |           |         - |         - |
-| Kleiner Erste-Hilfe-Kasten |           |           |           |           |   800'000 |           |
-| Lockvogel                  |           |           |           |  630'000  |         - |           |
-| Nervengas                  |           |           |  550'000  |           |         - |           |
-| Mörsergranate              |           |           |  550'000  |           |           |           |
-| Grosser Erste-Hilfe-Kasten |           |   500'000 |           |           |           |           |
+| Antipersonenmine           |         ? |         ? |        ?  |        ?  |         ? |   800'000 |
+| Adrenalin-Stimulans        |         ? |         ? |        ?  |        ?  |         - |         - |
+| Schmerzmittel              |         ? |         ? |        ?  |        ?  |         - |         - |
+| Kleiner Erste-Hilfe-Kasten |         ? |         ? |        ?  |        ?  |   800'000 |         - |
+| Lockvogel                  |         ? |         ? |        ?  |  630'000  |         - |         - |
+| Nervengas                  |         ? |         ? |  550'000  |        ?  |         - |         - |
+| Mörsergranate              |         ? |         ? |  550'000  |  630'000  |         - |         - |
+| Grosser Erste-Hilfe-Kasten |         ? |   500'000 |        -  |        -  |         - |         - |
 
 
 ## Upgrading-Werte :arrow_up:
 
 | Vorrat					 | Lvl 2     | Lvl 3     | Lvl 4     | Lvl 5     | Lvl 6     | Lvl 7     |
 |:-------------------------- | ---------:| ---------:| ---------:| ---------:| ---------:| ---------:|
-| Antipersonenmine           |           |           |           |           |    16'000 |    22'000 |
-| Adrenalin-Stimulans        |           |           |           |   20s 50% |         - |         - |
-| Schmerzmittel              |           |           |           |   10s 30% |         - |         - |
-| Kleiner Erste-Hilfe-Kasten |           |           |           |    16'000 |    22'000 |           |
-| Lockvogel                  |           |           | Hungriger |Verrückter |           |           |
-| Nervengas                  |           |        3s |      3.5s |           |           |           |
-| Mörsergranate              |           |           |   550'000 |           |           |           |
-| Grosser Erste-Hilfe-Kasten |     8'000 |    10'000 |           |           |           |           |
+| Antipersonenmine           |         ? |         ? |         ? |         ? |    16'000 |    22'000 |
+| Adrenalin-Stimulans        |         ? |         ? |         ? |   20s 50% |         - |         - |
+| Schmerzmittel              |         ? |         ? |         ? |   10s 30% |         - |         - |
+| Kleiner Erste-Hilfe-Kasten |         ? |         ? |         ? |    16'000 |    22'000 |         - |
+| Lockvogel                  |         ? |         ? | Hungriger |Verrückter |         - |         - |
+| Nervengas                  |         ? |        3s |      3.5s |        4s |         - |         - |
+| Mörsergranate              |         ? |     6'000 |     8'000 |    10'000 |         - |         - |
+| Grosser Erste-Hilfe-Kasten |     8'000 |    10'000 |         - |         - |         - |         - |

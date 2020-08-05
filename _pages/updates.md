@@ -5,6 +5,10 @@ toc: true
 ---
 
 ## Guide-Updates
+
+05.08.2020
+* Ergänzung: Vorräte, neue [Upgrading-Werte]({{ site.el-negroooar | append:"/bunker/chemical-workshop/" }}) 
+
 04.08.2020
 * Ergänzung: Neue [Bosse & Wege]({{ site.el-negroooar | append:"/bunker/" }}) 
 
