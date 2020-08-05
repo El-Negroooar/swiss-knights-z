@@ -14,7 +14,7 @@ toc: true
 
 ### Antipersonenmine
 
-* Max. Level: ?
+* Max. Level: 7
 * Wirkung: "Antipersonenmine trifft einen der Feinde und fügt ihm 16'000 Schaden zu."
 
 ### Adrenalin-Stimulans
