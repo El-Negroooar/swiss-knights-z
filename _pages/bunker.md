@@ -214,10 +214,6 @@ Squad-Vorschlag: ?
 ![Den Jäger treffen]({{ site.el-negroooar | append:"/assets/images/bunker/boss_hunter.png" }})
 
 
-### Neue Bunkerbosse 
-
-Kommen mit dem Update vom "Weg des Barbaren" Mitte Juli 2020.
-
 ## Kisten
 
 

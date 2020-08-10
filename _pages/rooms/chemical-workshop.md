@@ -36,13 +36,14 @@ toc: true
 
 * Max. Level: 5
 * Wirkung: "Hungriger Zombie wird auf dem Schlachtfeld beschworen und steht dir eine Zeit lang im Kampf zur Seite."
-* Der Zombie-Typ ändert mit der Forschung (Ranger, Chemiker, Infanterist).
-* Er unterstützt dich im Kampf, gut als Ablenkung oder wenn ein Infanterist down geht bis zur Wiederbelebung.
+* Zweck: Er unterstützt dich im Kampf, gut als Ablenkung oder wenn ein Infanterist down geht bis zur Wiederbelebung.
+* Typ: Der Zombie-Typ ändert mit der Forschung (Ranger, Chemiker, Infanterist).
 
 ### Nervengas
 
 * Max. Level: 5
 * Wirkung: "Nervengas trifft alle Feinde und macht sie 3 Sekunden lang kampfunfähig."
+* Zweck: Verschafft Zeit für die Wiederbelebung oder um Infanteristen auszunocken. Bei max. Level fast unterbruchslos einsetzbar.
 
 ### Mörsergranate
 
