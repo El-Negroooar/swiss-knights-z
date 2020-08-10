@@ -15,7 +15,7 @@ toc: true
 ### Antipersonenmine
 
 * Max. Level: 7
-* Wirkung: "Antipersonenmine trifft einen der Feinde und fügt ihm 16'000 Schaden zu."
+* Wirkung: "Antipersonenmine trifft einen der Feinde und fügt ihm 22'000 Schaden zu."
 
 ### Adrenalin-Stimulans
 
@@ -30,30 +30,30 @@ toc: true
 ### Kleiner Erste-Hilfe-Kasten
 
 * Max. Level: 6
-* Wirkung: "Kleiner Erste-Hilfe-Kasten heilt einen der Kämpfer und stellt 16'000 Gesundheit wieder her."
+* Wirkung: "Kleiner Erste-Hilfe-Kasten heilt einen der Kämpfer und stellt 22'000 Gesundheit wieder her."
 
 ### Lockvogel
 
 * Max. Level: 5
-* Wirkung: "Hungriger Zombie wird auf dem Schlachtfeld beschworen und steht dir eine Zeit lang im Kampf zur Seite."
+* Wirkung: "Verrückter Zombie wird auf dem Schlachtfeld beschworen und steht dir eine Zeit lang im Kampf zur Seite."
 * Zweck: Er unterstützt dich im Kampf, gut als Ablenkung oder wenn ein Infanterist down geht bis zur Wiederbelebung.
 * Typ: Der Zombie-Typ ändert mit der Forschung (Ranger, Chemiker, Infanterist).
 
 ### Nervengas
 
 * Max. Level: 5
-* Wirkung: "Nervengas trifft alle Feinde und macht sie 3 Sekunden lang kampfunfähig."
+* Wirkung: "Nervengas trifft alle Feinde und macht sie 4 Sekunden lang kampfunfähig."
 * Zweck: Verschafft Zeit für die Wiederbelebung oder um Infanteristen auszunocken. Bei max. Level fast unterbruchslos einsetzbar.
 
 ### Mörsergranate
 
 * Max. Level: 5
-* Wirkung: "Mörsergranate greifft Feinde an und fügt allen in der Explosionszone 6'000 Schaden zu."
+* Wirkung: "Mörsergranate greifft Feinde an und fügt allen in der Explosionszone 10'000 Schaden zu."
 
 ### Grosser Erste-Hilfe-Kasten
 
 * Max. Level: 3
-* Wirkung: "Grosser Erste-Hilfe-Kasten heilt alle Verbündeten und stellt 8 Sekunden lang 8'000 Gesundheit wieder her."
+* Wirkung: "Grosser Erste-Hilfe-Kasten heilt alle Verbündeten und stellt 8 Sekunden lang 10'000 Gesundheit wieder her."
 
 
 ## Upgrading-Kosten :pill:
