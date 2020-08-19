@@ -22,7 +22,7 @@ Gemeinsam spielen und Zusammenhalt sowie Austausch fördern, sich gegenseitig un
 - Warlords :dart:
   - Starten die Allianzkriege.
   - Kümmern sich um die Aufstellung & Strategie auf dem Schlachtfeld.
-- Offiziere :loudspeaker:
+- Offiziere :loudspeaker: (max. 8)
   - Werben neue Mitglieder an.
   - Stehen den Neulingen mit Rat & Wort zur Seite.
 

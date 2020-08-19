@@ -58,27 +58,27 @@ toc: true
 
 ## Upgrading-Kosten :pill:
 
-| Vorrat					 | Lvl 2     | Lvl 3     | Lvl 4     | Lvl 5     | Lvl 6     | Lvl 7     |
-|:-------------------------- | ---------:| ---------:| ---------:| ---------:| ---------:| ---------:|
-| Antipersonenmine           |         ? |         ? |        ?  |        ?  |         ? |   800'000 |
-| Adrenalin-Stimulans        |         ? |         ? |        ?  |        ?  |         - |         - |
-| Schmerzmittel              |         ? |         ? |        ?  |        ?  |         - |         - |
-| Kleiner Erste-Hilfe-Kasten |         ? |         ? |        ?  |        ?  |   800'000 |         - |
-| Lockvogel                  |         ? |         ? |        ?  |  630'000  |         - |         - |
-| Nervengas                  |         ? |         ? |  550'000  |        ?  |         - |         - |
-| Mörsergranate              |         ? |         ? |  550'000  |  630'000  |         - |         - |
-| Grosser Erste-Hilfe-Kasten |         ? |   500'000 |        -  |        -  |         - |         - |
+| Vorrat					 | Lvl 1     | Lvl 2     | Lvl 3     | Lvl 4     | Lvl 5     | Lvl 6     | Lvl 7     |
+|:-------------------------- | ---------:| ---------:| ---------:| ---------:| ---------:| ---------:| ---------:|
+| Antipersonenmine           |         ? |         ? |         ? |        ?  |  400'000  |         ? |   800'000 |
+| Adrenalin-Stimulans        |         ? |         ? |         ? |        ?  |  400'000  |         - |         - |
+| Schmerzmittel              |         ? |         ? |         ? |  400'000  |        ?  |         - |         - |
+| Kleiner Erste-Hilfe-Kasten |         ? |         ? |         ? |        ?  |        ?  |   800'000 |         - |
+| Lockvogel                  |         ? |         ? |   400'000 |        ?  |  630'000  |         - |         - |
+| Nervengas                  |         ? |         ? |         ? |  550'000  |        ?  |         - |         - |
+| Mörsergranate              |         ? |         ? |         ? |  550'000  |  630'000  |         - |         - |
+| Grosser Erste-Hilfe-Kasten |         ? |   400'000 |   500'000 |        -  |        -  |         - |         - |
 
 
 ## Upgrading-Werte :arrow_up:
 
-| Vorrat					 | Lvl 2     | Lvl 3     | Lvl 4     | Lvl 5     | Lvl 6     | Lvl 7     |
-|:-------------------------- | ---------:| ---------:| ---------:| ---------:| ---------:| ---------:|
-| Antipersonenmine           |         ? |         ? |         ? |         ? |    16'000 |    22'000 |
-| Adrenalin-Stimulans        |         ? |         ? |         ? |   20s 50% |         - |         - |
-| Schmerzmittel              |         ? |         ? |         ? |   10s 30% |         - |         - |
-| Kleiner Erste-Hilfe-Kasten |         ? |         ? |         ? |    16'000 |    22'000 |         - |
-| Lockvogel                  |         ? |         ? | Hungriger |Verrückter |         - |         - |
-| Nervengas                  |         ? |        3s |      3.5s |        4s |         - |         - |
-| Mörsergranate              |         ? |     6'000 |     8'000 |    10'000 |         - |         - |
-| Grosser Erste-Hilfe-Kasten |     8'000 |    10'000 |         - |         - |         - |         - |
+| Vorrat					 | Lvl 1     |Lvl 2     | Lvl 3     | Lvl 4     | Lvl 5     | Lvl 6     | Lvl 7     |
+|:-------------------------- | ---------:|---------:| ---------:| ---------:| ---------:| ---------:| ---------:|
+| Antipersonenmine           |         ? |        ? |         ? |     8'000 |    12'000 |    16'000 |    22'000 |
+| Adrenalin-Stimulans        |         ? |        ? |         ? |   20s 45% |   20s 50% |         - |         - |
+| Schmerzmittel              |         ? |        ? |   10s 20% |   10s 25% |   10s 30% |         - |         - |
+| Kleiner Erste-Hilfe-Kasten |         ? |        ? |     8'000 |    12'000 |    16'000 |    22'000 |         - |
+| Lockvogel                  |         ? |   Fauler | Einfacher | Hungriger |Verrückter |         - |         - |
+| Nervengas                  |         ? |      2,5 |        3s |      3.5s |        4s |         - |         - |
+| Mörsergranate              |         ? |        ? |     6'000 |     8'000 |    10'000 |         - |         - |
+| Grosser Erste-Hilfe-Kasten |         ? |    8'000 |    10'000 |         - |         - |         - |         - |

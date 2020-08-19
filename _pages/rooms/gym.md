@@ -11,8 +11,8 @@ Im Trainingsraum werden deine Soldaten ausgebildet.
 Tipps:
 
 - Lasse den Trainingsraum niemals leer!
-- Verwende nur Bewohner mit Potential 5.
-- Notfalls trainiere Bewohner mit Potential-Level 4-3, bis du genug Bewohner mit Potential-Level 5 hast.
+- Verwende nur Bewohner mit Potential 5 (5 Sterne). Pro Stern kannst du nur 20 Stufen trainieren.
+- Notfalls trainiere Bewohner mit Potential-Level 3-4, bis du genug Bewohner mit Potential-Level 5 hast.
 - Ab höheren Level kannst du 3x pro Tag Werbung anschauen. Jede Werbung reduziert deine Trainingszeit um eine Stunde!
 
 ## Ausbau-Stufen
