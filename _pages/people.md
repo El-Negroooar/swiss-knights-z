@@ -92,7 +92,7 @@ Nachteile:
 - Während der Paarung sind die Bewohner für 1.5 Stunden nicht verfügbar
 - Schwangerschaft erlaubt keinen Kasernen Einsatz
 
-## Bewohner aus Tunnel
+### Bewohner aus Tunnel
 
 Am Anfang des Spiels ist dies einer der besseren Alternativen. Für jedes erfolgreich absolvierte Level im Tunnel erhält man Marken, die im Arenaladen eingetauscht werden können. Unter anderem auch neue Bewohner.
 
