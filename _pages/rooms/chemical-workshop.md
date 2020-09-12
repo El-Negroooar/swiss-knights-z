@@ -58,10 +58,12 @@ toc: true
 
 ## Upgrading-Kosten :pill:
 
+Die jeweiligen Kosten stehen für das Upgrade auf das jeweils nächste Level.
+
 | Vorrat					 | Lvl 1     | Lvl 2     | Lvl 3     | Lvl 4     | Lvl 5     | Lvl 6     | Lvl 7     |
 |:-------------------------- | ---------:| ---------:| ---------:| ---------:| ---------:| ---------:| ---------:|
-| Antipersonenmine           |         ? |         ? |         ? |        ?  |  400'000  |         ? |   800'000 |
-| Adrenalin-Stimulans        |         ? |         ? |         ? |        ?  |  400'000  |         - |         - |
+| Antipersonenmine           |    55'000 |         ? |         ? |        ?  |  400'000  |         ? |   800'000 |
+| Adrenalin-Stimulans        |    55'000 |         ? |         ? |        ?  |  400'000  |         - |         - |
 | Schmerzmittel              |         ? |         ? |         ? |  400'000  |        ?  |         - |         - |
 | Kleiner Erste-Hilfe-Kasten |         ? |         ? |         ? |        ?  |        ?  |   800'000 |         - |
 | Lockvogel                  |         ? |         ? |   400'000 |        ?  |  630'000  |         - |         - |
@@ -72,10 +74,12 @@ toc: true
 
 ## Upgrading-Werte :arrow_up:
 
+Die jeweiligen Werte stehen für das jeweilige Level.
+
 | Vorrat					 | Lvl 1     |Lvl 2     | Lvl 3     | Lvl 4     | Lvl 5     | Lvl 6     | Lvl 7     |
 |:-------------------------- | ---------:|---------:| ---------:| ---------:| ---------:| ---------:| ---------:|
-| Antipersonenmine           |         ? |        ? |         ? |     8'000 |    12'000 |    16'000 |    22'000 |
-| Adrenalin-Stimulans        |         ? |        ? |         ? |   20s 45% |   20s 50% |         - |         - |
+| Antipersonenmine           |     3'000 |    4'000 |         ? |     8'000 |    12'000 |    16'000 |    22'000 |
+| Adrenalin-Stimulans        |   20s 15% |  20s 25% |         ? |   20s 45% |   20s 50% |         - |         - |
 | Schmerzmittel              |         ? |        ? |   10s 20% |   10s 25% |   10s 30% |         - |         - |
 | Kleiner Erste-Hilfe-Kasten |         ? |        ? |     8'000 |    12'000 |    16'000 |    22'000 |         - |
 | Lockvogel                  |         ? |   Fauler | Einfacher | Hungriger |Verrückter |         - |         - |

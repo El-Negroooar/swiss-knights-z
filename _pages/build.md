@@ -36,15 +36,15 @@ Im unteren Bild sieht Ihr die Bauzeit für die Verbesserung des Wohnzimmers: 18 
 
 Ein Raum kann mit Bezahlen von :moneybag: beschleunigt werden.
 
-## Builder
+## Baumeister
 
-Im Spiel gibt es maximal 4 Builder. Der erste Builder ist vom Spiel aus gratis.
+Im Spiel gibt es maximal 4 Baumeister. Der erste Baumeister ist vom Spiel aus gratis.
 
-Ein zweiter Builder ist eine vernünftige Investition und kann mit erspielten Coins erworben werden.
+Ein zweiter Baumeister ist eine vernünftige Investition und kann mit erspielten Coins erworben werden.
 
-Ein dritter Builder ist weitaus kostspieliger, kann aber im späteren Leveln, viel Zeit ersparen.
+Ein dritter Baumeister ist weitaus kostspieliger, kann aber im späteren Leveln, viel Zeit ersparen.
 
-Je mehr Builder man hat, ist man flexibler im Bauen und kann seine eigenen Verluste minimieren, indem man nie auf zu vielen Ressourcen sitzt und diese so schnell wie möglich ausgibt.
+Je mehr Baumeister man hat, ist man flexibler im Bauen und kann seine eigenen Verluste minimieren, indem man nie auf zu vielen Ressourcen sitzt und diese so schnell wie möglich ausgibt.
 {: .notice--success}
 
 ## Verbesserungen
@@ -62,20 +62,20 @@ Bei den Produktionsstätten wie
 
 können die Räume verbunden und getrennt werden.
 
-Sind Räume verbunden, können Sie einfacher verwaltet werden. Für das Upgrade empfehlen wir, die Räume zu trennen und nacheinander zu verbessern. Dies hat den Vorteil dass man immer noch die Ressource wie z.B. Nahrung produziert und keine grossen Ausfälle kompensieren muss.
 
-Die Kosten sind pro Raum geringer. Dein Kontostand bleibt niedrig und du bist damit für Raubzüge und Überfällen von anderen Spielern unattraktiv.
-Sollte es zu einem erfolgreichen Überfall kommen, hast Du nicht viele Ressourcen verloren. Im unteren Bild seht ihr ein solchen Überfall. Der Ressourcen-Verlust hält sich in Grenzen :joy:.
+## Räume trennen (Raum-Editor)
 
-![Zero City]({{ site.el-negroooar | append:"/assets/images/fight/lost-defense.png" }})
+Sind Räume verbunden, können Sie einfacher verwaltet werden. Für das Upgrade empfehlen wir, die Räume zu trennen und nacheinander zu verbessern. 
 
- Würde man für den gesamten Raum die erforderlichen Ressourcen zusammen sparen, dauert dies seine Zeit und setzt sich dem Risko eines Überfall aus.
+Vorteile:
+- Du vermeidest, dass du keine Nahrung mehr produzieren kannst, indem du die Speisesäle nacheinander upgradest.
+- Du brauchst für getrennte Räume weniger Ressourcen, und kannst schneller wieder bauen.
+- Dein Kontostand bleibt niedrig und du bist damit für Raubzüge und Überfällen von anderen Spielern unattraktiv.
+- Da die Teilräume nur 1/3 Zeit benötigen, kannst du auch alle 3 Räume zeitgleich upgraden und sparst 2/3 Zeit. (Bei Speisesälen nicht empfohlen!)
 
-## Räume editieren
 
-Mit dem Raumeditor, bei der Kommandozentrale, können Räume getrennt und verbunden werden.
-Den Raumeditor kann man auch aktivieren, wenn ein Raum lang genug gedrückt bleibt.
+### Räume editieren
 
-Oben hab ihr bereits getrennt Wohnzimmer gesehen. Dies ist mit Hilfe von unterschiedlichen Level möglich. Man kann andere Räume als Lückenfüller verwenden. Im unteren Bild seht ihr getrennte Räume zum Sägewerk mit der Schreinerwerkstatt als Trenner. Eine Etage tiefer seht ihr den verbundenen Chemieraum.
+- Mit dem Raumeditor via Kommandozentrale, können Räume getrennt und verbunden werden.
+- Den Raumeditor kann man auch aktivieren, wenn ein Raum lange genug gedrückt wird.
 
-![Zero City]({{ site.el-negroooar | append:"/assets/images/shelter/merged-and-divided.png" }})
