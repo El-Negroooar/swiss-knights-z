@@ -28,6 +28,13 @@ toc: true
 
 ## Spiel-Updates
 
+14.08.2020
+* Storyline wird fortgesetzt mit "Schneebedeckter Bergpass" & "Kraftwerk".
+
+12.08.20
+* Neue Allianz-Suche mit Filter
+* Neue Clan-Kennzeichen
+
 27.06.2020
 * Interne (Facebook unabhängige) Freundesliste.
 * Zerlegen mehrerer Gegenstände.

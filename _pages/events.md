@@ -15,6 +15,16 @@ Etwa alle 1-2 Monate findet ein kleines bis grosses Event statt, dabei wechseln 
 :round_pushpin: Bei allen Events die Werbevideos mit Cooldown-Timer anbieten gilt: Du kannst die Videos auf weiteren Geräten erneut schauen. Sie sind täglich auf 8-10x beschränkt, da aber manche einen Timer von 2h haben, musst du dich weniger oft einloggen um alle täglichen Videos einzukassieren. Du kannst anstelle von weiteren Smartphones auch einen Emulator wie [Bluestacks]({{ https://www.bluestacks.com/de/index.html }}) oder [Nox]({{ https://www.bignox.com/ }}) am PC verwenden.
 {: .notice--success}
 
+## Wahnsinnsreise
+
+![Bild Wahnsinnsreise]({{ site.el-negroooar | append:"/assets/images/events/wahnsinnsreise.png" }})
+
+Der Event orientiert sich an den Events von "Weihnachten" sowie "St. Patricksday".
+Es gibt jede Menge Material, Coins, Tickets, Dekoration, Skins sowie eine neue, nur über Events erhältliche Mehrzweckwaffe zu gewinnen.
+
+(Neues Update 14.08.2020) Dauer: 15 Tage. Währung: Kartensets. 
+
+
 ## Der Weg des Barbaren
 
 ![Bild Barbar]({{ site.el-negroooar | append:"/assets/images/events/barbare.png" }})
@@ -124,7 +134,7 @@ Zusätzlich: "Funke" +16'000 & die 3 Chips je +50'000.
 ---
 
 
-## Weihnachtsevent
+## Weihnachten
 
 Weihnachten ist das letzte grosse Event Ende des Jahres. (Neues Update 12.12.2019)
 Es können viele tolle Preise gewonnen werden, darunter Prototypen (für Waffen, 2019) sowie legendäre Mehrzweckwaffen (Thermaldrohne, 2019).

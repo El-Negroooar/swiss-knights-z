@@ -133,7 +133,7 @@ Manchmal trifft man auf einen Punkt, wo man einen Effekt - also einen Vorteil un
 
 Du und dein Partner müssen sich beide von je 1 Kämpfer trennen. Trenn dich von einem bereits geschwächten Kämpfer, auf den du verzichten kannst oder geh zuerst einen anderen Weg und entscheide dich dann. Empfehlung: Ranger, schwächster Infant, Chemiker ohne Heilung/Belebung.
 
-#### Spiegelbild?
+#### Kampf gegen den Nachahmer
 
 Du kämpfst gegen einen Trupp der aus einer zufälligen Auswahl deiner sowie der Kämpfer deines Partners besteht. Gleiche Kämpfer können mehrfach vorkommen.
 Defensive Strategie mit Belebern und starken Infanteristen gelingt gut.
@@ -196,6 +196,12 @@ Gut machbarer Gegner, Infanteristen können den Gegner nicht treffen, da er an d
 Squad-Vorschlag: 4-6 Chemiker, 2-4 Ranger.
 
 ![Testsubjekt]({{ site.el-negroooar | append:"/assets/images/bunker/boss_42.png" }})
+
+### Zelle des Testsubjekts 54
+
+Neu! (Eisboss)
+
+![Testsubjekt 54]({{ site.el-negroooar | append:"/assets/images/bunker/boss_54.png" }})
 
 
 ### Raum des Sicherheitschefs

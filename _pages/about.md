@@ -25,8 +25,10 @@ Gemeinsam spielen und Zusammenhalt sowie Austausch fördern, sich gegenseitig un
 - Offiziere :loudspeaker: (max. 8)
   - Werben neue Mitglieder an.
   - Stehen den Neulingen mit Rat & Wort zur Seite.
+ 
 
-- Beförderungen: Da es nur wenige Ränge gibt und diese Gebunden sind an gewisse "Rechte" werden Beförderungen hauptsächlich strategisch genutzt und sind nicht mit einer Hierarchie gleichzusetzen. Es Bedarf aber trotzdem eines Spielers Einsatz, um eine Beförderung zu erhaltne.
+- Beförderungen: :arrow_up: 
+Da es nur wenige Ränge gibt und diese Gebunden sind an gewisse "Rechte" werden Beförderungen hauptsächlich strategisch genutzt und sind nicht mit einer Hierarchie gleichzusetzen. Es Bedarf aber trotzdem eines Spielers Einsatz, um eine Beförderung zu erhalten.
 
 ## Mitgliedschaft
 
