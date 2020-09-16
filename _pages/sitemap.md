@@ -24,7 +24,7 @@ toc: true
 * :japanese_castle: [Bunker-Raubzug]({{ site.el-negroooar | append:"/bunker/" }})
 * :crown: [Arena-Massaker]({{ site.el-negroooar | append:"/pvp/arena/" }}) 
   * [Arena-Brackets]({{ site.el-negroooar | append:"/pvp/arena-groups/" }})
-  * [Arena-Laden]({{ site.el-negroooar | append:"/pvp/arena-store/" }})
+  * [Arena-Laden]({{ site.el-negroooar | append:"/pvp/arena-store/" }}) 
  
 ## Leveling / Upgrading
 
