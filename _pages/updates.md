@@ -6,6 +6,10 @@ toc: true
 
 ## Guide-Updates
 
+16.09.2020
+* Überarbeitung Übersichtlichkeit: [Bewohner]({{ site.el-negroooar | append:"/people/" }})
+* Überarbeitung Übersichtlichkeit: [Bauen]({{ site.el-negroooar | append:"/build/" }})
+
 05.08.2020
 * Ergänzung: Vorräte, neue [Upgrading-Werte]({{ site.el-negroooar | append:"/rooms/chemical-workshop/" }}) 
 

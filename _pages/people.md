@@ -60,13 +60,15 @@ Die erste ist die Baby Produktion von Bewohnern untereinander. Die zweite ist, d
 
 ### Bewohner verkuppeln
 
-Um Rockstar-Babies :baby: zu erhalten braucht man biologisch
-- :man: Mann mit 5 Sternen
-- :woman: Frau mit 5 Sternen
+Um Bewohner zu verkuppeln brauchst du 1 männlichen und beliebig viele weibliche Bewohner ;) - Hat der Kerl 1 Frau beglückt, wird er sich sodann um die nächste kümmern. Daher ist das auch über Nacht sehr praktisch.
 
 Diese werden ins [Wohnzimmer]({{ site.el-negroooar | append:"/rooms/living-room" }}) geschickt und den Rest überlasse ich eurer Fantasie.
 
-Es gibt keine Garantie, aber je höher das Potential der Eltern, umso höher die Chance, dass auch die Kinder 5:star: bekommen.
+Wichtig:
+- Hast du mehrere 5er Frauen, so kann man diese austauschen und die Baby Produktion ankurbeln.
+- 24 Stunden nach der Geburt, können Frauen erneut gepaart werden (Cooldown-Timer).
+
+ :round_pushpin: Achtung: Es gibt keine Garantie, aber je höher das Potential der Eltern, umso höher die Chance, dass auch die Kinder 5:star: bekommen.
 {: .notice--warning}
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/rooms/living-room.png" }})
@@ -77,23 +79,8 @@ Nach der Schwangerschaft und Geburt, erfährt man erst beim volljährigen Geburt
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/shelter/birthday.png" }})
 
-Es gibt keine Garantie, dass man 5 Sterne Bewohner bekommt, jedoch ist es im Rahmen des Möglichen und Wahrscheinlichen. Es besteht auch bei ein Paar von 5 Sternen, dass 1er und 2er Potentiale kommen. Probiere es erneut. Verbanne und tausche deine Basis Bevölkerung mit 5 Sterne Bewohner nach und nach aus. Meine beste Serie war 3 5er Bewohner nacheinander.
-
-Der obige 3er und 5er Bewohner ist so geboren worden. Der 3er Bewohner soll Metallurge (4 ist ein Spitzenwert) werden und der 5er Bewohner Soldat (35 :scream:).
-
-Tips:
-- Du brauchst nur einen 5er Mann.
-- Hast du mehrere 5er Frauen, so kann man diese austauschen und die Baby Produktion ankurbeln.
-- 24 Stunden nach der Geburt, können Frauen erneut gepaart werden.
-- Aufgepasst: Schwangere Frauen können nicht im Allianzkrieg eingesetzt werden!!
-
-Vorteile: 
-- Beliebig wiederholbar
-
-Nachteile:
-- Dauert lange
-- Während der Paarung sind die Bewohner für 1.5 Stunden nicht verfügbar
-- Schwangerschaft erlaubt keinen Kasernen Einsatz
+ :round_pushpin: Aufgepasst: Schwangere Frauen können nicht im Allianzkrieg eingesetzt werden!!
+{: .notice--warning}
 
 ### Bewohner aus Tunnel
 
