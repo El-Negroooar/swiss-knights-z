@@ -17,8 +17,8 @@ Nützlich für alle Neulinge zu Beginn des Spiels. Profitiere von den Erfahrunge
 3. Fokus auf Nahrungs- & Bargeld-Produktion.
 4. Keine Bossrüstungen kaufen, lohnt sich nicht.
 5. [Pitbull-Wachhund]({{ site.el-negroooar | append:"/faq/" }}) nicht kaufen, ist nur zur Deko.
-6. Zu Beginn kann der [Zombie-Assistent]({{ site.el-negroooar | append:"/in-app/zombie-assistant/" }}) sehr nützlich sein.
-7. Wenn du alle Allianzmitglieder als [Freunde]({{ site.el-negroooar | append:"/in-app/facebook/" }})hinzufügst, erhälst du täglich bis 10 tolle Kisten & zusätzliche Ressourcen.
+6. Wenn du alle Allianzmitglieder als [Freunde]({{ site.el-negroooar | append:"/in-app/facebook/" }})hinzufügst, erhälst du täglich bis 10 tolle Kisten & zusätzliche Ressourcen.
+7. Zu Beginn kann der [Zombie-Assistent]({{ site.el-negroooar | append:"/in-app/zombie-assistant/" }}) sehr nützlich sein.
 8. Zusätzliche [Baumeister]({{ site.el-negroooar | append:"/build/#baumeister" }}) helfen dir schneller zu bauen, je länger je nützlicher!
 9. Ab Kommandostufe 7 möglichst viele [Arenachips]({{ site.el-negroooar | append:"/pvp/arena-store/#kostentabelle-legendäre" }}) für die jeweils nächste Kommandostufe(n) sammeln.
 10. Ab Kommandostufe 8 Kämpfer komplett mit [legendärem Equipment]({{ site.el-negroooar | append:"/guides/legendary-items" }}) ausrüsten.
