@@ -19,8 +19,8 @@ Nützlich für alle Neulinge zu Beginn des Spiels. Profitiere von den Erfahrunge
 5. [Pitbull-Wachhund]({{ site.el-negroooar | append:"/faq/" }}) nicht kaufen, ist nur zur Deko.
 6. Zu Beginn kann der [Zombie-Assistent]({{ site.el-negroooar | append:"/in-app/zombie-assistant/" }}) sehr nützlich sein.
 7. Wenn du alle Allianzmitglieder als [Freunde]({{ site.el-negroooar | append:"/in-app/facebook/" }})hinzufügst, erhälst du täglich bis 10 tolle Kisten & zusätzliche Ressourcen.
-8. [Kryptocoins]({{ site.el-negroooar | append:"/in-app/cryptocoins" }}) für: 2 zusätzliche Baumeister, Zombietracker x2 (Tunnel), Nahrungskisten (Events).
-9. Ab Kommandostufe 7 möglichst viele [Arenachips]({{ site.el-negroooar | append:"/pvp/arena-store#kostentabelle-legendäre" }}) für die jeweils nächste Kommandostufe(n) sammeln.
+8. Zusätzliche [Baumeister]({{ site.el-negroooar | append:"/build/#baumeister" }}) helfen dir schneller zu bauen, je länger je nützlicher!
+9. Ab Kommandostufe 7 möglichst viele [Arenachips]({{ site.el-negroooar | append:"/pvp/arena-store/#kostentabelle-legendäre" }}) für die jeweils nächste Kommandostufe(n) sammeln.
 10. Ab Kommandostufe 8 Kämpfer komplett mit [legendärem Equipment]({{ site.el-negroooar | append:"/guides/legendary-items" }}) ausrüsten.
 
 :warning: Dein Erfolg hängt mitunter davon ab, gegen welche Gegner du spielen musst. Darum ist es absolut wesentlich, die sogenannten ["Brackets"]({{ site.el-negroooar | append:"/pvp/arena-groups" }}) von Grundauf zu verstehen.
