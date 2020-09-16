@@ -65,7 +65,7 @@ Um Bewohner zu verkuppeln brauchst du 1 männlichen und beliebig viele weibliche
 Diese werden ins [Wohnzimmer]({{ site.el-negroooar | append:"/rooms/living-room" }}) geschickt und den Rest überlasse ich eurer Fantasie.
 
 Wichtig:
-- Hast du mehrere 5er Frauen, so kann man diese austauschen und die Baby Produktion ankurbeln.
+- Hast du mehrere 5:star: Frauen, so kann man diese austauschen und die Baby Produktion ankurbeln.
 - 24 Stunden nach der Geburt, können Frauen erneut gepaart werden (Cooldown-Timer).
 
  :round_pushpin: Achtung: Es gibt keine Garantie, aber je höher das Potential der Eltern, umso höher die Chance, dass auch die Kinder 5:star: bekommen.
@@ -79,7 +79,7 @@ Nach der Schwangerschaft und Geburt, erfährt man erst beim volljährigen Geburt
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/shelter/birthday.png" }})
 
- :round_pushpin: Aufgepasst: Schwangere Frauen können nicht im Allianzkrieg eingesetzt werden!!
+ :round_pushpin: Aufgepasst: Schwangere Frauen können nicht im Allianzkrieg eingesetzt werden!! - Keine Kämpferinnen schwängern!!
 {: .notice--warning}
 
 ### Bewohner aus Tunnel
@@ -88,7 +88,7 @@ Am Anfang des Spiels ist dies einer der besseren Alternativen. Für jedes erfolg
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/tunnel/store.png" }})
 
-Bewohner haben hier ein garantiertes Potential von 3-5. Nach zehn Versuchen sollte man mindestens zwei 5er Bewohner haben :wink:.
+Bewohner haben hier ein garantiertes Potential von 3-5:star:. Nach zehn Versuchen sollte man mindestens zwei 5:star: Bewohner haben :wink:.
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/tunnel/random-resident.png" }})
 
@@ -122,6 +122,6 @@ Um einen Bewohner zu verbannen, klickt man auf das Menu neben den Namen.
 
 - Besorge dir so schnell wie möglich 5:star: Bewohner.
 - Die Tunnel sind am Anfang eine günstige Quelle bis du wenigstens ein 5:star: Paar bekommst.
-- Paare deine Bewohner fleissig und ohne Unterbruch um weitere 5er Bewohner zu erhalten.
+- Paare deine Bewohner fleissig und ohne Unterbruch um weitere 5:star: Bewohner zu erhalten.
 - Für die Produktion von Ressourcen reichen 3:star: Bewohner. Die Höchststufe dieser ist Level 60.
 - Trainiere ausschliesslich deine 5:star: Bewohner für den Kampf. Die Höchststufe ist Level :100:.
