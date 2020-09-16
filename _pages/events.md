@@ -15,6 +15,13 @@ Etwa alle 1-2 Monate findet ein kleines bis grosses Event statt, dabei wechseln 
 :round_pushpin: Bei allen Events die Werbevideos mit Cooldown-Timer anbieten gilt: Du kannst die Videos auf weiteren Geräten erneut schauen. Sie sind täglich auf 8-10x beschränkt, da aber manche einen Timer von 2h haben, musst du dich weniger oft einloggen um alle täglichen Videos einzukassieren. Du kannst anstelle von weiteren Smartphones auch einen Emulator wie [Bluestacks]({{ https://www.bluestacks.com/de/index.html }}) oder [Nox]({{ https://www.bignox.com/ }}) am PC verwenden.
 {: .notice--success}
 
+## Fahrender Händler
+
+Einfacher Händler mit der Möglichkeit via Kryptocoins ehemalige Spezialwaffen des Folterers zu kaufen.
+Weiter sind Nahrungskisten, Komponenten, legendäre Waffen und legendäre Arenawaffen zu ersteigern.
+
+(Neues Update 08.09.2020) Dauer: 5 Tage.
+
 ## Wahnsinnsreise
 
 ![Bild Wahnsinnsreise]({{ site.el-negroooar | append:"/assets/images/events/wahnsinnsreise.png" }})

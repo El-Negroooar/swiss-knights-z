@@ -13,20 +13,20 @@ Gemeinsam spielen und Zusammenhalt sowie Austausch fördern, sich gegenseitig un
 
 ## Organisation
 
-- Clan-Leader :crown:
+- Clan-Leader :crown: (1)
   - Verteilt die Beute aus der Allianzkiste an die Spieler.
   - Organisiert den Discord-Channel und die Einladungen.
   - Bearbeitet den Webguide.
-- Vize-Chef :briefcase:
+- Vize-Chef :briefcase: (1)
   - Nach Absprache selbige Aufgaben wie Clan-Leader.
 - Warlords :dart:
   - Starten die Allianzkriege.
   - Kümmern sich um die Aufstellung & Strategie auf dem Schlachtfeld.
 - Offiziere :loudspeaker: (max. 8)
   - Werben neue Mitglieder an.
-  - Stehen den Neulingen mit Rat & Wort zur Seite.
- 
-
+  - Stehen den Neulingen mit Rat & Wort zur Seite.  
+  
+  
 - Beförderungen: :arrow_up: 
 Da es nur wenige Ränge gibt und diese Gebunden sind an gewisse "Rechte" werden Beförderungen hauptsächlich strategisch genutzt und sind nicht mit einer Hierarchie gleichzusetzen. Es Bedarf aber trotzdem eines Spielers Einsatz, um eine Beförderung zu erhalten.
 

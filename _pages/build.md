@@ -9,73 +9,61 @@ Bauen ist ein essentieller Bestandteil des Spiels. Eine gute Basis kann der ents
 ## Räume
 
 Im Spiel gibt es unterschiedliche [Räume]({{ site.el-negroooar | append:"/rooms" }}) zu bauen. Jeder Raum erfordert aufgrund Level und Grösse eine gewisse Mengen an Ressourcen :dollar::door::wrench: und Bauzeit :clock1:.
+Mit jeder Verbesserung oder Upgrade der [Kommandozentrale]({{ site.el-negroooar | append:"/rooms/command-center" }}) können weitere Räume gebaut oder bestehende verbessert werden.
 
-### Ressourcen Kosten
 
-Ein Raum kann mit Bezahlen von Ressourcen gebaut werden.
+### Kosten
 
-Fehlen die notwendigen Ressourcen, so kann mit diese mit Kauf von :moneybag: kompensieren. Dies lohnt sich, wenn man verhindern möchte, dass die Ressourcen bei einem Überfall verloren gehen könnten.
+Der Bau oder das Upgrade eines Raumes kostet Ressourcen & Zeit.
+Gleichermassen kann man etwas "Sofort" bauen und die Wartezeit überspringen, dies kostet aber unnötig viel Kryptocoins. Klick besser auf "Verbessern" und schau, wieviele Ressourcen du noch zukaufen musst, um den Bau zu starten.
+
+Fehlen die notwendigen Ressourcen, so kann man die fehlenden Ressourcen mittels Kryptocoins zukaufen. Dies lohnt sich, wenn man verhindern möchte, dass ein Grossteil der Ressourcen bei einem Überfall verloren gehen könnten.
 {: .notice--success}
 
-Mit der Instant Option lassen sich Ressourcen und Bauzeit verkürzen. Jedoch ist diese Option sehr teuer.
 
 ### Bauzeit
 
-Tip: Verkürzung der Bau- und Ausbauphase
+Verkürzung der Bau- und Ausbauphase:
 
-Um die Bau- und Renovierungszeit erheblich zu verkürzen, schicke während des Bau- oder Renovierungsprozesses viele Personen in den Raum.
-Je mehr Menschen Sie in den Raum kommen, desto schneller geht der Bau-Prozess und die eigentliche Zeit wird verkürzt.
-{: .notice--success}
+1. Um die Bau- und Renovierungszeit erheblich zu verkürzen, schicke während des Bau- oder Renovierungsprozesses die maximale Anzahl Bewohner in den Raum.
+2. Bei Räumen wie den Werkstätten oder Vorratherstellung können Mechaniker mit geeignetem Equipment die Zeit wesentlich verkürzen.
+3. Zusätzliche Baumeister erleichtern das Leben enorm, es lohnt sich zu Beginn einen 2. oder 3. zuzulegen, je früher, desto länger profitiert man.
 
 Die Bauzeit kann zusätzlich mit einem [Premium-Account]({{ site.el-negroooar | append:"/in-app/premium-account" }}) verkürzt werden. Jedoch ist dieser kostenpflichtig.
-{: .notice--warning}
-
-Im unteren Bild sieht Ihr die Bauzeit für die Verbesserung des Wohnzimmers: 18 Stunden und 31 Minuten.
-
-![Zero City]({{ site.el-negroooar | append:"/assets/images/shelter/build-time.png" }})
-
-Ein Raum kann mit Bezahlen von :moneybag: beschleunigt werden.
+{: .notice--success}
 
 ## Baumeister
 
 Im Spiel gibt es maximal 4 Baumeister. Der erste Baumeister ist vom Spiel aus gratis.
 
-Ein zweiter Baumeister ist eine vernünftige Investition und kann mit erspielten Coins erworben werden.
+Ein zweiter Baumeister kostet x Kryptocoins.
 
-Ein dritter Baumeister ist weitaus kostspieliger, kann aber im späteren Leveln, viel Zeit ersparen.
+Ein dritter Baumeister kostet 2000 Kryptocoins.
 
-Je mehr Baumeister man hat, ist man flexibler im Bauen und kann seine eigenen Verluste minimieren, indem man nie auf zu vielen Ressourcen sitzt und diese so schnell wie möglich ausgibt.
+Ein vierter Baumeister kostet 6000 Kryptocoins.
+
+Je mehr Baumeister man hat, desto flexibler ist man im Bauen und kann seine eigenen Verluste minimieren, indem man nie auf zu vielen Ressourcen sitzt und diese so schnell wie möglich ausgibt.
 {: .notice--success}
 
-## Verbesserungen
 
-Mit jeder Verbesserung oder Upgrade der [Kommandozentrale]({{ site.el-negroooar | append:"/rooms/command-center" }}),
-können andere Räume gebaut und **verbessert** werden.
+## Raum-Editor
 
-Bei den Produktionsstätten wie
+### Räume trennen
 
-- dem Speisesaal :hamburger:,
-- der Druckerei :dollar:,
-- dem Chemielabor :pill:,
-- dem Sägewerk :door:
-- und dem Stahlwerk :wrench:
+Sind Räume verbunden, können Sie einfacher verwaltet werden. Für das Upgrade empfehlen wir, die Räume zu trennen und nacheinander zu verbessern. Bei folgenden Räumen ist dies möglich:
 
-können die Räume verbunden und getrennt werden.
+Speisesaal :hamburger:, Druckerei :dollar:, Chemielabor :pill:, Sägewerk :door: und Stahlwerk :wrench:
 
+- Mit dem Raumeditor via Kommandozentrale, können Räume getrennt und verbunden werden.
+- Den Raumeditor kann man auch aktivieren, wenn ein Raum lange genug gedrückt wird.
 
-## Räume trennen (Raum-Editor)
+### Vorteile
 
-Sind Räume verbunden, können Sie einfacher verwaltet werden. Für das Upgrade empfehlen wir, die Räume zu trennen und nacheinander zu verbessern. 
-
-Vorteile:
 - Du vermeidest, dass du keine Nahrung mehr produzieren kannst, indem du die Speisesäle nacheinander upgradest.
 - Du brauchst für getrennte Räume weniger Ressourcen, und kannst schneller wieder bauen.
 - Dein Kontostand bleibt niedrig und du bist damit für Raubzüge und Überfällen von anderen Spielern unattraktiv.
 - Da die Teilräume nur 1/3 Zeit benötigen, kannst du auch alle 3 Räume zeitgleich upgraden und sparst 2/3 Zeit. (Bei Speisesälen nicht empfohlen!)
 
 
-### Räume editieren
 
-- Mit dem Raumeditor via Kommandozentrale, können Räume getrennt und verbunden werden.
-- Den Raumeditor kann man auch aktivieren, wenn ein Raum lange genug gedrückt wird.
 
