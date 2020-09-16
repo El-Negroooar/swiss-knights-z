@@ -56,11 +56,11 @@ Speisesaal :hamburger:, Druckerei :dollar:, Chemielabor :pill:, Sägewerk :door:
 
 Im Spiel gibt es maximal 4 Baumeister. Der erste Baumeister ist vom Spiel aus gratis.
 
-Ein zweiter Baumeister kostet 750 Kryptocoins.
+- Ein zweiter Baumeister kostet 750 Kryptocoins.
 
-Ein dritter Baumeister kostet 2000 Kryptocoins.
+- Ein dritter Baumeister kostet 2000 Kryptocoins.
 
-Ein vierter Baumeister kostet 6000 Kryptocoins.
+- Ein vierter Baumeister kostet 6000 Kryptocoins.
 
 Je mehr Baumeister man hat, desto flexibler ist man im Bauen und kann seine eigenen Verluste minimieren, indem man nie auf zu vielen Ressourcen sitzt und diese so schnell wie möglich ausgibt.
 {: .notice--success}

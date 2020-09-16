@@ -27,7 +27,7 @@ Sinnvoll:
 
 - 1-2 zusätzliche Baumeister (ermöglicht parallele Gebäude-Upgrades).
 - Zombie-Tracker x2 oder x3 im Tunnel.
-- Nahrungskisten für Events (meist an Events selbst beziehbar).
+- Nahrungskisten für Events (meist beim fahrenden Händler-Event beziehbar).
 - Zukauf von Ressourcen für ein grosses Update (Schutz vor Diebstahl).
 
 Individuell:

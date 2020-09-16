@@ -41,7 +41,7 @@ toc: true
 * :package: [Mehrzweck-Waffen]({{ site.el-negroooar | append:"/equipment/multi-devices" }})
 * :name_badge: [Chips]({{ site.el-negroooar | append:"/equipment/chips" }})
 * :beginner: [Prototypen]({{ site.el-negroooar | append:"/equipment/prototypes" }})
-* :syringe: [Vorräte (In Arbeit)]({{ site.el-negroooar | append:"/rooms/chemical-workshop" }})
+* :syringe: [Vorräte]({{ site.el-negroooar | append:"/rooms/chemical-workshop" }})
 
 ## Tägliche Quests
 
@@ -53,6 +53,6 @@ toc: true
 ## Helferlein
 
 * :japanese_goblin: [Zombie-Assistent]({{ site.el-negroooar | append:"/in-app/zombie-assistant/" }})
-* :blue_book: [Facebook-Account]({{ site.el-negroooar | append:"/in-app/facebook/" }})
+* :blue_book: [Freunde (Facebook-Account)]({{ site.el-negroooar | append:"/in-app/facebook/" }})
 * :trophy: [Premium-Account]({{ site.el-negroooar | append:"/in-app/premium-account/" }})
 * :dog: [Pitbull-Wachhund]({{ site.el-negroooar | append:"/faq/" }})

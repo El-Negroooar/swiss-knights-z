@@ -1,12 +1,24 @@
 ---
 permalink: /in-app/facebook/
-title: "Facebook-Verknüpfung"
+title: "Freunde (ehemals Facebook)"
 toc: true
 ---
 
-Mittels Facebook Verknüpfung kannst du täglich Kisten & Ressourcen gewinnen. Wie das geht, siehst du wie folgt:
+Mittels "Freunde" Reiter (über Pokal-Symbol) kannst du täglich Kisten & Ressourcen gewinnen. Wie das geht, siehst du wie folgt:
 
-### Anleitung
+Anmerkung: Mit dem Upgrade vom 27.06.2020 ist es nun auch möglich, ohne Facebook-Account Freunde hinzuzufügen.
+{: .notice--warning}
+
+
+### Freunde adden
+
+- Du klickst auf einen Spieler und besuchst sein Profil. Dort klickst du links auf "Freund hinzufügen".
+- Im Freunde-Reiter kannst du die ID eines Freundes eingeben und ihn so direkt hinzufügen. Die ID findet man im Profil oder im Startbildschirm bei Spielstart oben links.
+
+
+### Facebook-Anleitung
+
+Das hinzufügen von Freunden via Facebook wird nicht mehr empfohlen.
 
 1. Facebook-Account via Einstellungen (graues Rad rechter Bildschirmrand) mit der App verknüpfen & 30 Kryptocoins erhalten.
 2. Auf Facebook die Gruppe "Zero City Community" suchen und dich als Mitglied bewerben.
@@ -23,6 +35,7 @@ Mittels Facebook Verknüpfung kannst du täglich Kisten & Ressourcen gewinnen. W
 * Auf CC8 erhälst du zusätzlich die gleiche Menge Ressourcen für deine 10 Spenden in einer Kiste sowie die Chance, Gegenstände (gewöhnlich, ungewöhnlich, selten) zu erhalten.  
 
 => Gesamt sind das täglich (auf CC8) also bis zu 80k Bargeld, 60k Nahrung und 30k Holz!!
+
 
 ### Bilder
 
