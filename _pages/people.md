@@ -116,20 +116,20 @@ Nachteile:
 - Mit höheren Level wird es teurer.
 
 
-## Bewohner Funktionen
+## Bewohner Typen
 
 Du kannst Bewohner in zivile und militärischen Funktion einsetzen.
 
-### Basis-Produktion
+### Arbeiter
 
 - [Koch]({{ site.el-negroooar | append:"/profession/chef" }})
 - [Buchhalter]({{ site.el-negroooar | append:"/profession/accountant" }})
 - [Schreiner]({{ site.el-negroooar | append:"/profession/carpenter" }})
 - [Forscher]({{ site.el-negroooar | append:"/profession/scientist" }})
 - [Ingenieur]({{ site.el-negroooar | append:"/profession/engineer" }})
-- [Metallurge]({{ site.el-negroooar | append:"/profession/metallurgist" }})
+- [Metallurge]({{ site.el-negroooar| append:"/profession/metallurgist" }})
 
-### Militär
+### Kämpfer
 
 - Ranger (Fernkampf)
 - Chemiker (Chemieangriff)
