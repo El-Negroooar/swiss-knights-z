@@ -4,7 +4,7 @@ title: "Bauen"
 toc: true
 ---
 
-Bauen ist ein essentieller Bestandteil des Spiels. Eine gute Basis kann der entscheidenede Zeitfaktor gegenüber anderen Spielern sein. Man sollte unter Umständen auch nicht zu schnell bauen. Diese Umstände werden in anderen Abschnitten nochmal näher erläutern.
+Bauen ist ein essentieller Bestandteil des Spiels. Halte deine Räume möglichst maximal, bevor du deine Kommandozentrale ausbaust.
 
 ## Räume
 
@@ -32,19 +32,6 @@ Verkürzung der Bau- und Ausbauphase:
 Die Bauzeit kann zusätzlich mit einem [Premium-Account]({{ site.el-negroooar | append:"/in-app/premium-account" }}) verkürzt werden. Jedoch ist dieser kostenpflichtig.
 {: .notice--success}
 
-## Baumeister
-
-Im Spiel gibt es maximal 4 Baumeister. Der erste Baumeister ist vom Spiel aus gratis.
-
-Ein zweiter Baumeister kostet x Kryptocoins.
-
-Ein dritter Baumeister kostet 2000 Kryptocoins.
-
-Ein vierter Baumeister kostet 6000 Kryptocoins.
-
-Je mehr Baumeister man hat, desto flexibler ist man im Bauen und kann seine eigenen Verluste minimieren, indem man nie auf zu vielen Ressourcen sitzt und diese so schnell wie möglich ausgibt.
-{: .notice--success}
-
 
 ## Raum-Editor
 
@@ -65,5 +52,17 @@ Speisesaal :hamburger:, Druckerei :dollar:, Chemielabor :pill:, Sägewerk :door:
 - Da die Teilräume nur 1/3 Zeit benötigen, kannst du auch alle 3 Räume zeitgleich upgraden und sparst 2/3 Zeit. (Bei Speisesälen nicht empfohlen!)
 
 
+## Baumeister
+
+Im Spiel gibt es maximal 4 Baumeister. Der erste Baumeister ist vom Spiel aus gratis.
+
+Ein zweiter Baumeister kostet 750 Kryptocoins.
+
+Ein dritter Baumeister kostet 2000 Kryptocoins.
+
+Ein vierter Baumeister kostet 6000 Kryptocoins.
+
+Je mehr Baumeister man hat, desto flexibler ist man im Bauen und kann seine eigenen Verluste minimieren, indem man nie auf zu vielen Ressourcen sitzt und diese so schnell wie möglich ausgibt.
+{: .notice--success}
 
 

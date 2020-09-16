@@ -66,9 +66,12 @@ Um Rockstar-Babies :baby: zu erhalten braucht man biologisch
 
 Diese werden ins [Wohnzimmer]({{ site.el-negroooar | append:"/rooms/living-room" }}) geschickt und den Rest überlasse ich eurer Fantasie.
 
+Es gibt keine Garantie, aber je höher das Potential der Eltern, umso höher die Chance, dass auch die Kinder 5:star: bekommen.
+{: .notice--warning}
+
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/rooms/living-room.png" }})
 
-### Schwangerschaft
+#### Schwangerschaft
 
 Nach der Schwangerschaft und Geburt, erfährt man erst beim volljährigen Geburtstag :birthday: das tatsächliche Potential des neuen Bewohners.
 
@@ -128,9 +131,9 @@ Du kannst Bewohner in zivile und militärischen Funktion einsetzen.
 
 ### Militär
 
-- Schütze
-- Chemiker
-- Infanterist
+- Ranger (Fernkampf)
+- Chemiker (Chemieangriff)
+- Infanterist (Nahkampf)
 
 ## Bewohner verbannen
 
@@ -140,8 +143,8 @@ Um einen Bewohner zu verbannen, klickt man auf das Menu neben den Namen.
 
 ## Zusammenfassung
 
-- Besorge dir so schnell wie möglich 5er Bewohner.
-- Die Tunnel sind am Anfang eine günstige Quelle bis du wenigstens ein 5er Paar bekommst.
-- Paare deine Bewohner wie die Karnickel um weitere 5er Bewohner zu erhalten.
-- Für die Produktion von Ressourcen reichen 3er Bewohner. Die Höchststufe ist Level 60.
-- Trainiere nur deine 5er Bewohner für das Militär. Die Höchststufe ist Level :100:.
+- Besorge dir so schnell wie möglich 5:star: Bewohner.
+- Die Tunnel sind am Anfang eine günstige Quelle bis du wenigstens ein 5:star: Paar bekommst.
+- Paare deine Bewohner fleissig und ohne Unterbruch um weitere 5er Bewohner zu erhalten.
+- Für die Produktion von Ressourcen reichen 3er Bewohner. Die Höchststufe dieser ist Level 60.
+- Trainiere ausschliesslich deine 5:star: Bewohner für den Kampf. Die Höchststufe ist Level :100:.
