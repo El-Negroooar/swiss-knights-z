@@ -92,16 +92,6 @@ Bewohner haben hier ein garantiertes Potential von 3-5. Nach zehn Versuchen soll
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/tunnel/random-resident.png" }})
 
-Vorteile:
-
-- Am Anfang günstig
-- Level garantiert
-- Sofort verfügbar
-
-Nachteile:
-
-- Mit höheren Level wird es teurer.
-
 
 ## Bewohner Typen
 
@@ -133,5 +123,5 @@ Um einen Bewohner zu verbannen, klickt man auf das Menu neben den Namen.
 - Besorge dir so schnell wie möglich 5:star: Bewohner.
 - Die Tunnel sind am Anfang eine günstige Quelle bis du wenigstens ein 5:star: Paar bekommst.
 - Paare deine Bewohner fleissig und ohne Unterbruch um weitere 5er Bewohner zu erhalten.
-- Für die Produktion von Ressourcen reichen 3er Bewohner. Die Höchststufe dieser ist Level 60.
+- Für die Produktion von Ressourcen reichen 3:star: Bewohner. Die Höchststufe dieser ist Level 60.
 - Trainiere ausschliesslich deine 5:star: Bewohner für den Kampf. Die Höchststufe ist Level :100:.

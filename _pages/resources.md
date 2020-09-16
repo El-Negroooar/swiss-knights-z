@@ -8,15 +8,15 @@ Die Ressourcen-Produktion dient zur Erzeugung der benötigten Materialien zum Au
 
 ## Ressourcen Übersicht
 
-- :hamburger: [Essen]({{ site.el-negroooar | append:"/resources/food" }})
-  - Sehr wichtig, da für alle Aktionen benötigt (PvP, Arena, Allianzkrieg, Tunnel, Bunker, ...)
-- :dollar: [Geld]({{ site.el-negroooar | append:"/resources/money" }})
-  - 2. wichtigste Ressource, wird für Basis-Upgrades und Chips benötigt.
-- :pill: [Chemikalien]({{ site.el-negroooar | append:"/resources/chemicals" }})
-  - 3. wichtigste Chemikalie, wird für Basis-Upgrades und Vorräte-Upgrades benötigt.
-- :door: [Holz]({{ site.el-negroooar | append:"/resources/wood" }})
-- :wrench: [Stahl]({{ site.el-negroooar | append:"/resources/steel" }})
-  - Gleichermassen wichtig für Basis-Upgrades.
+1. :hamburger: [Essen]({{ site.el-negroooar | append:"/resources/food" }})
+   - Sehr wichtig, da für alle Aktionen benötigt (PvP, Arena, Allianzkrieg, Tunnel, Bunker, ...)
+2. :dollar: [Geld]({{ site.el-negroooar | append:"/resources/money" }})
+   - Ebenfalls wichtige Ressource, wird für Basis-Upgrades und Chips benötigt.
+3. :pill: [Chemikalien]({{ site.el-negroooar | append:"/resources/chemicals" }})
+   - Nützlich Ressource, wird für Basis-Upgrades, Vorräte-Upgrades und -produktion benötigt.
+4. :door: [Holz]({{ site.el-negroooar | append:"/resources/wood" }})
+5. :wrench: [Stahl]({{ site.el-negroooar | append:"/resources/steel" }})
+   - Gleichermassen wichtig für Basis-Upgrades.
   
 Ressourcen müssen zwangsläufig nicht selbst produziert werden, sondern können auch in Form von Überfällen erworben werden.
 
