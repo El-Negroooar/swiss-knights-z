@@ -51,6 +51,7 @@ Was du über das Upgraden der Kommandozentrale wissen solltest:
 * Ab CC8 wird der Bahnhof freigeschaltet.
 * Ab CC9 wird der Bunker und Offizier freigeschaltet.
 * Ab CC10 werden weitere Upgrades für den Offizier freigeschaltet.
+* Ab CC11 werden Anomalien freigeschaltet und du kannst 2 weitere Kämpfer in die Kaserne stellen.
 
 
 ## Zufluchtseditor

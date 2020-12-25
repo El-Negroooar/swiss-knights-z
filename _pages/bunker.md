@@ -166,12 +166,12 @@ Pro Bunker kannst du 2 Bosse schlagen, es gibt insgesamt 5 Bosse, die hier vorge
 * Ebenso soll erwähnt werden, dass ihr JEDEN Boss auch mehrmals angreiffen könnt, Wenn eure Chemiker also zu langsam sind, dafür überleben, macht das mehr Sinn als eure Infanteristen in den Tod zu schicken.  
 
 
-### Lagerplatz
+### Ladeplatz
 
 Starker Gegner, kann vereinzelt Kämpfer direkt töten. Hat 100M Leben, ist unbesiegbar, muss nur überlebt werden.
 Squad-Vorschlag: 6 Chemiker (4 Heiler, 2 Beleber).
 
-![Unbekannt]({{ site.el-negroooar | append:"/assets/images/bunker/boss_lagerplatz.png" }})
+![Ladeplatz Bild]({{ site.el-negroooar | append:"/assets/images/bunker/boss_lagerplatz.png" }})
 
 
 ### Chemielabor
@@ -179,7 +179,7 @@ Squad-Vorschlag: 6 Chemiker (4 Heiler, 2 Beleber).
 Gut machbarer Gegner. Wiederbelebung unwirksam, heilt sich mit Chemieschaden. Mit Infanterie und einem Heiler gut zu bewältigen.  
 Squad-Vorschlag: 4 Chemiker (Heiler / Beleber), 2-3 Ranger, 1-2 Infanteristen.
 
-![Chemielabor]({{ site.el-negroooar | append:"/assets/images/bunker/boss_lab.png" }})
+![Chemielabor Bild]({{ site.el-negroooar | append:"/assets/images/bunker/boss_lab.png" }})
 
 
 ### Kryogenlabor
@@ -187,7 +187,7 @@ Squad-Vorschlag: 4 Chemiker (Heiler / Beleber), 2-3 Ranger, 1-2 Infanteristen.
 Spawnt alle paar Sekunden neue Vasallen. Gutes Management von Chemikern und selbstheilenden Infanteristen nützlich.
 Squad-Vorschlag: 4 Chemiker (2 Heiler, 2 Beleber), 2 Infanteristen, 2 Ranger.
 
-![Kryogenlabor]({{ site.el-negroooar | append:"/assets/images/bunker/boss_kryogen.png" }})
+![Kryogenlabor Bild]({{ site.el-negroooar | append:"/assets/images/bunker/boss_kryogen.png" }})
 
 
 ### Zelle des Testsubjekts 42
@@ -195,21 +195,22 @@ Squad-Vorschlag: 4 Chemiker (2 Heiler, 2 Beleber), 2 Infanteristen, 2 Ranger.
 Gut machbarer Gegner, Infanteristen können den Gegner nicht treffen, da er an der Decke hängt. Nur Ranger und Chemiker.  
 Squad-Vorschlag: 4-6 Chemiker, 2-4 Ranger.
 
-![Testsubjekt]({{ site.el-negroooar | append:"/assets/images/bunker/boss_42.png" }})
+![Testsubjekt Bild]({{ site.el-negroooar | append:"/assets/images/bunker/boss_42.png" }})
 
 ### Zelle des Testsubjekts 54
 
 Neu! (Eisboss)
 
-![Testsubjekt 54]({{ site.el-negroooar | append:"/assets/images/bunker/boss_54.png" }})
+![Testsubjekt 54 Bild]({{ site.el-negroooar | append:"/assets/images/bunker/boss_54.png" }})
 
 
 ### Raum des Sicherheitschefs
 
 Schwerer Gegner, du hast nur eine begrenzte Zeit zur Verfügung, ihn zu töten, bevor er im Bunker verschwindet. Dazwischen heilt er sich stark auf.
 Squad-Vorschlag: 6 Chemiker (4 Heiler & 2 Beleber), 2 Infanteristen.
+Squad-Vorschlag 2: 2 Ranger, 3 Beleber, 3 Infanteriste.
 
-![Sicherheitschef]({{ site.el-negroooar | append:"/assets/images/bunker/boss_safety.png" }})
+![Sicherheitschef Bild]({{ site.el-negroooar | append:"/assets/images/bunker/boss_safety.png" }})
 
 
 ### Den Jäger treffen
@@ -217,8 +218,15 @@ Squad-Vorschlag: 6 Chemiker (4 Heiler & 2 Beleber), 2 Infanteristen.
 Noch keine Beurteilung. Schickt regelmässig Frost- & Feuerdrohne über deine Truppen.
 Squad-Vorschlag: ?
 
-![Den Jäger treffen]({{ site.el-negroooar | append:"/assets/images/bunker/boss_hunter.png" }})
+![Den Jäger treffen Bild]({{ site.el-negroooar | append:"/assets/images/bunker/boss_hunter.png" }})
 
+
+### Die unvollendete Kammer
+
+Bei dem Boss kommen von hinten nach vorne Steinlawinen herunter, die JEDEN im Weg töten. Also zuerst sterben die Ranger, dann Chemiker, dann Infanteristen.
+Squad-Vorschlag: 4-8x Infanterist. (Optimal mit starker Vert., Selbstheilung und MZW Heiler).
+
+![Die unvollendete Kammer Bild]({{ site.el-negroooar | append:"/assets/images/bunker/boss_chamber.png" }})
 
 ## Kisten
 

@@ -6,6 +6,9 @@ toc: true
 
 ## Guide-Updates
 
+25.12.2020
+* Spiel-Updates für CC11 ergänzt und zusammengefasst, einzelne Unterseiten folgen.
+
 16.09.2020
 * Überarbeitung Übersichtlichkeit: [Bewohner]({{ site.el-negroooar | append:"/people/" }})
 * Überarbeitung Übersichtlichkeit: [Bauen]({{ site.el-negroooar | append:"/build/" }})
@@ -31,6 +34,30 @@ toc: true
 * Update: [Guide: Upgrade-Tips]({{ site.el-negroooar | append:"/guide/#upgrade-tips" }})
 
 ## Spiel-Updates
+
+01.12.2020
+* Kommandozentrale 11 wird eingeführt, dies bringt folgendes mit sich:
+  * Neue Gegenstands-Seltenheit: Anomalie (stärker als legendäre, 6 Chip-Slots).
+  * Neue Ressource: Uran
+  * Neue Bewohner-Klasse: Physiker
+  * Neuer Waffentyp: Bombe (für Chemiker).
+  * Neue Räume um Sets herzustellen
+    * Technikcenter: Für die Herstellung von Chips der Seltenheit Anomalie.
+	* Setwerkstatt: Zur Herstellung von Kampf-Sets.
+	* Rüstungs- und Waffenausstattung: Zur Herstellung von Ausstattungen.
+	* Uranlager: Lager für neue Ressource.
+	* Veredelungswerkstatt:
+	* Prüfungszone:
+  * Kämpfer: 2 neue Slots beim Kämpfer links ab Lvl 100 für 2 zusätzliche Gegenstände (Ausstattungen) ähnlich der Hauptwaffe/-rüstung.
+  * Kämpfer: Bonus-Werte bei Gegenständen vom gleichen "Set".
+  * Kaserne: 2 neue Kämpfer bei ausgebauter Kaserne (= 8 Kämpfer).
+  * Allianzhalle: Mehr Ressourcen spendbar.
+  * Zufluchtsbewohner: Maximale Bewohnerzahl auf 64 erhöht.
+  * Waffenkammer: Kann neu mit einem Kämpfer bestückt werden, dem "Fahnenträger".
+  * Chemiewerkstatt: Neuer Vorrat (Hyptonisierendes Gas) sowie 1 zusätzliches Level für alle Vorräte.
+  * Bahnhof: Nurnoch 15 statt bisher 20 Wellen.
+  * Level-Updates für sämtliche bisherige Räume.
+  
 
 14.08.2020
 * Storyline wird fortgesetzt mit "Schneebedeckter Bergpass" & "Kraftwerk".

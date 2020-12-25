@@ -56,7 +56,7 @@ Speisesaal :hamburger:, Druckerei :dollar:, Chemielabor :pill:, Sägewerk :door:
 
 Im Spiel gibt es maximal 4 Baumeister. Der erste Baumeister ist vom Spiel aus gratis.
 
-![Baumeister({{ site.el-negroooar | append:"/assets/images/in-app/worker2.png" }})  
+![Baumeister]({{ site.el-negroooar | append:"/assets/images/in-app/worker2.png" }})  
 
 - Ein zweiter Baumeister kostet 750 Kryptocoins.
 

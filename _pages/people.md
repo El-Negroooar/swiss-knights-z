@@ -79,7 +79,7 @@ Nach der Schwangerschaft und Geburt, erfährt man erst beim volljährigen Geburt
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/shelter/birthday.png" }})
 
- :round_pushpin: Aufgepasst: Schwangere Frauen können nicht im Allianzkrieg eingesetzt werden!! - Keine Kämpferinnen schwängern!!
+ :round_pushpin: Aufgepasst: Schwangere Frauen können nicht im Allianzkrieg eingesetzt werden!! - Keine Kämpferinnen schwängern!! :D - Sonst selbst schuld ;)
 {: .notice--warning}
 
 ### Bewohner aus Tunnel
