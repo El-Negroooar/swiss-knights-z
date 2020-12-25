@@ -25,10 +25,11 @@ Kryptocoins ist die "Premium"-Ingame Währung die mittels Echtgeldkäufen bezoge
 
 Sinnvoll:
 
-- 1-2 zusätzliche Baumeister (ermöglicht parallele Gebäude-Upgrades).
+- 2-3 Baumeister (ermöglicht parallele Gebäude-Upgrades).
 - Zombie-Tracker x2 oder x3 im Tunnel.
 - Nahrungskisten für Events (meist beim fahrenden Händler-Event beziehbar).
 - Zukauf von Ressourcen für ein grosses Update (Schutz vor Diebstahl).
+- Reset der Insel bei den Inselevents (3x / Jahr).
 
 Individuell:
 

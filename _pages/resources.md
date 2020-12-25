@@ -17,6 +17,8 @@ Die Ressourcen-Produktion dient zur Erzeugung der benötigten Materialien zum Au
 4. [Holz]({{ site.el-negroooar | append:"/resources/wood" }}) :door: 
 5. [Stahl]({{ site.el-negroooar | append:"/resources/steel" }}) :wrench:
    - Gleichermassen wichtig für Basis-Upgrades.
+6. [Uran]({{ site.el-negroooar | append:"#" }}) :recycle:
+   - Neue Ressource ab CC11 für Anomalie-Gegenstände.
   
 Ressourcen müssen zwangsläufig nicht selbst produziert werden, sondern können auch in Form von [Überfällen]({{ site.el-negroooar | append:"/fight/attack#Überfall" }}) erworben werden.
 https://el-negroooar.github.io/swiss-knights-z/fight/attack/#%C3%BCberfall

@@ -57,6 +57,7 @@ toc: true
   * Chemiewerkstatt: Neuer Vorrat (Hyptonisierendes Gas) sowie 1 zusätzliches Level für alle Vorräte.
   * Bahnhof: Nurnoch 15 statt bisher 20 Wellen.
   * Level-Updates für sämtliche bisherige Räume.
+  * Schnelleres aufleveln der Kämpfer im Trainingsraum.
   
 
 14.08.2020

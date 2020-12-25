@@ -33,6 +33,7 @@ Folgende Räume sind notwendig zur Produktion & Lagerung sowie zur Ausbildung de
 | :door: [Sägewerk]({{ site.el-negroooar | append:"/rooms/lumber-hill" }})    | [Holz Lagerhaus]({{ site.el-negroooar | append:"/rooms/wood-warehouse" }}) | [Tischlerwerkstatt]({{ site.el-negroooar | append:"/rooms/carpentry-workshop" }}) |
 | :pill: [Chemie Labor]({{ site.el-negroooar | append:"/rooms/chemical-laboratory" }})    | [Reagenzien Lagerhaus]({{ site.el-negroooar | append:"/rooms/reagent-warehouse" }}) | [Experimentelles Labor]({{ site.el-negroooar | append:"/rooms/forge" }}) |
 | :wrench: [Giesserei]({{ site.el-negroooar | append:"/rooms/foundry" }})     | [Stahl Lagerhaus]({{ site.el-negroooar | append:"/rooms/steel-warehouse" }})      | [Schmiede]({{ site.el-negroooar | append:"/rooms/experimental-lab" }}) |
+| :recycle: [Veredelungswerkstatt]({{ site.el-negroooar | append:"/#" }})     | [Uranlager]({{ site.el-negroooar | append:"/#" }})      | [Prüfungszone]({{ site.el-negroooar | append:"/#" }}) |
 
 
 ## Kämpfer
@@ -50,6 +51,9 @@ Alles über dein Kämpfer-Equipment.
 * :shirt: [Ausrüstungs-Werkstatt]({{ site.el-negroooar | append:"/rooms/gear-workshop" }})
 * :watch: [Elektronik-Werkstatt]({{ site.el-negroooar | append:"/rooms/electronics-workshop" }})
 * :name_badge: [Tech Zentrale]({{ site.el-negroooar | append:"/equipment/chips" }})
+* [Technikcenter]({{ site.el-negroooar | append:"/#" }})
+* [Setwerkstatt]({{ site.el-negroooar | append:"/#" }})
+* [Rüstungs- und Waffenausstattung]({{ site.el-negroooar | append:"/#" }})
 
 
 ## Vorräte erforschen & produzieren

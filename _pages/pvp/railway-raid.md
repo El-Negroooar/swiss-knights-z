@@ -12,7 +12,7 @@ Neues Update: 12.11.2019 ab Kommandostufe 8.
 
 - Jeden Tag kannst du den Bahnhofsraubzug 1x kostenlos durchführen (Premium 2x).
 - Anschliessend kostet der Raubzug 2x Nahrung, danach Kryptocoins. 
-- Jeder Raubzug besteht aus 20 Wellen gegnerischer Spieler.
+- Jeder Raubzug besteht aus 15 (vor 01.12.2020 20) Wellen gegnerischer Spieler.
 - Die Gegnerstärke entspricht bis zu ca. 1.5x deiner eigenen Stärke.
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/quests/railway-raid.png" }})

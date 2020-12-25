@@ -105,6 +105,7 @@ Du kannst Bewohner in zivile und militärischen Funktion einsetzen.
 - [Forscher]({{ site.el-negroooar | append:"/profession/scientist" }})
 - [Ingenieur]({{ site.el-negroooar | append:"/profession/engineer" }})
 - [Metallurge]({{ site.el-negroooar| append:"/profession/metallurgist" }})
+- [Physiker]({{ site.el-negroooar| append:"/#" }})
 
 ### Kämpfer
 
@@ -122,6 +123,6 @@ Um einen Bewohner zu verbannen, klickt man auf das Menu neben den Namen.
 
 - Besorge dir so schnell wie möglich 5:star: Bewohner.
 - Die Tunnel sind am Anfang eine günstige Quelle bis du wenigstens ein 5:star: Paar bekommst.
-- Paare deine Bewohner fleissig und ohne Unterbruch um weitere 5:star: Bewohner zu erhalten.
-- Für die Produktion von Ressourcen reichen 3:star: Bewohner. Die Höchststufe dieser ist Level 60.
-- Trainiere ausschliesslich deine 5:star: Bewohner für den Kampf. Die Höchststufe ist Level :100:.
+- Paare deine Bewohner fleissig und ohne Unterbruch, um nurnoch 5:star: Bewohner zu erhalten.
+- Benutze die ersten 6-8 5:star: Bewohner für den Kampf, die nächsten für andere Arbeiten. 
+

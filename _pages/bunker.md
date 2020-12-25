@@ -120,7 +120,7 @@ Die Wahl des Weges kann ausschlaggebend sein für den Erfolg. Manche Wege bergen
 
 #### Boss 
 
-Wenn es realistisch ist einen Boss zu schlagen, kann sich dieser wegen der Bewaffnungsteile sehr lohnen. Umso fürher, desto besser, weil ihr weniger angeschlagen seid und euch anschliessend bei leichteren Wegpunkten wieder regenerieren könnt.
+Wenn es realistisch ist einen Boss zu schlagen, kann sich dieser wegen der Bewaffnungsteile sehr lohnen. Umso früher auf dem Weg, desto besser, weil ihr weniger angeschlagen seid und euch anschliessend bei leichteren Wegpunkten wieder regenerieren könnt.
 
 #### Strahlungswirkungen
 

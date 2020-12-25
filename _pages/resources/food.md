@@ -12,6 +12,6 @@ Nahrung ist die wichtigste Ressource im Spiel. Du brauchst Sie um Angriffe zu or
 
 ## Andere Bezugsquellen
 
-- Pro Tag kann maximal dreimal durch Anschauen von Werbung, der Nahrungsvorrat aufgestockt werden.
+- Pro Tag kann maximal dreimal durch Anschauen von Werbung, der Nahrungsvorrat aufgestockt werden (Popup kommt zufällig wenn man nur noch wenig Nahrung hat).
 - Die tägliche Werbekiste erfordert fünf Anzeigen mit der jeweiligen Nahrung als Belohnung.
-- Nahrung kann auch via Allianz Anfrage bezogen werden um seine Engpass zu überbrücken.
+- Nahrung kann auch via Allianz Anfrage (Im Chat-> Ressourcen) bezogen werden um seinen Engpass zu überbrücken.

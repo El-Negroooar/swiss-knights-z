@@ -55,6 +55,13 @@ toc: true
 * Max. Level: 3
 * Wirkung: "Grosser Erste-Hilfe-Kasten heilt alle Verbündeten und stellt 8 Sekunden lang 10'000 Gesundheit wieder her."
 
+### Hypnotisierendes 
+
+Neu: 01.12.2020
+* Max. Level: ?
+* Wirkung: "?"
+
+
 
 ## Upgrading-Kosten :pill:
 
