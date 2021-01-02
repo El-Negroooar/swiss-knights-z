@@ -46,8 +46,8 @@ toc: true
 	* Setwerkstatt: Zur Herstellung von Kampf-Sets.
 	* Rüstungs- und Waffenausstattung: Zur Herstellung von Ausstattungen.
 	* Uranlager: Lager für neue Ressource.
-	* Veredelungswerkstatt:
-	* Prüfungszone:
+	* Veredelungswerkstatt: Produktionsraum für Uran.
+	* Prüfungszone: Ausbildungsstätte für Physiker
   * Kämpfer: 2 neue Slots beim Kämpfer links ab Lvl 100 für 2 zusätzliche Gegenstände (Ausstattungen) ähnlich der Hauptwaffe/-rüstung.
   * Kämpfer: Bonus-Werte bei Gegenständen vom gleichen "Set".
   * Kaserne: 2 neue Kämpfer bei ausgebauter Kaserne (= 8 Kämpfer).
