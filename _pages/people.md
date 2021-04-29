@@ -20,13 +20,13 @@ Jeder Bewohner hat ein Potential. Abhängig vom Potential kann ein Bewohner nur 
 
 Es gibt die Möglichkeit, fehlendes Potential durch Zukauf zu erwerben. Wir empfehlen es nicht, da es recht teuer ist. Das Potential deines Bewohners erkennst du an der Anzahl der Sterne.
 
-### Verwendung der Bewohner.
+### Verwendung der Bewohner
 
 - 1 bis 2-Sterne-Bewohner sind nicht ideal, sie sind schwach und sie bringen keinen echten Mehrwert für die Basis. Du solltest nur Bewohner mit hohen Sternen behalten. Verbanne low level Bewohner (siehe unten). Diese sind schnell am Limit.
 
-- 3 bis 4-Sterne-Bewohner sind durchaus brauchbar, in der Ressourcen Produktion (Nahrung, Geld, etc.) oder als Überbrückung, bis man 5-:star:-Bewohner hat. Nicht jeder Bewohner muss 5 Sterne Potential haben, daher situationsbedingt behalten.
+- 3 bis 4-Sterne-Bewohner sind durchaus brauchbar, in der Ressourcen Produktion (Nahrung, Geld, etc.) oder als Überbrückung, bis man 5-:star:-Bewohner hat.
 
-- 5-Sterne-Bewohner können das Level :100: als Kämpfer erreichen, daher die ersten 5-:star: als Kämpfer hochleveln.
+- Nur 5-Sterne-Bewohner können das Level :100: als Kämpfer erreichen, daher die ersten 5-:star: als Kämpfer hochleveln.
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/shelter/potential-5.png" }})
 
@@ -85,6 +85,13 @@ Bewohner haben hier ein garantiertes Potential von 3-5:star:. Nach zehn Versuche
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/tunnel/random-resident.png" }})
 
 
+### Bewohner verbannen
+
+Um einen Bewohner zu verbannen (weil niedriges Potential oder in zu hohes Bracket geraten), klickt man auf das Menu neben den Namen.
+
+![Zero City]({{ site.el-negroooar | append:"/assets/images/shelter/banish-resident.png" }})
+
+
 ## Bewohner Typen
 
 Du kannst Bewohner in zivile und militärischen Funktion einsetzen.
@@ -105,11 +112,6 @@ Du kannst Bewohner in zivile und militärischen Funktion einsetzen.
 - Chemiker (Chemieangriff)
 - Infanterist (Nahkampf)
 
-## Bewohner verbannen
-
-Um einen Bewohner zu verbannen, klickt man auf das Menu neben den Namen.
-
-![Zero City]({{ site.el-negroooar | append:"/assets/images/shelter/banish-resident.png" }})
 
 ## Zusammenfassung
 

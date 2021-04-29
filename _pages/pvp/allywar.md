@@ -48,9 +48,17 @@ Jeder Spieler kann an einem Wegpunkt bis zu 6 Kämpfer platzieren (unabhängig d
 
 Wird ein Wegpunkt erobert, erhält sowohl jeder der am Wegpunkt beteiligten Spieler eine persönliche Belohnung (Kiste + Einfluss Wegpunkt), als auch die Allianz welche den am Wegpunkt angegebenen Einfluss (Sterne) für die Allianzkiste erhält. Kommt eine Allianz mit allen gewonnenen Wegpunkten in die Top 3, erhält sie massiv zusätzlichen Einfluss. Der Einfluss wiederum akkumuliert sich währen der Dauer einer Season (2 Wochen). Abhängig des gesammelten Einflusses, erhält die Allianz eine kleine bis grosse Beutekiste, die vom Clanchef & Vize aufgeteilt werden kann.
 
-### Season
+### Season-Dauer
 
 Eine Season bezeichnet die Zeitdauer von 2 Wochen, während derer gemeinsam Einfluss für die Allianzkiste gesammelt werden kann. Sie startet und endet jeweils Dienstag Vormittags 9 Uhr (Winterzeit).
+
+
+### Season-Ranking
+
+Nach Beendiung einer Season könnt ihr das Ranking einsehen. Wenn ihr genug Einfluss gesammelt habt, seid ihr berechtigt, eine Belohnung zu erhalten. Die Allianzleitung teilt die Beute nach bestem Gewissen auf. Sie stellt einen Doodle via Discord bereit, wo ihr eure Prioritäten setzen könnt. Es gibt weder eine Garantie auf Erhalt der Priorität noch auf eine Belohung an sich (z.B. wenn mehr Spieler als Belohnungen vorhanden sind).
+
+![Zero City]({{ site.el-negroooar | append:"/assets/images/allywar/ranking.png" }})
+
 
 ### Einfluss
 
@@ -59,12 +67,6 @@ Einfluss ist eine Ingame-Währung die anzeigt, wie aktiv ihr seid. Ihr könnt in
 Ihr könnt euch Einfluss verdienen, indem ihr folgende Aktivitäten meistert: Für jeden besiegten Gegner in der Arena, bei PVP-Raubzügen & im Allianzkrieg.
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/allywar/influence.png" }})
-
-### Ranking
-
-Nach Beendiung einer Season könnt ihr das Ranking einsehen. Wenn ihr genug Einfluss gesammelt habt, seid ihr berechtigt, eine Belohnung zu erhalten. Die Allianzleitung teilt die Beute nach bestem Gewissen auf. Sie stellt einen Doodle via Discord bereit, wo ihr eure Prioritäten setzen könnt. Es gibt weder eine Garantie auf Erhalt der Priorität noch auf eine Belohung an sich (z.B. wenn mehr Spieler als Belohnungen vorhanden sind).
-
-![Zero City]({{ site.el-negroooar | append:"/assets/images/allywar/ranking.png" }})
 
 
 
@@ -85,14 +87,18 @@ Die Belohnung der Allianz setzt sich aus den beiden Währungen Einfluss (:star:)
 
 X = Summe aller gewonnenen Wegpunkte.
 
-Erreichen 2 Allianzen die gleiche Menge Einfluss, wird nach folgenden Kriterien in die Rangliste eingegliedert: Anzahl Flaggen, mehr Siege, mehr umkämpfte Wegpunkte, Allianzstärke.
+Erreichen 2 Allianzen die gleiche Menge Einfluss, wird nach folgenden Kriterien in die Rangliste eingegliedert: 
+1. Anzahl Flaggen
+2. mehr Siege
+3. mehr umkämpfte Wegpunkte
+4. Allianzstärke
 
 
 ### Spieler
 
 Nebst der Möglichkeit, bei einem gewonnenen Wegpunkt auf der Karte eine persönliche Belohnung in Form einer Kiste zu erhalten, kannst du dir nach einer Season eine Belohnung aus der Allianzkiste verdienen.
-Bezugsberechtigt sind nur Mitglieder, die entsprechend der [Tabelle]({{ site.el-negroooar | append:"/pvp/allywar/#voraussetzungen" }}) ihr Minimum an Einfluss während einer Season gesammelt haben. In der Verteilung berücksichtigt werden folgende Faktoren: 
-Gesammelter Einfluss (vergangene Season), aktueller Einfluss (neue Season), bisherige erhaltene Belohnungen, Prioritätsetzung im Doodle, Förderung kleiner Spieler...
+Bezugsberechtigt sind nur Mitglieder, die entsprechend der [Tabelle]({{ site.el-negroooar | append:"/pvp/allywar/#voraussetzungen" }}) ihr Minimum an Einfluss während einer Season gesammelt haben.
+Verteilt wird anschliessend in der Reihenfolge nach gesammeltem Einfluss innerhalb der Allianz pro Season.
 
 Denk daran, die Season dauert ganze 2 Wochen, also gibt es auch nur alle 2 Wochen eine Belohnung. Jeder hofft seinem Einsatz entsprechend auf eine bestmögliche Belohnung. Es kann aber nur verteilt werden, was da ist. Du kannst mit deinem Einsatz aber dafür sorgen, dass wir bessere Belohnungen erhalten. Geduld und Ausdauer sind der Schlüssel zum Ziel.
 
