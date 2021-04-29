@@ -21,7 +21,6 @@ Die Ressourcen-Produktion dient zur Erzeugung der benötigten Materialien zum Au
    - Neue Ressource ab CC11 für Anomalie-Gegenstände.
   
 Ressourcen müssen zwangsläufig nicht selbst produziert werden, sondern können auch in Form von [Überfällen]({{ site.el-negroooar | append:"/fight/attack#Überfall" }}) erworben werden.
-https://el-negroooar.github.io/swiss-knights-z/fight/attack/#%C3%BCberfall
 
 
 ## Ressourcen einsammeln
