@@ -20,53 +20,44 @@ Jeder Bewohner hat ein Potential. Abhängig vom Potential kann ein Bewohner nur 
 
 Es gibt die Möglichkeit, fehlendes Potential durch Zukauf zu erwerben. Wir empfehlen es nicht, da es recht teuer ist. Das Potential deines Bewohners erkennst du an der Anzahl der Sterne.
 
-### Low Level (1-2 :star:)
+### Verwendung (1-5 :star:)
 
-1 bis 2-Sterne-Charaktere sind nicht ideal, sie sind schwach und sie bringen keinen echten Mehrwert für die Basis. Du solltest nur Bewohner mit hohen Sternen behalten. Verbanne low level Bewohner (siehe unten). Diese sind schnell am Limit.
+1 bis 2-Sterne-Bewohner sind nicht ideal, sie sind schwach und sie bringen keinen echten Mehrwert für die Basis. Du solltest nur Bewohner mit hohen Sternen behalten. Verbanne low level Bewohner (siehe unten). Diese sind schnell am Limit.
 
-![Zero City]({{ site.el-negroooar | append:"/assets/images/shelter/potential-2.png" }})
+3 bis 4-Sterne-Bewohner sind durchaus brauchbar, in der Ressourcen Produktion (Nahrung, Geld, etc.) oder als Überbrückung, bis man 5-:star:-Bewohner hat. Nicht jeder Bewohner muss 5 Sterne Potential haben, daher situationsbedingt behalten.
 
-Am Anfang können diese auch die Bauzeit von Räumen reduzieren, sind jedoch langfristig in der Ausbildung zeitlich eine Vergeudung. Sie sind auf jeden Fall besser als Nichts.
-
-Bewohner mit Potential von 1-2 taugen minimal als Metallurgen, da die maximale Stufe 16 ist.
-
-### Average Joe (3-4 :star:)
-
-Was ist eigentlich mit den Durchschnittstypen die 3 bis 4-Sterne haben? Diese sind durchaus brauchbar, in der Ressourcen Produktion (Nahrung, Geld, etc.) oder als Überbrückung, bis man die Rockstars hat. Nicht jeder Bewohner muss 5 Sterne Potential haben, daher situationsbedingt behalten.
-
-![Zero City]({{ site.el-negroooar | append:"/assets/images/shelter/potential-3.png" }})
-
-In-Game kommen desöfteren Angebote/Rabatte wenn diese auf Level 5 angehoben werden sollen. Unsere Meinung: Kann man sich sparen. Mit jedem höheren Level wird es teurer.
-
-Das Upgrade von 2 zu 3 ist recht moderat.
-
-![Zero City]({{ site.el-negroooar | append:"/assets/images/shelter/upgrade-potential-3.png" }})
-
-Das Upgrade von 4 auf 5 ist Horror :scream:
-
-![Zero City]({{ site.el-negroooar | append:"/assets/images/shelter/upgrade-potential-5.png" }})
-
-### Rockstars (5 :star:)
-
-Nur 5-Sterne-Charaktere können das Level :100: als Kämpfer erreichen. Obwohl dies Zeit und Geduld erfordert, lohnt es sich auf jeden Fall.
+5-Sterne-Bewohner können das Level :100: als Kämpfer erreichen, daher die ersten 5-:star: als Kämpfer hochleveln.
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/shelter/potential-5.png" }})
 
+
+### Bewohner Potential erhöhen
+
+In-Game kommen hin- und wieder Angebote/Rabatte Bewohner gegen Kryptocoins auf 5-:star: zu erhöhen. Spar dir das, ist Verschwendung und kostet immer mehr pro :star:.
+
+![Zero City]({{ site.el-negroooar | append:"/assets/images/shelter/upgrade-potential-3.png" }})
+
+![Zero City]({{ site.el-negroooar | append:"/assets/images/shelter/upgrade-potential-5.png" }})
+
+
 ## Neue Bewohner
 
-Es gibt zwei Möglichkeiten an neuen Bewohnern zu kommen und damit seine Gesamt Bevölkerung zu vergrössern.
+Es gibt 3 Möglichkeiten an neue Bewohnern zu kommen und damit seine Bewohnerzahl zu vergrössern.
 
-Die erste ist die Baby Produktion von Bewohnern untereinander. Die zweite ist, den Kauf von Bewohnern durch die Tunnel Quest.
+1. Via Geburt, wenn sich 2 Bewohner (m&w) im Wohnzimmer paaren. 
+2. Über den Tunnelshop mit Tunnelmarken.
+3. aus Tunnelkisten (höhere Levels).
 
 ### Bewohner verkuppeln
 
 Um Bewohner zu verkuppeln brauchst du 1 männlichen und beliebig viele weibliche Bewohner ;) - Hat der Kerl 1 Frau beglückt, wird er sich sodann um die nächste kümmern. Daher ist das auch über Nacht sehr praktisch.
 
-Diese werden ins [Wohnzimmer]({{ site.el-negroooar | append:"/rooms/living-room" }}) geschickt und den Rest überlasse ich eurer Fantasie.
+Diese werden ins [Wohnzimmer]({{ site.el-negroooar | append:"/rooms/living-room" }}) geschickt.
 
 Wichtig:
 - Hast du mehrere 5:star: Frauen, so kann man diese austauschen und die Baby Produktion ankurbeln.
-- 24 Stunden nach der Geburt, können Frauen erneut gepaart werden (Cooldown-Timer).
+- Schwangere haben nach der Geburt einen 24 Stunden Cooldown, um erneut beglückt zu werden.
+- Man muss mit einer Ausbeute von ca. 10% 5:star: rechnen, selbst bei 2 Eltern mit 5:star:, dauert also.
 
  :round_pushpin: Achtung: Es gibt keine Garantie, aber je höher das Potential der Eltern, umso höher die Chance, dass auch die Kinder 5:star: bekommen.
 {: .notice--warning}
