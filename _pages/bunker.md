@@ -50,24 +50,6 @@ Er hat eine eigene Stärkeanzeige, kann 5 Bewaffnungen tragen und du kannst ihm 
 
 Die Bewaffnungen sind weitere Modifikationen, die du mit dem Offizier verwenden kannst. Für Upgrades brauchst du die entsprechende Menge an Bewaffnungsteilen sowie Spezialwissen. Das Spezialwissen erhälst du im Laden des Bunkers, wenn du Daten von einem Bunkerraubzug eintauschst. Die Bewaffnungsteile erhälst du aus den Kisten eines Bosses im Bunker.
 
-**Infanterie-Bewaffnung:**
-* Hydraulischer Schlagring
-* Feldbeleber
-* Champion der Arena
-* Schocker
-
-**Chemiker-Bewaffnung:**
-* Nitroglyzerin
-* Eine Klebebombe
-* Detektor
-* Unidentifiziertes Gel
-
-**Ranger-Bewaffnung:**
-* Rauchbombe
-* Unterlauf-Granatwerfer
-* Megafon
-* Thermalbildsensor
-
 
 ### Talente
 
@@ -75,6 +57,7 @@ Die Bewaffnungen sind weitere Modifikationen, die du mit dem Offizier verwenden 
 * Sie werden direkt aktiv, sobald du sie erlernt hast, unabhängig der eingesetzten Bewaffnung des Offiziers. 
 * Ihre Freischaltung ist abhängig von der Freischaltung der jeweiligen Bewaffnung, an die sie gebunden sind. 
 * Auf Kommandostufe 9 können die Talente nur bis zur Hälfte aufgelevelt werden, danach wird Kommandostufe 10 vorausgesetzt.
+* Schalte so früh wie möglich alle Talente frei (auf lvl1) damit du bereits einen minimalen Vorteil erlangst.
 
 
 ## Bunkerladen
@@ -99,17 +82,17 @@ Da sich die Stärke des Gegners am stärkeren Spieler orientiert, macht es Sinn,
 
 Du kannst 3 Arten von Spieler (ab CC9) für eine Koop-Runde einladen:
 
-**Freund**
+- **Freund**
 
-* Sehr grosse Auswahl via Facebook-Gruppe. Allianzmitglieder können auch als Freund geaddet werden.
+* Sehr grosse Auswahl via Facebook-Gruppe. Allianzmitglieder können neu auch als Freund geaddet werden.
 
 
-**Allianzmitglied**
+- **Allianzmitglied**
 
 * Vorteil: Ihr kennt euch, könnt euch absprechen und Zeiten abmachen. Die Einladung ist für jedermann zugänglich im Allianzchat.
 
 
-**Zufälliger** **Spielpartner**
+- **Zufälliger** **Spielpartner**
 
 * Ähnlichstarke Spieler, jederzeit verfügbar. Fremder steigt eher mal einfach aus, erschwerte Kommunikation wegen unterschiedlicher Sprachen möglich.
 
