@@ -5,35 +5,13 @@ toc: true
 ---
 
 In Zero City hast du die Möglichkeit über die Landkarte unterschiedliche Ziele anzugreifen.
+PvP = Player vs Player = Spieler-gegen-Spieler-Modus.
 
 
-## Kampagne
+## PvP-Überfall
 
-Solltest du die Kampagne noch nicht abgeschlossen haben, so kannst du die einzelnen Stationen auf der Landkarte abarbeiten.
+Auf deiner Karte siehst du Zufluchten anderer Spieler. Diese werden über den Tag verteilt paar mal aktualisiert. Du kannst die anderen Spieler ausrauben und Ihnen Ressourcen stehlen. Ihre Stärke richtet sich nach deiner Trophäen-Zahl. Diese wiederum steigt, wenn du einen anderen Spieler besiegst. D.h. du bekommst je länger je stärkere Gegner. Viele Spieler machen sich das zu Nutzen, und senken ihre Trophäen um an leichtere Spieler heranzukommen.
 
-Am Ende jeder Station erwartet dich ein Endgegner.
-
-### Endgegner
-
-in Arbeit :construction:
-
-## Überfall
-
-Es gibt andere Zufluchtsorte. Diese kannst du ausrauben um deine eigenen Ressourcen aufzustocken oder um die Konfrontation-Tagesquest zu erfüllen. Das Spiel will das wir Negan-Savior Style andere Communities ausrauben.
-
-### Login-Schutz
-
-Du kannst Spieler nur überfallen, wenn diese nicht eingeloggt sind. Folgende Meldung verhindert deinen Raubüberfall.
-
-![Zero City]({{ site.el-negroooar | append:"/assets/images/fight/user-online.png" }})
-
-Du kannst dich mit der Methode aber nicht permanent schützen. Bist du insgesamt länger als 6 Stunden im Spiel gewesen, bist du automatisch für die nächsten 24 Stunden Freiwild - unabhängig ob du eingeloggt bist oder nicht.
-
-### Raubzüge
-
-Hat man ein potentielles Ziel gefunden, wird mit Nahrung der Überfall bezahlt. Greife nur Zufluchtsorte an, die viele Ressourcen besitzen und deiner Kampfstärke nicht überlegen sind. Deine Ziele verfügen über Verteidigungsanlagen. Diese kannst Du mit Einsatz von Support-Materialien kontern. Folgendes Video zeigt wie knapp ein stärkerer Gegner besiegt werden kann. Dabei wurden alle Support Materialien eingesetzt.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y2czPc7jt8c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Belohnungen
 
@@ -41,10 +19,20 @@ Mit dem erfolgreichen Überfall werden wir mit Ressourcen belohnt. Hat man einen
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/fight/raid-reward-1.png" }})
 
-Bei Spielern mit einer Giesserei erhält man auch Stahl-Ressourcen.
-
-![Zero City]({{ site.el-negroooar | append:"/assets/images/fight/raid-reward-2.png" }})
-
 Versuche sofort die gewonnenen Ressourcen aufzubrauchen, damit du nicht selbst Opfer eines Überfalls wirst.
 
-Unser Tip: Starte die Überfalle wenn du bereits ca. 85-90% der benötigten Ressourcen zusammen hast. Mit deinen fünf Überfällen für die Tagesquest Konfrontation, Solltest du genug Ressourcen zusammen haben um sofort zu bauen. Danach bist du ziemlich unattraktiv wie Lindsay Lohan für andere Spieler.
+
+### Anti-Dauer-Login-Schutz
+
+Du kannst Spieler nur überfallen, wenn diese nicht eingeloggt sind. Folgende Meldung verhindert deinen Raubüberfall.
+
+![Zero City]({{ site.el-negroooar | append:"/assets/images/fight/user-online.png" }})
+
+Du kannst dich mit der Methode aber nicht permanent schützen. Bist du insgesamt länger als 6 Stunden im Spiel gewesen, bist du automatisch für die nächsten 24 Stunden Freiwild - unabhängig ob du eingeloggt bist oder nicht und währenddessen solltest du besser nicht zuviele Ressourcen angespart haben.
+
+
+## Kampagne
+
+Die Kampagne führt dich Schrittweise ins Spiel ein. An jedem Standort gibt es viele Kämpfe zu meistern und am Ende jedes Standortes ein Endboss.
+Die Geschichte ist solala und die Belohnungen sehr mässig. Du kannst die Story problemlos vernachlässigen. Der einzige Vorteil einen Ort abzuschliessen ist der, dass du mit dem nächsten Ort 2 weitere potentielle PvP-Opfer angreiffen kannst ;-)
+Von daher kannst du dich darauf beschränken, 1x im Monat die Kampagne voranzutreiben, bis du nicht mehr weiter kommst. Verschwende bloss nicht viel Zeit & Mühe darin, es lohnt sich nicht wirklich.
