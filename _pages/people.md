@@ -33,7 +33,7 @@ Es gibt die Möglichkeit, fehlendes Potential durch Zukauf zu erwerben. Wir empf
 
 ### Bewohner Potential erhöhen
 
-In-Game kommen hin- und wieder Angebote/Rabatte Bewohner gegen Kryptocoins auf 5-:star: zu erhöhen. Spar dir das, ist Verschwendung und kostet immer mehr pro :star:.
+In-Game kommen hin- und wieder Angebote/Rabatte Bewohner gegen Kryptocoins um 1 Potential :star: zu erhöhen. Spar dir das, ist Verschwendung und kostet immer mehr pro Potential :star:.
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/shelter/upgrade-potential-3.png" }})
 
@@ -44,15 +44,17 @@ In-Game kommen hin- und wieder Angebote/Rabatte Bewohner gegen Kryptocoins auf 5
 
 Es gibt 3 Möglichkeiten an neue Bewohnern zu kommen und damit seine Bewohnerzahl zu vergrössern.
 
-1. Via Geburt, wenn sich 2 Bewohner (m&w) im Wohnzimmer paaren. 
+1. Via Geburt. Mann & Frau in Wohnerzimmer setzen.
 2. Über den Tunnelshop mit Tunnelmarken.
-3. aus Tunnelkisten (höhere Levels).
+3. Aus Tunnelkisten (höhere Levels).
 
 ### Bewohner verkuppeln
 
 Um Bewohner zu verkuppeln brauchst du 1 männlichen und beliebig viele weibliche Bewohner ;) - Hat der Kerl 1 Frau beglückt, wird er sich sodann um die nächste kümmern. Daher ist das auch über Nacht sehr praktisch.
 
 Diese werden ins [Wohnzimmer]({{ site.el-negroooar | append:"/rooms/living-room" }}) geschickt.
+
+![Zero City]({{ site.el-negroooar | append:"/assets/images/rooms/living-room.png" }})
 
 Wichtig:
 - Hast du mehrere 5:star: Frauen, so kann man diese austauschen und die Baby Produktion ankurbeln.
@@ -62,7 +64,6 @@ Wichtig:
  :round_pushpin: Achtung: Es gibt keine Garantie, aber je höher das Potential der Eltern, umso höher die Chance, dass auch die Kinder 5:star: bekommen.
 {: .notice--warning}
 
-![Zero City]({{ site.el-negroooar | append:"/assets/images/rooms/living-room.png" }})
 
 #### Schwangerschaft
 
