@@ -6,6 +6,9 @@ toc: true
 
 ## Guide-Updates
 
+29.04.2021
+* Diverse Anpassungen von kleineren Änderungen.
+
 25.12.2020
 * Spiel-Updates für CC11 ergänzt und zusammengefasst, einzelne Unterseiten folgen.
 
