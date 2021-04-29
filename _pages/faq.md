@@ -33,4 +33,4 @@ Mit der Einführung von Spezialwaffen, den Prototypen, den Chips und dem Offizie
 
 > Was bringt der Hund im Spiel?
 
-Nach aktuellem Wissensstand bringt er keine Vorteile und dient lediglich als Deko. Der in der Beschreibung angedeutete Nutzen, er könnte die Bewohner happy machen (mehr Smileys bzw. höhere Glücklichkeitsrate), wurde mehrfach bestritten. Diese [nützlichen Tools]({{ site.el-negroooar | append:"/sitemap/#helferlein" }}) helfen dir mehr.
+Nach aktuellstem Stand kriegst du für jedes Haustier +1% Zufriedenheit deiner Truppen (= leicht erhöhte Produktion). Diese [nützlichen Tools]({{ site.el-negroooar | append:"/sitemap/#helferlein" }}) helfen dir jedoch mehr.

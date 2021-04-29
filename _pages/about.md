@@ -11,7 +11,7 @@ Swiss Knights Z ist eine deutschsprachige, schweizer Allianz im Apokalypse-Spiel
 Gemeinsam spielen und Zusammenhalt sowie Austausch fördern, sich gegenseitig unterstützen und Tipps & Tricks austauschen, als Team gemeinsam & langfristig wachsen.
 
 
-## Organisation
+## Rollenverteilung
 
 - Clan-Leader :crown: (1)
   - Verteilt die Beute aus der Allianzkiste an die Spieler.

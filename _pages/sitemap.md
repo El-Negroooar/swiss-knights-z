@@ -55,4 +55,4 @@ toc: true
 * :japanese_goblin: [Zombie-Assistent]({{ site.el-negroooar | append:"/in-app/zombie-assistant/" }})
 * :blue_book: [Freunde (ehemals Facebook)]({{ site.el-negroooar | append:"/in-app/facebook/" }})
 * :trophy: [Premium-Account]({{ site.el-negroooar | append:"/in-app/premium-account/" }})
-* :dog: [Pitbull-Wachhund]({{ site.el-negroooar | append:"/faq/" }})
+* :dog: [Haustiere]({{ site.el-negroooar | append:"/faq/" }})
