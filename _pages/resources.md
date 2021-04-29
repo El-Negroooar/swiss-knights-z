@@ -27,9 +27,11 @@ Ressourcen müssen zwangsläufig nicht selbst produziert werden, sondern können
 
 Ohne :japanese_goblin: [Zombie-Assistent]({{ site.el-negroooar | append:"/zombie-assistant/" }}) muss man die Ressourcen selber einsammeln.
 
-![Zero City]({{ site.el-negroooar | append:"/assets/images/production/collect-resources.png" }})
+Der Vorteil ohne Zombie kann sein, die Lager möglichst tief zu halten, um Raubangriffen vorzubeugen. Denn diese können nur auf die Lager-Ressourcen zugreiffen, nicht jedoch auf jene die noch in der Produktion sind.
 
 Sind die Produktionen voll, kann nicht weiterproduziert werden. D.h. man muss sie einsammeln und sie werden ins Lager gebracht.
 Der Zombie-Assistent übernimmt diese Aufgabe solange, bis auch die Lager voll sind.
 
-Der Vorteil ohne Zombie kann sein, die Lager möglichst tief zu halten, um Raubangriffen vorzubeugen.
+
+![Zero City]({{ site.el-negroooar | append:"/assets/images/production/collect-resources.png" }})
+
