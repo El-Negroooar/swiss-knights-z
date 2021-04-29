@@ -6,11 +6,11 @@ toc: true
 
 Diese Seite widmet sich dem Herzstück deiner Basis, die Überlebenden der Zombie Apokalypse! Abhängig von der Grösse deines Wohnzimmers hast du nur eine limitierte Bevölkerungsgrösse. Um diese zu erweitern, muss du das [Wohnzimmer]({{ site.el-negroooar | append:"/rooms/living-room" }}) und ggf. die [Kommandozentrale]({{ site.el-negroooar | append:"/rooms/command-center" }}) verbessern.
 
-## Potential
+## Potential (1-5 :star:)
 
 Jeder Bewohner hat ein Potential. Abhängig vom Potential kann ein Bewohner nur ein maximales Level in seiner Ausbildung erreichen.
 
-| Potential                      | Level |
+| Potential                      | max. Level |
 | ------------------------------ | ----: |
 | :star:                         | 20    |
 | :star::star:                   | 40    |
@@ -20,13 +20,13 @@ Jeder Bewohner hat ein Potential. Abhängig vom Potential kann ein Bewohner nur 
 
 Es gibt die Möglichkeit, fehlendes Potential durch Zukauf zu erwerben. Wir empfehlen es nicht, da es recht teuer ist. Das Potential deines Bewohners erkennst du an der Anzahl der Sterne.
 
-### Verwendung (1-5 :star:)
+### Verwendung der Bewohner.
 
-1 bis 2-Sterne-Bewohner sind nicht ideal, sie sind schwach und sie bringen keinen echten Mehrwert für die Basis. Du solltest nur Bewohner mit hohen Sternen behalten. Verbanne low level Bewohner (siehe unten). Diese sind schnell am Limit.
+- 1 bis 2-Sterne-Bewohner sind nicht ideal, sie sind schwach und sie bringen keinen echten Mehrwert für die Basis. Du solltest nur Bewohner mit hohen Sternen behalten. Verbanne low level Bewohner (siehe unten). Diese sind schnell am Limit.
 
-3 bis 4-Sterne-Bewohner sind durchaus brauchbar, in der Ressourcen Produktion (Nahrung, Geld, etc.) oder als Überbrückung, bis man 5-:star:-Bewohner hat. Nicht jeder Bewohner muss 5 Sterne Potential haben, daher situationsbedingt behalten.
+- 3 bis 4-Sterne-Bewohner sind durchaus brauchbar, in der Ressourcen Produktion (Nahrung, Geld, etc.) oder als Überbrückung, bis man 5-:star:-Bewohner hat. Nicht jeder Bewohner muss 5 Sterne Potential haben, daher situationsbedingt behalten.
 
-5-Sterne-Bewohner können das Level :100: als Kämpfer erreichen, daher die ersten 5-:star: als Kämpfer hochleveln.
+- 5-Sterne-Bewohner können das Level :100: als Kämpfer erreichen, daher die ersten 5-:star: als Kämpfer hochleveln.
 
 ![Zero City]({{ site.el-negroooar | append:"/assets/images/shelter/potential-5.png" }})
 
