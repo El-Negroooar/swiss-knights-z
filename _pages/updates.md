@@ -47,7 +47,11 @@ toc: true
 * Neues "Karte"-Symbol als Hinweis, sobald Tunnel öffnet.
 
 13.04.2021
-* 4 neue Anomalie-Sets (.
+* 4 neue Anomalie-Sets:
+  * Kopfgeldjäger-Set
+  * Erfinder-Set
+  * Aderlasser-Set
+  * Verbannter-Set
 
 23.03.2021
 * Haustiere geben neu +1% Zufriedenheit der Bewohner.
