@@ -38,6 +38,32 @@ toc: true
 
 ## Spiel-Updates
 
+23.04.2021
+* Offiziers-Verbesserungen: Block E & D sowie "Orden" hinzugefügt.
+* Lieblingsgegenstand als neue Funktion im Lagerhaus.
+* Neuer Bunkerraubzug direkt mit gleichem Partner nach Abschluss starten.
+* Neue Modifikatoren bei Bunker Wegpunkten.
+* Neue Karte im Bunker hinzugefügt, ausschliesslich mit Bossen.
+* Neues "Karte"-Symbol als Hinweis, sobald Tunnel öffnet.
+
+13.04.2021
+* 4 neue Anomalie-Sets (.
+
+23.03.2021
+* Haustiere geben neu +1% Zufriedenheit der Bewohner.
+* Beim Zerlegen von Gegenständen erhält mein neu zusätzlich Skins.
+* Beim Herstellen von Set-Gegenständen kann ursprüngliches Aussehen gespeichert werden.
+* "Verbesserung" der Boss-Interaktionen bei bestimmten Ausrüstungsfähigkeiten.
+* Tägliche Trainings-Beschleunigung durch Video nun auch bei allen Arbeitern möglich.
+
+25.02.2021
+* 3 neue Waffentypen sowie ihre Ausstattungen für die Kommando-Stufen 10 & 11:
+  * Der Speer für Infanteristen.
+  * Die Schrotflinte für Ranger.
+  * DIe Biokanone für Chemiker.
+* Die neuen Waffentypen sind in Events, Kisten aus versch. Aktivitäten sowie im Arenaladen erhältlich.
+
+
 01.12.2020
 * Kommandozentrale 11 wird eingeführt, dies bringt folgendes mit sich:
   * Neue Gegenstands-Seltenheit: Anomalie (stärker als legendäre, 6 Chip-Slots).
